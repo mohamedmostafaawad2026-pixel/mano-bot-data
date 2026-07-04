@@ -1,0 +1,108 @@
+name: Fetch Weather & News
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # كل ساعة
+  workflow_dispatch:       # تشغيل يدوي
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 🌤️ Fetch Weather
+        run: |
+          curl -s "https://api.open-meteo.com/v1/forecast?latitude=30.0444&longitude=31.2357&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=auto" \
+            -o weather_raw.json
+
+          python3 << 'PYEOF'
+          import json, time
+          with open("weather_raw.json") as f:
+              w = json.load(f)
+          cur = w.get("current", {})
+          daily = w.get("daily", {})
+          codes = {0:"Sunny ☀️",1:"Mainly Sunny 🌤",2:"Partly Cloudy ⛅",3:"Overcast ☁️",
+                   45:"Fog 🌫",48:"Depositing Rime Fog 🌫",51:"Light Drizzle 🌦",
+                   53:"Drizzle 🌦",55:"Heavy Drizzle 🌧",61:"Slight Rain 🌦",
+                   63:"Rain 🌧",65:"Heavy Rain 🌧",71:"Slight Snow 🌨",
+                   73:"Snow 🌨",75:"Heavy Snow ❄️",77:"Snow Grains ❄️",
+                   80:"Slight Rain Showers 🌦",81:"Rain Showers 🌧",82:"Heavy Rain Showers 🌧",
+                   85:"Slight Snow Showers 🌨",86:"Snow Showers 🌨",
+                   95:"Thunderstorm ⛈",96:"Thunderstorm with Slight Hail ⛈",
+                   99:"Thunderstorm with Heavy Hail ⛈"}
+          desc = codes.get(cur.get("weather_code"), "Unknown")
+
+          weather = {
+              "last_updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+              "location": {"city": "Cairo", "country": "Egypt", "lat": 30.0444, "lon": 31.2357},
+              "current": {
+                  "temperature_2m": cur.get("temperature_2m"),
+                  "apparent_temperature": cur.get("apparent_temperature"),
+                  "relative_humidity_2m": cur.get("relative_humidity_2m"),
+                  "weather_code": cur.get("weather_code"),
+                  "description": desc
+              },
+              "daily": {
+                  "temperature_2m_max": daily.get("temperature_2m_max", [None])[0],
+                  "temperature_2m_min": daily.get("temperature_2m_min", [None])[0]
+              },
+              "timezone": "Africa/Cairo"
+          }
+          with open("weather.json", "w", encoding="utf-8") as f:
+              json.dump(weather, f, ensure_ascii=False, indent=2)
+          PYEOF
+          echo "🌤️ Weather done"
+
+      - name: 📰 Fetch News
+        run: |
+          python3 << 'PYEOF'
+          import json, urllib.request, time, html, re
+
+          # جلب أخبار من Google News RSS (مصر)
+          try:
+              url = "https://api.rss2json.com/v1/api.json?rss_url=https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB&hl=ar&gl=EG"
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+              with urllib.request.urlopen(req, timeout=15) as resp:
+                  data = json.loads(resp.read())
+
+          except Exception as e:
+              # لو فشل، استخدم fallback
+              data = {"items": []}
+
+          articles = []
+          items = data.get("items", [])
+
+          for item in items[:10]:
+              title = html.unescape(item.get("title", ""))
+              desc = html.unescape(item.get("description", ""))
+              desc = re.sub(r'<[^>]+>', '', desc)  # strip HTML tags
+              articles.append({
+                  "title": title,
+                  "description": desc[:200],
+                  "source": item.get("author", "Google News"),
+                  "url": item.get("link", ""),
+                  "published_at": item.get("pubDate", "")
+              })
+
+          news = {
+              "last_updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+              "source": "Google News",
+              "articles": articles if articles else [{"title": "No news available", "description": "Could not fetch news at this time", "source": "Mano Bot", "url": "", "published_at": ""}]
+          }
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(news, f, ensure_ascii=False, indent=2)
+          PYEOF
+          echo "📰 News done"
+
+      - name: 📤 Commit & Push
+        run: |
+          git config user.name "Mano Bot"
+          git config user.email "mano-bot@users.noreply.github.com"
+          git add weather.json news.json
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "🔄 Update weather & news $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
