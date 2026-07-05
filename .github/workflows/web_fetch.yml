@@ -1,0 +1,74 @@
+name: Web Fetch (Generic)
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: URL to fetch
+        required: true
+        type: string
+      output_file:
+        description: Output filename
+        required: false
+        type: string
+        default: web_fetch_result.json
+      method:
+        description: HTTP method
+        required: false
+        type: choice
+        options: [GET, POST]
+        default: GET
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch URL
+        env:
+          FETCH_URL: ${{ github.event.inputs.url }}
+          OUTPUT_FILE: ${{ github.event.inputs.output_file }}
+          METHOD: ${{ github.event.inputs.method }}
+        run: |
+          set -e
+          echo "Fetching: $FETCH_URL"
+          CURL_CMD="curl -s -L --max-time 30"
+          if [ "$METHOD" = "POST" ]; then
+            CURL_CMD="$CURL_CMD -X POST"
+          fi
+          CURL_CMD="$CURL_CMD '$FETCH_URL'"
+          eval "$CURL_CMD" > "$OUTPUT_FILE.tmp"
+          CONTENT_TYPE=$(file -b --mime-type "$OUTPUT_FILE.tmp" 2>/dev/null || echo unknown)
+          SIZE=$(wc -c < "$OUTPUT_FILE.tmp")
+          python3 -c "
+import json, time, os
+with open(os.environ['OUTPUT_FILE'] + '.tmp') as f:
+    content = f.read()
+result = {
+    'fetched_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
+    'url': os.environ['FETCH_URL'],
+    'method': os.environ['METHOD'],
+    'status': 'success',
+    'content_type': os.environ.get('CONTENT_TYPE', 'unknown'),
+    'size_bytes': int(os.environ.get('SIZE', '0')),
+    'content': content[:50000]
+}
+with open(os.environ['OUTPUT_FILE'], 'w') as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
+print('Saved:', os.environ['OUTPUT_FILE'])
+"
+
+      - name: Commit and push
+        run: |
+          git config user.name "Mano Bot"
+          git config user.email "mano-bot@users.noreply.github.com"
+          git add "${{ github.event.inputs.output_file }}"
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "Web fetch: ${{ github.event.inputs.url }} ($(date -u +%Y-%m-%d))"
+            git push
+          fi
