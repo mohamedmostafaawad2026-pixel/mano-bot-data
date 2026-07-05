@@ -1,0 +1,135 @@
+name: Web Fetch (Generic)
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL to fetch"
+        required: true
+        type: string
+      output_file:
+        description: "Output filename (e.g., fetched_data.json)"
+        required: false
+        type: string
+        default: "web_fetch_result.json"
+      method:
+        description: "HTTP method"
+        required: false
+        type: choice
+        options: ["GET", "POST"]
+        default: "GET"
+      headers:
+        description: "Additional headers as JSON (optional)"
+        required: false
+        type: string
+        default: "{}"
+      body:
+        description: "Request body for POST (optional)"
+        required: false
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch URL
+        id: fetch
+        env:
+          FETCH_URL: ${{ github.event.inputs.url }}
+          OUTPUT_FILE: ${{ github.event.inputs.output_file }}
+          METHOD: ${{ github.event.inputs.method }}
+          HEADERS: ${{ github.event.inputs.headers }}
+          BODY: ${{ github.event.inputs.body }}
+        run: |
+          set -e
+          
+          echo "Fetching: $FETCH_URL"
+          echo "Output: $OUTPUT_FILE"
+          echo "Method: $METHOD"
+          
+          # Build curl command
+          CURL_CMD="curl -s -L --max-time 30"
+          
+          # Add headers from JSON
+          if [ "$HEADERS" != "{}" ] && [ -n "$HEADERS" ]; then
+            echo "$HEADERS" | python3 -c "
+import sys, json
+try:
+    h = json.load(sys.stdin)
+    for k, v in h.items():
+        print('-H \"{}: {}\"'.format(k, v))
+except:
+    pass
+" | while read h; do
+              CURL_CMD="$CURL_CMD $h"
+            done
+          fi
+          
+          # Add method and body
+          if [ "$METHOD" = "POST" ]; then
+            CURL_CMD="$CURL_CMD -X POST"
+            if [ -n "$BODY" ]; then
+              CURL_CMD="$CURL_CMD -d '$BODY'"
+            fi
+          fi
+          
+          CURL_CMD="$CURL_CMD '$FETCH_URL'"
+          
+          # Execute
+          echo "Running: $CURL_CMD"
+          eval "$CURL_CMD" > "$OUTPUT_FILE.tmp" 2>&1
+          CURL_EXIT=$?
+          
+          if [ $CURL_EXIT -ne 0 ]; then
+            echo "curl failed with exit code $CURL_EXIT"
+            cat "$OUTPUT_FILE.tmp"
+            exit 1
+          fi
+          
+          # Check response
+          CONTENT_TYPE=$(file -b --mime-type "$OUTPUT_FILE.tmp" 2>/dev/null || echo "unknown")
+          SIZE=$(wc -c < "$OUTPUT_FILE.tmp")
+          
+          echo "Content-Type: $CONTENT_TYPE"
+          echo "Size: $SIZE bytes"
+          
+          # Create structured result with Python
+          python3 -c "
+import json, time, os, sys
+with open(os.environ['OUTPUT_FILE'] + '.tmp', 'r') as f:
+    content = f.read()
+result = {
+    'fetched_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
+    'url': os.environ['FETCH_URL'],
+    'method': os.environ['METHOD'],
+    'status': 'success',
+    'content_type': os.environ.get('CONTENT_TYPE', 'unknown'),
+    'size_bytes': int(os.environ.get('SIZE', '0')),
+    'content': content[:50000]
+}
+with open(os.environ['OUTPUT_FILE'], 'w') as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
+print('Saved to ' + os.environ['OUTPUT_FILE'] + ' (' + str(len(content)) + ' chars)')
+"
+
+      - name: Commit and push
+        run: |
+          git config user.name "Mano Bot"
+          git config user.email "mano-bot@users.noreply.github.com"
+          git add "${{ github.event.inputs.output_file }}"
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "Web fetch: ${{ github.event.inputs.url }} ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+            echo "Pushed to GitHub"
+          else
+            echo "No changes to commit"
+          fi
