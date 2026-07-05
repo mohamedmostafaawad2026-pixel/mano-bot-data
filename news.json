@@ -1,11 +1,76 @@
 {
-  "last_updated": "2026-07-05T13:13:57Z",
+  "last_updated": "2026-07-05T15:07:05Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
+    {
+      "title": "Nigel Farage did not declare gifts from crypto entrepreneur convicted of fraud - The Guardian",
+      "description": "\n\nNigel Farage did not declare gifts from crypto entrepreneur convicted of fraud  The Guardian\n\nRevealed: Nigel Farage secretly funded by convicted criminal  The Times\n\nReform denies rules broken by F",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUUp6SW5FZWpkeFIyUHNGMk9tRjlhSFJjSWh0X1EzdVhkQy01YkY5dHhfYUNxU0JZZERTcFpHcldzQk5MYzYzMkRzMVFJeXdTVlZFTkVLQUYwX0tBQS1UdkR6VXpGOXJxZVRhaEZwdHpOZEtRbFB4SnRtaldCVENtTHIzTWd2OTBfTzdGQlllMDBCZVRBMW90SUE3YjN0ZWUtc3lKWi1uWDVYT0J3OEowWjJfRkNvdEhEUENTYUFzU25CVWVIUVdzc01HNU1PT0I2NG9TVjZR?oc=5",
+      "published_at": "2026-07-05 12:43:00",
+      "category": "general"
+    },
+    {
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral - BBC",
+      "description": "\n\nIran's supreme leader absent as senior officials attend ayatollah's funeral  BBC\n\nHow Iran's new regime is very different to what came before  BBC\n\nCalls for killing of Trump at funeral of Iran supr",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UckZSWVdrdUpsdnNLanhWb3ZXbkFEX21IeXROa2tXSjM1cy1keFBmU2hXajR3N09DUXpybTB0UHFZaW5kTW1LSkhsbVRreTdOZU4wUGxKYmpoSTFp?oc=5",
+      "published_at": "2026-07-05 12:29:18",
+      "category": "general"
+    },
+    {
+      "title": "Donald Trump defies storms and heatwave to deliver July 4 address - Financial Times",
+      "description": "\n\nDonald Trump defies storms and heatwave to deliver July 4 address  Financial Times\n\nThe strangest show on earth: lightning, imperial hubris and a boring tour of Trump’s rhetorical back alleys | Davi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHIxOEtlOUttQVRzenpKYjFyRFB1YndZaEkwRnloSzBHOGRUd3hNMmhyQTJPQ3pPS0FaN3FudFBRNXF1bkJlTWNKX0lOMklTV21LSnVFOFRrQTRxdjU2Q21ITmhuMUVWRVRVMXpCQW9mRlU2QWtKbEpld2tORjJfTmkweVk?oc=5",
+      "published_at": "2026-07-05 06:44:48",
+      "category": "general"
+    },
+    {
+      "title": "How hot will it get during the London heatwave? Temperatures to reach new peak this week - London Evening Standard",
+      "description": "\n\nHow hot will it get during the London heatwave? Temperatures to reach new peak this week  London Evening Standard\n\nUK weather: Temperatures forecast to exceed 30C as another heatwave is imminent  BB",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOendGbDUyZ2FHa2hXSEI4YmZlbFlDWTFObnptUFFDbzJaNXljdzU5dnZtZ25nUE5YeWNUeHZuYmx1aEJqR3AyQnFDNkFRY1JSTG54c29YSW5rZnZrQUxhNTB3aUJDMFN2THdwM3FKdExJaERBa3JJbU9JYmZGcFpKR1o4RWhXRGd6cVJ1YVAtcklrNFdLY0tn?oc=5",
+      "published_at": "2026-07-05 13:15:17",
+      "category": "general"
+    },
+    {
+      "title": "Britain is doomed if Burnham lurches Left - The Telegraph",
+      "description": "\n\nBritain is doomed if Burnham lurches Left  The Telegraph\n\n‘Did Westminster just ignore buses?’ Burnham aims to shake up UK transport  The Guardian\n\nWhat 'Manchesterism' means for Devon and Cornwall ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjBQRDFhN1Zab2t0WFhVNlVNZDN6V21HbmFuNThoZ2p3d0diSU51cEc0ejBYMkFGSVFfSm5keEV3T1RKY3JfaHNQeUMzekxRV1RJeE9uVGRrWmVjd1hlR24zM3NPNWpnOWZHc29pYU5YRnBSUHV3UEN1X1ZQeWZFRjdCNm5EMTAtXzhoTUNsQWZQR2VG?oc=5",
+      "published_at": "2026-07-05 06:00:00",
+      "category": "general"
+    },
+    {
+      "title": "JD Vance says Britain has been ‘failed by its leadership’ - The Independent",
+      "description": "\n\nJD Vance says Britain has been ‘failed by its leadership’  The Independent\n\nJD Vance: Britain is amazing but it’s been failed by its leadership  The Times\n\nVance: I hope Burnham can fix Britain  The",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazhBMmRGZHYzNWxYM1BXUUNtd0pLV3ZrTmhZX3dReEhmVHlBb0oxNHc3cW5hakxEeXo2bnU2bTdKeWNQcU1nLTJtSHRqRkhCb09McVdEWHpDYjgyYUJWVVZiWXpfbmxQX1I4dmdvUGptbDR6NXlkTmRRcTFxRFJkWC1IS080Mnc3aEsxZmc0anVONl9CSFhZUC14Yy1NUnE1WkhDeHdPUQ?oc=5",
+      "published_at": "2026-07-04 21:31:00",
+      "category": "general"
+    },
+    {
+      "title": "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude - Al Jazeera",
+      "description": "\n\nMexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude  Al Jazeera\n\nMexico v England: How Thomas Tuchel could change tactics to win World Cup tie  BBC\n\nWorld Cup schedule today: H",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkg2UkVSNVFIOVplZjlIMXI2WGQ5WkI4NkRrZjVFODEzQUJGaF9mRmVEUFdoYTJFejRoZ1NxTVFVQ08tZ1o3Y29mR0VkeEVnWjVMTUpIZ1lZUjdhM1dPdUwwNERrTU5GLWlNY3dOSVFMUElQTjVXRHUwb3hEWDFQd1lrSTgxWHFkcjhjNFl3NkExeU9HNjM5LWdnakJENWhIbHBrT0FhcDJkZXRrV3ZpSXRTLVNhMTAxeWYyaVhjU1NsVUVkM2p3ZtIBzgFBVV95cUxQZ0VOVTI0dHVUbE8zaVpmNVVJMFhxWjEydDFaZ2lIM0xBQ2FzRFRpUVNvUDJESkhHdU5UUXQzTzBuWkl5dllnaEFZNTA3cFlqSVJzRlhBNGVjXzRxZ0NXWm1mZUlUb255QWFwYlUyNUhMXzN6ZUJBUUZub2dCVTVKRkl2ak1WN1hwY0JWbFNMRWpzdDVHVWpzNnNkYkxNeDBWa2VyempRTEpZNnBoNGFCLXVfQjhNZGhYSk85dVQzdVNpdmJpSEk4dkNfVTRTQQ?oc=5",
+      "published_at": "2026-07-05 10:44:13",
+      "category": "general"
+    },
+    {
+      "title": "US feels the heat as it celebrates 250th anniversary of breakup from Britain - ITVX",
+      "description": "\n\nUS feels the heat as it celebrates 250th anniversary of breakup from Britain  ITVX\n\nUS independence party: Trump says 'the American dream is back' in storm-delayed 250th anniversary speech  Sky News",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXlmQ09jOERaU3YzZGd5bEV3Z2IzcUJuQjFSeUtuSXFOZFpBV3VJSW9NT3BKVlpFa2EyUTVqNFpncG5UZmZfZXAyeXJ3YnlnU2JCQVEtekV0akdfY3pBY2tCMTFkX082WUFBUW53c3JvRVRpYTRRcmQxaVJJRzk4SzhJTHI3WGltNEppeFdOcl9NNFdDSGxaRFBJU3Vtajhvb3VtcGpUVHk2RjY5NFB6MmFB?oc=5",
+      "published_at": "2026-07-04 21:05:40",
+      "category": "general"
+    },
     {
       "title": "Iran’s supreme leader absent from funeral of father Ali Khamenei - The Guardian",
       "description": "\n\nIran’s supreme leader absent from funeral of father Ali Khamenei  The Guardian\n\nMourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader  The New York Times\n\nIran war live: Millio",
@@ -39,14 +104,6 @@
       "category": "world"
     },
     {
-      "title": "US feels the heat as it celebrates 250th anniversary of breakup from Britain - ITVX",
-      "description": "\n\nUS feels the heat as it celebrates 250th anniversary of breakup from Britain  ITVX\n\nUS marks 250th birthday with fireworks, flyovers and extreme weather  BBC\n\nTrump refuses to let storm chaos rain o",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXlmQ09jOERaU3YzZGd5bEV3Z2IzcUJuQjFSeUtuSXFOZFpBV3VJSW9NT3BKVlpFa2EyUTVqNFpncG5UZmZfZXAyeXJ3YnlnU2JCQVEtekV0akdfY3pBY2tCMTFkX082WUFBUW53c3JvRVRpYTRRcmQxaVJJRzk4SzhJTHI3WGltNEppeFdOcl9NNFdDSGxaRFBJU3Vtajhvb3VtcGpUVHk2RjY5NFB6MmFB?oc=5",
-      "published_at": "2026-07-04 21:05:40",
-      "category": "world"
-    },
-    {
       "title": "Evacuations in Guam as super typhoon Bavi approaches - BBC",
       "description": "\n\nEvacuations in Guam as super typhoon Bavi approaches  BBC\n\nSuper Typhoon Bavi is one of Earth’s strongest storms in 2026  The Weather Network\n\nA super typhoon could hit Guam, US Northern Mariana Isl",
       "source": "",
@@ -55,15 +112,31 @@
       "category": "world"
     },
     {
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "title": "Organic Maps",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "published_at": "2026-07-05T04:46:08Z",
+      "url": "https://organicmaps.app/",
+      "published_at": "2026-07-05T14:14:30Z",
       "category": "tech"
     },
     {
-      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
+      "title": "Phosh 0.56.0",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://phosh.mobi/releases/rel-0.56.0/",
+      "published_at": "2026-07-05T13:28:11Z",
+      "category": "tech"
+    },
+    {
+      "title": "Introduction to Compilers and Language Design",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://dthain.github.io/books/compiler/",
+      "published_at": "2026-07-05T11:54:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
@@ -79,92 +152,20 @@
       "category": "tech"
     },
     {
-      "title": "Claude Design System Prompt",
+      "title": "Medieval-style fortifications are back in the Sahel",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "published_at": "2026-07-05T08:43:37Z",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
+      "published_at": "2026-07-01T13:49:59Z",
       "category": "tech"
     },
     {
-      "title": "Functional Programming in hica",
+      "title": "Airplane Boneyards List and Map",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.hica.dev/docs/functional-programming/",
-      "published_at": "2026-07-02T11:12:12Z",
+      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "published_at": "2026-07-04T15:53:08Z",
       "category": "tech"
-    },
-    {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "published_at": "2026-07-04T21:51:09Z",
-      "category": "tech"
-    },
-    {
-      "title": "Introduction to Compilers and Language Design",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://dthain.github.io/books/compiler/",
-      "published_at": "2026-07-05T11:54:16Z",
-      "category": "tech"
-    },
-    {
-      "title": "Fast Software, the Best Software (2019)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "published_at": "2026-07-05T07:25:25Z",
-      "category": "tech"
-    },
-    {
-      "title": "Trust your compiler: Modern C++",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
-      "published_at": "2026-07-01T14:00:15Z",
-      "category": "tech"
-    },
-    {
-      "title": "Pandoc Lua Filters",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://pandoc.org/lua-filters.html",
-      "published_at": "2026-07-03T09:52:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Distributed Attacks in Persistent-State AI Control",
-      "description": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02514v1",
-      "published_at": "2026-07-02T17:59:56Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-      "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02513v1",
-      "published_at": "2026-07-02T17:59:52Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02512v1",
-      "published_at": "2026-07-02T17:59:50Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Online Safety Monitoring for LLMs",
-      "description": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02510v1",
-      "published_at": "2026-07-02T17:59:43Z",
-      "category": "ai"
     }
   ]
 }
