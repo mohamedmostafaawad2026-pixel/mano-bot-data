@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T06:32:45Z",
+  "last_updated": "2026-07-05T09:36:21Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -144,19 +144,19 @@
       "category": "tech"
     },
     {
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "title": "Apocketlypse",
       "description": "",
       "source": "Hacker News",
-      "url": "https://hic-ai.com",
-      "published_at": "2026-07-05T05:01:14Z",
+      "url": "https://0dd.company/galleries/triumph/1.html",
+      "published_at": "2026-07-05T08:32:09Z",
       "category": "tech"
     },
     {
-      "title": "Beeg float library, a Rust port of Fabrice Bellard's libbf",
+      "title": "Pandoc Lua Filters",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/lifthrasiir/libbeef",
-      "published_at": "2026-07-05T05:23:24Z",
+      "url": "https://pandoc.org/lua-filters.html",
+      "published_at": "2026-07-03T09:52:51Z",
       "category": "tech"
     },
     {
