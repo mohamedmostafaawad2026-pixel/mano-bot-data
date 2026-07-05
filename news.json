@@ -1,75 +1,26 @@
 {
-  "last_updated": "2026-07-05T11:24:50Z",
+  "last_updated": "2026-07-05T13:13:57Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Could Farage quit? Questions swirl over Reform UK leader’s future - The Guardian",
-      "description": "\n\nCould Farage quit? Questions swirl over Reform UK leader’s future  The Guardian\n\nFarage denies rules broken after reports benefits from ally were not declared  BBC\n\nRevealed: Nigel Farage secretly f",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFZxTXgtM2N5bXU1RWpuX0dsTlVzSnJJcFhiTmpIM090OUJacFd2ckRsVzNFZUpFMkVNRmRTS1R6eTdTdFZaSXhfU1NZRDFIN1owT20yR29WY0VSNHEwMzVNU3U3dDBfSEJ4NHhXQ1F2cU9CR3lZSnloNWJhejYwNjJyaGpFeFliY0pjWDdONk9YRmhCVHBzbC1Mb1J4bDdhaHhn?oc=5",
-      "published_at": "2026-07-05 06:04:00",
-      "category": "general"
-    },
-    {
       "title": "Iran’s supreme leader absent from funeral of father Ali Khamenei - The Guardian",
-      "description": "\n\nIran’s supreme leader absent from funeral of father Ali Khamenei  The Guardian\n\nIran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting  Al Jazeera\n\nTehran sees crowds gather to pra",
+      "description": "\n\nIran’s supreme leader absent from funeral of father Ali Khamenei  The Guardian\n\nMourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader  The New York Times\n\nIran war live: Millio",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORTZDRl9PbUN1alFfaHJTSVYxUW5BaEVWTF9VdHhIcU5RUmpiVnlOUEY1SWhOcUNPU0t0c1Y5WGRDS1dHcUUxMGJJVzJhTVlFOFZoRUt0T001WEM1N1o1TkpVQnRSVmtJd1NfNHM3UGRSRUpjVFpzMVZHMkNFbW1aRHJTZGVrMFBrT1VUQVlmSmRkcXRIeG9nZU83QkFGeHhlN0Fr?oc=5",
       "published_at": "2026-07-05 08:46:00",
-      "category": "general"
+      "category": "world"
     },
     {
       "title": "Trump tells National Mall crowd that 'American Dream is back' as July 4th celebrations continue - BBC",
-      "description": "\nTrump tells National Mall crowd that 'American Dream is back' as July 4th celebrations continue  BBCSee more headlines and perspectives on Google News\n",
+      "description": "\n\nTrump tells National Mall crowd that 'American Dream is back' as July 4th celebrations continue  BBC\n\n250 years of American independence: Trump praises US and attacks 'communists' at chaotic celebra",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbjRQSWlVSHZhTS1RTVhnTWc3RUZWZG8za20wWExsT3R5SmpFRmxxSlJzSm9LQnVBdTBlUF8yYmhueHNTbml5R09IYXNVejhOendFdQ?oc=5",
-      "published_at": "2026-07-05 04:47:32",
-      "category": "general"
-    },
-    {
-      "title": "Ukraine striking Russian energy infrastructure at unprecedented rate - Financial Times",
-      "description": "\n\nUkraine striking Russian energy infrastructure at unprecedented rate  Financial Times\n\nWhat is Nayara, the Indian firm Russia is reportedly importing oil from?  Al Jazeera\n\nRussian cars stuck in thr",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zdGNyQ3RNb0xUNEVJWml0UmczNGlIbkp2U3lPc2Vhelg3b1B0dFgxalFaQ2JVc3RWQ2FfMDJud0ZRbWNNaVRVRW5nMW5BdnpDSDQ4M3YxRGZoR1BaMi1nWjFCX3RXVTFaVHAwZzlJQ3k?oc=5",
-      "published_at": "2026-07-05 07:09:22",
-      "category": "general"
-    },
-    {
-      "title": "Boy hurt in crocodile enclosure faces more surgeries as £25,000 raised - ITVX",
-      "description": "\n\nBoy hurt in crocodile enclosure faces more surgeries as £25,000 raised  ITVX\n\nBoy has had five surgeries after crocodile attack say parents  BBC\n\nThree-year-old injured in UK crocodile enclosure fac",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDhQeEMzNTR4RWVyY3VXQlQ5TW5ZOHFCdkc5UlRNWjFFdjdtdmljdW5JM2FiZW5YclJnUWdYYUNLV2MtMW1MRm41X3JMWnhrWlRncnlfb1lxY24zTTNzM0kwakM2cDBMM1ZXbUhJZzQwSjVIclhEeG4wMEctbkVSZnE0aThNUTRfSUJuRFQyc2ROaHZFMDlOVFhZb25QSk9QdmlWdkYwZw?oc=5",
-      "published_at": "2026-07-04 12:19:29",
-      "category": "general"
-    },
-    {
-      "title": "Sunday with Laura Kuenssberg live: Health Secretary James Murray pushed on government's AI plan for NHS app - BBC",
-      "description": "\nSunday with Laura Kuenssberg live: Health Secretary James Murray pushed on government's AI plan for NHS app  BBC",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wSFBqZVZET2xoSGJ1V1JyTGE4cGRoblFlVDFWdHcxc3VoTWgySGRoYndydDZ4YXA5RkIyQmVyS1RZcnItNzFhUW1kWXpsSVJISmtKUnRkVQ?oc=5",
-      "published_at": "2026-07-05 09:00:58",
-      "category": "general"
-    },
-    {
-      "title": "Blair warns Burnham: Don’t raise capital gains tax - The Telegraph",
-      "description": "\n\nBlair warns Burnham: Don’t raise capital gains tax  The Telegraph\n\nTony Blair tells Andy Burnham: Stay away from capital gains tax  The Independent\n\nBurnham insists he will be disciplined with UK pu",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3Awd0xCWWhQVzR0TnI0MnI5OXA0alNVSjNaT1Z5Wnh6Z0JBZ3ZCMXNSYkxDNlFiNTB3YTJjdF9wci1UYUlUTzI1SEZ3RjJOYm1raGQ4dm5BOGc3cWpQekhyaGh6Q0l2dk1TblVHd09jUU5LaUdVcWZldXJFNlpvWDl6UzdwUmlPUEhiWnlLVVVJUUlRT0Q2ZC1SN3drUmtnUk1sQ0EzbUtBTTQ?oc=5",
-      "published_at": "2026-07-04 19:40:00",
-      "category": "general"
-    },
-    {
-      "title": "Fresh health warning comes into effect as new heatwave on the way - Sky News",
-      "description": "\n\nFresh health warning comes into effect as new heatwave on the way  Sky News\n\nUK weather: Temperatures forecast to exceed 30C as another heatwave is imminent  BBC\n\nWeek-long heatwave due in England w",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTklfRmVRTXBrUmFoZFVVbmh6QjNQZFEyQ3pqeUpyZXAxcmtfbnpqdnIyNGZkcUw5dGdVeHljeVAyRUo0WjY2dkpSMHBpT1RUY085T1B0YnNHc09LVFp3VU1UUWdIZkFBQ2thaXR5b1RHU0FBMnRpSTRGcWZ5RnBRZnZRZTdwMWlSNVFtWkIybkpTejZfNUJlZ09pSTY2dUpRekNRckt2VE9PRGlEZ0ZkQ3p3?oc=5",
-      "published_at": "2026-07-04 13:51:19",
-      "category": "general"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xOHZjMDV1VUdWZHJycWFUY2hUenM2MXdvNG4tTGJFUklHQ1VpWnNWczFKaTRsZzFZNWVKNm5WN01LREZOaXdoUVVaaHpxMmpiZURSbEZ0OA?oc=5",
+      "published_at": "2026-07-05 04:44:08",
+      "category": "world"
     },
     {
       "title": "Founder of prominent underground church released from prison in China - The Guardian",
@@ -104,19 +55,19 @@
       "category": "world"
     },
     {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
-      "published_at": "2026-07-05T10:42:59Z",
-      "category": "tech"
-    },
-    {
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
       "description": "",
       "source": "Hacker News",
       "url": "https://ui.shadcn.com/docs/changelog",
       "published_at": "2026-07-05T04:46:08Z",
+      "category": "tech"
+    },
+    {
+      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "published_at": "2026-07-05T11:59:27Z",
       "category": "tech"
     },
     {
@@ -128,19 +79,19 @@
       "category": "tech"
     },
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "title": "Claude Design System Prompt",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "published_at": "2026-07-04T19:41:10Z",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "published_at": "2026-07-05T08:43:37Z",
       "category": "tech"
     },
     {
-      "title": "Fast Software, the Best Software",
+      "title": "Functional Programming in hica",
       "description": "",
       "source": "Hacker News",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "published_at": "2026-07-05T07:25:25Z",
+      "url": "https://www.hica.dev/docs/functional-programming/",
+      "published_at": "2026-07-02T11:12:12Z",
       "category": "tech"
     },
     {
@@ -152,11 +103,27 @@
       "category": "tech"
     },
     {
-      "title": "Pi square is nearly 10",
+      "title": "Introduction to Compilers and Language Design",
       "description": "",
       "source": "Hacker News",
-      "url": "https://mihai.page/pi-square-is-10/",
-      "published_at": "2026-07-05T10:50:53Z",
+      "url": "https://dthain.github.io/books/compiler/",
+      "published_at": "2026-07-05T11:54:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "Fast Software, the Best Software (2019)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "published_at": "2026-07-05T07:25:25Z",
+      "category": "tech"
+    },
+    {
+      "title": "Trust your compiler: Modern C++",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
+      "published_at": "2026-07-01T14:00:15Z",
       "category": "tech"
     },
     {
@@ -166,6 +133,38 @@
       "url": "https://pandoc.org/lua-filters.html",
       "published_at": "2026-07-03T09:52:51Z",
       "category": "tech"
+    },
+    {
+      "title": "📄 Distributed Attacks in Persistent-State AI Control",
+      "description": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "published_at": "2026-07-02T17:59:56Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "published_at": "2026-07-02T17:59:52Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "published_at": "2026-07-02T17:59:50Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Online Safety Monitoring for LLMs",
+      "description": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "published_at": "2026-07-02T17:59:43Z",
+      "category": "ai"
     }
   ]
 }
