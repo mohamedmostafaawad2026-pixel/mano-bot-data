@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T18:51:22Z",
+  "last_updated": "2026-07-06T20:48:26Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -63,11 +63,35 @@
       "category": "tech"
     },
     {
-      "title": "Pros and Cons of Solo Development",
+      "title": "CoMaps – FOSS Offline Maps",
       "description": "",
       "source": "Hacker News",
-      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-      "published_at": "2026-07-06T18:24:34Z",
+      "url": "https://www.comaps.app/",
+      "published_at": "2026-07-06T18:55:07Z",
+      "category": "tech"
+    },
+    {
+      "title": "Price per 1M tokens is meaningless",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+      "published_at": "2026-07-06T19:43:36Z",
+      "category": "tech"
+    },
+    {
+      "title": "A global workspace in language models",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "published_at": "2026-07-06T17:44:08Z",
+      "category": "tech"
+    },
+    {
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "published_at": "2026-07-06T18:35:54Z",
       "category": "tech"
     },
     {
@@ -79,35 +103,11 @@
       "category": "tech"
     },
     {
-      "title": "Kani: A Model Checker for Rust",
+      "title": "Python 3.14 compiled to metal – no interpreter",
       "description": "",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "published_at": "2026-07-06T15:53:24Z",
-      "category": "tech"
-    },
-    {
-      "title": "Aluminum foil (2021)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "published_at": "2026-07-06T13:28:57Z",
-      "category": "tech"
-    },
-    {
-      "title": "Road to Elm 1.0",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://elm-lang.org/news/faster-builds",
-      "published_at": "2026-07-06T11:47:37Z",
-      "category": "tech"
-    },
-    {
-      "title": "Egypt Is Building a New Nile",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
-      "published_at": "2026-07-03T20:00:34Z",
+      "url": "https://github.com/can1357/pon",
+      "published_at": "2026-07-06T19:40:22Z",
       "category": "tech"
     },
     {
@@ -119,11 +119,11 @@
       "category": "tech"
     },
     {
-      "title": "Real-time map of Great Britain's rail network",
+      "title": "Using precision editing to study human embryo development shows master gene",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.map.signalbox.io",
-      "published_at": "2026-07-06T09:38:36Z",
+      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
+      "published_at": "2026-07-03T02:03:45Z",
       "category": "tech"
     },
     {
