@@ -1,57 +1,122 @@
 {
-  "last_updated": "2026-07-06T20:48:26Z",
+  "last_updated": "2026-07-06T22:08:13Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession - BBC",
-      "description": "\n\nHuge crowds fill Tehran streets for Khamenei's funeral procession  BBC\n\nIran war live: Leader funeral draws millions; Israel attacks Gaza, Lebanon  Al Jazeera\n\nWorld in Brief: Iranians begin funeral",
+      "title": "Amber heat-health alerts issued as UK could see 10 consecutive days of temperatures over 30C - BBC",
+      "description": "\n\nAmber heat-health alerts issued as UK could see 10 consecutive days of temperatures over 30C  BBC\n\nUK set for highs of 34C this week as heatwave conditions may return  Sky News\n\nSouth-east England a",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Q0dNbk5vNnBPTG5zWi1zV1ViX1lkQklRcHQ5TzlZM1ctNWNRM1VFNmx1UE5adFZqa1RLR2NhMlExNUI5eVRfMmpibUh3WlNPZThmMXdnWG80bHlF?oc=5",
-      "published_at": "2026-07-06 12:07:44",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yd052dXFOUUF3ZXRYSWttSXFmUGQ4NXBJRXZ4WUtscnRpVjVtTlRoNlZ6dHVaNVNEaW9zZHFOWGVKS1BrV2I5NE5uT2lQZG1LdGNoYmF4RldaaVF0U1E?oc=5",
+      "published_at": "2026-07-06 12:54:05",
+      "category": "general"
+    },
+    {
+      "title": "Fraudster George Cottrell seen at numerous Reform events despite ‘no formal role’ in party - The Guardian",
+      "description": "\n\nFraudster George Cottrell seen at numerous Reform events despite ‘no formal role’ in party  The Guardian\n\nChris Mason: Accusations around Farage leave him looking vulnerable to his rivals  BBC\n\n‘Pos",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVFkLVZDQVhtNzV2RHBVSk1XM04yQW51UmIwWUo5Q0hZVVRGb3ZvblJFWC1JdEpCX0EtaUh4LUlDYWhfUm16X19mcVNFY0JvODJPc1lZWllVRHR0Wl85Q2E2X0JxMVJwQ09TX0htb1M2YWtRbElVcUpleS1PRGtWM1pvOGZkbjFJcDZZcHdfQmI?oc=5",
+      "published_at": "2026-07-06 18:26:00",
+      "category": "general"
+    },
+    {
+      "title": "Millions to attend funeral procession for Iran supreme leader - Financial Times",
+      "description": "\n\nMillions to attend funeral procession for Iran supreme leader  Financial Times\n\nAhmadinejad back from the dead at Khamenei’s funeral  The Telegraph\n\n‘We are Iran’s true missiles’: millions gather in",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzRKZUc4NGR1eFFTcnVITWprZFV3T1pQRGZnc2hOdDJFRXh5dVVmYUg5SlpCbUFDT29oN1d1b2JfV1hJcElneGQ5eWNpNWtGQVdYdXlELUdqQkZkS21sd1hnYWtHcjJVMU1zUjUwa29sOE1ZM1djeWx5elBLWjNEZERHTVQ?oc=5",
+      "published_at": "2026-07-06 09:15:59",
+      "category": "general"
+    },
+    {
+      "title": "Zelenskyy says ‘battle in the sky’ will decide outcome of war with Russia - Financial Times",
+      "description": "\n\nZelenskyy says ‘battle in the sky’ will decide outcome of war with Russia  Financial Times\n\nFirstFT: Zelenskyy says ‘battle in the sky’ will decide Ukraine war  Financial Times\n\nZelensky: Long-range",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFFtZHdHX0lmYkhpU2VfVWY3VEpxVkUxbmZuaHUwWUJvaXVxd0ZROEpwTVFLck9tVmoyWXNFR2E2T1piQzVLazBCbVk1bGVfay1tQzU3RzEzN05nOUVjX0kybE9mc2RpbDAwaDBVVlhwVkc3M2IzcnJYSEJqeDNWUlQ1bWE?oc=5",
+      "published_at": "2026-07-06 16:37:47",
+      "category": "general"
+    },
+    {
+      "title": "Consultants in England vote in favour of NHS strikes - BBC",
+      "description": "\n\nConsultants in England vote in favour of NHS strikes  BBC\n\nConsultant doctors in England vote for NHS strikes over pay and working week  The Guardian\n\nGive us £166k or we’ll strike, NHS consultants ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HaUhhaVFzMTc0QmZobVlUampTNkxWV3J0OG53bWZpU1VkSEYzbnFDMFFIbkExTHlBemFlSU9SZFhZZDRqc2hyTHhtemRHQ28xeWtSZnZzeGxkVjM2?oc=5",
+      "published_at": "2026-07-06 16:01:00",
+      "category": "general"
+    },
+    {
+      "title": "Charlie Kirk's family attends hearing for suspect charged in his murder - BBC",
+      "description": "\n\nCharlie Kirk's family attends hearing for suspect charged in his murder  BBC\n\nJudge Appointed Last Year Is Overseeing Hearing in Killing of Charlie Kirk  The New York Times\n\nCharlie Kirk’s accused k",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Dc0JDdWh1Q3RkSDVjWkF4RGNFUl9Bd3JsLVV6ZllydllZcWpCTkdWSkFZYVlEZ19ReGJ5LVFQYkd4NVlYYTVEVm0xaGNXZF9JQURENUdrZHNBMzQ5?oc=5",
+      "published_at": "2026-07-06 17:33:43",
+      "category": "general"
+    },
+    {
+      "title": "Man appears in court charged with rape of teenage girl in Glasgow park - Sky News",
+      "description": "\n\nMan appears in court charged with rape of teenage girl in Glasgow park  Sky News\n\nMan appears in court charged with raping girl, 16, in park  BBC\n\nPolice appeal for information about Springburn Park",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlNvcFRBWnR0Sl9NQzZrM2QweC1MRDNTTWh2Z2lSa2lDUmJIWldoWDJEdmFSUDNSNWdfSkphd0xLU1ZmM3l5T0hBX3AxSTFJTmtpVElfa1g2WFhYNmRLdnY5YnJtS0lhNWFyenM5VlhjZDhSc1BkNl9kOGJYWHlwSTVyRWJCZ0E5UkZBUWR0Mk45NElSY3ktcjNkaGxhRHl1Vlhub3p0bmhYQQ?oc=5",
+      "published_at": "2026-07-06 17:50:40",
+      "category": "general"
+    },
+    {
+      "title": "Councillor John Grafton insists he won’t resign council seat over taxi rapist license row - Strathspey Herald",
+      "description": "\n\nCouncillor John Grafton insists he won’t resign council seat over taxi rapist license row  Strathspey Herald\n\nFour councillors quit after vote for rapist taxi driver to keep operator licence  BBC\n\nT",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJOTm1uQmV1WFhDYzFpTXRIVHE4UW1KTUgycmNwQnVwaGxqT1ltSlAxUWFRazE2QnNhM1UxMUxvUFlvVkRJQ1ZsMFZSYWNFREc2VHg1cXJKclFzMXoxWVozLTJkZDk3NTRuaDBQYjZwX3NYRW1sOS01MFhtdUdGbW9SM3gtWlBPeHNSSGluSjN4dnM2akNuZmVlVGZqTjhLSldjbEZSNXNMejJ0OEE?oc=5",
+      "published_at": "2026-07-06 15:51:00",
+      "category": "general"
+    },
+    {
+      "title": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - AP News",
+      "description": "\n\nMourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei  AP News\n\nLive updates: Iran war, Ali Khamenei funeral underway, largest crowds yet expected  CNN\n\nIrani",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlo0bjVlblZDZXpkNk16SnJBalNCaTlzcjB3U3JfbWQzRnJFamVsVkJTazBONFBJVU5kVnNKc05YQ0JvT3VMWU82OGZ1VmFNMGdla2dxclhDTXdhUTY5WHpOVFBjMUdCR2VDa25aRlo1TUVfX0w3TUFLSnVzdkcwUmRFOXlxcTVCbHF4MTFTMTFZS1RRR1ZKTEk5c180cS1VYXlDalc2TDlYbHhQdDN2R1pIUVk0dw?oc=5",
+      "published_at": "2026-07-06 17:56:00",
       "category": "world"
     },
     {
-      "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say - Al Jazeera",
-      "description": "\n\nRussian attacks on Ukraine kill 11 on eve of NATO summit, authorities say  Al Jazeera\n\nUkraine warns of interceptor missile shortage as 21 killed in Kyiv region  BBC\n\nNewshour | Russian missile stri",
+      "title": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting - The Washington Post",
+      "description": "\n\nDeadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting  The Washington Post\n\nDeadly Russian Strikes Hit Kyiv on Eve of NATO Summit  The New York Times\n\nA Ukrainian volunteer repaired",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb29wcE9pMmVoRE01WG82WG03akVuejVabTVoel9WNHFlZHVqVFV3S2lCVmZqM3ZtU1lkNC1lbHRFZW9aY21UTnVncDdoYVotb1NKZlQxa3dYaTUzM2t2MmhvcXViZVZKbnNtblg0bl9SazAxRldvQzg4OVBRUVpIdUo3WTNyVmNacnI5M2V3VVIzUXI0YzRHdTY2aHlwQzdSQmhpaS1fRHRFekJoTjVFYndn0gG3AUFVX3lxTE5iWVVUUll1QzFhSXl0RjVRU25LSlhXR0tRcExJOFluSC01dFdLSlg1bmQwTnRwSWVhY0U0UVpPbDFyYndHZllSZGJXeW93Qm1hUmhOa3ZRc2xBSU5yVF9Qc0FIRG1lSk16ZG1Cc0lsWE83UjhZRDBzNmlhdXN1MHBjMFVpVTNQV0g0b2lTSmpXNkhPUXRGOFJZdkpPLVNFRW50NTVxUU5XMW9KeXI3amtmazNGSlduQQ?oc=5",
-      "published_at": "2026-07-06 15:22:08",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGxOUlRqVHFrTkl0U0IzR1kwRjlHN1VHa2ZKNkdTZEhGaVh3RTIyaHJNalBLX3A0Y3VaeEp3aUgxdklXQXQwRnU5eUdHZWJ0OHNXd3FoUXpGVFU5SVJQMlJ5czdVZHkzdEU1eGIzSFBjX1p3aEE1SkJybFVTYl91bUNPTzVxQWFpQ3hYUnJuaHJacXUtMzhLWjI0dkk3dWs0MUVNU0pvZTFWTmYzVE1qZXRaOVZ3R3VV?oc=5",
+      "published_at": "2026-07-06 20:03:51",
       "category": "world"
     },
     {
-      "title": "Wildfires rage across southern Europe, forcing thousands to flee homes - The Guardian",
-      "description": "\n\nWildfires rage across southern Europe, forcing thousands to flee homes  The Guardian\n\nWildfire in southern France forces evacuation of 10,000 people  BBC\n\nTour de France 2026: Pogacar blows away riv",
+      "title": "Hamas dissolves Gaza government, Israel dismisses move as 'stunt' - Reuters",
+      "description": "\n\nHamas dissolves Gaza government, Israel dismisses move as 'stunt'  Reuters\n\nHamas offers to hand over authority in Gaza to US-backed administration  The Guardian\n\nHamas says it will dissolve Gaza go",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb21adF9zYVVkbng5RUhKTjNCTUluWlkxZFA2ZldSYVBSOFhrdFZTMUtyd29LM1lkOE9BYjZSQnJiN1RHV3JNR3hsS1BHNmN1ZFlVV3pManhzSEFCeHBSeU10c0k2c1VXd3BuZ25uRGtnRVpXc0l2QTVmWWZXNTMyeEV5S0ZyZGI5NlhYWEJpRGE3Rzc4NHZncExzVUVZb00tV0VrQ2Y5ODVpdWRRa010cTBaUnNBNFFVYllRUmtfemhJVlBpMjIxUA?oc=5",
-      "published_at": "2026-07-06 10:01:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFo2LTlqNk9aYUFPVWY4LWtLZFVranB4RHp3SEJNaXd2VzNjWUtWUUs0TkktQnVET2N6YndZMDBzY2MwYXQ0NnVmU0lmUC1Ga3dRcWZXSXZQaVBxdWRFM3VtNUktWEZiMFA4RUNERmJoRHFOUFRoZ1hDUjlBdnhBNnJIZUdWdlRLYVRoSkcxRkdmZnV4dDc2Ykt5cmI4R3JhNmRrMlhoeTRiYUkzVGhtemRsbXNXcjFDVlV3bS1n?oc=5",
+      "published_at": "2026-07-06 17:05:09",
       "category": "world"
     },
     {
-      "title": "World Cup 2026: UEFA hits out at FIFA decision to allow banned Folarin Balogun to play USA last-16 tie - Sky Sports",
-      "description": "\n\nWorld Cup 2026: UEFA hits out at FIFA decision to allow banned Folarin Balogun to play USA last-16 tie  Sky Sports\n\nUefa has put European football on war footing with Fifa over Balogun decision  The",
+      "title": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara - The Guardian",
+      "description": "\n\nTurkey intensifies crackdown on public life in run-up to Nato summit in Ankara  The Guardian\n\nMore than 100 detained as leftist groups hold anti-NATO protests in Turkey  Reuters\n\nTurkey detains jour",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1JxWm9tM1JzM0tOMnpUQ2JjX25MNjNQbTZLczJ4Ni1NY2ZKRlRzT2ZOd1ppWXNjazZCRmh0MFN3TDRtWk1RM3YwZUJUOGlKa3pBNURac3UxakRGTENJS1hCaDJaYnU2VEFNNjRVa3JDYTh6QjZfWnc3M1BmSGszb0JfMXd2RkkzdF9ZVGNWVm5CcU9pYmZ5RXJfY1Q1SGR2U2JScG9ObzdJQUpxNDFjTmhxdmthbnRFUmJrNVhObmo1eVZ0VGpIbThteXNETnBTekFFQ241ZTlYQUo5cERoTUl6M0k4OHZDbkRrQQ?oc=5",
-      "published_at": "2026-07-06 13:46:32",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUW9iNkVtMUxha21VZmotanAxTzBodVIzRUhCaTZzcEJ0YXJ4SHBhdFZ5NWhOdFdYV0lBbjd1ZWtoVXpEODFVSmdPTlpRRkNlRG5keW9HbC02NUIyeTExa1FJYXB6ZmRPTkpLSEY1dWQtZmVMb3AxZUowMVhMLUJLTmdOQm10Y19GS2tDSWxJaFE3QTE4T3IwcE5iV0FMZ3FJalE?oc=5",
+      "published_at": "2026-07-06 17:12:00",
       "category": "world"
     },
     {
-      "title": "Detained Gaza doctor almost unrecognisable after injuries in Israeli jail, lawyer says - The Guardian",
-      "description": "\n\nDetained Gaza doctor almost unrecognisable after injuries in Israeli jail, lawyer says  The Guardian\n\nCourt orders state explain detained Gaza doctor's 'life-threatening' condition  Haaretz\n\nFears f",
+      "title": "Facing Threats, NATO Finds New Value in Turkey - The New York Times",
+      "description": "\n\nFacing Threats, NATO Finds New Value in Turkey  The New York Times\n\nNATO urges members to deliver plans for reaching defence spending targets  Al Jazeera\n\nNATO Ankara summit: who's going and what to",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTRlclV2R2FaT1FFaUtlbWxIVF9xa2FqUDJaNU9vaXViYnh1aVpCa2V6d0VpdDY0LTd0bHJBSlpDQjZ5T1JmN21jRlBoUE1hYjdnYWNBQTViZnZ6aWlfTURWMUNVaFF5VlNoX3JXeUxfemFLY3VlVDBmLVpZWllfU2ozQTV4SHpXN21aODdsU09FRzhVOFlNNWZqTXBBQnQ5c1lTYXVna2VwejQxblM5cGt2d3BybklTUi1aRkdON3lJc19RNW1j?oc=5",
-      "published_at": "2026-07-06 13:33:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2JrNGRKWmx4YlAzekxOcUdKVUljb0VnREo4a1FEcFQtQWpFWGZzdEVieXhNMWRyT1FJZVk5dC1EcjZqYjJ0dEloNE1qaGVwNFNfQTRMMF9NNVFqMVAwdnJPQ0MzbkJHdDZodElfNllpNVpTLXMyVHBFRE82emFKUEdDMGRGamxwaGJKTEZ0amtOM0k?oc=5",
+      "published_at": "2026-07-06 09:01:44",
       "category": "world"
     },
     {
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours - BBC",
-      "description": "\n\n'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours  BBC\n\nAs Venezuela death toll rises, survivor recounts days beneath the rubble  Reuters\n\nAunt of Venezuelan b",
+      "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters - The New York Times",
+      "description": "\n\nFormer Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters  The New York Times\n\nEx-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court  BBC\n\nEx-Syri",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GaGVHTkR6UGt3d1RoMC1zZlVsXy1iUm5rbUNHQThraTF1dFlQNXYxQk5NMWt5cmE1ak1Qdzg0R0xFUWNuUDcwdzlmUkhDcHg2dHkxaEotNmF5bXNK?oc=5",
-      "published_at": "2026-07-06 04:03:38",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3NVTGt6NEs1VjZJVm12WmpMSUdZZWVhemtuX3RIOEFIa3l5b3NPWVFEX0xocVBtalE5SElNMTdrNkFmX2JSOVpUdVA2ZmMwYXA0UXVLOFE3SWQxcjB4X2xTUE94UmRJN0tlc2RtU2ROVEhrdzVHa1RVbk51cWI0Y1lzMF9MQ1NlbnJFd1o0aw?oc=5",
+      "published_at": "2026-07-06 14:12:07",
       "category": "world"
     },
     {
@@ -71,11 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "Price per 1M tokens is meaningless",
+      "title": "Learning to code is still worthwhile",
       "description": "",
       "source": "Hacker News",
-      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-      "published_at": "2026-07-06T19:43:36Z",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "published_at": "2026-07-06T20:59:54Z",
       "category": "tech"
     },
     {
@@ -87,19 +152,11 @@
       "category": "tech"
     },
     {
-      "title": "Linux on the Atari Jaguar. No, really.",
+      "title": "Linux on the Atari Jaguar",
       "description": "",
       "source": "Hacker News",
       "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
       "published_at": "2026-07-06T18:35:54Z",
-      "category": "tech"
-    },
-    {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "published_at": "2026-07-06T15:01:18Z",
       "category": "tech"
     },
     {
@@ -109,54 +166,6 @@
       "url": "https://github.com/can1357/pon",
       "published_at": "2026-07-06T19:40:22Z",
       "category": "tech"
-    },
-    {
-      "title": "Resetting Xbox",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "published_at": "2026-07-06T14:18:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "Using precision editing to study human embryo development shows master gene",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
-      "published_at": "2026-07-03T02:03:45Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Distributed Attacks in Persistent-State AI Control",
-      "description": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02514v1",
-      "published_at": "2026-07-02T17:59:56Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-      "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02513v1",
-      "published_at": "2026-07-02T17:59:52Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02512v1",
-      "published_at": "2026-07-02T17:59:50Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Online Safety Monitoring for LLMs",
-      "description": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.02510v1",
-      "published_at": "2026-07-02T17:59:43Z",
-      "category": "ai"
     }
   ]
 }
