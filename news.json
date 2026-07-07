@@ -1,57 +1,106 @@
 {
-  "last_updated": "2026-07-07T14:11:15Z",
+  "last_updated": "2026-07-07T17:06:58Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Fifa accuses Uefa of hypocrisy in latest war of words over Folarin Balogun decision - The Guardian",
-      "description": "\n\nFifa accuses Uefa of hypocrisy in latest war of words over Folarin Balogun decision  The Guardian\n\nSo it’s Trump 1, Belgium 4 – and the world rejoices. Nothing like failed chicanery to bring us toge",
+      "title": "Farage says he is resigning but will stand in ‘people v establishment’ byelection – UK politics live - The Guardian",
+      "description": "\n\nFarage says he is resigning but will stand in ‘people v establishment’ byelection – UK politics live  The Guardian\n\nNigel Farage making statement 'on future in public life' after row over financial ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2xYcUdZTElJQ0lRdFBuWktZbVJCc1lfdGxHd2NzSng0bTFFVXlLQndzMjg3MDlFMUR1WDA4cWtrZTVnTVRoazZvbGVXTUtrNU1EenN0R0dlNU90M0dKXzd3VzgwUEhtWDNDcXdTMmJWRXVhSnZjaHBlN3lBbkV2MUFzRzhlSS1jekdtdFhvS01Qa2Nkak5JNXlrN2diYkRBaVJ6OVBudjlrVzRic2k1TGc1OEpucGkzZHI1bw?oc=5",
-      "published_at": "2026-07-07 08:59:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQXzFNWkF5d3lWb3h6SnAzMVRzUHZyLUd4by02cDhQR1ZqTjA1S2R0el9Hb2FUWjZuNEs1WkxsU0x0SzdmdDhJY0lUZHpXbEp2OGFFcmVnZWZ6dWk0djdQVUltbGZDVjhIZU5rUUdQVkVtaVBsRlh2emtMQlVTbzZ1Yk9hZ1I1b0V0ZUItbTBrZVhxdlpHdl9JTkQ1YkNYdWF4UXBkMmVwNUx3bVhzTFFqNUludlhaWVpvbWNQVGNJRk1KRUdTdGl2WGxmMkE5MXhISTZsd3lKSEFvLXNiY2FhNjF6aXF6TzZUbnF5OWlvZzJ5WXZXOXJEVVFuOEVhZk9zbWxOSVBPVlhkTTA?oc=5",
+      "published_at": "2026-07-07 08:16:00",
+      "category": "general"
+    },
+    {
+      "title": "French court clears way for Marine Le Pen to run for president but orders her to wear electronic tag - BBC",
+      "description": "\n\nFrench court clears way for Marine Le Pen to run for president but orders her to wear electronic tag  BBC\n\nParis court clears way for Marine Le Pen presidential election run but under conditions she",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nbGFmNVJiZjRkY00ySHpkZnl6TEJSQS1lMFRNRnpnQnItUVNXcjlJNXBnTjlBT0Rhbk9ScF9FZDJSUDJRYzlPT2x0TDJ4WnlOUzEwZ2JiSQ?oc=5",
+      "published_at": "2026-07-07 13:37:43",
+      "category": "general"
+    },
+    {
+      "title": "Woman suspected of Monaco bombing found shot dead near Kyiv - The Guardian",
+      "description": "\n\nWoman suspected of Monaco bombing found shot dead near Kyiv  The Guardian\n\nWoman suspected of Monaco bomb attack found dead in Ukraine  BBC\n\nWoman suspected of carrying out Monaco bombing of Ukraini",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWZpUHBJSFRjSTU3WC0zOHkwVjB4OG93LTg0UzRMRkJCOUxTYUs0a1VyRG5qcTZqdi1OVWxkVkF4bHdZR2RsSVY5NE9EcjlFNm5nOEM5enBJZnV0QXFJSTk3Z01vR3k0WUhkMVFGS2tFSnhHMHhraGwyNllRSTJtQThSd25tcE1tR3JKLVNHMUYycF9uNFE?oc=5",
+      "published_at": "2026-07-07 12:55:00",
+      "category": "general"
+    },
+    {
+      "title": "‘Trump management’: Everyone else has a plan to keep NATO summit on the rails - politico.eu",
+      "description": "\n‘Trump management’: Everyone else has a plan to keep NATO summit on the rails  politico.euSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXdQVFNkdElwNXBTUUtDR0RTNHQ3c2ttVENaemN6NGFhOHAzbmZKc3hndmVZVzZsRC1QeWpyWUVobGlSV0UtcUUydm9HdjdzRGc0OVFjczFHSVhlaVBJOS1FbHlKQm9yMnNQdTRQYUdGYXZWYlRIcTlpVVBBSkJUdEdwOA?oc=5",
+      "published_at": "2026-07-07 04:05:00",
+      "category": "general"
+    },
+    {
+      "title": "US airman accused of exposing himself to 16-year-old girl avoided British trial - The Guardian",
+      "description": "\nUS airman accused of exposing himself to 16-year-old girl avoided British trial  The Guardian",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1pBaFB2V3hrMlJNOWszUUtSeTdjUkVoNFQ5cno5a3J5eGtrZ0xyUlY4UVNaaHZNU0gtVlFoazZ3dmYxTXBhWkw5dl9CY0x6TVpubGVaRUVzWk1FZUJZQ0s1X1BFWlFUVlFuTEdGTjhOUjRFQVQ3SGU4MG43UzdNaE5fclRMWkp5UWRhMGE0VWljWkhsLWR1VjFIVktVMkRqdzhRYWU1UXdPUVl5eC1SdVpMYWhpcGRWRzVN?oc=5",
+      "published_at": "2026-07-07 12:43:00",
+      "category": "general"
+    },
+    {
+      "title": "East Anglian coast experiencing marine heatwave, says Met Office - BBC",
+      "description": "\n\nEast Anglian coast experiencing marine heatwave, says Met Office  BBC\n\nUK's next heatwave begins - but how will it be different?  BBC\n\nUK enters third heatwave - with temperatures set to hit 35C  Sk",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BWEV0ZkROWk1XWUIxU3RhdU1JcmxwSENza3BRZ1RnMXM1VllRbjVkT2taak1UWWpZSU14S0ttMEhGd25CQXktWGFaTG1pUW9pbGY5VngxM3hqbV9X?oc=5",
+      "published_at": "2026-07-07 07:33:02",
+      "category": "general"
+    },
+    {
+      "title": "How Europe would fight without America - Financial Times",
+      "description": "\n\nHow Europe would fight without America  Financial Times\n\nWhat Europe and NATO must do to be ready for war  The Economist\n\nEurope Pledged to Rearm. How’s That Going?  Bloomberg.com\n\nNATO must become ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXdmdmVKNVNTVFFkMjFiRUxENlhlWncxT3c1NzE3QmdmQ25pQ1FET2wzZW1kUjVRZHNaZTJXd05xeG5iTkVQRVhYTlJLUWhMSGQxeTNoa3JBRUlRNER0NVlDbTF0SzhsSE1OSnZlQW94T0hxME01d1d6TTF4dDY0VmtQSEo?oc=5",
+      "published_at": "2026-07-07 04:03:49",
+      "category": "general"
+    },
+    {
+      "title": "Too hot to handle: how heatwaves are burning a hole in London’s economy - London Evening Standard",
+      "description": "\n\nToo hot to handle: how heatwaves are burning a hole in London’s economy  London Evening Standard\n\nJune heatwave in UK led to ‘mass sleep deprivation’, poll suggests  The Guardian\n\nLost sleep, wasted",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFVuS2NzQXdFMWphT3o0X09rc0FVQkVGREZPSl9SSTJ6Y29Yb0lCMnU2RnJjbUIySFc2dW0tMk1zc05VSEtEWlR6d0tPX2JSV3prOEdIR0pwQXhNLTRZTW85X05OaUc2UGZjc0hvWklTVHRCNDZpdC1fSDlRVmNYdEU1VnpDRGdXaTdCOHVoRQ?oc=5",
+      "published_at": "2026-07-07 05:00:01",
+      "category": "general"
+    },
+    {
+      "title": "Nato countries unveil billions in defence deals to mollify Donald Trump - Financial Times",
+      "description": "\n\nNato countries unveil billions in defence deals to mollify Donald Trump  Financial Times\n\nFirst Thing: Nato summit faces tricky diplomacy with Trump over his defense spending demands  The Guardian\n\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEdLeTN4ZFhlc25raUpJbzRXb3RESUJwZTk3NDFiUlg3eEhQVEQzdzFoODZCSE9zVTVTdVBVYnIyRDZLY1RDdXBHbGRHZXdxd2tsY3NKYUlGNF9PWGpTaTN5RnBhdlJiV3BOTTV3ektLSkc4U21oSWtnR0Jkckg3SlVPUGY?oc=5",
+      "published_at": "2026-07-07 12:48:41",
       "category": "world"
     },
     {
-      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake? - Al Jazeera",
-      "description": "\n\nNATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?  Al Jazeera\n\nNato summit begins with focus on defence spending as Zelenskyy and Trump due to meet - Europe live  The Guard",
+      "title": "Severe storms in China bring tornadoes and landslides that have killed 15 people - The Guardian",
+      "description": "\n\nSevere storms in China bring tornadoes and landslides that have killed 15 people  The Guardian\n\nTornadoes wreak havoc across central China as Typhoon Bavi looms offshore  Reuters\n\nMan blown from 12t",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaDZoQVBWSzhRTENzZUMxcGxZUWxicHEwRnBFTzFIcTE2ZGRBVGhUQThveDV2R0tXNHNEeXI2SE9ubVlkNlp4dTF3Yl9FajZKWk0tYUlCbVRlaW44c1NBQ1ZvNHRYeXZ5Q3hyT0lhc3E1MlVBLTA3OTVkRUxjUmNrbklOSkV6XzVONFlEVm5xYWU3U2ZYZ0M3dGQ3RTTSAaIBQVVfeXFMT1JHTlIwR3RnZVRtMUlJdmtfYkx4WGN1Z3BfSFNzcDFka3VXRGRVSlZWVlNGRjcwWWU2TVRKQ0VlX2gxN2JUN3Z0amdtUlZnam9hMWNwcDdmSmZvNHVTLV91bWF5RkstYWxFSjFOejFwLS14MzhqUUE5RHFZby1WMnM2WWswRGlLdmlOYUxsUU5KbGhNWFNZVkNFT09yb0QtTTdR?oc=5",
-      "published_at": "2026-07-07 06:14:04",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjZTdm1Dd1E2M3g1aXlvQk42S0p5ZnktdzRya3VhQmE5Qm1HSWVkQlM5czNKZ2ZNb284ellqOTRlSnUyMXc3VTQ5RUZTLTRNVlhlYWtpMnVHYXBSMHNON2txZXZjYUxjNHJMalFXUTU3QnBrMjZHeXJCNm55ZktiVHJYa2hfR1dKcnZBTTlpTWlUREZTb19fb2JXZUtWNkJQOTV0MXZ5amtqUzJickdEVTREM0dqUDhiSVhqbnY4UzQ?oc=5",
+      "published_at": "2026-07-07 06:51:00",
       "category": "world"
     },
     {
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei - BBC",
-      "description": "\n\nResistance and revenge - Iran wanted to send a message with its farewell to Khamenei  BBC\n\nTehran teemed with Khamenei mourners, but divisions – and demands for change – remain  The Guardian\n\nIran w",
+      "title": "Pilot falls to his death from plane in mid-air leaving trainee to land aircraft - The Mirror",
+      "description": "\n\nPilot falls to his death from plane in mid-air leaving trainee to land aircraft  The Mirror\n\nPilot's chilling last words before 'jumping' from plane as trainee forced to land  Daily Star\n\nFlight Ins",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3V2xJU1l6d203cVlQZDZGc0VITWgza003VXZWQkNVQXlBWXQ2bW8xSkx4eERPSjFhTE1sZi05S3FPbTB5T0xNRUJUa29XcjMxWW1iNGFGZ21ZSXVa?oc=5",
-      "published_at": "2026-07-07 00:46:03",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkJ3M2l4Mk8xeHYxaEgzRFBRV3Q4ZXJfQjdsVlU1TWJHZmI2VWpiRm51cGg3UnQyUWFiTG52eDluc0NadER1NkJCN3hiWVRkNlZYbkJSVGlrMUEyRGxKcGhCN0t6SjMyWE5VcnNZM2VMUUp2dV84aldNM2dJYkRCdnM1X1FWcnfSAYwBQVVfeXFMT3ZGWENmQWI0azA3OC12MGlNR25RbU94bjlSSVFZeHV4T1VocjhSUkZ5bnZQUTNCNGRQLTdmRWIzOU5rbVVNU2hvMFJibzhMT2FDUGV0TkhwYWdBdXlmdGhjSjNtcTNuUm1rb1liQ1BYYnZNU3d1dFB4RzVpbm45SVQtM1A3X0FnNnZEUFo?oc=5",
+      "published_at": "2026-07-07 09:34:00",
       "category": "world"
     },
     {
-      "title": "Woman suspected of Ukrainian tycoon bomb plot in Monaco shot dead - The Telegraph",
-      "description": "\nWoman suspected of Ukrainian tycoon bomb plot in Monaco shot dead  The TelegraphSee more headlines and perspectives on Google News\n",
+      "title": "Tourists flee Spanish hotels & villas as wildfires spread towards hol hotspots - The Sun",
+      "description": "\n\nTourists flee Spanish hotels & villas as wildfires spread towards hol hotspots  The Sun\n\nSpain 2026 wildfires: by the numbers  Euronews\n\nDutch mafia on Costa del Sol smashed after record MDMA haul  ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDRUN2FIWkxXN3R4SFVYdUFvdTFOX1R1OURwMUk5YzZKVVFiOEQ4MWFLUUN2RTlmMm5rc0dxeFk3Um1hbVlEbnhNQjJNaGNjVHQwVEF4dmhlcE11QnM5TDF4WHJ1a0lELVZyVGpJRXItY05KSEdveWlzekRFdnYydUJ1eWZMZlRJdUlTUGFoM3htSWEwdWJDUXp0eTgtV1diQmF1bkZOdUpOZWE3?oc=5",
-      "published_at": "2026-07-07 09:12:00",
-      "category": "world"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Zelensky to press for Patriot missiles at Nato summit after Moscow’s latest deadly strikes - The Independent",
-      "description": "\n\nUkraine-Russia war latest: Zelensky to press for Patriot missiles at Nato summit after Moscow’s latest deadly strikes  The Independent\n\nZelensky to press Nato for air defence systems after intense R",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDJxUWFqdXVzdUJBVzJKU1d4YmVYREw0SDVoU0pFNFF5LTZJUm1DV0FSRXc0SU9qcTZCNVNWeFpHRlZJeVpabGxWeVFiandyck1RZkNiQ2JVcjhNV0lJcnJjSHh2UHEyb1BCblZQNmxZMkw2SzlXNVBTekFxMTZYb2NJSnFibDRZVDFzSTM2Y1J2TlM3Q2MxNnBrRmlCWGxPcHREcWpGUmFReFpsYkhKcm1FM2F0U3dTeHRfMHFQM2oxclV2STQw?oc=5",
-      "published_at": "2026-07-07 09:05:03",
-      "category": "world"
-    },
-    {
-      "title": "Qatari LNG Ship Struck in Strait of Hormuz, Testing US Talks - Bloomberg.com",
-      "description": "\n\nQatari LNG Ship Struck in Strait of Hormuz, Testing US Talks  Bloomberg.com\n\nOil and gas prices rise after tanker hit by missile in Strait of Hormuz  The Telegraph\n\nTanker set on fire after being st",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1JTOFUzdDQ1X0RoODhJdHZqSVM1Z01zNzhpTkZiR2dRT21JblhfQkdEM3hMamdCR3cwVk1feVZMODBYTDIycWlTRDk5TUVTUV9IWHlHc0VsM2N3X0pTQVh0X0o3R3FBQzVlU3h5blpnaGdYcDNDLVVlLUtaQ0xjWWpPS1YzU1YxODFjUU1CNjBaMDFkUENlQTB2U2hldTNoUDFMeGtndENNdTZyNW9ESUhlTmU?oc=5",
-      "published_at": "2026-07-07 08:29:54",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnk4QlNoSVFzWWZkOWw3YjlSaUl1NmxSNmt1TW9mazltRmEwQzFYcnhFTkN2OFdlZlI0d1pZd1FhcGJrUVYwTlRwcXVlWHctcnZGSVFKODREZDNhN1ZoT2pYUFVZdHNJbWdZY1NuTEpzLTlHNWtXMVlFbF9JbW5uVW5leFVzLUpPclh4MVE1VTBHWHRE?oc=5",
+      "published_at": "2026-07-07 13:39:00",
       "category": "world"
     },
     {
@@ -71,11 +120,11 @@
       "category": "tech"
     },
     {
-      "title": "Europe's company websites are mostly served by US vendors",
+      "title": "Mapping homes you can buy from the US government for <$100k",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
-      "published_at": "2026-07-07T12:08:25Z",
+      "url": "https://govauctions.app/research/cheapest-homes-in-america",
+      "published_at": "2026-07-07T16:42:41Z",
       "category": "tech"
     },
     {
@@ -87,76 +136,36 @@
       "category": "tech"
     },
     {
-      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "title": "Europe's company websites are mostly served by US vendors",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
-      "published_at": "2026-07-07T10:47:33Z",
+      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "published_at": "2026-07-07T12:08:25Z",
       "category": "tech"
     },
     {
-      "title": "Dua Lipa opens library for banned and censored books in Portugal",
+      "title": "Chat Control passed first round in EU Parliament",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
-      "published_at": "2026-07-07T12:50:40Z",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "published_at": "2026-07-07T15:16:15Z",
       "category": "tech"
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
+      "title": "Microsoft Fire IdTech Team at Id Software",
       "description": "",
       "source": "Hacker News",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "published_at": "2026-07-06T18:23:12Z",
+      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "published_at": "2026-07-07T15:33:20Z",
       "category": "tech"
     },
     {
-      "title": "CoMaps – FOSS Offline Maps",
+      "title": "Better Auth is joining Vercel",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.comaps.app/",
-      "published_at": "2026-07-06T18:55:07Z",
+      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+      "published_at": "2026-07-07T15:52:22Z",
       "category": "tech"
-    },
-    {
-      "title": "C++ Details of Asymmetric Fences",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "published_at": "2026-07-03T17:25:15Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-      "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05396v1",
-      "published_at": "2026-07-06T17:59:59Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Weak-to-Strong Generalization via Direct On-Policy Distillation",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05394v1",
-      "published_at": "2026-07-06T17:59:58Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-      "description": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05393v1",
-      "published_at": "2026-07-06T17:59:58Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05391v1",
-      "published_at": "2026-07-06T17:59:35Z",
-      "category": "ai"
     }
   ]
 }
