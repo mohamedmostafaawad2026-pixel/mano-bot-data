@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T04:43:43Z",
+  "last_updated": "2026-07-07T08:16:38Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -71,14 +71,6 @@
       "category": "tech"
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "published_at": "2026-07-07T00:14:21Z",
-      "category": "tech"
-    },
-    {
       "title": "CoMaps – FOSS Offline Maps",
       "description": "",
       "source": "Hacker News",
@@ -95,11 +87,27 @@
       "category": "tech"
     },
     {
+      "title": "How to sequence your own DNA at home",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "published_at": "2026-07-07T00:14:21Z",
+      "category": "tech"
+    },
+    {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "description": "",
       "source": "Hacker News",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "published_at": "2026-07-06T23:59:54Z",
+      "category": "tech"
+    },
+    {
+      "title": "Dolosse – a South African invention used over the world",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "published_at": "2026-07-04T15:32:58Z",
       "category": "tech"
     },
     {
@@ -116,22 +124,6 @@
       "source": "Hacker News",
       "url": "https://www.anthropic.com/research/global-workspace",
       "published_at": "2026-07-06T17:44:08Z",
-      "category": "tech"
-    },
-    {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "published_at": "2026-07-06T19:28:24Z",
-      "category": "tech"
-    },
-    {
-      "title": "Resetting Xbox",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "published_at": "2026-07-06T14:18:23Z",
       "category": "tech"
     },
     {
