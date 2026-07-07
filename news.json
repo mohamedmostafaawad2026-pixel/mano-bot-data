@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T21:16:39Z",
+  "last_updated": "2026-07-07T22:53:19Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,11 +55,11 @@
       "category": "world"
     },
     {
-      "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "description": "",
       "source": "Hacker News",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "published_at": "2026-07-07T20:50:46Z",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "published_at": "2026-07-07T18:24:10Z",
       "category": "tech"
     },
     {
@@ -71,14 +71,6 @@
       "category": "tech"
     },
     {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "published_at": "2026-07-07T18:24:10Z",
-      "category": "tech"
-    },
-    {
       "title": "Chat Control 1.0 and 2.0 Explained",
       "description": "",
       "source": "Hacker News",
@@ -87,19 +79,27 @@
       "category": "tech"
     },
     {
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "published_at": "2026-07-07T20:50:46Z",
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://davit.app",
+      "published_at": "2026-07-07T18:44:29Z",
+      "category": "tech"
+    },
+    {
       "title": "Herdr: One terminal to rule them all",
       "description": "",
       "source": "Hacker News",
       "url": "https://herdr.dev/",
       "published_at": "2026-07-02T04:28:39Z",
-      "category": "tech"
-    },
-    {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "published_at": "2026-07-07T18:36:35Z",
       "category": "tech"
     },
     {
@@ -127,11 +127,11 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: Davit, a Apple Containers UI",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
       "description": "",
       "source": "Hacker News",
-      "url": "https://davit.app",
-      "published_at": "2026-07-07T18:44:29Z",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "published_at": "2026-07-07T18:36:35Z",
       "category": "tech"
     },
     {
