@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T11:39:50Z",
+  "last_updated": "2026-07-07T14:11:15Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,6 +55,54 @@
       "category": "world"
     },
     {
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://streetcomplete.app/",
+      "published_at": "2026-07-07T12:38:35Z",
+      "category": "tech"
+    },
+    {
+      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "published_at": "2026-07-07T12:45:06Z",
+      "category": "tech"
+    },
+    {
+      "title": "Europe's company websites are mostly served by US vendors",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "published_at": "2026-07-07T12:08:25Z",
+      "category": "tech"
+    },
+    {
+      "title": "98% Isn't Much",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "published_at": "2026-07-07T12:45:14Z",
+      "category": "tech"
+    },
+    {
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "published_at": "2026-07-07T10:47:33Z",
+      "category": "tech"
+    },
+    {
+      "title": "Dua Lipa opens library for banned and censored books in Portugal",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
+      "published_at": "2026-07-07T12:50:40Z",
+      "category": "tech"
+    },
+    {
       "title": "OpenWrt One – Open Hardware Router",
       "description": "",
       "source": "Hacker News",
@@ -71,67 +119,11 @@
       "category": "tech"
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
+      "title": "C++ Details of Asymmetric Fences",
       "description": "",
       "source": "Hacker News",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "published_at": "2026-07-06T20:14:55Z",
-      "category": "tech"
-    },
-    {
-      "title": "Dolosse – a South African invention used over the world",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "published_at": "2026-07-04T15:32:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "How to sequence your own DNA at home",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "published_at": "2026-07-07T00:14:21Z",
-      "category": "tech"
-    },
-    {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "published_at": "2026-07-06T23:59:54Z",
-      "category": "tech"
-    },
-    {
-      "title": "Microsoft Can Track Users via a Windows Device ID",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-      "published_at": "2026-07-07T08:54:03Z",
-      "category": "tech"
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "published_at": "2026-07-06T23:00:24Z",
-      "category": "tech"
-    },
-    {
-      "title": "Historic Photos of NASA's Cavernous Wind Tunnels",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/",
-      "published_at": "2026-07-04T17:28:57Z",
-      "category": "tech"
-    },
-    {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ternlight-demo.vercel.app/",
-      "published_at": "2026-07-06T23:06:31Z",
+      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+      "published_at": "2026-07-03T17:25:15Z",
       "category": "tech"
     },
     {
