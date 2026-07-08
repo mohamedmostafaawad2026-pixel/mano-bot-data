@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T23:50:59Z",
+  "last_updated": "2026-07-08T01:56:08Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,6 +55,22 @@
       "category": "world"
     },
     {
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "published_at": "2026-07-07T22:23:58Z",
+      "category": "tech"
+    },
+    {
+      "title": "We charge $10k a week to delete AI-generated code",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://odra.dev/slopfix/",
+      "published_at": "2026-07-07T20:35:42Z",
+      "category": "tech"
+    },
+    {
       "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "description": "",
       "source": "Hacker News",
@@ -71,11 +87,43 @@
       "category": "tech"
     },
     {
+      "title": "Canada's only watchmaking school still ticking after 80 years",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+      "published_at": "2026-07-04T16:46:24Z",
+      "category": "tech"
+    },
+    {
       "title": "Chat Control 1.0 and 2.0 Explained",
       "description": "",
       "source": "Hacker News",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
       "published_at": "2026-07-07T14:23:15Z",
+      "category": "tech"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "published_at": "2026-07-08T00:08:51Z",
+      "category": "tech"
+    },
+    {
+      "title": "An interactive explorer for Benford's Law across real datasets",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://vatsalbakshi.com/blog/benfords-law/",
+      "published_at": "2026-07-08T00:18:39Z",
+      "category": "tech"
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs Video Lectures",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "published_at": "2026-07-07T23:57:29Z",
       "category": "tech"
     },
     {
@@ -87,83 +135,35 @@
       "category": "tech"
     },
     {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "published_at": "2026-07-07T22:23:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "published_at": "2026-07-07T20:50:46Z",
-      "category": "tech"
-    },
-    {
-      "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php",
-      "published_at": "2026-07-03T21:58:15Z",
-      "category": "tech"
-    },
-    {
-      "title": "Herdr: One terminal to rule them all",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://herdr.dev/",
-      "published_at": "2026-07-02T04:28:39Z",
-      "category": "tech"
-    },
-    {
-      "title": "A better way to tie gym shorts (or any drawstring) [video]",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "published_at": "2026-07-07T12:45:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://30papers.com/",
-      "published_at": "2026-07-07T15:58:13Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-      "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang",
+      "title": "📄 From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
+      "description": "Biomedical question answering requires not only accurate extraction of information from scientific literature but also reliable integration of evidence across multiple documents. This study presents a",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05396v1",
-      "published_at": "2026-07-06T17:59:59Z",
+      "url": "http://arxiv.org/abs/2607.06452v1",
+      "published_at": "2026-07-07T16:12:51Z",
       "category": "ai"
     },
     {
-      "title": "📄 Weak-to-Strong Generalization via Direct On-Policy Distillation",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must",
+      "title": "📄 Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+      "description": "Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrati",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05394v1",
-      "published_at": "2026-07-06T17:59:58Z",
+      "url": "http://arxiv.org/abs/2607.06447v1",
+      "published_at": "2026-07-07T16:11:30Z",
       "category": "ai"
     },
     {
-      "title": "📄 Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-      "description": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi",
+      "title": "📄 Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders",
+      "description": "Vision-Language Models (VLMs) are increasingly utilized as the conditioning backbone for diffusion-based image editing due to their remarkable multimodal reasoning capabilities. While standalone VLMs ",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05393v1",
-      "published_at": "2026-07-06T17:59:58Z",
+      "url": "http://arxiv.org/abs/2607.06445v1",
+      "published_at": "2026-07-07T16:11:13Z",
       "category": "ai"
     },
     {
-      "title": "📄 LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th",
+      "title": "📄 Finding H. pylori in the Fine Print: Evidence-Linked Multi-Agent Case Finding from Gastric Biopsy Reports",
+      "description": "Data from Singapore indicated that about 31% of the population had evidence of Helicobacter pylori infection. Persistent H. pylori infection is associated with chronic active gastritis and peptic ulce",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.05391v1",
-      "published_at": "2026-07-06T17:59:35Z",
+      "url": "http://arxiv.org/abs/2607.06435v1",
+      "published_at": "2026-07-07T16:05:00Z",
       "category": "ai"
     }
   ]
