@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T17:21:45Z",
+  "last_updated": "2026-07-08T19:11:08Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,6 +55,14 @@
       "category": "world"
     },
     {
+      "title": "What Do We Know About the Microplastics Inside Us?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "published_at": "2026-07-08T17:43:37Z",
+      "category": "tech"
+    },
+    {
       "title": "Chatto is now Open Source",
       "description": "",
       "source": "Hacker News",
@@ -71,6 +79,22 @@
       "category": "tech"
     },
     {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "published_at": "2026-07-08T08:46:06Z",
+      "category": "tech"
+    },
+    {
+      "title": "Grok 4.5",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://x.ai/news/grok-4-5",
+      "published_at": "2026-07-08T18:00:32Z",
+      "category": "tech"
+    },
+    {
       "title": "GPT‑Live",
       "description": "",
       "source": "Hacker News",
@@ -79,11 +103,11 @@
       "category": "tech"
     },
     {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "description": "",
       "source": "Hacker News",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "published_at": "2026-07-08T08:46:06Z",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "published_at": "2026-07-08T17:46:12Z",
       "category": "tech"
     },
     {
@@ -95,43 +119,19 @@
       "category": "tech"
     },
     {
+      "title": "EU now one step away from reviving private message scanning rules",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "published_at": "2026-07-08T16:53:06Z",
+      "category": "tech"
+    },
+    {
       "title": "Cloudflare Meerkat - Globally distributed consensus",
       "description": "",
       "source": "Hacker News",
       "url": "https://blog.cloudflare.com/meerkat-introduction/",
       "published_at": "2026-07-08T13:18:03Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "published_at": "2026-07-08T05:25:35Z",
-      "category": "tech"
-    },
-    {
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "published_at": "2026-07-08T13:24:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Follow London Trains in 3D",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ride.nexttrain.london/",
-      "published_at": "2026-07-04T16:11:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "published_at": "2026-07-03T21:46:07Z",
       "category": "tech"
     },
     {
