@@ -1,16 +1,65 @@
 {
-  "last_updated": "2026-07-08T15:12:08Z",
+  "last_updated": "2026-07-08T17:21:45Z",
   "sources": [
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran - BBC",
+      "description": "\n\nBowen: For all his bluster, Trump has no better option than talks with Iran  BBC\n\nEnergy costs rise and stocks fall sharply as US-Iran peace is shattered  Sky News\n\nTrump declares ceasefire with Ira",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TDRuakxuZ2RUYVFLbGdILTFNOHZCYVRhWkZJelJvOHlXRDFobld5SlpndUlwcko0cm96YS1UTTJHeFRMZk5sYlBHMmMwUmFaNklqcmQ2bGRBOXpM?oc=5",
+      "published_at": "2026-07-08 15:30:00",
+      "category": "world"
+    },
+    {
+      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war? - BBC",
+      "description": "\n\nRussian fuel shortages bite – but will Putin change tack in Ukraine war?  BBC\n\nRussia Bans Diesel Exports After Ukraine’s Refinery Attacks  Bloomberg.com\n\nVladimir Putin faces a fork in the road  Th",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxYzQ1YXlGdEo4ZHlxR1lCTlBZNEdFNlpocVNBM0xPNmVxR1hpM1ZsMXN1cTNJRlM2Y0w5cG10WVpIdXc2TUloaEo4NFFRS2xFVi1aLUlHNlI2dDdO?oc=5",
+      "published_at": "2026-07-08 05:05:31",
+      "category": "world"
+    },
+    {
+      "title": "Oil prices rise to record level after Iran launches attacks on tankers near strait of Hormuz - The Guardian",
+      "description": "\n\nOil prices rise to record level after Iran launches attacks on tankers near strait of Hormuz  The Guardian\n\nQatari LNG tanker awaits salvage off Oman after projectile strike  Reuters\n\nUS carries out",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHZCN0g1UHJ1czVIT1dORUI2RW1sWWhYVFBrWFlCSlZaRFdjYW5STG9vMzZxZ1lGcUhubEdoV1Q5NFJTM1A3NnIzQ0pkM3VkazlycmdqLWpRRHEwRzdhc3J3M2RsSGlRNVh0Tk5MQ1dGUXliWk9PWkdzcV9JNHlEMnA4ZFB3empYN2x3VG5DZmFhbHdUUTlUbUZlVFBYbkk?oc=5",
+      "published_at": "2026-07-08 15:19:00",
+      "category": "world"
+    },
+    {
+      "title": "Trump reignites Greenland feud with Europe at NATO - politico.eu",
+      "description": "\n\nTrump reignites Greenland feud with Europe at NATO  politico.eu\n\nTrump renews call for US to take over Greenland as he arrives for Nato summit  The Guardian\n\nTrump threatens to remove all US troops ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3BlbFFVZk5LckllT2VMdlgxa0FlemVRYzRnWWl1TW9yZ3ZiOFE5SlRXaS1FTHlmZzA2WWRLS1NCTFllTnJPQ3huRkdqNFF0blBHYkhDVzM5NDU0RUhBQ3BBMjh6bU5kOUszaGY2NHQxMkRZckNpd1IweVUtV2tSNGZ6Sy03ZzAyWmhGODM4Q1NvdXl5SHdZVjg2a1UwYUlq?oc=5",
+      "published_at": "2026-07-08 11:14:00",
+      "category": "world"
+    },
+    {
+      "title": "Pakistan searches for Boeing cargo plane missing over Arabian Sea - Al Jazeera",
+      "description": "\n\nPakistan searches for Boeing cargo plane missing over Arabian Sea  Al Jazeera\n\nSearch under way after Boeing 737 plane vanishes off Pakistan coast  BBC\n\nK2 Airways Cargo 737 crashes into Arabian Sea",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzlnbVRUQjdlMHVDRjBaUnFZX20zTGlsVXlFT2FvVkdPd1BILUhiWF9nbElSTDhNemZWNVFHcnJfQmVhbE9PSFd0VV9LN0IwV25RSTl3eVBzN2daS3pTOFgwR0dJY3pXVjZ1c1hidUxXYkV2RDZMY1A1dHdSVm52dFZUVmF6Mmh1LVVUcFlrRFhWcXdod1V1bjVSVU51ajFrNWNzVTE2ZlTSAa4BQVVfeXFMUGEyWVlIQXRSR21PUzI2TUJPLWxQSDZSMUotNi1VRUdjUURsNXg4bVlTQm1na0x6TkE3ajJBYWdkNlRvTG93QUNNOWNDZ2Iyc05UbFBXSXRtLXRhb1RWUm80VnRVWHZKYW54ZHR0cDliZHlrOXNvZGdyajZqcHhNLWNEUVVpOVltd05kOUF5dmZDLU50czRjUjFrdVRzcmhTaDBwUFhKRHZWM0RGcXBn?oc=5",
+      "published_at": "2026-07-08 09:46:32",
+      "category": "world"
+    },
+    {
+      "title": "Rambling Trump mistakenly claims ‘Islamic Republic of Japan’ fired missiles at US aircraft carrier - The Independent",
+      "description": "\n\nRambling Trump mistakenly claims ‘Islamic Republic of Japan’ fired missiles at US aircraft carrier  The Independent\n\nFighting War With Iran, Trump's \"Islamic Republic Of Japan\" Faux Pas  NDTV\n\nTrump",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmhKdy1OS3dFYTg0SlY1N3FsZVo1bXAxVmxmTkQ0dXAwN3dkRFdaSDFPM1Z4bFN0Mzg3VjFKclNIWUZ4ZlFCUmVzRGlGV2VzdkdHbnF3LV96UjdCMXVLWmVwdk55djE0clJJWkdReHJveFp6ak9oZnRJYXk0aHpwMFhkeUFTU0VqU0dCeU5Mc0pPRF9sODJlVWFIZzZINHBR?oc=5",
+      "published_at": "2026-07-08 13:54:00",
+      "category": "world"
+    },
+    {
+      "title": "Chatto is now Open Source",
       "description": "",
       "source": "Hacker News",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "published_at": "2026-07-08T08:46:06Z",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "published_at": "2026-07-08T15:19:50Z",
       "category": "tech"
     },
     {
@@ -22,19 +71,35 @@
       "category": "tech"
     },
     {
+      "title": "GPT‑Live",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "published_at": "2026-07-08T17:03:19Z",
+      "category": "tech"
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "published_at": "2026-07-08T08:46:06Z",
+      "category": "tech"
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "published_at": "2026-07-08T16:19:36Z",
+      "category": "tech"
+    },
+    {
       "title": "Cloudflare Meerkat - Globally distributed consensus",
       "description": "",
       "source": "Hacker News",
       "url": "https://blog.cloudflare.com/meerkat-introduction/",
       "published_at": "2026-07-08T13:18:03Z",
-      "category": "tech"
-    },
-    {
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "published_at": "2026-07-08T13:24:52Z",
       "category": "tech"
     },
     {
@@ -46,11 +111,19 @@
       "category": "tech"
     },
     {
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "published_at": "2026-07-08T11:30:56Z",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "published_at": "2026-07-08T13:24:52Z",
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Follow London Trains in 3D",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ride.nexttrain.london/",
+      "published_at": "2026-07-04T16:11:06Z",
       "category": "tech"
     },
     {
@@ -59,30 +132,6 @@
       "source": "Hacker News",
       "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
       "published_at": "2026-07-03T21:46:07Z",
-      "category": "tech"
-    },
-    {
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "published_at": "2026-07-08T03:59:35Z",
-      "category": "tech"
-    },
-    {
-      "title": "NoiseLang: Where N = 5 is a Dirac delta",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://manualmeida.dev/articles/noiselang/",
-      "published_at": "2026-07-06T12:40:24Z",
-      "category": "tech"
-    },
-    {
-      "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
-      "published_at": "2026-07-05T10:33:45Z",
       "category": "tech"
     },
     {
