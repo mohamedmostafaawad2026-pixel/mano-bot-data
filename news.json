@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T19:11:08Z",
+  "last_updated": "2026-07-08T20:58:29Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,11 +55,11 @@
       "category": "world"
     },
     {
-      "title": "What Do We Know About the Microplastics Inside Us?",
+      "title": "Fable is not a useful model",
       "description": "",
       "source": "Hacker News",
-      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "published_at": "2026-07-08T17:43:37Z",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "published_at": "2026-07-08T20:41:33Z",
       "category": "tech"
     },
     {
@@ -68,6 +68,22 @@
       "source": "Hacker News",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "published_at": "2026-07-08T15:19:50Z",
+      "category": "tech"
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "published_at": "2026-07-08T16:19:36Z",
+      "category": "tech"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.cloudflare.com/drop/",
+      "published_at": "2026-07-08T19:18:26Z",
       "category": "tech"
     },
     {
@@ -87,11 +103,11 @@
       "category": "tech"
     },
     {
-      "title": "Grok 4.5",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "description": "",
       "source": "Hacker News",
-      "url": "https://x.ai/news/grok-4-5",
-      "published_at": "2026-07-08T18:00:32Z",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "published_at": "2026-07-08T17:46:12Z",
       "category": "tech"
     },
     {
@@ -103,35 +119,19 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "title": "A bug which affected only left handed users",
       "description": "",
       "source": "Hacker News",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "published_at": "2026-07-08T17:46:12Z",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+      "published_at": "2026-07-08T13:20:05Z",
       "category": "tech"
     },
     {
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
       "description": "",
       "source": "Hacker News",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "published_at": "2026-07-08T16:19:36Z",
-      "category": "tech"
-    },
-    {
-      "title": "EU now one step away from reviving private message scanning rules",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "published_at": "2026-07-08T16:53:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "published_at": "2026-07-08T13:18:03Z",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+      "published_at": "2026-07-08T18:21:53Z",
       "category": "tech"
     },
     {
