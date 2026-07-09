@@ -1,11 +1,76 @@
 {
-  "last_updated": "2026-07-09T00:02:27Z",
+  "last_updated": "2026-07-09T04:43:28Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
+    {
+      "title": "US and Iran exchange fire for second day as Tehran's chief negotiator says 'breaking promises no longer cost-free' - BBC",
+      "description": "\n\nUS and Iran exchange fire for second day as Tehran's chief negotiator says 'breaking promises no longer cost-free'  BBC\n\nIran-US war latest news: Iran hits US military bases in retaliatory strikes  ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMXIxUFdtaTVQaE1MQzVoNzVRUXZQSHhRZDFGUDZxZGtEUDF3QXg3V0VkWWhHdk5WZFFTa190c3V1REdaYUZPOFpFc1NvSmZsdnZSZQ?oc=5",
+      "published_at": "2026-07-09 04:00:59",
+      "category": "general"
+    },
+    {
+      "title": "Count Binface on Clacton byelection: ‘I didn’t know old Farage was going to self-detonate’ - The Guardian",
+      "description": "\n\nCount Binface on Clacton byelection: ‘I didn’t know old Farage was going to self-detonate’  The Guardian\n\nFarage's rivals rule out standing in Clacton by-election  BBC\n\nCount Binface: Lifting the li",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjJhOS14M3M4blhMRDc2R0U0WGdmWThMdzVHOUExVWtZa0JCcWJDUU9MZWFZU3JBTTJWNmpjQktCSjQ2Z3JTbFFoMEpWbFNFVG9Oc2pCWGE1ek5RYy12SEJqODF0a0ZHQm5nc2FGQ05vN0k0eVJzR215c2FzWUpyOERRS0Y1Q3VSTm1VYzhEM3NNUzFQUWFvQjhaLU9aV0c4MXRtYkx1V0RnbGNLUExwaFdWcEIzWm0yUG9TNmxidkdBME82akE?oc=5",
+      "published_at": "2026-07-09 01:31:00",
+      "category": "general"
+    },
+    {
+      "title": "Crude cuts to disability benefits not expected, minister says - BBC",
+      "description": "\n\nCrude cuts to disability benefits not expected, minister says  BBC\n\nFirst comprehensive review into PIP finds it is “not fit for purpose”  GOV.UK\n\nDisability benefits 'not fit for purpose' and asses",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Gb1g3ZkQtWGZxcEdGU1lNRllfR3R4Q1VLb1ZBZGZCckR4djJaMU4tTHdKeUxHcDVLYTZudTNzMmJoalhUUjY1WEw2bzdrVm03RmpqMFkwdTJkVmlI?oc=5",
+      "published_at": "2026-07-08 23:10:43",
+      "category": "general"
+    },
+    {
+      "title": "Mahmood set to change law so Rochdale rapist can be deported - The Telegraph",
+      "description": "\n\nMahmood set to change law so Rochdale rapist can be deported  The Telegraph\n\nUK to change law so ringleader of Rochdale grooming gang can be deported  BBC\n\nMahmood to close loophole blocking deporta",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3Y3Z0dURFRlc21iM0l4bDdxRlZqa1hLUGhmSzlhUWJaaG1ieDZhcjVldUdVOE5JcDRpQXBfdGowRFlhdTNiR1NQUGlEaDNLOWhFOVg4NzJkcWJtLU01WnBXY2pVS0pyb2t5Mk54Z21uV0NveF84MWVYRFJmYUlRZUd6VENWUVV5cVZIZ2RjQjRVRmJucndDbnNtOS0yY3g4Y3ZlRA?oc=5",
+      "published_at": "2026-07-08 13:33:00",
+      "category": "general"
+    },
+    {
+      "title": "After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates - The Guardian",
+      "description": "\n\nAfter losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates  The Guardian\n\nHas Harry's war with the press finally run out of road?  BBC\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI1TDBVWlBEbG5kemZmeUNuZVVmZkx5NThVQUZsYk9aMjRBUlVDbktKaW1UTzV4eUhpWXhzMkw0QUxxam4tVDBIZ2t1eDFLTFJuUWRtU0plTGI0akp6bnc2dWliTmZDV0pKTEU3aUVqNUhCZ2U5dngtMkFxSzdqNVVwY2N4Y29BMXl3WVVjeGl3a0c2?oc=5",
+      "published_at": "2026-07-08 16:54:00",
+      "category": "general"
+    },
+    {
+      "title": "Democrat Graham Platner out of Maine Senate race amid sexual assault allegation - BBC",
+      "description": "\n\nDemocrat Graham Platner out of Maine Senate race amid sexual assault allegation  BBC\n\nMaine contenders: the Democrats who could replace Graham Platner  The Guardian\n\nPerhaps the Nazi Tattoo Was a Cl",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PUndDS3c3Vk1uaXRNVEpnWXlCTWliN25nR1dLYmM2RVZvRUE2c1dMSkxTV0FRUjBFcElrczJNQXN3STZOamNBc2V0RUdwdkpPSFl5YnBTTi11T2ZY?oc=5",
+      "published_at": "2026-07-09 00:32:35",
+      "category": "general"
+    },
+    {
+      "title": "Five key takeaways from the NATO summit in Ankara - Al Jazeera",
+      "description": "\n\nFive key takeaways from the NATO summit in Ankara  Al Jazeera\n\nSabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit  The Guardian\n\nUkraine war latest: 'Moscow will",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGZkQ29BemRpMTQzZ212a2poSW5mZWJMcXNDU3JLRXlaUndiOTJGY1p6YWpqdzhyV0dHSWhHMy1fOFpxUURGQk54cGNLUGVFOXFqWXdvdUl0QU5OR2NwT1dNQkpsSGNiY3Z5b2c4cl9BcF9XVFg2S2tXWUFBZEQtZm5PWnJKMklOc0cxMlJ5MF9jUDDSAZgBQVVfeXFMTnlmQk55ZkR1eXROdzNnNVpyR1hDaVloZ3UzendHaHh3TERtbjFfcVk0Sm5KT3hUeUowYjFtUnY5eFNhZFlEb2hOOGhQelhXTlhzN05tbUl0dTJyWFlkM0pJblpNUDhWSnBidlpoaTdQQTRKbS1jTnlXejBzTDFZYnB5RUdKWXNRNW5VZndVbnJXMDk2QkIxb24?oc=5",
+      "published_at": "2026-07-08 19:11:01",
+      "category": "general"
+    },
+    {
+      "title": "UK heatwave spreads further north and west as temperatures continue to climb - BBC",
+      "description": "\n\nUK heatwave spreads further north and west as temperatures continue to climb  BBC\n\nAmber heat health alert issued for South West | ITV News  ITVX\n\nAmber alert for extreme heat in force as UK braces ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51T0EtS3haRG54bm1ucUxZZE45UDBSNWhFZy1wMERlNGNhOHd1YnZZRG14YnpsZk5LY3dGUE1TUVhYak1XLWpYUGMtdkM1a0x2TnNpaTRpLTFUem9fOGc?oc=5",
+      "published_at": "2026-07-08 20:34:56",
+      "category": "general"
+    },
     {
       "title": "US says conducting new wave of strikes on Iran as ceasefire falters - Al Jazeera",
       "description": "\n\nUS says conducting new wave of strikes on Iran as ceasefire falters  Al Jazeera\n\nUS launches more strikes on Iran with local media reporting explosions along south coast  BBC\n\nUS carries out another",
@@ -55,19 +120,11 @@
       "category": "world"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "description": "",
       "source": "Hacker News",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "published_at": "2026-07-08T21:03:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "FAANG Simulator",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "published_at": "2026-07-08T20:05:42Z",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "published_at": "2026-07-08T23:37:43Z",
       "category": "tech"
     },
     {
@@ -79,35 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "Rewriting Bun in Rust",
+      "title": "Separating signal from noise in coding evaluations",
       "description": "",
       "source": "Hacker News",
-      "url": "https://bun.com/blog/bun-in-rust",
-      "published_at": "2026-07-08T21:49:59Z",
-      "category": "tech"
-    },
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "published_at": "2026-07-08T23:37:43Z",
-      "category": "tech"
-    },
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "published_at": "2026-07-08T08:46:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "published_at": "2026-07-08T14:09:17Z",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "published_at": "2026-07-08T21:03:51Z",
       "category": "tech"
     },
     {
@@ -119,52 +152,20 @@
       "category": "tech"
     },
     {
-      "title": "Grok 4.5",
+      "title": "Remote Attestation",
       "description": "",
       "source": "Hacker News",
-      "url": "https://x.ai/news/grok-4-5",
-      "published_at": "2026-07-08T18:00:32Z",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "published_at": "2026-07-09T00:32:33Z",
       "category": "tech"
     },
     {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "description": "",
       "source": "Hacker News",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "published_at": "2026-07-08T17:46:12Z",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "published_at": "2026-07-08T14:09:17Z",
       "category": "tech"
-    },
-    {
-      "title": "📄 ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-      "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.06565v1",
-      "published_at": "2026-07-07T17:59:50Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-      "description": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.06546v1",
-      "published_at": "2026-07-07T17:52:17Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
-      "description": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.06544v1",
-      "published_at": "2026-07-07T17:51:10Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
-      "description": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human lan",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.06542v1",
-      "published_at": "2026-07-07T17:47:26Z",
-      "category": "ai"
     }
   ]
 }
