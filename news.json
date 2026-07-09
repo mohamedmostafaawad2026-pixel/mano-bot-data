@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-09T14:36:39Z",
+  "last_updated": "2026-07-09T17:14:23Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,6 +72,62 @@
       "category": "general"
     },
     {
+      "title": "US and Iran trade most intense strikes since ceasefire extended - The Guardian",
+      "description": "\n\nUS and Iran trade most intense strikes since ceasefire extended  The Guardian\n\nIran war latest: Slain ayatollah buried in Iran - as Tehran 'hits US air base' in Jordan  Sky News\n\nInside the tense Ov",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzE4amdncnhwbEk1SDBiZkgyRXlYZmRqTThTeTBKZWg1ckUzUWdrRV9LZGxDblVpSFd6QXI4eG5pMmo2U05UaHA0RnFZZXJLZ1ZhR0lWT19nNGpNMEZrSVZMSmtOdjN2THhTS3haTk5MbGplYVBTSmxDZlJ2UDJhRnZuVWNtam50VDZIc0JLTUg2N2xfUGdSYjAzVXE?oc=5",
+      "published_at": "2026-07-09 11:39:00",
+      "category": "world"
+    },
+    {
+      "title": "Maine says ‘no official withdrawal notice has yet been received’ from Graham Platner – live - The Guardian",
+      "description": "\n\nMaine says ‘no official withdrawal notice has yet been received’ from Graham Platner – live  The Guardian\n\nDemocrat Graham Platner out of Maine Senate race amid sexual assault allegation  BBC\n\nMaine",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUTFoUHIyZ1E1VmZ3STBKVlI5VUZtbnd2aTJtUzdqZ3Vrd3NxUXFpc3AwSmIxZnV2WWFqem1SVHRTTFk0eDByMExLMnBSM2g4LUsxS05fVldrc3ZRN3dYcm9QQmIxNWhaRFh0SDZBQ3RhdUZ3QlB1Y0c5U3ZORk9xb0xRVm1YbDFWbFItSlQydFVhVk5aY2hLT0NrSHNqWTJEY1JFcmdzdEt5TmRQQU5Oc0xXU29nVjNOMUUyMXdqZ1hVeUJDZFNzUFh3?oc=5",
+      "published_at": "2026-07-09 16:30:43",
+      "category": "world"
+    },
+    {
+      "title": "How Ukraine’s drones brought war home to 50mn Russians - Financial Times",
+      "description": "\n\nHow Ukraine’s drones brought war home to 50mn Russians  Financial Times\n\nRussian fuel shortages bite – but will Putin change tack in Ukraine war?  BBC\n\nRussia bans diesel exports after Ukrainian att",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWNSMzlmLVpYUFpMYkRDVG1ERWVxRHRfdU8tWmlBZFFqdk01ajhnYzRFd3phZXRIYW13Q0R5dmZrVDRiYVFQVy02cTEzc2dYSG94WUVqSHltRnJEOVljYkJZYkxJUzU2LXgtWHkwWC1SRFdsbFY4LUZPbUVRVXdHZzNCbng?oc=5",
+      "published_at": "2026-07-09 04:07:33",
+      "category": "world"
+    },
+    {
+      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport - BBC",
+      "description": "\n\nGreek F-16 fighter jet crash-lands at busy Zakynthos airport  BBC\n\nGreek F-16 jet makes emergency landing at Zakynthos airport  Anadolu Ajansı\n\nWatch: F-16 burst into flames after crash-landing at G",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSEUwMXFBSGlfT09JXzZ0cWkwb1p4S2FmcE4xQVV0TG9DVktHRWhsMHNOU3lSV19iU1hJMTBCb0YzRmpEYlIydWl6VEZ4eTMwZVNGZ1FtZy1oV1JL?oc=5",
+      "published_at": "2026-07-09 16:15:10",
+      "category": "world"
+    },
+    {
+      "title": "Ukrainian Drones Strike Russian Oil Sites and Tankers - The Moscow Times",
+      "description": "\n\nUkrainian Drones Strike Russian Oil Sites and Tankers  The Moscow Times\n\nUkraine strikes Russian ships near Crimea, escalating attacks on fuel supplies  BBC\n\nUkraine war latest: Kyiv hits 12 Russian",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDVMQnVmRURDYWUwUmExSUR0bnp3R1NXMDd0MFFGRnd6YUE2eHUteU93WlFDcmYzMmlyUzVJNFYtQjZoUElXUThMMk9UdDFpNEVHMUZPLXhlTjRIZ2dUOXhUN3pIUkRyRVpvdVhXTFUwWHYzYXZiWHNreW04NktLLUpKT2JVQWtvZFVUUUs5WFdUejhLak40dGFTVnRFNExYSldWbA?oc=5",
+      "published_at": "2026-07-09 09:25:32",
+      "category": "world"
+    },
+    {
+      "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united? - Al Jazeera",
+      "description": "\n\nTrump targets Spain, NATO backs Ukraine: Is the alliance still united?  Al Jazeera\n\nFrom menacing threats to comical misnomers: Donald Trump’s unlikely tale of love and darkness at Nato  The Guardia",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk5WOWI2cjlraVgyTVJNTFlaNUNrZ29zRDVmb2E3dm53X3dROUZPai05MnpqQzRhQWJBRTlJRlduVXJlTDNXNU13VDdvMGZLR1hNQ25ZWDljTkp0MUFTaXRaVXdwcnd3SUUzUDktZ25lWVlueEtQaE05cGJkQ2prODVNRDFsbTZKbnJMWXFEQ1hnb2NUUVQtR1dyMVNEdUtucnVqMm10b1hXNDDSAbABQVVfeXFMTzc0dmNmREpzaXg2Mng2Y1FHd29XOFpZaW52ZlR0bXBmdDEyR1pFemxpc3BtZ0JKX0ZZNXhMaDItX3h5aG01bS1GYm9TMFRBVEdiMkVhOXgtUkE2cXdmRmkzVWRtMi1BTy1qM0hnMUdRU3JISWcxRjRjR0JCNWFqVFhBVVZua2JLQVMwLThiY2FsbTFzZHlSXzRpZlY3cS1WZ1J0Y0hHT01wWk9oYjcyRmg?oc=5",
+      "published_at": "2026-07-09 14:11:27",
+      "category": "world"
+    },
+    {
+      "title": "GPT-5.6",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "published_at": "2026-07-09T17:04:14Z",
+      "category": "tech"
+    },
+    {
       "title": "Show HN: 18 Words",
       "description": "",
       "source": "Hacker News",
@@ -79,67 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/ronak-create/FableCut",
-      "published_at": "2026-07-09T13:23:10Z",
-      "category": "tech"
-    },
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "published_at": "2026-07-08T23:37:43Z",
-      "category": "tech"
-    },
-    {
-      "title": "Introducing Muse Spark 1.1",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
-      "published_at": "2026-07-09T14:10:22Z",
-      "category": "tech"
-    },
-    {
-      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-      "published_at": "2026-07-09T10:02:33Z",
-      "category": "tech"
-    },
-    {
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "published_at": "2026-07-03T19:27:05Z",
-      "category": "tech"
-    },
-    {
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "published_at": "2026-07-09T05:14:45Z",
-      "category": "tech"
-    },
-    {
-      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "title": "EU Parliament greenlights Chat Control 1.0",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "published_at": "2026-07-09T11:03:54Z",
-      "category": "tech"
-    },
-    {
-      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-      "published_at": "2026-07-09T13:29:31Z",
       "category": "tech"
     },
     {
@@ -151,20 +152,20 @@
       "category": "tech"
     },
     {
-      "title": "📄 Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
-      "description": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization.",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.07708v1",
-      "published_at": "2026-07-08T17:59:59Z",
-      "category": "ai"
+      "title": "A possible future for Damn Interesting",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "published_at": "2026-07-09T15:25:25Z",
+      "category": "tech"
     },
     {
-      "title": "📄 Co-LMLM: Continuous-Query Limited Memory Language Models",
-      "description": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches ",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.07707v1",
-      "published_at": "2026-07-08T17:59:45Z",
-      "category": "ai"
+      "title": "Muse Spark 1.1",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "published_at": "2026-07-09T14:10:22Z",
+      "category": "tech"
     }
   ]
 }
