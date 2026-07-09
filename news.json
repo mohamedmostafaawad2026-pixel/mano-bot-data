@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:25:22Z",
+  "last_updated": "2026-07-09T21:14:48Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,27 +128,11 @@
       "category": "tech"
     },
     {
-      "title": "ChatGPT Work",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
       "description": "",
       "source": "Hacker News",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "published_at": "2026-07-09T17:03:53Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://18words.com/",
-      "published_at": "2026-07-09T12:48:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "published_at": "2026-07-09T18:29:41Z",
+      "url": "https://github.com/JustVugg/colibri",
+      "published_at": "2026-07-09T08:05:04Z",
       "category": "tech"
     },
     {
@@ -160,11 +144,27 @@
       "category": "tech"
     },
     {
-      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+      "title": "Show HN: 18 Words",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://18words.com/",
+      "published_at": "2026-07-09T12:48:52Z",
+      "category": "tech"
+    },
+    {
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
       "published_at": "2026-07-06T10:53:51Z",
+      "category": "tech"
+    },
+    {
+      "title": "Train SIM Created by Just One Person Is Being Called the Best Ever Made",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "published_at": "2026-07-05T08:40:27Z",
       "category": "tech"
     }
   ]
