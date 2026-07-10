@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T13:05:55Z",
+  "last_updated": "2026-07-10T16:16:58Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,14 +112,6 @@
       "category": "world"
     },
     {
-      "title": "Good Tools Are Invisible",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "published_at": "2026-07-10T10:32:41Z",
-      "category": "tech"
-    },
-    {
       "title": "Late Bronze Age Collapse",
       "description": "",
       "source": "Hacker News",
@@ -128,43 +120,51 @@
       "category": "tech"
     },
     {
-      "title": "GPT-5.6",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
       "description": "",
       "source": "Hacker News",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "published_at": "2026-07-09T17:04:14Z",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "published_at": "2026-07-10T15:59:53Z",
       "category": "tech"
     },
     {
-      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+      "title": "Write code like a human will maintain it",
       "description": "",
       "source": "Hacker News",
-      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "published_at": "2026-07-03T08:43:18Z",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "published_at": "2026-07-10T13:33:00Z",
       "category": "tech"
     },
     {
-      "title": "In Emacs, Everything Looks Like a Service",
+      "title": "A Love Letter to Flashcards",
       "description": "",
       "source": "Hacker News",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "published_at": "2026-07-10T08:21:10Z",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "published_at": "2026-07-10T15:30:44Z",
       "category": "tech"
     },
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/JustVugg/colibri",
-      "published_at": "2026-07-09T08:05:04Z",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "published_at": "2026-07-06T12:32:57Z",
       "category": "tech"
     },
     {
-      "title": "Java 27: What's New?",
+      "title": "Successful Companies Go Blind",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/",
-      "published_at": "2026-07-10T10:08:49Z",
+      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "published_at": "2026-07-10T13:31:08Z",
+      "category": "tech"
+    },
+    {
+      "title": "My burner email blocklist blocked me",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://benjamin.piouffle.com/blog/burner-email-blocklists/",
+      "published_at": "2026-07-09T14:54:34Z",
       "category": "tech"
     }
   ]
