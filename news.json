@@ -1,58 +1,131 @@
 {
-  "last_updated": "2026-07-10T10:16:42Z",
+  "last_updated": "2026-07-10T13:05:55Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Iran-US war latest: Millions block streets for Khamenei burial - The Telegraph",
-      "description": "\n\nIran-US war latest: Millions block streets for Khamenei burial  The Telegraph\n\nHuge crowds in Mashhad as Iran's late supreme leader is buried  BBC\n\nSlain Supreme Leader Ali Khamenei buried at Iran’s",
+      "title": "Spain wildfire latest: At least 12 dead as crews battle to contain blaze - BBC",
+      "description": "\n\nSpain wildfire latest: At least 12 dead as crews battle to contain blaze  BBC\n\nWildfires in southern Spain kill at least 12 amid soaring temperatures  The Guardian\n\nSpain wildfires latest: Four Brit",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHk5SVR4QzhvakNVWlhyYzFTM1VtTW13bUYxY0hoNHlVYjNuVDY3c1FPdG5NRlJaZWpzdVoyZDlIcG1pc0RxTFpzR2h2QTVWb3RTMkhmSUI0clRKSGxISnlpWGtLZTdzdjVxeVFlQ1Q1ZVdqUW0tWWZlVXJwMXZjemdMYV9VcTg0TGhycktLR2pjVTZJa1pnZ2kwdEZ4N2xvZ3dQb2ZLQQ?oc=5",
-      "published_at": "2026-07-09 20:36:56",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MeEtBVFJIejcyelRlekQ4Z0JhLTU3R1d4QWFUck5zTk9Jb1pnc2IzWEdfTVJBWWxMSDBBMVJSa1lKYi1yNWkwZUVBUTh3M00tSUV2d0tkQQ?oc=5",
+      "published_at": "2026-07-10 11:45:39",
+      "category": "general"
+    },
+    {
+      "title": "Ann Widdecombe, former Tory minister and Reform UK member, dies aged 78 - The Guardian",
+      "description": "\n\nAnn Widdecombe, former Tory minister and Reform UK member, dies aged 78  The Guardian\n\nFormer Tory minister Ann Widdecombe dies at 78  BBC\n\nFormer Conservative minister Ann Widdecombe dies aged 78  ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWd3cTh3elZrdkJjWXhScG5YcDkyN0ZEeHFXTnVPRlhLdENYVERVNUJyLXRjd2R2VGRHUWFNV1VWck1adUdZZFN5UHV0YUNpNkZWMlhJMGpWaWwwaFZQemt5d3FraWVyT0VCNUpxZjU5cjZxVEhtYXI0LW9Na1k2d0JGempFbVR6akxrcF9IcVpNTEhWNTh4MzdfZzl4Tm1tTXFjbjNrMWdHZ2k0TTZpdDVB?oc=5",
+      "published_at": "2026-07-10 05:52:00",
+      "category": "general"
+    },
+    {
+      "title": "Police probe £500k donations to Reform by fraudster’s mother - The Telegraph",
+      "description": "\n\nPolice probe £500k donations to Reform by fraudster’s mother  The Telegraph\n\nPolice investigate Reform donations by mother of fraudster who bankrolled Farage  The Times\n\nFive pressing questions for ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXZJS19pRHUtdFNLX2J2cE1mZHhORHlPdTdQNVFFX25DdnAxMG9vaDR3WlBVbnlKNFMzbUw3M1BnRWY1c0Nqc3NlOHY3UmlYUXRGWlk5c0pNNUp2dTdCNXRLeVQ0ZFBRd0EyWFJMel9pTGViNTR2cldET0pPdHNhMzV0d3Vzc1IwRm9YYTh3RXRfS09BbmlKR05rVG9rZVRnUmxabzJzRQ?oc=5",
+      "published_at": "2026-07-10 07:41:00",
+      "category": "general"
+    },
+    {
+      "title": "Count Binface: Lifting the lid on former comedy writer playing politics for laughs - The Telegraph",
+      "description": "\n\nCount Binface: Lifting the lid on former comedy writer playing politics for laughs  The Telegraph\n\nGeorge Cottrell referred to Nigel Farage as ‘daddy’, says ex-Reform candidate  The Guardian\n\nClacto",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0pSak5obFFON0V5QWZ3OG05bmw3UWs2c2drVWdJRHB1OXN1WkdVSWQ1T3FmRXJJMW9KdXhiYkdreVpPS1NMMGQ5ejhsUlpPYXFsOVY0NnFWcndPc3JsQThyaGl2a3ZWWHdQZmdEU2hCVXd0RUVCUFBvcy0ycVNqSGJEcW9LRHhPXy0zcHdVRVgzWmc0V0EwSTFaMjRfYmdfUTRyUg?oc=5",
+      "published_at": "2026-07-10 07:28:00",
+      "category": "general"
+    },
+    {
+      "title": "Bayeux tapestry crosses Channel in dead of night for historic UK exhibition - The Guardian",
+      "description": "\n\nBayeux tapestry crosses Channel in dead of night for historic UK exhibition  The Guardian\n\nBayeux Tapestry delivered to British Museum in dead of night  BBC\n\nEmmanuel Macron: Bayeux Tapestry loan bi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORndRT3lndVRCdXVkM09IcC1hZW9GMFJQbWI4QjFjWEdMaXlFbnRJdGVLMklBTi1wV0dRTVRMX3cxTjNsZ3NadlBjRjBzRDl5cFp0eWtDVW56NnFaWk5zMmpqcjlBbFpJR19McTJHU3lxZFNySFR1bHp5ck1kNUJvYjJIZTZVdTB3ZmQ5bW1jY0pCZU52elJVZjc5VQ?oc=5",
+      "published_at": "2026-07-10 12:47:00",
+      "category": "general"
+    },
+    {
+      "title": "Labour under Burnham will be faster and bolder, says minister - BBC",
+      "description": "\n\nLabour under Burnham will be faster and bolder, says minister  BBC\n\nBurnham set to be next PM as 322 Labour MPs back him in first nomination tally  BBC\n\n‘Very North Korean’: hundreds of Labour MPs b",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82amFzNjBhZERzLWx5X2hUSlI2MkhXbl81TEw4T182YU5RWmJ2YjRiQnZPUTJNLTFkamFqdVBDY2prQVJ6aldsU0dUcF9qQ29EOEVVNzdwYUJMM1hD?oc=5",
+      "published_at": "2026-07-10 09:00:37",
+      "category": "general"
+    },
+    {
+      "title": "Vapes to have less enticing names and flavours to protect children - BBC",
+      "description": "\n\nVapes to have less enticing names and flavours to protect children  BBC\n\nBubblegum and cola-flavoured vapes to be banned to protect children  The Telegraph\n\nTobacco and vapes: packaging, appearance ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBubE96LUcxV01rb2VDdERjZFhMLTRha2hWSzdKbFJLQjY1eG9TMTFTR3ZVMlY4LWRvUGJ4TF9VZHkxaUhETjY2bXFRemg2ZGZxeVZJUUZManVxcnVQ?oc=5",
+      "published_at": "2026-07-10 02:15:38",
+      "category": "general"
+    },
+    {
+      "title": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence - Al Jazeera",
+      "description": "\n\nUK Labour’s Burnham apologises for response to Israel’s Gaza violence  Al Jazeera\n\nAndy Burnham apologises for Labour’s stance on Gaza and says it ‘didn’t get it right’  The Guardian\n\nBurnham faces ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTERYY25yWGhuRFN6bmx2VElZTXR1SVlDSE8xX3NTZ0FCc2ZENlZLT0Z4amxrUWZlR0FHUmhPTjhYY2Z6V0RtVFBQdnpvSDhEVHBxelZ0SENsLUdDY1RNcjFLVWt4ZS0yaWtkcVVmaFJnd1JNNjJnNld2Y2ZibndCN05CRFZyckpQdEJndlNuNnJPaUE0VXZpTHA1QkFodV9nWVgyRjRmU0FFdEnSAbABQVVfeXFMTVhLYUtMRUJRMWFkLWRtMXVTNU9UbVFHMjllc18xNnU1TmpPcnc4Q1d5a3NiNW10ZEh2MnJOSXhUVXY4UXhWMFpodDJoYk10ajBWeklMZ0dQeGRURHBOSmdGRVk3a1IyMFVpNDBqUV9GZVJhRWlER3VYTnpPLUNiLXRkRG1wX2FoLV9peWoxS0c1S3ZBYkR4M1dGU29hV2RocnVLRXJwSFJmWVd5MENjRjE?oc=5",
+      "published_at": "2026-07-09 20:23:45",
+      "category": "general"
+    },
+    {
+      "title": "US-Iran war: Will peace talks ever resume, and when? - Al Jazeera",
+      "description": "\n\nUS-Iran war: Will peace talks ever resume, and when?  Al Jazeera\n\nLive updates: Lull in fighting as mediators try to restart US-Iran talks  CNN\n\nIs Donald Trump serious in declaring the ceasefire wi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNS1tT1FpZHlmNTlrblgyWnlEOVB4Yk5lbW9hUlVCZ1BiYTFhU2RaNFdDekpxR20zVjl5ZWVLLW9NU2xqUnZ5UjA1Y1N2V3dSOTludGhqaHNjb1NDM0hNNk9tVXdwT0JVeVRTZmpwS0Zldjd6aWxUWl96MTFiTEYzUmI1TWszRTNLVWdqRkIyTUxqdWdh0gGaAUFVX3lxTFBrRUdnNUIwbHY3Sm93M1B5cDZudUdvdEltWjRIYnpULXg3bWd2bTF1d2s0T2lOdkNmM3RZRG83d3JOSFNla3NNclhyNmV1YTBGc2REYUFsanZTbG1mNEdyNHFtYmE0QlF3d0ttd1NZemktcU04NkRYVzVQcE1nWllCTGlyRDNXREVEdVlBeTF4UnRwaFZuU2xwNVE?oc=5",
+      "published_at": "2026-07-10 11:45:38",
       "category": "world"
     },
     {
-      "title": "Wildfire kills at least 12 in southern Spain - Sky News",
-      "description": "\n\nWildfire kills at least 12 in southern Spain  Sky News\n\nTwelve die in Spain wildfire as heatwave continues in southern Europe  BBC\n\nWildfires in southern Spain kill 12 amid soaring temperatures  The",
+      "title": "Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect - The Guardian",
+      "description": "\n\nMonaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect  The Guardian\n\nUkrainian agent accused of murdering Monaco bomb suspect changes story  BBC\n\nUkrainian",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzRmd0NRaWF4U2RobXRNc0VwZlhJS2wzTGViMEsycVZJX25VSzllbEZYNlVzQ2Z2QUppeE1WZ0N1NkcwQVYtOHN6U2xpVFRJTGktcFlfOGVMenN6Q2pleTZqVzBEbm4yWGU0dGpNY0NZYnh0eHNJOEVzZXRXTHNZWU05UWZSTzQ?oc=5",
-      "published_at": "2026-07-10 05:14:51",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcnNJNy1UdXh1VUFUZ1NoaV9FblRzaC1HTFFrT0poV0FqM3BPNFBicWNhbnVkTXc1Z2F3VDBwZFR6cmplWXcwc05LMWhEUkNlMkUyN0dkcjdob2xtd25CbHY3Umg2X2o2dkRDeERNYU5hWURYU1R0Ql92WTQ4dVY5STEzSk11ejhJNzYweDdlbmd4VXdJYVF1TTJZWXZ0eUdPSk81NTlha2d0bkJESWhGNldtTUdGSHhfNk1iaGtLNEZEdDdwYUtRUV9SMFFhWDA?oc=5",
+      "published_at": "2026-07-10 04:01:00",
       "category": "world"
     },
     {
-      "title": "Mexico to press for criminal charges over deaths in US custody - BBC",
-      "description": "\n\nMexico to press for criminal charges over deaths in US custody  BBC\n\nMan killed by ICE agents not intended target of immigration arrest, DHS says  The Guardian\n\nMan shot dead by ICE officer during v",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvRDlpS3hKRDJzUVgzYUlUX3d1TmJQT2lSc0xHZ2FneW1BXy0zS05id3RGOWtUWHFiWVdHWDZlRlBFSW9Ha29FVXFsSG9VSHJpRkY1emtPUjFWbFFY?oc=5",
-      "published_at": "2026-07-09 18:54:49",
-      "category": "world"
-    },
-    {
-      "title": "Hols hotspot airport hit by major delays after summer FOG leaves tourists fuming - The Sun",
-      "description": "\nHols hotspot airport hit by major delays after summer FOG leaves tourists fuming  The SunSee more headlines and perspectives on Google News\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVk4VmZ2NXpWNzd4VEJIb0RLcFA0MjRQblVZcHc2ZnpYQ0wtTVRjS3NEQ0Z1cWV5QlhGT25sYWlrLUZOYkhnQkF3SmhQQU9kSDFtSVQzYk9kcHN4eEV5bTZiZXJOa2FBUHNrZEY4c2huemJQWXVfZm42d18wak51aHdvb0NFWkdQTGloUXRQaWlJZw?oc=5",
-      "published_at": "2026-07-09 20:21:00",
-      "category": "world"
-    },
-    {
-      "title": "Ukraine’s drones have opened a summer window of opportunity behind Russian lines. Front-line soldiers tell Ukrainska Pravda the army is on track to waste it. - Meduza",
-      "description": "\n\nUkraine’s drones have opened a summer window of opportunity behind Russian lines. Front-line soldiers tell Ukrainska Pravda the army is on track to waste it.  Meduza\n\nUkraine strikes Russian ships n",
+      "title": "Ukraine’s drones have opened a summer window of opportunity behind Russian lines. Front-line soldiers tell Ukrainska Pravda the army is on track to waste it. - Meduza — Новости",
+      "description": "\n\nUkraine’s drones have opened a summer window of opportunity behind Russian lines. Front-line soldiers tell Ukrainska Pravda the army is on track to waste it.  Meduza — Новости\n\nUkraine strikes Russi",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZHZ6VUV4aWhsVi1lQUd6N3FNelFtU01vS2xFSUZWWUdSY1BWWkNQTWVsWktVZHVBNVllTDJENWoyeDRWbExoOWZBZHppNEFFYnJ1YkdHTUV3NUlSOTZMaWpFTzl5SWE0aUZYNklPc3ZFVVV5bVRteEhoNm5Odm5VNEhKcmtIcUluTjlxX0dtY1N0dVlYdlg1OVZmVFU2NUx4MTBiVU9HOUhBZGtuUHBodXBPQlVuYWxaMm9oVndWVGZmNlo5VEs5QlJ1TV9RMU5NVGR5LVBaQWRWNWwtNmRubDZ6dzVIemJzOVhVLXpzVEtBNWhfM1FMb3VDLXNDV3pTVmYtQVhTUnF1NzhBdUpkSk5DTGNTSEdHdjVRa3pQSmfSAaYCQVVfeXFMTXN0UDBESDB6azFHWV9oR3llUEZVS2JRNkJTNkhDcm5tVGRJNHR5N2g4M1dXN3ItU0NrZmVpdVItaHQ4WHRDLU5rczluU05kNlppVnBfQ3l2OWRfWGx6X25OdzV0alMyMUdKbzY5bmlGbkYxdF9CNGdhTWtOV2N0ekh4NjVPS0Q5bklYNHJQNi16VVFkOHZaaHV4TktFMElpcjc3bW5pbWFHNnBSaGJXTHNGX2Q4Mm83UGtKeVNfd1BVN3dtU0cwSkJIQW9wOFdjcFo5NFh5YzJrSmVNUVpWZ18zV245UEpNRHYxRXVTTVBUT2pzRjRYRE1waDZPUHQyckxVbkNBWjh4V2xEaUVJSW9UbmlQMTVkdU80Y3BodUtURWZOcERn?oc=5",
       "published_at": "2026-07-09 19:09:00",
       "category": "world"
     },
     {
-      "title": "Trump has struck ‘sick’ Iran again. But it’s his mental state that’s in question - The i Paper",
-      "description": "\n\nTrump has struck ‘sick’ Iran again. But it’s his mental state that’s in question  The i Paper\n\nIran war latest: Explosions reported across Iran - but US says no new strikes launched  Sky News\n\nTrump",
+      "title": "Roommate tells police Charlie Kirk murder suspect confessed to killing and broke down in tears - BBC",
+      "description": "\n\nRoommate tells police Charlie Kirk murder suspect confessed to killing and broke down in tears  BBC\n\nJudge to decide if Charlie Kirk case will go to murder trial after five-day hearing  The Guardian",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDA0em5fME9aVmIteldHODh1ekZ2aTBOQnBEUElIWXdXY1MzS25zTndCOEtMTGlIaGFsYUNnZVc5bUNFcExKRUY3ZzktRUsyM0VNbGJuNk9yTUJlT3JiWTZFdGxybExvY3paZW96MmFXbEtUQVQ1bDdFZlV0NjBYLWJtdFl5aVZsdnJYd01Kc2NrVksyRWc?oc=5",
-      "published_at": "2026-07-09 08:33:14",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TjZVR3F1Rm9aZVdFVU5QZUU4WnFFSXNpMGtqaHpnX2RNX2NMMWw1S1M1dHRzdERVZEZUbkFjOE1JeEhOa1ktRFZMTlhWSGp4ZGZfMQ?oc=5",
+      "published_at": "2026-07-09 18:13:02",
       "category": "world"
+    },
+    {
+      "title": "Slain Supreme Leader Ali Khamenei buried at Iran’s holiest shrine - Al Jazeera",
+      "description": "\n\nSlain Supreme Leader Ali Khamenei buried at Iran’s holiest shrine  Al Jazeera\n\nTehran launches more strikes after second round of US attacks in southern Iran  BBC\n\nHuge crowds in Mashhad for burial ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYU9VWWlvRk90MVZKTlk3eHNvaC14QWxVVXVxd3V5UDBEOThWbXJYYXBaSW1QWWpYNzZTQUhwajlkUDdTNi1qX0ZMbzRBdy1Jbm9zUGt0amdCSXBnNGJfQ2E5Rm1yMlN4NVRSNFlDb1B6S0hKRWxJSFF2MzE0NnhoN2JHSmFTZ2RsRGJtZWpqTGlMOE44Sk13TjRRQl9IU2JtV1hPRFBzaHpsa0VLVXZ1djdFQdIBuAFBVV95cUxOa3RNSEJHMzRVSDdHZkxBT09mSEliTVRwMHZ4Q2VBdXJkS2ZyRjdNMnl1TGhhV0dwZDd4TDQ0TWE3dlJCb3RvVUstMnh2YjRQaHhhTW5TVGpSQkJXbWxPMUVRTTZieVBkRjdXUHYyVEpQUjhEc2F1N0JPb0liUnpEYjhacXdlZGx4VDFkNTY3Y0VsM00tQzJBMzJrWGtmbzhWXzJYTEVYaEs3STk0TFEwUVZ3NFBjQ2tP?oc=5",
+      "published_at": "2026-07-10 04:50:37",
+      "category": "world"
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "published_at": "2026-07-10T10:32:41Z",
+      "category": "tech"
+    },
+    {
+      "title": "Late Bronze Age Collapse",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "published_at": "2026-07-10T11:59:55Z",
+      "category": "tech"
     },
     {
       "title": "GPT-5.6",
@@ -60,6 +133,14 @@
       "source": "Hacker News",
       "url": "https://openai.com/index/gpt-5-6/",
       "published_at": "2026-07-09T17:04:14Z",
+      "category": "tech"
+    },
+    {
+      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+      "published_at": "2026-07-03T08:43:18Z",
       "category": "tech"
     },
     {
@@ -79,92 +160,12 @@
       "category": "tech"
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
+      "title": "Java 27: What's New?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "published_at": "2026-07-09T11:03:54Z",
+      "url": "https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/",
+      "published_at": "2026-07-10T10:08:49Z",
       "category": "tech"
-    },
-    {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "published_at": "2026-07-05T08:40:27Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://18words.com/",
-      "published_at": "2026-07-09T12:48:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nevo-project.epfl.ch/",
-      "published_at": "2026-07-10T07:39:11Z",
-      "category": "tech"
-    },
-    {
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "published_at": "2026-07-06T14:59:21Z",
-      "category": "tech"
-    },
-    {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/malisper/pgrust",
-      "published_at": "2026-07-09T06:18:19Z",
-      "category": "tech"
-    },
-    {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "published_at": "2026-07-09T17:17:16Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08768v1",
-      "published_at": "2026-07-09T17:59:32Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 OpenCoF: Learning to Reason Through Video Generation",
-      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08763v1",
-      "published_at": "2026-07-09T17:58:29Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08758v1",
-      "published_at": "2026-07-09T17:55:53Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08757v1",
-      "published_at": "2026-07-09T17:55:52Z",
-      "category": "ai"
     }
   ]
 }
