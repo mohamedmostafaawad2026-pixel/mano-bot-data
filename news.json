@@ -1,18 +1,75 @@
 {
-  "last_updated": "2026-07-10T22:53:24Z",
+  "last_updated": "2026-07-10T23:52:05Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
+      "title": "Man, 26, arrested on suspicion of murder after Ann Widdecombe found dead at home - BBC",
+      "description": "\n\nMan, 26, arrested on suspicion of murder after Ann Widdecombe found dead at home  BBC\n\nMan in custody after arrest on suspicion of murdering Ann Widdecombe  ITVX\n\nAnn Widdecombe: uncompromising poli",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6RDVCWXN2Qmk2TWpLV0ZQZU9HLVowSEV1VkkxTk1GMmlkQ2lsSlNCOXYzeVpRNF9QTDBUWDFxdndGd2s1S0R3NnM4YVBmRHViZmJqbw?oc=5",
+      "published_at": "2026-07-10 20:32:18",
+      "category": "general"
+    },
+    {
+      "title": "Man charged with Bedfordshire murder of his wife and daughters after arrest in South Africa - The Guardian",
+      "description": "\n\nMan charged with Bedfordshire murder of his wife and daughters after arrest in South Africa  The Guardian\n\nBedford triple murder suspect arrested by South African police  BBC\n\nMan wanted on suspicio",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3pCWDBKMXFFYjZOcDdsSllTbzJlR1Rqc1c4TkRZU0t0dXhvUnlFaGtWTS1LWkdrWmFRWmoyOVhXSzJjYWdLdjJpTEwtdXIyRDU2WHhMYncyZDZRc2RhQVUzQ1IyaTVzSXJ2RmlKSTlZSDE5YXFObWxxQmJYbUJKRGtpRVJhelNoWjVJTUkzLXBwUE9PcnJ3Q245b0dCNXBqYzVTNWhwSXlObjNKSXVFc0xHNkl6TzRG?oc=5",
+      "published_at": "2026-07-10 22:25:00",
+      "category": "general"
+    },
+    {
+      "title": "Nigel Farage live: Britons back Count Binface in new Clacton by-election poll - The Independent",
+      "description": "\n\nNigel Farage live: Britons back Count Binface in new Clacton by-election poll  The Independent\n\nCount Binface is public’s choice to defeat Farage  The Telegraph\n\nFarage plays his part in summer of s",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUlMQjA4eHRJaDFaLVM1WHhBZks4cEpaUWNydDdCS2dVc3VoT2l4cU95eW04THJIUWVyRGNpb2VIUXhhNGxIVktaUTRaenpfdjhFVWhzYVZFNjBxZ0xOZFBnbTVKQWRzdmpIM0R6OW5kOTVHM1U4MlNDTjhRZldieVdlN3B4SFp2WFgzUUNORGhUQkdxSkFXTU1TN0NYdTdjYmRwZFcyek1NM1pnYlVGSmpNMTk4RHEwSXJMZUpvUTlTUQ?oc=5",
+      "published_at": "2026-07-10 20:00:00",
+      "category": "general"
+    },
+    {
       "title": "Four Britons feared dead as Spanish wildfire kill at least 12 people - ITVX",
       "description": "\n\nFour Britons feared dead as Spanish wildfire kill at least 12 people  ITVX\n\nWildfire in southern Spain leaves at least 12 dead and 23 missing  BBC\n\n‘I had an incredible escape’: British woman tells ",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHJHanpEQldBSDRKSC1EOHdmM1ExSmFjMjZURjVLb3k2Mldoay15Y0xweWZpYUh6b3RQcmtHbWhCNWs3NXlkaVlGRFRIVTI4TGxpVWpUN1QyeWRMMF9tTk9SenVrRWZjNDB5alp4M3NxY2tKTlVONTFvUzJZbWNzdV9VZHNvQVlIM0toYlgxbjV0N2ZxbGk3QmNSUTlHbmZCMmc?oc=5",
       "published_at": "2026-07-10 21:39:06",
-      "category": "world"
+      "category": "general"
+    },
+    {
+      "title": "Affinity Water hosepipe ban after demand rises - BBC",
+      "description": "\n\nAffinity Water hosepipe ban after demand rises  BBC\n\nUK bakes in 35C highs as millions under hosepipe bans  BBC\n\nHosepipe ban for millions more people - here are the areas affected  Sky News\n\nWhat w",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00ak5xX2pBQTFlY0JjXzZUdzJYYjZuUUJwRzVLd3dfeU5BdHFvYWhyRzRtS3lSOXV2NjBMZW1raTdJWWRXY3Y1UGlybUlLeVFacmRCQTlDaEc2ektk?oc=5",
+      "published_at": "2026-07-10 15:32:21",
+      "category": "general"
+    },
+    {
+      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10 - The Guardian",
+      "description": "\n\nThe bulging in-tray of challenges Andy Burnham faces upon entering No 10  The Guardian\n\nBurnham on track to be next PM as 322 Labour MPs back him  BBC\n\nLabour under Burnham will be faster and bolder",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGF6eDBtV3BjbEdxdGtYYTFEU1FDY2x6RXhrRjhjcU9xbnctdndjUmxoMm53bHBMYmc3VWZKeklENW5xZkU2NXROWTgycmp5ck9FOWFCRzZKSWFPWEgwb01wS2dBU2NQSnA1VWwzamplQ0UxalptY2VfbjJlbzhqOFVZYlV6cGpmYklFQWJVb1BUYlpycW52eFBHNktTMjdFc21JREU0MFltb2c?oc=5",
+      "published_at": "2026-07-10 13:00:00",
+      "category": "general"
+    },
+    {
+      "title": "Test runs and a shock-absorbing cage: how Bayeux tapestry was moved to UK - The Guardian",
+      "description": "\n\nTest runs and a shock-absorbing cage: how Bayeux tapestry was moved to UK  The Guardian\n\nBayeux Tapestry delivered to British Museum in dead of night  BBC\n\nDead-of-night operation brings famed Bayeu",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWVrTTVoYzdndEt6a0ZhT3NDc0hHWGl3ajRya0NrbkphTldVUlN1ZmR3a1BUYUhwZG82RFZRcnBIXzZ4MDdhSVRFbU9JeDRvLUhBNzFGSXFtdjRqLUpINElVdUlrTXBMQ0FGZHpyS2hzTnI2QUExeDA1UjNiMWxMM2d1ekFPYXdiYzRaYWxJaUxjWGtPMmVINE0yNko5ZXFMUlBvSGd6TlcwSFdTYVlheVI2a2Q?oc=5",
+      "published_at": "2026-07-10 16:33:00",
+      "category": "general"
+    },
+    {
+      "title": "Nick Clegg: Brexit was a ‘punch in the face’ for Britain - The Independent",
+      "description": "\nNick Clegg: Brexit was a ‘punch in the face’ for Britain  The IndependentSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTdEeS1iZnZVVDFEcW9aTFNSdVZLMnVnT1FyMEd3NWZPVTZjcXRDVm53TUE1UVJ5SGFyU3NFWG0xclQ1WG1LdEJaN1RGUkhpMDU0dElXa3hwSm1EYXJ6M1lSRHh6SFRFbWtkN19hOFBCVW9oNk5INWF6LUdPeUlOcHN6WTl0VVVPM3ZSSXMxUXdVQQ?oc=5",
+      "published_at": "2026-07-10 14:23:00",
+      "category": "general"
     },
     {
       "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz - Al Jazeera",
@@ -63,19 +120,19 @@
       "category": "tech"
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "published_at": "2026-07-10T18:29:19Z",
-      "category": "tech"
-    },
-    {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "description": "",
       "source": "Hacker News",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "published_at": "2026-07-10T20:47:09Z",
+      "category": "tech"
+    },
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "published_at": "2026-07-10T22:30:44Z",
       "category": "tech"
     },
     {
@@ -87,30 +144,6 @@
       "category": "tech"
     },
     {
-      "title": "New York City to to ban deceptive subscription practices",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "published_at": "2026-07-10T18:26:24Z",
-      "category": "tech"
-    },
-    {
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://waratlas.org",
-      "published_at": "2026-07-10T17:52:48Z",
-      "category": "tech"
-    },
-    {
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-      "published_at": "2026-07-07T06:06:25Z",
-      "category": "tech"
-    },
-    {
       "title": "Combustion engine web-based simulator",
       "description": "",
       "source": "Hacker News",
@@ -119,44 +152,20 @@
       "category": "tech"
     },
     {
-      "title": "Computation as a universal and fundamental concept",
+      "title": "New York City to to ban deceptive subscription practices",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "published_at": "2026-07-10T15:23:42Z",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "published_at": "2026-07-10T18:26:24Z",
       "category": "tech"
     },
     {
-      "title": "📄 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08768v1",
-      "published_at": "2026-07-09T17:59:32Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 OpenCoF: Learning to Reason Through Video Generation",
-      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08763v1",
-      "published_at": "2026-07-09T17:58:29Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08758v1",
-      "published_at": "2026-07-09T17:55:53Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08757v1",
-      "published_at": "2026-07-09T17:55:52Z",
-      "category": "ai"
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "published_at": "2026-07-10T18:29:19Z",
+      "category": "tech"
     }
   ]
 }
