@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T18:48:46Z",
+  "last_updated": "2026-07-11T20:00:30Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,14 +120,6 @@
       "category": "world"
     },
     {
-      "title": "AI 2040 and the Cult of Intelligence",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "published_at": "2026-07-11T18:04:01Z",
-      "category": "tech"
-    },
-    {
       "title": "Prefer Strict Tables in SQLite",
       "description": "",
       "source": "Hacker News",
@@ -136,19 +128,11 @@
       "category": "tech"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
+      "title": "How to Hide from Killer Drones",
       "description": "",
       "source": "Hacker News",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "published_at": "2026-07-11T15:28:02Z",
-      "category": "tech"
-    },
-    {
-      "title": "Modern Decor May Be Straining People's Brains",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "published_at": "2026-07-11T16:28:48Z",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "published_at": "2026-07-11T18:22:02Z",
       "category": "tech"
     },
     {
@@ -160,11 +144,27 @@
       "category": "tech"
     },
     {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "published_at": "2026-07-11T15:28:02Z",
+      "category": "tech"
+    },
+    {
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
       "published_at": "2026-07-11T15:26:12Z",
+      "category": "tech"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "published_at": "2026-07-11T17:21:49Z",
       "category": "tech"
     }
   ]
