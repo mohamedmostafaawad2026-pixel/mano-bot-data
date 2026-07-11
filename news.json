@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T11:50:18Z",
+  "last_updated": "2026-07-11T13:00:05Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,6 +112,22 @@
       "category": "world"
     },
     {
+      "title": "Networking and the Internet, from First Principles",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "published_at": "2026-07-11T12:30:40Z",
+      "category": "tech"
+    },
+    {
+      "title": "Your code is fast – if you're lucky",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "published_at": "2026-07-11T10:50:10Z",
+      "category": "tech"
+    },
+    {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "description": "",
       "source": "Hacker News",
@@ -128,6 +144,14 @@
       "category": "tech"
     },
     {
+      "title": "Google Search lets creators know more about their reach",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "published_at": "2026-07-07T23:51:49Z",
+      "category": "tech"
+    },
+    {
       "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
       "description": "",
       "source": "Hacker News",
@@ -141,30 +165,6 @@
       "source": "Hacker News",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "published_at": "2026-07-10T20:47:09Z",
-      "category": "tech"
-    },
-    {
-      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
-      "published_at": "2026-07-11T09:16:10Z",
-      "category": "tech"
-    },
-    {
-      "title": "An iroh powered smart fan",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "published_at": "2026-07-07T13:30:17Z",
-      "category": "tech"
-    },
-    {
-      "title": "An update on residential proxies and the scraper situation",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "published_at": "2026-07-10T19:38:34Z",
       "category": "tech"
     }
   ]
