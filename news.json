@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T23:52:05Z",
+  "last_updated": "2026-07-11T01:54:21Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,11 +112,11 @@
       "category": "world"
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "published_at": "2026-07-10T15:59:53Z",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "published_at": "2026-07-10T22:30:44Z",
       "category": "tech"
     },
     {
@@ -128,35 +128,27 @@
       "category": "tech"
     },
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "published_at": "2026-07-10T22:30:44Z",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "published_at": "2026-07-10T15:59:53Z",
       "category": "tech"
     },
     {
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "title": "FreeCAD in the Browser",
       "description": "",
       "source": "Hacker News",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "published_at": "2026-07-10T16:48:41Z",
+      "url": "https://magik.net/freecad/",
+      "published_at": "2026-07-11T00:44:00Z",
       "category": "tech"
     },
     {
-      "title": "Combustion engine web-based simulator",
+      "title": "Meta pulls new AI image feature after days of backlash",
       "description": "",
       "source": "Hacker News",
-      "url": "https://combustionlab.net",
-      "published_at": "2026-07-05T17:11:38Z",
-      "category": "tech"
-    },
-    {
-      "title": "New York City to to ban deceptive subscription practices",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "published_at": "2026-07-10T18:26:24Z",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "published_at": "2026-07-11T00:40:36Z",
       "category": "tech"
     },
     {
@@ -165,6 +157,14 @@
       "source": "Hacker News",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "published_at": "2026-07-10T18:29:19Z",
+      "category": "tech"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "published_at": "2026-07-10T19:38:34Z",
       "category": "tech"
     }
   ]
