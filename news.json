@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T07:10:56Z",
+  "last_updated": "2026-07-11T09:19:34Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,14 +112,6 @@
       "category": "world"
     },
     {
-      "title": "The Vintage Beauty of Soviet Control Rooms",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "published_at": "2026-07-11T05:19:41Z",
-      "category": "tech"
-    },
-    {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "description": "",
       "source": "Hacker News",
@@ -144,11 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "What's the best way to do authentication in modern applications",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
       "description": "",
       "source": "Hacker News",
-      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-      "published_at": "2026-07-11T06:09:33Z",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "published_at": "2026-07-11T05:19:41Z",
       "category": "tech"
     },
     {
@@ -165,6 +157,14 @@
       "source": "Hacker News",
       "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
       "published_at": "2026-07-10T19:38:34Z",
+      "category": "tech"
+    },
+    {
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "published_at": "2026-07-08T11:30:12Z",
       "category": "tech"
     }
   ]
