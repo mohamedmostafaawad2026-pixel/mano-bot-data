@@ -1,75 +1,18 @@
 {
-  "last_updated": "2026-07-11T13:00:05Z",
+  "last_updated": "2026-07-11T14:24:01Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Suspect in Ann Widdecombe murder inquiry released and no longer part of investigation - BBC",
-      "description": "\n\nSuspect in Ann Widdecombe murder inquiry released and no longer part of investigation  BBC\n\nWhat happened to Ann Widdecombe as police launch murder probe and suspect released  The Independent\n\nAnn W",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44YUhBSkt0RUpGcnpKZkc4UFB0WUdQV29vc0ljWk5jeE8zQ2hKTGtpNm1nTEFleUVva3NhM1ZXbHprS2cxbzdkTmZoVnYzbU5zVlJxbTZPdw?oc=5",
-      "published_at": "2026-07-11 09:58:32",
-      "category": "general"
-    },
-    {
-      "title": "‘It’s Wizard of Oz stuff’: Clacton voters divided over Farage byelection - The Guardian",
-      "description": "\n\n‘It’s Wizard of Oz stuff’: Clacton voters divided over Farage byelection  The Guardian\n\nCan Reform survive without Nigel Farage?  The Telegraph\n\nNigel Farage live: Britons back Count Binface in new ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0hVUnNhN0NldlpseDE2RVZrSEk3QW0wcjFFTUN2cmNxWHJ1SFlGazhPTkRzV1RRUjg4R3hLTW9KZkNiajZDSTIzVXhFRGcyOUNTajlkSmVEcXFTQWl0UUFhTl92bnh0WVd0QkpCUmZzaVQ3ZXRrR0VtaVJ1cGdyRHRYUFNiS0FMTFNTUlcyMjRka2xiUmRUNHlFVWRiNlVvR3JpZ25Ya2UzV3M2YlpQdEpBSVRzUjV3?oc=5",
-      "published_at": "2026-07-11 09:00:00",
-      "category": "general"
-    },
-    {
       "title": "Europe considering proposals to allow navigational fees in strait of Hormuz - The Guardian",
       "description": "\n\nEurope considering proposals to allow navigational fees in strait of Hormuz  The Guardian\n\nUS wants Iran to pledge to stop shooting at ships in Strait of Hormuz  BBC\n\nIran’s Top Diplomat in Oman for",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcl9Ob0h2VEpEZE01c0c0V0h1VzhKZDQwbW5aX3NQZmk2dm5DcU1rcGtjV3dSaHNtNnhhemJLN0h1ZERLZ3RrV3cyb3kxTUZHQUZyTzZGMHQ4OThBVWdzcDlidXl1bV85dkNyRVdQUzlrRVF6WnlkLU9SaG5KQUQySmFncUNyZkIxUUhSOFp2S2FRRWtCcEM2UEx4UnRfb3l1aGw3eDFjdTRIZlpyQ3lhRmd5TmlwZw?oc=5",
       "published_at": "2026-07-11 04:00:00",
-      "category": "general"
-    },
-    {
-      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10 - The Guardian",
-      "description": "\n\nThe bulging in-tray of challenges Andy Burnham faces upon entering No 10  The Guardian\n\nBurnham on track to be next PM as 322 Labour MPs back him  BBC\n\nLabour under Burnham will be faster and bolder",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGF6eDBtV3BjbEdxdGtYYTFEU1FDY2x6RXhrRjhjcU9xbnctdndjUmxoMm53bHBMYmc3VWZKeklENW5xZkU2NXROWTgycmp5ck9FOWFCRzZKSWFPWEgwb01wS2dBU2NQSnA1VWwzamplQ0UxalptY2VfbjJlbzhqOFVZYlV6cGpmYklFQWJVb1BUYlpycW52eFBHNktTMjdFc21JREU0MFltb2c?oc=5",
-      "published_at": "2026-07-10 13:00:00",
-      "category": "general"
-    },
-    {
-      "title": "Four Britons feared dead as Spanish wildfire kill at least 12 people | ITV News - ITVX",
-      "description": "\n\nFour Britons feared dead as Spanish wildfire kill at least 12 people | ITV News  ITVX\n\nSpain battles to contain one of its deadliest wildfires as at least 12 killed  BBC\n\nRescuers search for Spanish",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHJHanpEQldBSDRKSC1EOHdmM1ExSmFjMjZURjVLb3k2Mldoay15Y0xweWZpYUh6b3RQcmtHbWhCNWs3NXlkaVlGRFRIVTI4TGxpVWpUN1QyeWRMMF9tTk9SenVrRWZjNDB5alp4M3NxY2tKTlVONTFvUzJZbWNzdV9VZHNvQVlIM0toYlgxbjV0N2ZxbGk3QmNSUTlHbmZCMmc?oc=5",
-      "published_at": "2026-07-10 21:49:00",
-      "category": "general"
-    },
-    {
-      "title": "Bushfire sparks travel chaos as heatwave predicted to last even longer - LIVE - London Evening Standard",
-      "description": "\n\nBushfire sparks travel chaos as heatwave predicted to last even longer - LIVE  London Evening Standard\n\nWildfire risk raised to red in parts of England  BBC\n\n'Extreme' London wildfire risk warning i",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRhTTRKY1g1SUZ4OGkyaUY3LTVscFJUb0ZnblZjcS1XdmlmMTR2T3B1ZGw1dXNaTWJvei1fQU1fMDk2ZUlnMFVYM3A1cjRyX1p1WWkycU0zdHRPeE9iOXVhNld0T2FlYnZkblp1U0ZYU1NRTW51OXY2MEZKZnlKVGpYZGhhcEJKT2FreHVGNDZSMURnWHRSSWo5NkJrT0M3N3pxblFZSTVWalRlcEhiTHpR?oc=5",
-      "published_at": "2026-07-11 00:06:57",
-      "category": "general"
-    },
-    {
-      "title": "What is a hosepipe ban, why are they needed and who decides to implement them? - BBC",
-      "description": "\n\nWhat is a hosepipe ban, why are they needed and who decides to implement them?  BBC\n\nUK bakes in 35C highs as millions under hosepipe bans  BBC\n\nHosepipe ban for millions more people - here are the ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80UHd6d2hUSUdYdTR6WWM1aHJRUjBPbkhMWGZQdEttaFRjN2VsRGIwb2xpd0x2SENycFU1XzRxaVRUQmRpb25Ua0VrSk9WZHRrSzh1ejAtZ0M4WUc2?oc=5",
-      "published_at": "2026-07-11 06:29:57",
-      "category": "general"
-    },
-    {
-      "title": "Five key scenes from the Bayeux Tapestry, and the story they tell - BBC",
-      "description": "\n\nFive key scenes from the Bayeux Tapestry, and the story they tell  BBC\n\nDead-of-night operation brings famed Bayeux Tapestry back to Britain after nearly 1,000 years  CNN\n\nBayeux Tapestry delivered ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1aHE4aFZSVDdRTUpCTHpENXM4NGMtNncwLWVoX1JRdW5zM3k1YUJjb3dNMDAtb1dNdm1xYS02RW4tQkhpeVltcFZmc3lBNTN5Y1RFLXpraVdQWGJT?oc=5",
-      "published_at": "2026-07-11 00:03:50",
-      "category": "general"
+      "category": "world"
     },
     {
       "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral - Al Jazeera",
@@ -152,6 +95,14 @@
       "category": "tech"
     },
     {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "published_at": "2026-07-10T20:47:09Z",
+      "category": "tech"
+    },
+    {
       "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
       "description": "",
       "source": "Hacker News",
@@ -160,12 +111,60 @@
       "category": "tech"
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
       "description": "",
       "source": "Hacker News",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "published_at": "2026-07-10T20:47:09Z",
+      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+      "published_at": "2026-07-11T13:33:17Z",
       "category": "tech"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "published_at": "2026-07-10T19:38:34Z",
+      "category": "tech"
+    },
+    {
+      "title": "An iroh powered smart fan",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "published_at": "2026-07-07T13:30:17Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08768v1",
+      "published_at": "2026-07-09T17:59:32Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 OpenCoF: Learning to Reason Through Video Generation",
+      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08763v1",
+      "published_at": "2026-07-09T17:58:29Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "published_at": "2026-07-09T17:55:53Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
+      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08757v1",
+      "published_at": "2026-07-09T17:55:52Z",
+      "category": "ai"
     }
   ]
 }
