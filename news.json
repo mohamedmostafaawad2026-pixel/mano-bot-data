@@ -1,66 +1,115 @@
 {
-  "last_updated": "2026-07-11T15:46:12Z",
+  "last_updated": "2026-07-11T16:45:27Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
+      "title": "Ann Widdecombe was attacked 24 hours before she was found dead, police believe - live updates - BBC",
+      "description": "\n\nAnn Widdecombe was attacked 24 hours before she was found dead, police believe - live updates  BBC\n\nAnn Widdecombe was attacked 24 hours before she was found dead, police believe  BBC\n\nHaytor Vale: ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44YUhBSkt0RUpGcnpKZkc4UFB0WUdQV29vc0ljWk5jeE8zQ2hKTGtpNm1nTEFleUVva3NhM1ZXbHprS2cxbzdkTmZoVnYzbU5zVlJxbTZPdw?oc=5",
+      "published_at": "2026-07-11 15:49:48",
+      "category": "general"
+    },
+    {
+      "title": "Rachel Reeves: Andy Burnham needs a worked-through plan to govern - BBC",
+      "description": "\n\nRachel Reeves: Andy Burnham needs a worked-through plan to govern  BBC\n\nRishi Sunak: The hard truths Andy Burnham will learn on day one as PM  The Times\n\nLabour under Burnham will be faster and bold",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YWEhMMzlHM2tBVEwzUkVyT184a0l6R2dMdVgyVTd6VjlreWJwZVFpcUJlOUc0bkd6em52S05sdmktb3IyeEhPbzhfNmZVYVBrbFZhcUw0Qkh1cV9C?oc=5",
+      "published_at": "2026-07-11 12:00:16",
+      "category": "general"
+    },
+    {
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall - BBC",
+      "description": "\n\nChina braced for second typhoon in a week as Bavi approaches landfall  BBC\n\nChina braces for Super Typhoon Bavi after severe flooding and thunderstorms  Sky News\n\nChina evacuates over one million as",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxSnV2THExTi1GNzBib3RjcFk0TGYtUW5uaXFxWmU4Y1pqcjA4LWJDTE1ZN3lsUW8wa2lVeWE2M0MtaHEtRmplMzBkTTNGa05QajNsSkhUdDFEaWZX?oc=5",
+      "published_at": "2026-07-11 12:06:47",
+      "category": "general"
+    },
+    {
+      "title": "Four Britons feared dead as Spanish wildfire kill at least 12 people | ITV News - ITVX",
+      "description": "\n\nFour Britons feared dead as Spanish wildfire kill at least 12 people | ITV News  ITVX\n\nSpanish wildfire victims ‘ignored evacuation order’, claims minister  The Telegraph\n\n‘I had an incredible escap",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHJHanpEQldBSDRKSC1EOHdmM1ExSmFjMjZURjVLb3k2Mldoay15Y0xweWZpYUh6b3RQcmtHbWhCNWs3NXlkaVlGRFRIVTI4TGxpVWpUN1QyeWRMMF9tTk9SenVrRWZjNDB5alp4M3NxY2tKTlVONTFvUzJZbWNzdV9VZHNvQVlIM0toYlgxbjV0N2ZxbGk3QmNSUTlHbmZCMmc?oc=5",
+      "published_at": "2026-07-10 21:49:00",
+      "category": "general"
+    },
+    {
+      "title": "‘It’s Wizard of Oz stuff’: Clacton voters divided over Farage byelection - The Guardian",
+      "description": "\n\n‘It’s Wizard of Oz stuff’: Clacton voters divided over Farage byelection  The Guardian\n\nCan Reform survive without Nigel Farage?  The Telegraph\n\nNigel Farage live: Britons back Count Binface in new ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0hVUnNhN0NldlpseDE2RVZrSEk3QW0wcjFFTUN2cmNxWHJ1SFlGazhPTkRzV1RRUjg4R3hLTW9KZkNiajZDSTIzVXhFRGcyOUNTajlkSmVEcXFTQWl0UUFhTl92bnh0WVd0QkpCUmZzaVQ3ZXRrR0VtaVJ1cGdyRHRYUFNiS0FMTFNTUlcyMjRka2xiUmRUNHlFVWRiNlVvR3JpZ25Ya2UzV3M2YlpQdEpBSVRzUjV3?oc=5",
+      "published_at": "2026-07-11 09:00:00",
+      "category": "general"
+    },
+    {
+      "title": "All the train services disrupted after fire shuts Stratford Station - London Evening Standard",
+      "description": "\n\nAll the train services disrupted after fire shuts Stratford Station  London Evening Standard\n\nStratford: ‘Substantial’ trackside fire leads to station closure  BBC\n\nBushfire sparks travel chaos as h",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWpHcXFtMHJ3NXBOY3hDUTZOWWRFcml6NTJtTnRNYTctQklsenI4WGxvbEZ6OHhJcmh0ZlhJVWk1YnlQWW9Zb21DZmJJQWhIMXE2VmxvdGtCZV9IaEJ1amYtb2VLYzU1MEs4QXdOODNoY1ZWWGRRbWdqTDlFYUQ3aFBZNlpPWVpHRUxkVGpaQ0habHU3SVBNVlM4TUpRU0pmc0JLaVlldG1TQTEyZmhZMG5Dcw?oc=5",
+      "published_at": "2026-07-11 10:21:40",
+      "category": "general"
+    },
+    {
+      "title": "Trump trades threats with Iran’s leader as mediators struggle to save talks - Al Jazeera",
+      "description": "\n\nTrump trades threats with Iran’s leader as mediators struggle to save talks  Al Jazeera\n\nLive updates: Supreme leader calls for revenge in new message as Trump threatens Iran in overnight post  CNN\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG54YUh5VGxKRWNwU0VvcnY3eXpjWjlPYkxtQ1hkR1BuMnp5OGl5ZDJjYmNRWVgyYlU2Snh3cHR4c0tja0JHbWh1dXgzVDFNVFl6NFAyMUhIVHdfZ1hZUnpiM0xPMFZrUURDUkJiVlk2cTZkb05Wbm55WjdUWVE0ZEhMazhXX2xzc3h1YjZJR2Z5aVFfN1o4SlZRRzRiaUZ5dzhWM2pEM1d0WTE0ZU1RNFBNZWloVmvSAbwBQVVfeXFMTWhBYnJEZjN1R0lLWGM5ZTV2YUk5ZDJNNjNPMlpRYTlUeFBNeVY5TVdOUkRraWUtdk1NVkI1blN0VzAwYXNiY3ZsMEhNNkpjekhkUWZaSUNSREpWWFpNS1VhaWt5N1QzRjREZlFOWDAwY0hyUW1aenBKSHQ5enZLakxrN1Z0Vm9ZYjE3LUpuWDBoV05LSW81VEZZRnp6cUcwSm9rdHRNUXIwNEc5Q2NVWkswVjA1enIydVhJUUE?oc=5",
+      "published_at": "2026-07-11 14:07:35",
+      "category": "general"
+    },
+    {
+      "title": "Hosepipe ban map: Where restrictions are in place as UK faces third heatwave - The Independent",
+      "description": "\n\nHosepipe ban map: Where restrictions are in place as UK faces third heatwave  The Independent\n\nUK bakes in 35C highs as millions under hosepipe bans  BBC\n\nAnglian Water Hose Pipe Ban Update  Essex C",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3BITzJnQXh1engxZWhtdWE2R2xQLWNGelJLUFEzelZKR0xJbEUzMlBKUDVzVzRoUXJfQ3l5eXJxdjBrNUNGaE9CampwMnhHTHJudzNsdDlWMWE5Y0dIRng2NVduVV9Gd3BCRDVqZVpIU0VBRUdRTHlZQ2g3NkxLVl85VTFlNDhhei1vOThWR3dvUTNkOGVtaDBVX0JLcnI2QnU3U25PMEVINDNSZENjTXBB?oc=5",
+      "published_at": "2026-07-11 07:26:00",
+      "category": "general"
+    },
+    {
+      "title": "Spain wildfires latest: Four Britons feared dead as burnt-out car found - Sky News",
+      "description": "\n\nSpain wildfires latest: Four Britons feared dead as burnt-out car found  Sky News\n\n‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire  The Guardian\n\nSpain wil",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnNTdWpnaTJfdG9VUUtxSWtDUm8xLW5RamV3eGp3cmdlV0xndUhSS1BlR2ZzVzRlNUNJd3lHVTZvUTVDc0xGblo4V0g2Qk0wM252OXVCQl82RXBZR1d3RjdqOWUwUE1DcVQ1UGtqLURxYjdOaTZDUnh0dF9aVjdoNmlKUmVkODdTLWczakxRSkJzLUVqWFZsa2dTblRES0VnWWpIRTZpdFNOQQ?oc=5",
+      "published_at": "2026-07-11 13:42:36",
+      "category": "world"
+    },
+    {
+      "title": "Trump threatens to 'decimate' Iran, a day after saying talks back on - Euronews",
+      "description": "\n\nTrump threatens to 'decimate' Iran, a day after saying talks back on  Euronews\n\nExclusive | Iran Hatched Fresh Plot to Kill Trump, Israel Told U.S.  WSJ\n\n‘Bomb them’: Trump’s revenge instructions fo",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjR2RHlTZjZHbzJfV0xyZnd6ZURqdFB3MDVmMlNtWVlNdHQ2MTJ4SnBGdmtqUzRaZUhmUktZRE9QN1FFOGlhMlFPQi1NZXZpb0liNGhCWFRhNFFWZjFXU3hYQ0phNXIzVEQzMFFXc3ZoNTl0anc2MjhOUC12THlPcDVSakNZaDBsaFdfSEUxekZUSXFwSlh5SFZNeDkxeW9tTFo1aVo5V1VDeWNhcWZNODlvOW8?oc=5",
+      "published_at": "2026-07-11 09:41:46",
+      "category": "world"
+    },
+    {
       "title": "Europe considering proposals to allow navigational fees in strait of Hormuz - The Guardian",
-      "description": "\n\nEurope considering proposals to allow navigational fees in strait of Hormuz  The Guardian\n\nUS wants Iran to pledge to stop shooting at ships in Strait of Hormuz  BBC\n\nIran’s Top Diplomat in Oman for",
+      "description": "\nEurope considering proposals to allow navigational fees in strait of Hormuz  The GuardianSee more headlines and perspectives on Google News\n",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcl9Ob0h2VEpEZE01c0c0V0h1VzhKZDQwbW5aX3NQZmk2dm5DcU1rcGtjV3dSaHNtNnhhemJLN0h1ZERLZ3RrV3cyb3kxTUZHQUZyTzZGMHQ4OThBVWdzcDlidXl1bV85dkNyRVdQUzlrRVF6WnlkLU9SaG5KQUQySmFncUNyZkIxUUhSOFp2S2FRRWtCcEM2UEx4UnRfb3l1aGw3eDFjdTRIZlpyQ3lhRmd5TmlwZw?oc=5",
       "published_at": "2026-07-11 04:00:00",
       "category": "world"
     },
     {
-      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral - Al Jazeera",
-      "description": "\n\nTrump threatens Iran after chants for his death erupted at Khamenei funeral  Al Jazeera\n\nIran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him  Al Jazeera\n\nTrump praises Allah, t",
+      "title": "Trump administration subpoenas New York Times journalists over new Air Force One reporting - The Guardian",
+      "description": "\nTrump administration subpoenas New York Times journalists over new Air Force One reporting  The GuardianSee more headlines and perspectives on Google News\n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG54YUh5VGxKRWNwU0VvcnY3eXpjWjlPYkxtQ1hkR1BuMnp5OGl5ZDJjYmNRWVgyYlU2Snh3cHR4c0tja0JHbWh1dXgzVDFNVFl6NFAyMUhIVHdfZ1hZUnpiM0xPMFZrUURDUkJiVlk2cTZkb05Wbm55WjdUWVE0ZEhMazhXX2xzc3h1YjZJR2Z5aVFfN1o4SlZRRzRiaUZ5dzhWM2pEM1d0WTE0ZU1RNFBNZWloVmvSAbwBQVVfeXFMTWhBYnJEZjN1R0lLWGM5ZTV2YUk5ZDJNNjNPMlpRYTlUeFBNeVY5TVdOUkRraWUtdk1NVkI1blN0VzAwYXNiY3ZsMEhNNkpjekhkUWZaSUNSREpWWFpNS1VhaWt5N1QzRjREZlFOWDAwY0hyUW1aenBKSHQ5enZLakxrN1Z0Vm9ZYjE3LUpuWDBoV05LSW81VEZZRnp6cUcwSm9rdHRNUXIwNEc5Q2NVWkswVjA1enIydVhJUUE?oc=5",
-      "published_at": "2026-07-11 08:11:54",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUZOSkNZY1ZFRUpPZVNYZFdrRW1ZcjRRc1hGSkt3VHhJZHNWVzAySzd0TVlSQ3FreWJiQTlUZlhwUzNnZ3BrQXJTeWQ3OEpVZ3p6c3lNWEFxNHItQXpXWmtSVmU5VFJ5Mkcwb25ZU2FrTlpCUDR3VExJSlI3NUQ0R0hlOG5qOGNiUGJmY250alZuekpJT1U4Z0paeGdoNHdwVEN1Z0lWeGw?oc=5",
+      "published_at": "2026-07-11 14:17:00",
       "category": "world"
     },
     {
-      "title": "Rescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents - Sky News",
-      "description": "\n\nRescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents  Sky News\n\nSpain battles to contain one of its deadliest wildfires as at least 12 killed  BBC\n\n‘I ha",
+      "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds - Al Jazeera",
+      "description": "\n\nLand sold for Kushner-backed Albania resort suspected of forged deeds  Al Jazeera\n\nBusinessman who sold land for Kushner resort in Albania suspected of faking the deeds  Reuters\n\nThe Alluring Albani",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRDJ2WGJydU1Kc1prTlJKMHh2Qnd2YVFMRGVFUUlrMjdCWHUtRFoyZ25UM3BUN1A0YU1EOWowZ3ljdXdBcG9lTjBoSkpKTk9KWnByMWY0alAyMFBiQnloZ00wZlJPZEFlQW5Yc0QyR0VSaUM0a2Y4SnVpWkZVMV9oOEdXU3Q2OVVycHJXcjBMVzJlcHBiUGR5dW9pOWFfeGxFdl9OTVRfaThsZFczVmZ2ek1qdTUxY0VSbWczcGJ2Z3ZQeFdTT2ozUG5xVlVMZw?oc=5",
-      "published_at": "2026-07-11 10:32:47",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDN3TE01OGE4dFpZQ0JKcURHMEFSQXFKX2s4UWsyenhhMUtNdlpRc0libVBlOERXU3VuWFJtZGt4QnB2ZVZXWXRjTnJwamttZ1REcnVOajNFZ0tqLXdTaU9SODNwejA4bkdvaEtIREpIM3FFVlcxOVNpNVRkOGFPMnpxN2xLWXBldTJSR3RxSmxndmQ4YzlheWE0U0VSYzdpRnp2Xzc1MVdBaFpHVFc00gG0AUFVX3lxTE5wOE5xME1IU09qc3BsZ3pneVhBelVqUXJwdnJ2c1oxTXRQU3QxdXRDaFc2cjFsN2psSmlZMFJvdi00bFNVT3phcFcyUXBrSkhEcGRMVHc0RE1uU19SZDdYalBBUEY3UEVBM2lDS2tpRlNScnFTT1QyTkM2Y1hBT3hhYktON2dJQWU4UElrOFM5TEs1c0FiN3BFTXNXeTQzYXhYWHMtenU0elVjVThfUktHLWk1Vg?oc=5",
+      "published_at": "2026-07-11 10:33:35",
       "category": "world"
-    },
-    {
-      "title": "Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say - Euronews",
-      "description": "\n\nUkrainian drone strikes hit southern Russian refineries and Azov port, officials say  Euronews\n\nUkraine strikes Russian ships near Crimea, escalating attacks on fuel supplies  BBC\n\nOmsk Residents De",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXdfaU11Yy1XUHY2WS1lN1VwOUtxczhyWHp2LWlPMU1ZbUhWQ3lLZ2pwMVluTHRVOE9NajBkMHlQcVVkT0NsaUJaV0dCXzZmT1VQRnJzbGJMbjZYTjB2MjZQUVEtUEFFYjhFWDNVRlRDc1h4VU1hNm8yb0pabFdYVGpvdG1scFE0WUZVUFBVWkZYVE1qR2VlejI1RnRZRHJyUEhoS3ZILWs2THFXYVBJOF9HMTNDRDN5TjJ5cE5GaXhQei1Kdmducw?oc=5",
-      "published_at": "2026-07-10 16:54:52",
-      "category": "world"
-    },
-    {
-      "title": "Meet the crypto billionaires building a world where money buys you a vote - BBC",
-      "description": "\n\nMeet the crypto billionaires building a world where money buys you a vote  BBC\n\nCrypto billionaires are trying to build new nations, and they’re not asking for your vote  Crypto Briefing\n\nCrypto bil",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZVZEak5kb2VObjNyTV9iV1diSWFhNllja1lsZWEzM0RuaXlnT1Z3UlNVYnRqZHpkbHpoQTI3aTFvLVE3UTdXUE1yZ3I2Zk9aajFQY3kweFhkVkJ6?oc=5",
-      "published_at": "2026-07-10 23:03:00",
-      "category": "world"
-    },
-    {
-      "title": "Trump now wants to install fences near the White House to help keep crowds further back - The Independent",
-      "description": "\n\nTrump now wants to install fences near the White House to help keep crowds further back  The Independent\n\nTrump officials propose fencing off public spaces outside White House  The Washington Post\n\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzBaTV80QWMwN0RvbHJvQTNERmxaZGU2aDZuQXJ4aXo1ajRXNW1fcjdhTHRmZkxHWkhOT1lHc1lxUERGaG1zZDBicjM1R2RRclo0YlI5S2N1RjJwQ3o1RVh3aUNNeTcwVmNlRkVSakNEZVVCdjFCMHlIQlkxTm9EUkxDRDIydW5GSGtaUzdaMDNkUTlRNDZNSmlIMVpRRWpHR2tSbE1Oa2tCR2g4?oc=5",
-      "published_at": "2026-07-10 15:02:00",
-      "category": "world"
-    },
-    {
-      "title": "Networking and the Internet, from First Principles",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "published_at": "2026-07-11T12:30:40Z",
-      "category": "tech"
     },
     {
       "title": "We scaled PgBouncer to 4x throughput",
@@ -68,6 +117,14 @@
       "source": "Hacker News",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "published_at": "2026-07-11T15:28:02Z",
+      "category": "tech"
+    },
+    {
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "published_at": "2026-07-11T15:26:12Z",
       "category": "tech"
     },
     {
@@ -87,14 +144,6 @@
       "category": "tech"
     },
     {
-      "title": "Google Search lets creators know more about their reach",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "published_at": "2026-07-07T23:51:49Z",
-      "category": "tech"
-    },
-    {
       "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
       "description": "",
       "source": "Hacker News",
@@ -103,11 +152,11 @@
       "category": "tech"
     },
     {
-      "title": "Your code is fast – if you're lucky",
+      "title": "Google Search lets creators know more about their reach",
       "description": "",
       "source": "Hacker News",
-      "url": "https://tiki.li/blog/lucky_code.html",
-      "published_at": "2026-07-11T10:50:10Z",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "published_at": "2026-07-07T23:51:49Z",
       "category": "tech"
     },
     {
@@ -117,54 +166,6 @@
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "published_at": "2026-07-10T20:47:09Z",
       "category": "tech"
-    },
-    {
-      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "published_at": "2026-07-08T11:30:12Z",
-      "category": "tech"
-    },
-    {
-      "title": "Book: RISC-V System-on-Chip Design",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
-      "published_at": "2026-07-09T05:28:42Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08768v1",
-      "published_at": "2026-07-09T17:59:32Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 OpenCoF: Learning to Reason Through Video Generation",
-      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08763v1",
-      "published_at": "2026-07-09T17:58:29Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08758v1",
-      "published_at": "2026-07-09T17:55:53Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08757v1",
-      "published_at": "2026-07-09T17:55:52Z",
-      "category": "ai"
     }
   ]
 }
