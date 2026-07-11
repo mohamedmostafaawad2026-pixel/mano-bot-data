@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T09:19:34Z",
+  "last_updated": "2026-07-11T10:56:36Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,6 +128,14 @@
       "category": "tech"
     },
     {
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "published_at": "2026-07-08T11:30:12Z",
+      "category": "tech"
+    },
+    {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "description": "",
       "source": "Hacker News",
@@ -136,11 +144,11 @@
       "category": "tech"
     },
     {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
       "description": "",
       "source": "Hacker News",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "published_at": "2026-07-11T05:19:41Z",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "published_at": "2026-07-11T09:16:10Z",
       "category": "tech"
     },
     {
@@ -152,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "An update on residential proxies and the scraper situation",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
       "description": "",
       "source": "Hacker News",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "published_at": "2026-07-10T19:38:34Z",
-      "category": "tech"
-    },
-    {
-      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "published_at": "2026-07-08T11:30:12Z",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "published_at": "2026-07-11T05:19:41Z",
       "category": "tech"
     }
   ]
