@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T10:56:36Z",
+  "last_updated": "2026-07-11T11:50:18Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -8,75 +8,99 @@
   ],
   "articles": [
     {
-      "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe - Al Jazeera",
-      "description": "\n\nUK police arrest man suspected of murdering former MP Ann Widdecombe  Al Jazeera\n\n'Widdecombe murder inquiry' and 'Strike Norse'  BBC\n\nAnn Widdecombe murder latest: Man, 26, arrested over death rele",
+      "title": "Suspect in Ann Widdecombe murder inquiry released and no longer part of investigation - BBC",
+      "description": "\n\nSuspect in Ann Widdecombe murder inquiry released and no longer part of investigation  BBC\n\nWhat happened to Ann Widdecombe as police launch murder probe and suspect released  The Independent\n\nAnn W",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pDUktrUDUzWVh5cGkyU0JZWUxyckxMbHpNX3dobkRoVXkzb2lzLVJLcUdJNU5EbmVDd2xySUJUejk0c1BLT1BidE1CdS1mOTNQMTJMcVhIQkxlZ1dHdGFBRElCSG16SjNiZzRPeHpsM0dRZUY0eVpneTdqXzVnNlBuN0Yxd2RxQ2xUb1RETlRwMXpxY2VZZGNPcVR3dGY2NzNHMjRRUDZCQjkxcWfSAbMBQVVfeXFMT3JCS0NSYk5xamFOR0h3R001XzQyMWJPSUVvQ1lKbm5XdUlTOGZQLUNFRHNBWFJJU1BBWk9TZnV6b3NtaklXSzhrMjVlVUlFN0FuUjY5QU9IeEJsOFJoOWt5RC1vQmlCSF8ybEF4T2pSSGZCQ1R4ajRFamk3RWFxMjhLdzM0dTRiM3FGOWp0cFNOeERoSGRjMklETjg0anFBZXVDYUJENlBydzNvMTVzLXFqR3M?oc=5",
-      "published_at": "2026-07-10 18:19:57",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44YUhBSkt0RUpGcnpKZkc4UFB0WUdQV29vc0ljWk5jeE8zQ2hKTGtpNm1nTEFleUVva3NhM1ZXbHprS2cxbzdkTmZoVnYzbU5zVlJxbTZPdw?oc=5",
+      "published_at": "2026-07-11 09:58:32",
       "category": "general"
     },
     {
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed - BBC",
-      "description": "\n\nSpain battles to contain one of its deadliest wildfires as at least 12 killed  BBC\n\n‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire  The Guardian\n\nTwelve d",
+      "title": "‘It’s Wizard of Oz stuff’: Clacton voters divided over Farage byelection - The Guardian",
+      "description": "\n\n‘It’s Wizard of Oz stuff’: Clacton voters divided over Farage byelection  The Guardian\n\nCan Reform survive without Nigel Farage?  The Telegraph\n\nNigel Farage live: Britons back Count Binface in new ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQc241S2dVdXZxaG9GTkJnQWNxWVlwTmpZZm50OE15OUFfRmQ5ZUJLWXMxRmxET3lPS3FRSVpjN3I1Q05tSGdvTl9NbEN0Sm8yMzJRcUh6RXQ2MWdw?oc=5",
-      "published_at": "2026-07-11 04:06:56",
-      "category": "general"
-    },
-    {
-      "title": "Man charged with Bedfordshire murder of his wife and daughters after arrest in South Africa - The Guardian",
-      "description": "\n\nMan charged with Bedfordshire murder of his wife and daughters after arrest in South Africa  The Guardian\n\nBedford triple murder suspect arrested by South African police  BBC\n\nMan wanted in UK over ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3pCWDBKMXFFYjZOcDdsSllTbzJlR1Rqc1c4TkRZU0t0dXhvUnlFaGtWTS1LWkdrWmFRWmoyOVhXSzJjYWdLdjJpTEwtdXIyRDU2WHhMYncyZDZRc2RhQVUzQ1IyaTVzSXJ2RmlKSTlZSDE5YXFObWxxQmJYbUJKRGtpRVJhelNoWjVJTUkzLXBwUE9PcnJ3Q245b0dCNXBqYzVTNWhwSXlObjNKSXVFc0xHNkl6TzRG?oc=5",
-      "published_at": "2026-07-10 22:25:00",
-      "category": "general"
-    },
-    {
-      "title": "Nigel Farage v Count Binface: Six 'laughing stock' threats for Reform UK leader in Clacton by-election - London Evening Standard",
-      "description": "\n\nNigel Farage v Count Binface: Six 'laughing stock' threats for Reform UK leader in Clacton by-election  London Evening Standard\n\nOne thought on the Clacton contenders: the ‘establishment’ looks a bi",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2g1cW9wVXAyVHh0ZEwyVXZuejNydnRVT3pRMHhDaWdNUHA2aGgwdEQxVW5ZRFp1dkN0S2YyTUpyNlkzYkt1cVh0TWxCOHo0ZElmZUFfWmZFUzUwZ09MQWo4WktsX1pQaW1SaHEybkJORXpfaVMtQkhJUjZHT29ETHNWTWNYeUZ1RFFTZVR2YjZOQkR1QXhpWFBzWmo0Vjg5c3RR?oc=5",
-      "published_at": "2026-07-10 20:14:13",
-      "category": "general"
-    },
-    {
-      "title": "How are people adapting the East of England hosepipe ban? - BBC",
-      "description": "\n\nHow are people adapting the East of England hosepipe ban?  BBC\n\nWhat is a hosepipe ban, why are they needed and who decides to implement them?  BBC\n\nNew hosepipe ban imposed as Britain swelters in t",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OTmNSWHh2QmhvUXJsWGZ3Y3B4Zzl0Z1FQWHhlMjdzRFhrRWJlMnhOeXdselhmQXI2TjBhc3dqSmluZ0Q1Z3p6MFlQeG5hMU44dDhZc0c2X09YT2Jy?oc=5",
-      "published_at": "2026-07-11 05:05:03",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0hVUnNhN0NldlpseDE2RVZrSEk3QW0wcjFFTUN2cmNxWHJ1SFlGazhPTkRzV1RRUjg4R3hLTW9KZkNiajZDSTIzVXhFRGcyOUNTajlkSmVEcXFTQWl0UUFhTl92bnh0WVd0QkpCUmZzaVQ3ZXRrR0VtaVJ1cGdyRHRYUFNiS0FMTFNTUlcyMjRka2xiUmRUNHlFVWRiNlVvR3JpZ25Ya2UzV3M2YlpQdEpBSVRzUjV3?oc=5",
+      "published_at": "2026-07-11 09:00:00",
       "category": "general"
     },
     {
       "title": "Europe considering proposals to allow navigational fees in strait of Hormuz - The Guardian",
-      "description": "\nEurope considering proposals to allow navigational fees in strait of Hormuz  The GuardianSee more headlines and perspectives on Google News\n",
+      "description": "\n\nEurope considering proposals to allow navigational fees in strait of Hormuz  The Guardian\n\nUS wants Iran to pledge to stop shooting at ships in Strait of Hormuz  BBC\n\nIran’s Top Diplomat in Oman for",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcl9Ob0h2VEpEZE01c0c0V0h1VzhKZDQwbW5aX3NQZmk2dm5DcU1rcGtjV3dSaHNtNnhhemJLN0h1ZERLZ3RrV3cyb3kxTUZHQUZyTzZGMHQ4OThBVWdzcDlidXl1bV85dkNyRVdQUzlrRVF6WnlkLU9SaG5KQUQySmFncUNyZkIxUUhSOFp2S2FRRWtCcEM2UEx4UnRfb3l1aGw3eDFjdTRIZlpyQ3lhRmd5TmlwZw?oc=5",
       "published_at": "2026-07-11 04:00:00",
       "category": "general"
     },
     {
-      "title": "Test runs and a shock-absorbing cage: how Bayeux tapestry was moved to UK - The Guardian",
-      "description": "\n\nTest runs and a shock-absorbing cage: how Bayeux tapestry was moved to UK  The Guardian\n\nFive key scenes from the Bayeux Tapestry, and the story they tell  BBC\n\nDead-of-night operation brings famed ",
+      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10 - The Guardian",
+      "description": "\n\nThe bulging in-tray of challenges Andy Burnham faces upon entering No 10  The Guardian\n\nBurnham on track to be next PM as 322 Labour MPs back him  BBC\n\nLabour under Burnham will be faster and bolder",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWVrTTVoYzdndEt6a0ZhT3NDc0hHWGl3ajRya0NrbkphTldVUlN1ZmR3a1BUYUhwZG82RFZRcnBIXzZ4MDdhSVRFbU9JeDRvLUhBNzFGSXFtdjRqLUpINElVdUlrTXBMQ0FGZHpyS2hzTnI2QUExeDA1UjNiMWxMM2d1ekFPYXdiYzRaYWxJaUxjWGtPMmVINE0yNko5ZXFMUlBvSGd6TlcwSFdTYVlheVI2a2Q?oc=5",
-      "published_at": "2026-07-10 16:33:00",
-      "category": "general"
-    },
-    {
-      "title": "Harry and Meghan's week of chaos and confusion amid media battle - BBC",
-      "description": "\n\nHarry and Meghan's week of chaos and confusion amid media battle  BBC\n\nHarry's bad news lands at wrong time, but prince sticks to script  BBC\n\nDoreen Lawrence will not foot any of legal bill for fai",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xN0kySmZtMzZIbnVOYm5ZQzFRczJDcDhBOUsxZ2w1T01sdC0xVkhma0RhVFV4ZTB1OVNLa0RsUXFyTkN2bm56dFlMMDJmNkRnaWlqdlpEUU9WSkds?oc=5",
-      "published_at": "2026-07-10 23:36:03",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGF6eDBtV3BjbEdxdGtYYTFEU1FDY2x6RXhrRjhjcU9xbnctdndjUmxoMm53bHBMYmc3VWZKeklENW5xZkU2NXROWTgycmp5ck9FOWFCRzZKSWFPWEgwb01wS2dBU2NQSnA1VWwzamplQ0UxalptY2VfbjJlbzhqOFVZYlV6cGpmYklFQWJVb1BUYlpycW52eFBHNktTMjdFc21JREU0MFltb2c?oc=5",
+      "published_at": "2026-07-10 13:00:00",
       "category": "general"
     },
     {
       "title": "Four Britons feared dead as Spanish wildfire kill at least 12 people | ITV News - ITVX",
-      "description": "\n\nFour Britons feared dead as Spanish wildfire kill at least 12 people | ITV News  ITVX\n\nSpain battles to contain one of its deadliest wildfires as at least 12 killed  BBC\n\n‘I had an incredible escape",
+      "description": "\n\nFour Britons feared dead as Spanish wildfire kill at least 12 people | ITV News  ITVX\n\nSpain battles to contain one of its deadliest wildfires as at least 12 killed  BBC\n\nRescuers search for Spanish",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHJHanpEQldBSDRKSC1EOHdmM1ExSmFjMjZURjVLb3k2Mldoay15Y0xweWZpYUh6b3RQcmtHbWhCNWs3NXlkaVlGRFRIVTI4TGxpVWpUN1QyeWRMMF9tTk9SenVrRWZjNDB5alp4M3NxY2tKTlVONTFvUzJZbWNzdV9VZHNvQVlIM0toYlgxbjV0N2ZxbGk3QmNSUTlHbmZCMmc?oc=5",
       "published_at": "2026-07-10 21:49:00",
+      "category": "general"
+    },
+    {
+      "title": "Bushfire sparks travel chaos as heatwave predicted to last even longer - LIVE - London Evening Standard",
+      "description": "\n\nBushfire sparks travel chaos as heatwave predicted to last even longer - LIVE  London Evening Standard\n\nWildfire risk raised to red in parts of England  BBC\n\n'Extreme' London wildfire risk warning i",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRhTTRKY1g1SUZ4OGkyaUY3LTVscFJUb0ZnblZjcS1XdmlmMTR2T3B1ZGw1dXNaTWJvei1fQU1fMDk2ZUlnMFVYM3A1cjRyX1p1WWkycU0zdHRPeE9iOXVhNld0T2FlYnZkblp1U0ZYU1NRTW51OXY2MEZKZnlKVGpYZGhhcEJKT2FreHVGNDZSMURnWHRSSWo5NkJrT0M3N3pxblFZSTVWalRlcEhiTHpR?oc=5",
+      "published_at": "2026-07-11 00:06:57",
+      "category": "general"
+    },
+    {
+      "title": "What is a hosepipe ban, why are they needed and who decides to implement them? - BBC",
+      "description": "\n\nWhat is a hosepipe ban, why are they needed and who decides to implement them?  BBC\n\nUK bakes in 35C highs as millions under hosepipe bans  BBC\n\nHosepipe ban for millions more people - here are the ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80UHd6d2hUSUdYdTR6WWM1aHJRUjBPbkhMWGZQdEttaFRjN2VsRGIwb2xpd0x2SENycFU1XzRxaVRUQmRpb25Ua0VrSk9WZHRrSzh1ejAtZ0M4WUc2?oc=5",
+      "published_at": "2026-07-11 06:29:57",
+      "category": "general"
+    },
+    {
+      "title": "Five key scenes from the Bayeux Tapestry, and the story they tell - BBC",
+      "description": "\n\nFive key scenes from the Bayeux Tapestry, and the story they tell  BBC\n\nDead-of-night operation brings famed Bayeux Tapestry back to Britain after nearly 1,000 years  CNN\n\nBayeux Tapestry delivered ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1aHE4aFZSVDdRTUpCTHpENXM4NGMtNncwLWVoX1JRdW5zM3k1YUJjb3dNMDAtb1dNdm1xYS02RW4tQkhpeVltcFZmc3lBNTN5Y1RFLXpraVdQWGJT?oc=5",
+      "published_at": "2026-07-11 00:03:50",
+      "category": "general"
+    },
+    {
+      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral - Al Jazeera",
+      "description": "\n\nTrump threatens Iran after chants for his death erupted at Khamenei funeral  Al Jazeera\n\nIran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him  Al Jazeera\n\nTrump praises Allah, t",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG54YUh5VGxKRWNwU0VvcnY3eXpjWjlPYkxtQ1hkR1BuMnp5OGl5ZDJjYmNRWVgyYlU2Snh3cHR4c0tja0JHbWh1dXgzVDFNVFl6NFAyMUhIVHdfZ1hZUnpiM0xPMFZrUURDUkJiVlk2cTZkb05Wbm55WjdUWVE0ZEhMazhXX2xzc3h1YjZJR2Z5aVFfN1o4SlZRRzRiaUZ5dzhWM2pEM1d0WTE0ZU1RNFBNZWloVmvSAbwBQVVfeXFMTWhBYnJEZjN1R0lLWGM5ZTV2YUk5ZDJNNjNPMlpRYTlUeFBNeVY5TVdOUkRraWUtdk1NVkI1blN0VzAwYXNiY3ZsMEhNNkpjekhkUWZaSUNSREpWWFpNS1VhaWt5N1QzRjREZlFOWDAwY0hyUW1aenBKSHQ5enZLakxrN1Z0Vm9ZYjE3LUpuWDBoV05LSW81VEZZRnp6cUcwSm9rdHRNUXIwNEc5Q2NVWkswVjA1enIydVhJUUE?oc=5",
+      "published_at": "2026-07-11 08:11:54",
+      "category": "world"
+    },
+    {
+      "title": "Rescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents - Sky News",
+      "description": "\n\nRescuers search for Spanish wildfire survivors as woman issues plea for help over missing parents  Sky News\n\nSpain battles to contain one of its deadliest wildfires as at least 12 killed  BBC\n\n‘I ha",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRDJ2WGJydU1Kc1prTlJKMHh2Qnd2YVFMRGVFUUlrMjdCWHUtRFoyZ25UM3BUN1A0YU1EOWowZ3ljdXdBcG9lTjBoSkpKTk9KWnByMWY0alAyMFBiQnloZ00wZlJPZEFlQW5Yc0QyR0VSaUM0a2Y4SnVpWkZVMV9oOEdXU3Q2OVVycHJXcjBMVzJlcHBiUGR5dW9pOWFfeGxFdl9OTVRfaThsZFczVmZ2ek1qdTUxY0VSbWczcGJ2Z3ZQeFdTT2ozUG5xVlVMZw?oc=5",
+      "published_at": "2026-07-11 10:32:47",
+      "category": "world"
+    },
+    {
+      "title": "Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say - Euronews",
+      "description": "\n\nUkrainian drone strikes hit southern Russian refineries and Azov port, officials say  Euronews\n\nUkraine strikes Russian ships near Crimea, escalating attacks on fuel supplies  BBC\n\nOmsk Residents De",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXdfaU11Yy1XUHY2WS1lN1VwOUtxczhyWHp2LWlPMU1ZbUhWQ3lLZ2pwMVluTHRVOE9NajBkMHlQcVVkT0NsaUJaV0dCXzZmT1VQRnJzbGJMbjZYTjB2MjZQUVEtUEFFYjhFWDNVRlRDc1h4VU1hNm8yb0pabFdYVGpvdG1scFE0WUZVUFBVWkZYVE1qR2VlejI1RnRZRHJyUEhoS3ZILWs2THFXYVBJOF9HMTNDRDN5TjJ5cE5GaXhQei1Kdmducw?oc=5",
+      "published_at": "2026-07-10 16:54:52",
+      "category": "world"
+    },
+    {
+      "title": "Meet the crypto billionaires building a world where money buys you a vote - BBC",
+      "description": "\n\nMeet the crypto billionaires building a world where money buys you a vote  BBC\n\nCrypto billionaires are trying to build new nations, and they’re not asking for your vote  Crypto Briefing\n\nCrypto bil",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZVZEak5kb2VObjNyTV9iV1diSWFhNllja1lsZWEzM0RuaXlnT1Z3UlNVYnRqZHpkbHpoQTI3aTFvLVE3UTdXUE1yZ3I2Zk9aajFQY3kweFhkVkJ6?oc=5",
+      "published_at": "2026-07-10 23:03:00",
       "category": "world"
     },
     {
@@ -85,30 +109,6 @@
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzBaTV80QWMwN0RvbHJvQTNERmxaZGU2aDZuQXJ4aXo1ajRXNW1fcjdhTHRmZkxHWkhOT1lHc1lxUERGaG1zZDBicjM1R2RRclo0YlI5S2N1RjJwQ3o1RVh3aUNNeTcwVmNlRkVSakNEZVVCdjFCMHlIQlkxTm9EUkxDRDIydW5GSGtaUzdaMDNkUTlRNDZNSmlIMVpRRWpHR2tSbE1Oa2tCR2g4?oc=5",
       "published_at": "2026-07-10 15:02:00",
-      "category": "world"
-    },
-    {
-      "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz - Al Jazeera",
-      "description": "\n\nTrump hints at further Iran negotiations after exchange of fire over Hormuz  Al Jazeera\n\nIran updates: Trump says agreed to talks with Tehran, but ceasefire ‘over’  Al Jazeera\n\nUS Says Iran Technica",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXZiMzJVWlVmbWIzd1lxckxjbTJQUmxBNjNORmcwVjRuZGNpaUp0ZHZoZDlGQjNFT0pDcHptVTM4U3ZHa2ZJbWZkRFllc081akotdlp0NXBtNU9xa0Y5Zzg0alI0WjF2QVBkQXdqbU5XY0Rtbkc3UHFKMm9OS1NSSndBWnF4N253aUc1U2pXQjh2UGJyVVdEZk8wQnBGQlU0S0I4SXZvbFdJb03SAbABQVVfeXFMT1E4Y084am5wNVJuOWJrVzJ3VlhpS0o3dlNhTngtajJGUThkLUI2NHNqd2ktcjE1ZjdYcktUMDFUWXlWeUZLcUFldEN4WkVFSURVQVJHODV5VUx4WjNhWXUycGVFU2gyaERZaXBFbEZFRzRKMUdnSkJXMXlNZUxmVnV4YVdqMHExbmk5MTNhY3FIV1JMOXZZM0hCYWZJVG11RXZtR19xUlJCaDQxeWVaS08?oc=5",
-      "published_at": "2026-07-10 22:43:20",
-      "category": "world"
-    },
-    {
-      "title": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire - Financial Times",
-      "description": "\n\nUS sends team to Beirut to shore up Israel-Hizbollah ceasefire  Financial Times\n\nIDF troops to withdraw from Lebanon pilot zones in coming days, says US official  The Times of Israel\n\nNetanyahu Vows",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2xCZHVUTzRwSUVaRW9Qc0ZFQ01aaFlIM2c2a09WOE11RzZGOUJBMjl2X2RfX3Q0MFc2S1FXWnhrWG5HZ3dPQl9YMXBzUG5wZUpVSU5SaGlDSExWbjkwVjg3MERxczZFbUhIYzB4QkFjRzM2aHhIQzVPcVF3SVkwZm4xMk0?oc=5",
-      "published_at": "2026-07-10 17:57:26",
-      "category": "world"
-    },
-    {
-      "title": "Russian authorities ask residents to work from home as fuel crisis escalates - politico.eu",
-      "description": "\n\nRussian authorities ask residents to work from home as fuel crisis escalates  politico.eu\n\nRussian fuel shortages bite – but will Putin change tack in Ukraine war?  BBC\n\nRussia's diesel export ban d",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3p4VkVsUUpoYmxDY0ROM2c0Qk9IVEVGWnZFZkxOdjYtNEZuVmRSMFBXNkpwSU5Ka3M2MkRrUGV1U3hRaktUTVFFdmhWZjNHeG13NHJscUVKd0hLSnlrZ2k4bWV6VklQVHppSWhLV2ZNQUJBNjhhUVBONy1DUGc5dERTbUJaeHZ2dTI5ay1HU0U3M2JxWVh6WHNLS3Naa1U0aHg5Ym1uc3RVdHM?oc=5",
-      "published_at": "2026-07-10 15:09:00",
       "category": "world"
     },
     {
@@ -160,11 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "title": "An update on residential proxies and the scraper situation",
       "description": "",
       "source": "Hacker News",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "published_at": "2026-07-11T05:19:41Z",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "published_at": "2026-07-10T19:38:34Z",
       "category": "tech"
     }
   ]
