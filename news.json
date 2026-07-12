@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T23:45:36Z",
+  "last_updated": "2026-07-12T01:57:42Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,19 +120,11 @@
       "category": "world"
     },
     {
-      "title": "Stop Telling Me to Ask an LLM",
+      "title": "Mesh LLM: distributed AI computing on iroh",
       "description": "",
       "source": "Hacker News",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "published_at": "2026-07-11T22:28:48Z",
-      "category": "tech"
-    },
-    {
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-      "published_at": "2026-07-11T22:49:42Z",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "published_at": "2026-07-11T22:38:57Z",
       "category": "tech"
     },
     {
@@ -144,14 +136,6 @@
       "category": "tech"
     },
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "published_at": "2026-07-11T22:38:57Z",
-      "category": "tech"
-    },
-    {
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "description": "",
       "source": "Hacker News",
@@ -160,11 +144,27 @@
       "category": "tech"
     },
     {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "title": "A dock that wakes up reliably",
       "description": "",
       "source": "Hacker News",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "published_at": "2026-07-11T17:21:49Z",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "published_at": "2026-07-12T00:48:10Z",
+      "category": "tech"
+    },
+    {
+      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+      "published_at": "2026-07-12T00:35:08Z",
+      "category": "tech"
+    },
+    {
+      "title": "A public ledger of cloud outages and the SLA credits they trigger",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://slacreditwatch.com",
+      "published_at": "2026-07-12T00:02:27Z",
       "category": "tech"
     }
   ]
