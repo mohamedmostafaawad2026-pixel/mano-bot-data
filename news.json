@@ -1,10 +1,75 @@
 {
-  "last_updated": "2026-07-12T22:39:19Z",
+  "last_updated": "2026-07-12T23:44:32Z",
   "sources": [
+    "Google News Egypt",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
+    {
+      "title": "'Nothing to suggest' Ann Widdecombe murder politically motivated, say police - after man arrested in Rotherham - Sky News",
+      "description": "\n\n'Nothing to suggest' Ann Widdecombe murder politically motivated, say police - after man arrested in Rotherham  Sky News\n\nPolice say no suggestion of political motive in Widdecombe killing after new",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzYxdXFKbmd1RE9fZXh3alpfU0E4UGk5LXpIV1ZKLXJ6N2pFUWtldng4U0FYNUppaUNhdnVDXzBuRnlXellTaDl4TTZtQ2RZVTVHM0hUVF9yNWRhMV9Temw4eXNOWVR3elpuaFdzYUFWOVotc3dGT1VtVWZYYkpobDlhLUlWMDJ1b3lyRUlIc01xNHBxZjk1T2s1YXU1M3ZuVnlNc3plOVFfYXRINjhqZGNLLXk?oc=5",
+      "published_at": "2026-07-12 18:48:37",
+      "category": "general"
+    },
+    {
+      "title": "Iran-US war latest: Trump launches more strikes ‘to hold Iran accountable’ as Strait of Hormuz standoff escalates - The Independent",
+      "description": "\n\nIran-US war latest: Trump launches more strikes ‘to hold Iran accountable’ as Strait of Hormuz standoff escalates  The Independent\n\nMiddle East crisis live: US launches new wave of strikes on Iran; ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDQtbVBHRGVsVFFCT2Y5VmNfNExJSmxzUjR6NURTUFhQbjIxTXU3U09GQk5hd3ZyMFcxY2pvMmVIbG5YM2d0U044VUZDa3djc2RZZ1ljODNNeERrbVpsTkFDYnZ6RGswWGR0NTJnaEp6eG9JWXNueTlqb1hSOC1DTUg4UTBuSFNiUjFDeExtSDhEMnVHaVZQejNkWEV0c3NEdkE5M2IxSnhyQWRva2VQLVJXa21QUGNCMzdUUWtLa0dKd3NCMF9r?oc=5",
+      "published_at": "2026-07-12 23:35:57",
+      "category": "general"
+    },
+    {
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era - BBC",
+      "description": "\n\nAnthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era  BBC\n\nLindsey Graham tributes from Israel and Ukraine point to complicated, often bloody legacy  T",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNVllpQXhscVFuUUNMd0tiSUl2QV85c1lTQXFTSUoxTi1TdTZTbkZCZW1XUk9lc0dhbnhrRFVUcktJblBOT1dMNVBBYjQtS0lHWEhPYm1NZTBqSjJJ?oc=5",
+      "published_at": "2026-07-12 19:42:26",
+      "category": "general"
+    },
+    {
+      "title": "Major incident declared as 'large-scale' wildfire forces locals to evacuate | ITV News - ITVX",
+      "description": "\n\nMajor incident declared as 'large-scale' wildfire forces locals to evacuate | ITV News  ITVX\n\nMajor incident declared in Wales as firefighters tackle wildfires across UK  BBC\n\nParts of UK may get ‘b",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVVkNXBuQ0N0UEdMN2xCWXJMbGRMd3V1dm1Iay1UOUhMMmpwTERvUDZVMkV3dWJNdThHRHdNeG9MbkFUTDRINmxabmtYeFZxcW9Ca3Z3X1l5T2U2S2RyRVFEY1NoQk0tcWNqNWV6MTU2XzhBcGEwV2FIZ3FtTjNiY1RQdFJaM1doWTNQUU1ZaGpTUTM1akFyM3VVTUhzNTEwcHJxYTZtQV9KbmFtVlRCb0gtTkUyQQ?oc=5",
+      "published_at": "2026-07-12 16:35:57",
+      "category": "general"
+    },
+    {
+      "title": "At least 27 killed in Bangkok bar fire - BBC",
+      "description": "\n\nAt least 27 killed in Bangkok bar fire  BBC\n\nAt least 27 killed in blaze at Bangkok pub, Thai officials say  The Guardian\n\nAt least 27 killed in Bangkok pub inferno  The Telegraph\n\nMidnight inferno ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2bmJLQWpfSTZlOGNxQ2ZWUlhyVlJDTTJPOHNKMTRuNmx4X1Q1QXU5ck5yNmdzTDNjU0lWSmE5R21YSFdnelpwUjd0S1dxd1lteEdzY0gwOXFlaVJ5?oc=5",
+      "published_at": "2026-07-12 19:45:05",
+      "category": "general"
+    },
+    {
+      "title": "Two men die after going into sea to rescue children at County Durham beach - The Guardian",
+      "description": "\n\nTwo men die after going into sea to rescue children at County Durham beach  The Guardian\n\nTwo men die after trying to help children at Seaton Carew beach  BBC\n\nTwo die rescuing children from water i",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk5GdERtWEVmNW16bGJBTFZZMEhBUVo2bEwtWDd3VV9TMTNrbnBqWjE0a3J3MHd1OXY3OGtpdWpBSFJOaVo3dHVrLUJObVhaN3M3aklFS3JHRGVKZVQ4ZHpDRTlMSHZIOTlxazJld3hjcGFZMUNuSGFmSEpVa19NaWdWU3NZeXR0V1l2MmhNN0toSXNWQkNNdVVBOTVNMU81d2ZMd1IzQkRmOVdpVTBHQWZ4Unc4UDNzTHIwZWVBOA?oc=5",
+      "published_at": "2026-07-12 20:15:00",
+      "category": "general"
+    },
+    {
+      "title": "Residents evacuated as 125 firefighters called to 'serious' UK fire - Sky News",
+      "description": "\n\nResidents evacuated as 125 firefighters called to 'serious' UK fire  Sky News\n\nWalthamstow: Residents evacuated after east London fire  BBC\n\nHomes evacuated as firefighters tackle railway embankment",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkQyWkVMcVhqdkFfakM1NEdPcFZYWEptUHFQN3h0T2xOYW1vTVVXVXhJamJXbXRRLWNqYzBVY29BcFlYcjY2eklzcVJrN21NSjZPQ01LLWRrSS01c0RkaDBOX1hmWUlEZGZBejlCbk5Md0xveC1Kb3JOYXF5YjVMakJrYTR6aXFKSGxUSGRlR2ZrLXhHRnBydWFmUzN4X3R0dEJB?oc=5",
+      "published_at": "2026-07-12 23:18:03",
+      "category": "general"
+    },
+    {
+      "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart - The Guardian",
+      "description": "\n\nUK must cap political donations to stop the rich buying influence | Heather Stewart  The Guardian\n\nNigel Farage is just one strand in the tangle of rightwing politicians and crypto investors | John ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVhmNHhidE5FT1k2UDJsMFR3SGNOR0xPZUx1Tkp0ZkVoODI5Ui03SWJ0SkFHdGtzT3R1X3FPMXNaNkFTTldIenJXeEZMZUVSZ2ZmTHZIYzBPazY2ejNleVJqLXRSUnc3Y1ZzN0J6X29UVEtWVEhPVVBXaGxxZ3R4SFdqNHBvdFdKQ1NGSldYanNpZ0FJMG1LcGlsOHI4elctVDNFZw?oc=5",
+      "published_at": "2026-07-12 20:19:00",
+      "category": "general"
+    },
     {
       "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
       "description": "",
@@ -22,11 +87,35 @@
       "category": "tech"
     },
     {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "published_at": "2026-07-12T22:45:31Z",
+      "category": "tech"
+    },
+    {
       "title": "So you want to learn physics (second edition, 2021)",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.susanrigetti.com/physics",
       "published_at": "2026-07-08T03:28:00Z",
+      "category": "tech"
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "published_at": "2026-07-12T21:26:41Z",
+      "category": "tech"
+    },
+    {
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://kode.diy",
+      "published_at": "2026-07-12T21:27:29Z",
       "category": "tech"
     },
     {
@@ -46,43 +135,19 @@
       "category": "tech"
     },
     {
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "title": "Designing and assembling my first PCB",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-      "published_at": "2026-07-12T20:16:12Z",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "published_at": "2026-07-12T22:56:56Z",
       "category": "tech"
     },
     {
-      "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "title": "Architecture Description Languages [pdf]",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.adaptiverecall.com/",
-      "published_at": "2026-07-12T21:08:20Z",
-      "category": "tech"
-    },
-    {
-      "title": "Old and new apps, via modern coding agents",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "published_at": "2026-07-12T11:09:42Z",
-      "category": "tech"
-    },
-    {
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48884984",
-      "published_at": "2026-07-12T21:26:41Z",
-      "category": "tech"
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "published_at": "2026-07-12T18:04:41Z",
+      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+      "published_at": "2026-07-12T22:54:07Z",
       "category": "tech"
     },
     {
@@ -99,22 +164,6 @@
       "source": "arXiv (AI/ML)",
       "url": "http://arxiv.org/abs/2607.08763v1",
       "published_at": "2026-07-09T17:58:29Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08758v1",
-      "published_at": "2026-07-09T17:55:53Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08757v1",
-      "published_at": "2026-07-09T17:55:52Z",
       "category": "ai"
     }
   ]
