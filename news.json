@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T15:51:59Z",
+  "last_updated": "2026-07-12T16:49:51Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,11 +79,19 @@
       "category": "tech"
     },
     {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "title": "How to Read More Books",
       "description": "",
       "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "published_at": "2026-07-12T13:26:13Z",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "published_at": "2026-07-12T15:47:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "A no-brainer for protecting your brain",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "published_at": "2026-07-12T15:23:59Z",
       "category": "tech"
     },
     {
@@ -95,11 +103,19 @@
       "category": "tech"
     },
     {
-      "title": "Gina Gallery of International Naive Art",
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.ginagallery.com/",
-      "published_at": "2026-07-12T13:18:34Z",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "published_at": "2026-07-12T13:26:13Z",
+      "category": "tech"
+    },
+    {
+      "title": "Don't You Mean Extinct?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "published_at": "2026-07-12T15:17:20Z",
       "category": "tech"
     },
     {
@@ -111,43 +127,27 @@
       "category": "tech"
     },
     {
+      "title": "Why study Diophantine equations?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://hidden-phenomena.com/articles/modular",
+      "published_at": "2026-07-12T15:53:53Z",
+      "category": "tech"
+    },
+    {
+      "title": "Gina Gallery of International Naive Art",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.ginagallery.com/",
+      "published_at": "2026-07-12T13:18:34Z",
+      "category": "tech"
+    },
+    {
       "title": "Vint Cerf, a “father of the Internet”, is retiring",
       "description": "",
       "source": "Hacker News",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "published_at": "2026-07-10T00:06:59Z",
-      "category": "tech"
-    },
-    {
-      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mrbruh.com/motorola/",
-      "published_at": "2026-07-12T11:52:21Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "published_at": "2026-07-12T05:51:32Z",
-      "category": "tech"
-    },
-    {
-      "title": "Lessons from the Vasa Shipwreck",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4",
-      "published_at": "2026-07-08T22:07:05Z",
-      "category": "tech"
-    },
-    {
-      "title": "Ditching Zotero for a Text File",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://atthis.link/blog/2026/57207.html",
-      "published_at": "2026-07-06T20:17:19Z",
       "category": "tech"
     },
     {
