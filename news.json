@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T18:53:42Z",
+  "last_updated": "2026-07-12T20:02:54Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,19 +79,11 @@
       "category": "tech"
     },
     {
-      "title": "Old and new apps, via modern coding agents",
+      "title": "I love LLMs, I hate hype",
       "description": "",
       "source": "Hacker News",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "published_at": "2026-07-12T11:09:42Z",
-      "category": "tech"
-    },
-    {
-      "title": "Don't you mean extinct?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "published_at": "2026-07-12T15:17:20Z",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "published_at": "2026-07-12T18:31:56Z",
       "category": "tech"
     },
     {
@@ -103,6 +95,14 @@
       "category": "tech"
     },
     {
+      "title": "Old and new apps, via modern coding agents",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "published_at": "2026-07-12T11:09:42Z",
+      "category": "tech"
+    },
+    {
       "title": "Automation Without Understanding",
       "description": "",
       "source": "Hacker News",
@@ -111,43 +111,43 @@
       "category": "tech"
     },
     {
+      "title": "The One-Step Trap (In AI Research)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "published_at": "2026-07-12T18:41:15Z",
+      "category": "tech"
+    },
+    {
+      "title": "Don't you mean extinct?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "published_at": "2026-07-12T15:17:20Z",
+      "category": "tech"
+    },
+    {
+      "title": "Can We Understand How Large Language Models Reason?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "published_at": "2026-07-12T18:04:41Z",
+      "category": "tech"
+    },
+    {
+      "title": "Why write code in 2026",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+      "published_at": "2026-07-10T16:12:52Z",
+      "category": "tech"
+    },
+    {
       "title": "Against Usefulness",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.motivenotes.ai/p/against-usefulness",
       "published_at": "2026-07-12T17:47:07Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/hasenj/go-shirei/",
-      "published_at": "2026-07-12T16:55:42Z",
-      "category": "tech"
-    },
-    {
-      "title": "Why study Diophantine equations?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://hidden-phenomena.com/articles/modular",
-      "published_at": "2026-07-12T15:53:53Z",
-      "category": "tech"
-    },
-    {
-      "title": "Understanding the Odin Programming Language",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://odinbook.com/",
-      "published_at": "2026-07-12T12:08:07Z",
-      "category": "tech"
-    },
-    {
-      "title": "LARP – Revenue infrastructure for serious founders",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.larp.website/",
-      "published_at": "2026-07-12T16:56:41Z",
       "category": "tech"
     },
     {
