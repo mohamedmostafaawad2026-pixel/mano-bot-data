@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T14:48:07Z",
+  "last_updated": "2026-07-12T15:51:59Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,14 +79,6 @@
       "category": "tech"
     },
     {
-      "title": "Yt-Dlp Sequence Diagrams",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-      "published_at": "2026-07-12T11:49:38Z",
-      "category": "tech"
-    },
-    {
       "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
       "description": "",
       "source": "Hacker News",
@@ -103,11 +95,11 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "title": "Gina Gallery of International Naive Art",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-      "published_at": "2026-07-12T13:21:01Z",
+      "url": "https://www.ginagallery.com/",
+      "published_at": "2026-07-12T13:18:34Z",
       "category": "tech"
     },
     {
@@ -119,19 +111,19 @@
       "category": "tech"
     },
     {
-      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mrbruh.com/motorola/",
-      "published_at": "2026-07-12T11:52:21Z",
-      "category": "tech"
-    },
-    {
       "title": "Vint Cerf, a “father of the Internet”, is retiring",
       "description": "",
       "source": "Hacker News",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "published_at": "2026-07-10T00:06:59Z",
+      "category": "tech"
+    },
+    {
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://mrbruh.com/motorola/",
+      "published_at": "2026-07-12T11:52:21Z",
       "category": "tech"
     },
     {
@@ -143,11 +135,19 @@
       "category": "tech"
     },
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
+      "title": "Lessons from the Vasa Shipwreck",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "published_at": "2026-07-11T22:38:57Z",
+      "url": "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4",
+      "published_at": "2026-07-08T22:07:05Z",
+      "category": "tech"
+    },
+    {
+      "title": "Ditching Zotero for a Text File",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://atthis.link/blog/2026/57207.html",
+      "published_at": "2026-07-06T20:17:19Z",
       "category": "tech"
     },
     {
