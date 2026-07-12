@@ -1,8 +1,7 @@
 {
-  "last_updated": "2026-07-12T10:19:34Z",
+  "last_updated": "2026-07-12T11:52:24Z",
   "sources": [
     "Google News Egypt",
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -72,43 +71,11 @@
       "category": "general"
     },
     {
-      "title": "US launches more strikes after Iran declares Strait of Hormuz closed - Financial Times",
-      "description": "\n\nUS launches more strikes after Iran declares Strait of Hormuz closed  Financial Times\n\nUS launches fresh strikes as Iran closes Strait of Hormuz  BBC\n\nUS hits 140 Iranian targets after ‘blatant’ att",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjNqelFxRDJJNUJhZ3Z5SXdZTXppTy1pNkMxdzNyd21yV3FScVFzTDhqZlFwQVRMNUhfS3VDNTdNSHFYNlJrRExtSldWc0JHSXFiYWlsV1U2TDdFdUVMdERGSnUzOU9rVWRjczVuY0thUS1PT3g0UGFYWkxubHdfQXZ3YmU?oc=5",
-      "published_at": "2026-07-12 00:00:34",
-      "category": "world"
-    },
-    {
-      "title": "At least two killed in Toronto street festival shooting - BBC",
-      "description": "\n\nAt least two killed in Toronto street festival shooting  BBC\n\nTwo dead and four injured in shooting at Toronto street festival  Sky News\n\nManhunt after two killed in shooting at Toronto Latin cultur",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5neEtRcXF4MFI5MWtoYjBtYXc4blA1RUVCbjVHR3BoZmpsOGhwWXB0MkYwVDM4aEY0UzVmTG5senc4TnZWZVEzOXNaLV9PWDBmQTZnMzlhUnQxZXJ6?oc=5",
-      "published_at": "2026-07-12 01:11:10",
-      "category": "world"
-    },
-    {
-      "title": "Spanish wildfire victims ‘ignored evacuation order’, claims minister - The Telegraph",
-      "description": "\n\nSpanish wildfire victims ‘ignored evacuation order’, claims minister  The Telegraph\n\nSpain wildfires latest: Hiking British couple saved from ravine with 40% burns during deadly wildfires  Sky News\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnF5N2lkMUdVSl9lbVFfNHBiamprSDZNLXdtUlJyeF9VM0IyM3FiOURJWFdtYl9SQW5YQW9VUE85Ym5lV00wQk5hczNKRHJKQVNLTVlEdTRsbDl3VU5uSVhUeDlHOUFNeGRRZGdFdkFhN1JaQUFfM1U2c0lOd1NaclM5N01LcjdINnNrWkk4bjZNazljQW96T0huc2dQQnRwd1lIU1cwY25sU0JVR2c?oc=5",
-      "published_at": "2026-07-11 16:11:00",
-      "category": "world"
-    },
-    {
-      "title": "More than 4,300 confirmed dead in Venezuela earthquakes - Sky News",
-      "description": "\n\nMore than 4,300 confirmed dead in Venezuela earthquakes  Sky News\n\nVenezuela quake death toll passes 4,300 as scale of recovery effort looms large  The Guardian\n\nDeath toll on the rise in quake-stru",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmUzVUNxWXplbmFZSWNHZmY2ZnVsSF94UjRrTWhUdDduZmpQSWFlT3UxVEFzNHZEVVVvZXBjeURWcFRxXzZ0VFdMclJXYWdNZnQwbkVLVDRwOFlqRTFvbk9UemJlLWxJYm5XdUVTTHJKalZQSVRjbmdNdEk0M05rRENPTjdXTW1vTVJHS2ItMDNoTEhVdVE?oc=5",
-      "published_at": "2026-07-11 18:57:52",
-      "category": "world"
-    },
-    {
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "published_at": "2026-07-12T05:51:32Z",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "published_at": "2026-07-12T11:09:42Z",
       "category": "tech"
     },
     {
@@ -120,11 +87,27 @@
       "category": "tech"
     },
     {
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "published_at": "2026-07-12T05:51:32Z",
+      "category": "tech"
+    },
+    {
       "title": "Mesh LLM: distributed AI computing on iroh",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.iroh.computer/blog/mesh-llm",
       "published_at": "2026-07-11T22:38:57Z",
+      "category": "tech"
+    },
+    {
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "published_at": "2026-07-12T11:18:32Z",
       "category": "tech"
     },
     {
@@ -144,6 +127,14 @@
       "category": "tech"
     },
     {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://dakra.github.io/ghostel/",
+      "published_at": "2026-07-12T08:52:59Z",
+      "category": "tech"
+    },
+    {
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "description": "",
       "source": "Hacker News",
@@ -152,20 +143,28 @@
       "category": "tech"
     },
     {
-      "title": "Text art tools",
+      "title": "Handsum: An LQIP Image File Format",
       "description": "",
       "source": "Hacker News",
-      "url": "https://hlnet.notion.site/text-art-tools",
-      "published_at": "2026-07-08T13:00:43Z",
+      "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+      "published_at": "2026-07-08T12:07:59Z",
       "category": "tech"
     },
     {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "published_at": "2026-07-11T17:21:49Z",
-      "category": "tech"
+      "title": "📄 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08768v1",
+      "published_at": "2026-07-09T17:59:32Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 OpenCoF: Learning to Reason Through Video Generation",
+      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08763v1",
+      "published_at": "2026-07-09T17:58:29Z",
+      "category": "ai"
     }
   ]
 }
