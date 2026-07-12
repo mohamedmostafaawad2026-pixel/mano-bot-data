@@ -1,74 +1,25 @@
 {
-  "last_updated": "2026-07-12T20:02:54Z",
+  "last_updated": "2026-07-12T21:41:40Z",
   "sources": [
-    "Google News Egypt",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "British police make new arrest in Ann Widdecombe murder investigation - Al Jazeera",
-      "description": "\n\nBritish police make new arrest in Ann Widdecombe murder investigation  Al Jazeera\n\nPolice say no suggestion of political motive in Widdecombe killing after new arrest  BBC\n\nAnn Widdecombe murder sus",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0lKZGVnbzhBU005aUlxQ1FsaTIxWFY3YVd4ZExxMFExc1NiTGN1X0Y0NENLUVdZQkNXOWllMXV3QnJwSkFGVERnZ2ZRT1NvRWI0LTBtVTRkQTVPTjRUdWZNTWYyWUFyX3E1Q1RhY2Fral9CREduS1RldDFjMnI0TWVfUkVjWmpZVXptS0FEV2NQTnhodGY3aW5mc0dPeWI2cXJpVC1OczZDaUl1Q0Yw0gG0AUFVX3lxTE1fUWk1eTFIRWVURU83MUlmWFVXdE5HLXhhMm80TGJjbHFiaFc2NHo1WDRQSVRRcTFlems2bU1jVUVfWW9WTlJqam5Qd1NBaGRJT2ZqYjRsVWJ0MTI2cEZvTVJRN1gxQ0x3eC03ZTg2UW83YTRDQzFsZ0I3anhXdEM4emJicm5ZWmZMWEp5WWd6Z2pscFpIRlI0WFRXSnY2MFF2X0VWUWotNHpSS25DLWNXNGhNeg?oc=5",
-      "published_at": "2026-07-12 12:26:08",
-      "category": "general"
+      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "published_at": "2026-07-12T21:12:11Z",
+      "category": "tech"
     },
     {
-      "title": "European leaders mourn US Senator Lindsey Graham - politico.eu",
-      "description": "\n\nEuropean leaders mourn US Senator Lindsey Graham  politico.eu\n\nUS senator and Donald Trump ally Lindsey Graham dies  Sky News\n\nWho will replace Trump ally Lindsey Graham in the US Senate?  Al Jazeer",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVhJc3R5amI4dWFmeWczRlA5WlZVLTE4aW93RkNRODMwc2NVVjRnV0djVEtRMVFSbm5ROWtwVTA0eVJKU0pVZDBDS0RNOUNjbkxKQjR0RlZsTDF5eVIwQVFuTE9MRTUyUFpJSmtGQVBPb2pob0hkcE9Xa09ZZmtXSUw5d2x3bVIz?oc=5",
-      "published_at": "2026-07-12 14:44:00",
-      "category": "general"
-    },
-    {
-      "title": "Iran attacks Gulf nations after more US strikes - ITVX",
-      "description": "\n\nIran attacks Gulf nations after more US strikes  ITVX\n\nUS insists Strait of Hormuz is open as it exchanges strikes with Iran  BBC\n\nUS hit Iranian air defense systems, IRGC small speedboats in Strait",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2hsNEh6b3hUU21FazFyUGstTHZoNGdxQmFYU2w1eHZmcmFTcVRVZFk0VFBneW5uRTdHUFBZZ2RneGxMa0JzS2pDTjI5cEtLay1oWjhNS0trdWhEYzVzWDRId0lZQWxLaUJUZmRfc3l3cTlhRXh0bElWT0tYN2RZNThOUXdnSnYwSjl2enNFeEcyODVlUXI3WklrdlhLTXBVcGdpTjE1a2Nodw?oc=5",
-      "published_at": "2026-07-12 13:50:02",
-      "category": "general"
-    },
-    {
-      "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires - The Guardian",
-      "description": "\n\nUK couple found burned and semi-conscious in Almería amid Spanish wildfires  The Guardian\n\nBadly burned British couple rescued from ravine during Spain wildfires, reports say  BBC\n\nSpanish wildfire ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzlMTGNZdERZdVhIY0Q0R2QxSXNTTldocGpRUkRLSDRXclowaU9qdHFETURoazdBOE13eWpjb2Rjb0Z6RU5BRmNMcWRwbUFXYXhYS1VFdTJ4SklpQXhMZDdrdm9qSHpWVVR2MXZUN0k3aHF2VjhmY3UzNTRxM3AtOWxDa09kV0JCZ0RFXzZwcWRQRTNOVlR4S19fSndYNExWVl9hWGhR?oc=5",
-      "published_at": "2026-07-12 14:56:00",
-      "category": "general"
-    },
-    {
-      "title": "Woman, 24, killed and man injured in double stabbing in Hayes, west London - Sky News",
-      "description": "\n\nWoman, 24, killed and man injured in double stabbing in Hayes, west London  Sky News\n\nMurder arrest as woman stabbed in west London  BBC\n\nMan arrested after 24-year-old woman killed in stabbing in w",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjh2MTlGMkluLWFCZ0xZb3RUSzRTZE8tM3RnSkFkZ2ZUMFNNUko5b3ZYSTEyR2U0Z1VrMjlHT1ZnZDc0bXVaYUlPb3lPR29hZkRCTFpOT3dfTTUzcFM4cWhiaWxCb2FRYzZHVlJ4T2JOUXVBUnFYd0U4NzdqV01wOGx0aUJrY3NXQTNudGFaVUllN3FZN0REUnFsamU2em5DNzNSSkpRbDVPdjg?oc=5",
-      "published_at": "2026-07-12 16:30:00",
-      "category": "general"
-    },
-    {
-      "title": "Major incident declared in Wales as firefighters tackle wildfires across UK - BBC",
-      "description": "\n\nMajor incident declared in Wales as firefighters tackle wildfires across UK  BBC\n\nMajor incident declared over wildfire in North Wales - as parts of UK face risk of 'exceptional' blazes  Sky News\n\nV",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PNVRPT2RmTWhWR3FPZ1BfeE1lT2JGYkx5RHQ0UEtnVDhrY0UwUVlLQm8wLWNmeWluS0VNVVVJOFFLakZNaDRYaTh4ZDZiZXNkVGJFSUc4LURpR2dR?oc=5",
-      "published_at": "2026-07-12 17:02:57",
-      "category": "general"
-    },
-    {
-      "title": "Middle East crisis live: Trump claims strait of Hormuz open to commercial traffic despite Iran earlier announcing closure – as it happened - The Guardian",
-      "description": "\nMiddle East crisis live: Trump claims strait of Hormuz open to commercial traffic despite Iran earlier announcing closure – as it happened  The GuardianSee more headlines and perspectives on Google N",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTlHbUh0dHlVWU1mOWIxbWJjeHozZ3NzeGdYTWFwNm1MQURFM1FUOGVhUGYwUFRfR0pBNVNnUER5N1Vsd3c1UWhZR1RPcTlwTjZWX3lRYnpRRDVmOExaU3dPR041VFdxVy1yUXhkdzQzWDYzMm9QeU9HMGtIQ1pCc0Nyd3QzUHFET1g5aUN2X3V4MzVTa09ReFg4WDJKM2Z2c2NSOEJ2aU9hWXpYZkduN3VySnBLdVRrSUtwdTUtU0NzWG5hWEE?oc=5",
-      "published_at": "2026-07-12 08:11:00",
-      "category": "general"
-    },
-    {
-      "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93 - BBC",
-      "description": "\nDavid Willey, esteemed BBC foreign correspondent, dies aged 93  BBC",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hVXJwTlozalBwcnhNSnNZaTQ5a0MzbW1MMzdKck1oOFVkbXIwc2x0RExsNnYzLXY3cmVOY0V0MExxLUFwUkR5TmVsWjVUdXZZRWI1dEVudGpYVi1r?oc=5",
-      "published_at": "2026-07-12 15:22:52",
-      "category": "general"
+      "title": "Tiny Emulators",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "published_at": "2026-07-12T20:23:05Z",
+      "category": "tech"
     },
     {
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
@@ -76,22 +27,6 @@
       "source": "Hacker News",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "published_at": "2026-07-12T18:25:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "published_at": "2026-07-12T18:31:56Z",
-      "category": "tech"
-    },
-    {
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "published_at": "2026-07-12T15:23:59Z",
       "category": "tech"
     },
     {
@@ -103,35 +38,43 @@
       "category": "tech"
     },
     {
-      "title": "Automation Without Understanding",
+      "title": "I love LLMs, I hate hype",
       "description": "",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2607.06377",
-      "published_at": "2026-07-12T16:54:47Z",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "published_at": "2026-07-12T18:31:56Z",
       "category": "tech"
     },
     {
-      "title": "The One-Step Trap (In AI Research)",
+      "title": "I Learned to Read Again",
       "description": "",
       "source": "Hacker News",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "published_at": "2026-07-12T18:41:15Z",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "published_at": "2026-07-12T18:22:15Z",
       "category": "tech"
     },
     {
-      "title": "Don't you mean extinct?",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "description": "",
       "source": "Hacker News",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "published_at": "2026-07-12T15:17:20Z",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "published_at": "2026-07-12T17:13:07Z",
       "category": "tech"
     },
     {
-      "title": "Can We Understand How Large Language Models Reason?",
+      "title": "Storm clouds gather over America's financial supremacy",
       "description": "",
       "source": "Hacker News",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "published_at": "2026-07-12T18:04:41Z",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+      "published_at": "2026-07-12T21:04:13Z",
+      "category": "tech"
+    },
+    {
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "published_at": "2026-07-12T20:16:12Z",
       "category": "tech"
     },
     {
@@ -140,14 +83,6 @@
       "source": "Hacker News",
       "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
       "published_at": "2026-07-10T16:12:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "Against Usefulness",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "published_at": "2026-07-12T17:47:07Z",
       "category": "tech"
     },
     {
@@ -164,6 +99,22 @@
       "source": "arXiv (AI/ML)",
       "url": "http://arxiv.org/abs/2607.08763v1",
       "published_at": "2026-07-09T17:58:29Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "published_at": "2026-07-09T17:55:53Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
+      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.08757v1",
+      "published_at": "2026-07-09T17:55:52Z",
       "category": "ai"
     }
   ]
