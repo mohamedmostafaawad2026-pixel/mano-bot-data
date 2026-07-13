@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-12T23:44:32Z",
+  "last_updated": "2026-07-13T01:59:23Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,11 +72,59 @@
       "category": "general"
     },
     {
+      "title": "Middle East crisis live: US launches new wave of strikes on Iran; Tehran says attacks render diplomacy ‘futile’ - The Guardian",
+      "description": "\n\nMiddle East crisis live: US launches new wave of strikes on Iran; Tehran says attacks render diplomacy ‘futile’  The Guardian\n\nIran war live: US bombs Iranian cities again as Hormuz standoff intensi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdS1wM0lLanhqaVIwRHNpYmpQZ1NmYTd1ZzVhQVp0TmM3eGZrVHZQNkJnUkpNSm9jcEdTQUYzTWp3ZE1ldV9NdVVpdWJ3RTRSM3hoRmNzaW1UcHJEUjMtMDFVMTV2Nk1zN045dHJhUzhnZHJqSVhMbGdYR1luZHcxM1N5bEY2R1ZRdmF0TFlDajduV2ljRDJwelF4MS03ZnhzRTdVS01xdVBBSXNHNnhLa3NBMGJ4bENYVUJJbUhocm9mSXV1UVpKcjRCOUtsQS05S2JrSnBlbUpQOWFoSjhBelM4b0l3QkFMcTdLa1kxSQ?oc=5",
+      "published_at": "2026-07-13 01:25:31",
+      "category": "world"
+    },
+    {
+      "title": "At least 27 killed in Bangkok pub inferno - The Telegraph",
+      "description": "\n\nAt least 27 killed in Bangkok pub inferno  The Telegraph\n\nAt least 27 killed in Bangkok bar fire  BBC\n\nAt least 27 killed in fire at Bangkok pub with another 22 critically injured  The Guardian\n\nBan",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjdxVF9PSE5DYUZzektuR1VtUDkzTU85UmdYSy1xM3dHMXkzOGVYU1U0Vy1id281cVA5eTFWR2hzZ3RJVXFFcEU1N0VrZjlPVVp3bE1SdnVUb21hS21CRmNLT2JiRUdIZWpYbFIxTlNNajA3b2FFdlQ4NmxVczQwWGV1OWs1am9sSkFkczVObThvaHRt?oc=5",
+      "published_at": "2026-07-12 22:15:00",
+      "category": "world"
+    },
+    {
+      "title": "Spain wildfires: Son of man who died disputes authorities' warnings claim - Sky News",
+      "description": "\n\nSpain wildfires: Son of man who died disputes authorities' warnings claim  Sky News\n\nBritish couple return to village at heart of deadly Spanish wildfire  BBC\n\nBritish woman becomes 13th person to d",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjdhOGRTcEZfbG5NVndBaGpUYzRhMlJxT09wclJUZXJqMnBaTEs0M2NVbkxUTDFZSGQxVkVHVUszeW4ySGhIOExvSUxxNmlhZWllcUlKS2tvb2V1NFBOcm41VDhEUnpxMURCVHFmZkdIemk4QUVNbW9oLVBWcEpqQVdnZ255OXFya0VORUNxQ0kxakJ5WGJxUUFGdlBETEQ2ZHBTbjhRRjFpRGc?oc=5",
+      "published_at": "2026-07-12 10:44:41",
+      "category": "world"
+    },
+    {
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia - BBC",
+      "description": "\n\nUS Senator Mitch McConnell says absence due to fall and pneumonia  BBC\n\nMitch McConnell reveals fall led to hospitalization after weeks of silence  The Guardian\n\nMitch McConnell reveals a fall led t",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQjRYTWZjMFozUExOMERfbUgyVTJoODNvWlhfQXRDNjV4UGhya25mZ2lKY21lOGNlZVdyc0tvQlBqVmNGa2hhSGxubEoxdVlrRXBNMEhhM295cGdH?oc=5",
+      "published_at": "2026-07-12 21:51:46",
+      "category": "world"
+    },
+    {
+      "title": "The 'facade' of the U.S.-Iran ceasefire crumbles after largest round of fighting in months - Fortune",
+      "description": "\n\nThe 'facade' of the U.S.-Iran ceasefire crumbles after largest round of fighting in months  Fortune\n\nThe Guardian view on Trump and Tehran: everyone loses when the US and Iran overplay their hands |",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2haYmhlME15X09UNEZSTDdkMGx3ZUdueFBtTDZLUWhwSHNfRnNMMXg1SkV2VjM3ZVY3NE1HNDVBMGFxR2lMSUxwZ0NZdi1MNmROME4yVjcwZXl3QTl6dGQyT3RvcUprWGVSSi1QVWt6UTI0bzUwVTdjSDRnVHp0TVdxVEEwOWlTM0lSWHJQWGJUeldncFF6V1FFZWw1YTgxUlpNRWZ3?oc=5",
+      "published_at": "2026-07-12 17:50:00",
+      "category": "world"
+    },
+    {
       "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
       "description": "",
       "source": "Hacker News",
       "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
       "published_at": "2026-07-12T21:12:11Z",
+      "category": "tech"
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "published_at": "2026-07-12T22:45:31Z",
       "category": "tech"
     },
     {
@@ -87,11 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "title": "Designing and assembling my first PCB",
       "description": "",
       "source": "Hacker News",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "published_at": "2026-07-12T22:45:31Z",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "published_at": "2026-07-12T22:56:56Z",
       "category": "tech"
     },
     {
@@ -111,60 +160,12 @@
       "category": "tech"
     },
     {
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "title": "Why Vanilla JavaScript",
       "description": "",
       "source": "Hacker News",
-      "url": "https://kode.diy",
-      "published_at": "2026-07-12T21:27:29Z",
+      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "published_at": "2026-07-12T22:53:51Z",
       "category": "tech"
-    },
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "published_at": "2026-07-12T18:25:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "published_at": "2026-07-12T17:13:07Z",
-      "category": "tech"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "published_at": "2026-07-12T22:56:56Z",
-      "category": "tech"
-    },
-    {
-      "title": "Architecture Description Languages [pdf]",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-      "published_at": "2026-07-12T22:54:07Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08768v1",
-      "published_at": "2026-07-09T17:59:32Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 OpenCoF: Learning to Reason Through Video Generation",
-      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.08763v1",
-      "published_at": "2026-07-09T17:58:29Z",
-      "category": "ai"
     }
   ]
 }
