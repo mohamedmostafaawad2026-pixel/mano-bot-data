@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T21:47:51Z",
+  "last_updated": "2026-07-13T22:47:56Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -71,14 +71,6 @@
       "category": "general"
     },
     {
-      "title": "Samsung will delete your health data if you don't let them use it to train AI",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://neow.in/cWsyMTV3",
-      "published_at": "2026-07-13T20:01:43Z",
-      "category": "tech"
-    },
-    {
       "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
       "description": "",
       "source": "Hacker News",
@@ -95,27 +87,11 @@
       "category": "tech"
     },
     {
-      "title": "Telegram's t.me domain has been suspended",
+      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.whois.com/whois/t.me",
-      "published_at": "2026-07-13T19:52:25Z",
-      "category": "tech"
-    },
-    {
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "published_at": "2026-07-13T18:32:27Z",
-      "category": "tech"
-    },
-    {
-      "title": "Climate.gov was destroyed. Open data saved it",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-      "published_at": "2026-07-13T19:57:55Z",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "published_at": "2026-07-13T20:11:29Z",
       "category": "tech"
     },
     {
@@ -127,11 +103,11 @@
       "category": "tech"
     },
     {
-      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+      "title": "The real prices of frontier models. Tokens * Price, right?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
-      "published_at": "2026-07-13T20:11:29Z",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "published_at": "2026-07-13T18:32:27Z",
       "category": "tech"
     },
     {
@@ -140,6 +116,30 @@
       "source": "Hacker News",
       "url": "https://cakehonolulu.github.io/linux-on-32x/",
       "published_at": "2026-07-13T18:18:25Z",
+      "category": "tech"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "published_at": "2026-07-13T14:52:33Z",
+      "category": "tech"
+    },
+    {
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "published_at": "2026-07-13T19:57:55Z",
+      "category": "tech"
+    },
+    {
+      "title": "Telegram's t.me domain has been suspended",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.whois.com/whois/t.me",
+      "published_at": "2026-07-13T19:52:25Z",
       "category": "tech"
     },
     {
