@@ -1,76 +1,11 @@
 {
-  "last_updated": "2026-07-13T17:08:46Z",
+  "last_updated": "2026-07-13T19:15:05Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
-    {
-      "title": "Footage appears to show Ann Widdecombe murder suspect getting into car on morning of attack - BBC",
-      "description": "\n\nFootage appears to show Ann Widdecombe murder suspect getting into car on morning of attack  BBC\n\nAnn Widdecombe death: counter-terrorism police take over investigation  The Guardian\n\nPolice say no ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uV2NEeFFKRGFRM1RHRjc2clBZcHBQTHNlZnl3SXQ3TGxRSDVwdmN3YW5mOEwxWW9MYUwzdFc3QnBrUC1KR1lhZDV3UXZZeThBU0hHQzQyemtLU3Rm?oc=5",
-      "published_at": "2026-07-13 09:56:17",
-      "category": "general"
-    },
-    {
-      "title": "Conwy villagers flee homes as wildfires burn in Wales and England - The Guardian",
-      "description": "\n\nConwy villagers flee homes as wildfires burn in Wales and England  The Guardian\n\nUK heatwave to intensify in second week as wildfires burn across UK  BBC\n\nMajor incident declared over wildfire in No",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3JDbXVZR092dHM3SFBxQmg3R1ltaVpyc2hTeE9SSk84djNZd2NvS3BhbWR3M2puX2JGZXowai1HeDY0c2ZGaFRzLVRLX2RjcThEZVB1OG85MUZtUnZoX2hzRUh5cGRFY3NUMENHWF9odEZtN0M0WGY0RUhzdHZSckdmbG1tUTZCT0xLbE5LaTRLcXZNeDhsQnl1LVFldFY4N29qNnZSbldvR3BhTnpINg?oc=5",
-      "published_at": "2026-07-13 10:50:00",
-      "category": "general"
-    },
-    {
-      "title": "'Everybody was running, squeezing into each other': Witnesses describe how deadly inferno swept through Bangkok bar - BBC",
-      "description": "\n\n'Everybody was running, squeezing into each other': Witnesses describe how deadly inferno swept through Bangkok bar  BBC\n\nAt least 27 killed in fire at Bangkok pub with another 22 critically injured",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Rc2JVMmZOQUF4dm5FT2RxaWx2bVV5OTY4ZWV2UXY2b25wNUttQlhjalpNRWdnbHpjYTBMX2JRMnFnV0JIcEJ5QmcwUkVHU2RQQlNPRHhPXzdEdVZ1?oc=5",
-      "published_at": "2026-07-13 09:07:34",
-      "category": "general"
-    },
-    {
-      "title": "Ships stop crossing Strait of Hormuz as US and Iran exchange overnight strikes - BBC",
-      "description": "\n\nShips stop crossing Strait of Hormuz as US and Iran exchange overnight strikes  BBC\n\nUS and Iran Trade Fresh Strikes, Dispute Whether Hormuz Is Open  Bloomberg.com\n\nTrump claims strait of Hormuz ope",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wYUtrQWEzOXVVM052NU9vUWlkOTdQWGg3N19NU2xqdXA0bk81LUtMaGdoUzhHdU8xWlNwcURPWmJ6bmxGcnVCNmVveHlhN0Fqa19vZzJkMA?oc=5",
-      "published_at": "2026-07-13 11:37:26",
-      "category": "general"
-    },
-    {
-      "title": "Burnham to back Mahmood’s immigration crackdown - The Telegraph",
-      "description": "\n\nBurnham to back Mahmood’s immigration crackdown  The Telegraph\n\nHome Office may relax immigration reforms for Andy Burnham  The Times\n\nAndy Burnham can win back Labour voters by supporting migrants ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2ZUSG1Zc3RzUmUyelJabWYtMF9sUDZjRk5HQ0pUTVhJSWRvVzBHanZCTG1UVlpQOGVuSEh6Z3gwOHRWN2xYVUlReVZieVJISkdJU0lHNG0yYXlRWTVFV1VGM21aUnJ2RGlNMnNTNmlCb0pFYTF3S3hTY042a2t4UFg1b3FaeFBPVGN3OFR2bzFldFAxX2FfSWxPN1dfbE10dWR6VzVlUQ?oc=5",
-      "published_at": "2026-07-13 09:12:00",
-      "category": "general"
-    },
-    {
-      "title": "Olly Robbins launches legal challenge to dismissal as Foreign Office chief by Keir Starmer - The Guardian",
-      "description": "\n\nOlly Robbins launches legal challenge to dismissal as Foreign Office chief by Keir Starmer  The Guardian\n\nTop civil servant seeks judicial review over sacking in Mandelson scandal  Financial Times\n\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObGMzcFRoaUxKYU1jMldBMkZTN19GcUhtT3JhUXRKeXpxUzhrcmt3THl3WHBhZmdRVUdXbWhwaHRNT2lIREVESGR4enRRRVpoMldQOWNnc1JWTkh1Ti11NG9QXzRGc0VFalpkU2NPUW5ENERDOFdxSlJpR3JXNV9abl90RU9RQ0F6a3dMUXkySFhXUzU0RkpJQ2N4Zm1Ua1JWS0lqbHRSQ0M3eVcxQ1Myc3NNa1hRaC1ROEJZSjhFcHl0MkVDdFM5VVYwUQ?oc=5",
-      "published_at": "2026-07-13 10:13:00",
-      "category": "general"
-    },
-    {
-      "title": "Man in court in South Africa as part of Great Denham murder inquiry - BBC",
-      "description": "\n\nMan in court in South Africa as part of Great Denham murder inquiry  BBC\n\nFamily 'crushed' after Great Denham mum and girls found dead  BBC\n\nMan wanted in UK over murders of his wife and two childre",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBla1dlRzIxSklsYkx0VEhWUHloa1Jqemgza3YzT1hGMDJORWY3QU5qTFkxbFpNSDczNXpwRG9pMGhCT1Nick4ycngyaGw2alI0RXRFZ2xZdjNqWHRW?oc=5",
-      "published_at": "2026-07-13 09:14:54",
-      "category": "general"
-    },
-    {
-      "title": "Residents evacuated as 125 firefighters called to 'serious' Walthamstow fire - Sky News",
-      "description": "\n\nResidents evacuated as 125 firefighters called to 'serious' Walthamstow fire  Sky News\n\nWalthamstow: Residents evacuated after east London fire  BBC\n\nHomes evacuated as firefighters tackle railway e",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkQyWkVMcVhqdkFfakM1NEdPcFZYWEptUHFQN3h0T2xOYW1vTVVXVXhJamJXbXRRLWNqYzBVY29BcFlYcjY2eklzcVJrN21NSjZPQ01LLWRrSS01c0RkaDBOX1hmWUlEZGZBejlCbk5Md0xveC1Kb3JOYXF5YjVMakJrYTR6aXFKSGxUSGRlR2ZrLXhHRnBydWFmUzN4X3R0dEJB?oc=5",
-      "published_at": "2026-07-13 00:50:48",
-      "category": "general"
-    },
     {
       "title": "Senator Lindsey Graham's cause of death was an aortic tear, says medical examiner - BBC",
       "description": "\n\nSenator Lindsey Graham's cause of death was an aortic tear, says medical examiner  BBC\n\nWhat will happen to Trump’s agenda after Lindsey Graham’s death?  Al Jazeera\n\nRepublicans return to Capitol Hi",
@@ -120,14 +55,6 @@
       "category": "world"
     },
     {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "published_at": "2026-07-13T14:52:33Z",
-      "category": "tech"
-    },
-    {
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "description": "",
       "source": "Hacker News",
@@ -136,19 +63,51 @@
       "category": "tech"
     },
     {
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "title": "Show HN: Super Dario",
       "description": "",
       "source": "Hacker News",
-      "url": "https://jivx.com/densha",
-      "published_at": "2026-07-13T11:18:30Z",
+      "url": "https://superdario.pawb.de",
+      "published_at": "2026-07-13T17:53:52Z",
       "category": "tech"
     },
     {
-      "title": "Grok uploaded my user directory to xAI's servers",
+      "title": "Logseq 2.0 Beta (DB version) is here",
       "description": "",
       "source": "Hacker News",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "published_at": "2026-07-13T13:39:59Z",
+      "url": "https://github.com/logseq/logseq/releases",
+      "published_at": "2026-07-13T17:49:49Z",
+      "category": "tech"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "published_at": "2026-07-13T14:52:33Z",
+      "category": "tech"
+    },
+    {
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "published_at": "2026-07-13T18:22:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
+      "published_at": "2026-07-13T18:18:25Z",
+      "category": "tech"
+    },
+    {
+      "title": "The real prices of frontier models. Tokens * Price, right?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "published_at": "2026-07-13T18:32:27Z",
       "category": "tech"
     },
     {
@@ -160,12 +119,44 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "title": "Ancient Roman Board Game",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/floodtide/dom-docx",
-      "published_at": "2026-07-13T11:51:56Z",
+      "url": "https://ludus-coriovalli.web.app/",
+      "published_at": "2026-07-09T20:47:45Z",
       "category": "tech"
+    },
+    {
+      "title": "📄 PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+      "description": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.09662v1",
+      "published_at": "2026-07-10T17:59:45Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Scalable Visual Pretraining for Language Intelligence",
+      "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.09657v1",
+      "published_at": "2026-07-10T17:57:03Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+      "description": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactio",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.09654v1",
+      "published_at": "2026-07-10T17:53:37Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+      "description": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testi",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.09653v1",
+      "published_at": "2026-07-10T17:52:29Z",
+      "category": "ai"
     }
   ]
 }
