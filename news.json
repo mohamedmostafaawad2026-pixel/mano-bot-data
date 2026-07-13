@@ -1,11 +1,76 @@
 {
-  "last_updated": "2026-07-13T19:15:05Z",
+  "last_updated": "2026-07-13T20:51:58Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
+    {
+      "title": "Ann Widdecombe killing being treated as terrorism - The Telegraph",
+      "description": "\n\nAnn Widdecombe killing being treated as terrorism  The Telegraph\n\nAnn Widdecombe suspect not known to Prevent as counter terrorism police take over investigation  BBC\n\nPolice under fire over Widdeco",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkZYaHRyajRPX0ZpN1ZPOFBSTkxmdEdZei1YclRKUUJzQ2tMRFZjM1BZai1TSFl1Mk9KeFZrSGYtRkoyZGFJbDh0azlPdjZ3N0Vpc0N2ODdhZ2QtcEF1YUplMGlaa2VCVGtlcXlrNDJWVURiNVBNd1cwSF9XbWZObXFrekdCTjh1QjZYN2dtcTJNQUhmTnJtbG5WQW1sekludlVsM1F3?oc=5",
+      "published_at": "2026-07-13 20:10:00",
+      "category": "general"
+    },
+    {
+      "title": "Trump to reinstate naval blockade of Iran ports and impose Strait of Hormuz charge - BBC",
+      "description": "\n\nTrump to reinstate naval blockade of Iran ports and impose Strait of Hormuz charge  BBC\n\nTrump announces toll on Strait of Hormuz  The Telegraph\n\nUN maritime agency opposes Hormuz transit fees after",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVRsWG55LU91b1F5QzhqRVJZVFh1aEJXalJ0aHNSMG9oMVkzZ194RkFvUlktdmd6WFRIZlhrazhudmtpOXljNUtiLWNnNk1teVFrcFAtV0FFYmhp?oc=5",
+      "published_at": "2026-07-13 16:23:32",
+      "category": "general"
+    },
+    {
+      "title": "UK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn - The Guardian",
+      "description": "\n\nUK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn  The Guardian\n\nUK heatwave to intensify in second week as wildfires burn across UK  BBC\n\nWildfires rage across ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3JDbXVZR092dHM3SFBxQmg3R1ltaVpyc2hTeE9SSk84djNZd2NvS3BhbWR3M2puX2JGZXowai1HeDY0c2ZGaFRzLVRLX2RjcThEZVB1OG85MUZtUnZoX2hzRUh5cGRFY3NUMENHWF9odEZtN0M0WGY0RUhzdHZSckdmbG1tUTZCT0xLbE5LaTRLcXZNeDhsQnl1LVFldFY4N29qNnZSbldvR3BhTnpINg?oc=5",
+      "published_at": "2026-07-13 10:05:00",
+      "category": "general"
+    },
+    {
+      "title": "British woman becomes 13th person to die in Spanish wildfires - ITVX",
+      "description": "\n\nBritish woman becomes 13th person to die in Spanish wildfires  ITVX\n\nBriton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety  BBC\n\nBritish couple killed in S",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjZla0hjNGdfLU9nR253RG9UbV80V2tjTThPNzRzYy1BNTc2b1FYQ2k5RjVpRE8zX1ZLbFBQNHoyU1kyVERJUlJtRWlfYUVYWVBxME9va2ktNHdzQUs2QUpldnRnQ3U3ekxjOFZFclFwNklwNmY5TmNZUGw1bXZVanhkSzhhYnJYbTZTMS1WeU5MZ2ZvcHRWT0tYVmxBZw?oc=5",
+      "published_at": "2026-07-13 16:53:22",
+      "category": "general"
+    },
+    {
+      "title": "Two men die after entering sea to help children in difficulty | ITV News - ITVX",
+      "description": "\n\nTwo men die after entering sea to help children in difficulty | ITV News  ITVX\n\nTwo men die after trying to help children at Seaton Carew beach  BBC\n\nTwo men die after going into sea to rescue child",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXd5ejNpbzl4QW1JSkFzX093M1Q1S3JhMzRKVGRWRG85RG52TFVvelQ5VGdPTWhWWXBaQkVzc0s2WUtiaG4td1ZyUTA2T25iLXJZTkZSYkF0RE4xV1NFcnZJczl1UDFITWIzMzVoNDJXdzVOSjJwakV0SG42cDBzQVdxeWpyWkdPQjR3YllqWDlWUUV0eG5aYXB1MFk3UQ?oc=5",
+      "published_at": "2026-07-13 16:29:32",
+      "category": "general"
+    },
+    {
+      "title": "May and June heatwaves killed about 2,700 people in England and Wales, data suggests - The Guardian",
+      "description": "\n\nMay and June heatwaves killed about 2,700 people in England and Wales, data suggests  The Guardian\n\nMore than 2,700 people may have died in exceptional May and June heatwaves in England and Wales  B",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcExQMmRLMkJ3T0xDN2dYb09HQ0lSbEhVSy1ZRTlvaGhpeDBmYWZKRVRaMGx2YV9Ka2hlQkY4OVI0TmVfYTNjN0lUVUE1TzJSWUlDVVVNekRrWXpuQlRSSk5QbVlMb1FVeDUzcGMzVUkwX3JYS0lJZlBnd0FUbTBiWnlpV19BRzV2bDFELXc0QVlXamFSS21vbnhYal93MEh2RUF1bkszbjlmbXhHMmJfeVBwX3phMloyTWwxejZwNWFGTHN3b2h4cHpJZVQ?oc=5",
+      "published_at": "2026-07-13 09:44:00",
+      "category": "general"
+    },
+    {
+      "title": "Immigration bill amend will allow removal of Rochdale gang leader - The Guardian",
+      "description": "\n\nImmigration bill amend will allow removal of Rochdale gang leader  The Guardian\n\nMahmood sets out plan to deport grooming gang leader  BBC\n\nMahmood will change law to deport Rochdale rapist  The Tel",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDFvUlJ6NDdVMGxDNnUtb2lNeWN1aXRJSjZ6b2xDeGVBVlBlTlJQdnVIQnNSV0tZY013YjlFNmUxTE03ckxwTU9iRzdvelRwZjNjaTlBb1RNcWhsaTRCanV1clR4WWkzMzRUWUUwOURKaUJpblU0VWk2UFhqbEJOV1pMOUZ4MlNHd0c2dVZYV3poS09kMVpmWkZ6SlM0Sjg0SDA4ZHdCdTI1eUtGb2RWTDRZVFBSdw?oc=5",
+      "published_at": "2026-07-13 13:38:00",
+      "category": "general"
+    },
+    {
+      "title": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
+      "description": "\n\nUK bans support for two Iranian groups over antisemitic attacks in Britain  Reuters\n\nUK bans support for Iran's Islamic Revolutionary Guard Corps  BBC\n\nStarmer will take credit, but he was not drivi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+      "published_at": "2026-07-13 13:58:01",
+      "category": "general"
+    },
     {
       "title": "Senator Lindsey Graham's cause of death was an aortic tear, says medical examiner - BBC",
       "description": "\n\nSenator Lindsey Graham's cause of death was an aortic tear, says medical examiner  BBC\n\nWhat will happen to Trump’s agenda after Lindsey Graham’s death?  Al Jazeera\n\nRepublicans return to Capitol Hi",
@@ -20,14 +85,6 @@
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjdxVF9PSE5DYUZzektuR1VtUDkzTU85UmdYSy1xM3dHMXkzOGVYU1U0Vy1id281cVA5eTFWR2hzZ3RJVXFFcEU1N0VrZjlPVVp3bE1SdnVUb21hS21CRmNLT2JiRUdIZWpYbFIxTlNNajA3b2FFdlQ4NmxVczQwWGV1OWs1am9sSkFkczVObThvaHRt?oc=5",
       "published_at": "2026-07-13 08:11:00",
-      "category": "world"
-    },
-    {
-      "title": "British woman becomes 13th person to die in Spanish wildfires - ITVX",
-      "description": "\n\nBritish woman becomes 13th person to die in Spanish wildfires  ITVX\n\nBritish couple return to village at heart of deadly Spanish wildfire  BBC\n\nUK couple found burned and semi-conscious in Almería a",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjZla0hjNGdfLU9nR253RG9UbV80V2tjTThPNzRzYy1BNTc2b1FYQ2k5RjVpRE8zX1ZLbFBQNHoyU1kyVERJUlJtRWlfYUVYWVBxME9va2ktNHdzQUs2QUpldnRnQ3U3ekxjOFZFclFwNklwNmY5TmNZUGw1bXZVanhkSzhhYnJYbTZTMS1WeU5MZ2ZvcHRWT0tYVmxBZw?oc=5",
-      "published_at": "2026-07-13 06:20:03",
       "category": "world"
     },
     {
@@ -63,30 +120,6 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: Super Dario",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://superdario.pawb.de",
-      "published_at": "2026-07-13T17:53:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "Logseq 2.0 Beta (DB version) is here",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/logseq/logseq/releases",
-      "published_at": "2026-07-13T17:49:49Z",
-      "category": "tech"
-    },
-    {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "published_at": "2026-07-13T14:52:33Z",
-      "category": "tech"
-    },
-    {
       "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
       "description": "",
       "source": "Hacker News",
@@ -95,11 +128,11 @@
       "category": "tech"
     },
     {
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "title": "Climate.gov was destroyed. Open data saved it",
       "description": "",
       "source": "Hacker News",
-      "url": "https://cakehonolulu.github.io/linux-on-32x/",
-      "published_at": "2026-07-13T18:18:25Z",
+      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "published_at": "2026-07-13T19:57:55Z",
       "category": "tech"
     },
     {
@@ -111,52 +144,28 @@
       "category": "tech"
     },
     {
-      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "title": "AI Is a Bad Tool",
       "description": "",
       "source": "Hacker News",
-      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "published_at": "2026-07-13T15:11:50Z",
+      "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+      "published_at": "2026-07-13T19:51:15Z",
       "category": "tech"
     },
     {
-      "title": "Ancient Roman Board Game",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ludus-coriovalli.web.app/",
-      "published_at": "2026-07-09T20:47:45Z",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
+      "published_at": "2026-07-13T18:18:25Z",
       "category": "tech"
     },
     {
-      "title": "📄 PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-      "description": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.09662v1",
-      "published_at": "2026-07-10T17:59:45Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Scalable Visual Pretraining for Language Intelligence",
-      "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.09657v1",
-      "published_at": "2026-07-10T17:57:03Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
-      "description": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactio",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.09654v1",
-      "published_at": "2026-07-10T17:53:37Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-      "description": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testi",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.09653v1",
-      "published_at": "2026-07-10T17:52:29Z",
-      "category": "ai"
+      "title": "The art and engineering of Sega CD Silpheed",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "published_at": "2026-07-13T14:52:33Z",
+      "category": "tech"
     }
   ]
 }
