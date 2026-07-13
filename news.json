@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T01:59:23Z",
+  "last_updated": "2026-07-13T05:41:26Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,11 +112,27 @@
       "category": "world"
     },
     {
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
       "description": "",
       "source": "Hacker News",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "published_at": "2026-07-12T21:12:11Z",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "published_at": "2026-07-08T16:53:58Z",
+      "category": "tech"
+    },
+    {
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "published_at": "2026-07-13T01:24:20Z",
+      "category": "tech"
+    },
+    {
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "published_at": "2026-07-13T05:15:14Z",
       "category": "tech"
     },
     {
@@ -136,14 +152,6 @@
       "category": "tech"
     },
     {
-      "title": "Designing and assembling my first PCB",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "published_at": "2026-07-12T22:56:56Z",
-      "category": "tech"
-    },
-    {
       "title": "So you want to learn physics (second edition, 2021)",
       "description": "",
       "source": "Hacker News",
@@ -152,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "title": "Designing and assembling my first PCB",
       "description": "",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48884984",
-      "published_at": "2026-07-12T21:26:41Z",
-      "category": "tech"
-    },
-    {
-      "title": "Why Vanilla JavaScript",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "published_at": "2026-07-12T22:53:51Z",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "published_at": "2026-07-12T22:56:56Z",
       "category": "tech"
     }
   ]
