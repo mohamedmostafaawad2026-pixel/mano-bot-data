@@ -1,8 +1,7 @@
 {
-  "last_updated": "2026-07-14T15:18:06Z",
+  "last_updated": "2026-07-14T17:05:27Z",
   "sources": [
     "Google News Egypt",
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -72,59 +71,19 @@
       "category": "general"
     },
     {
-      "title": "US-Iran war latest: Iran strikes two UAE tankers in Strait of Hormuz amid third night of US strikes - The Telegraph",
-      "description": "\n\nUS-Iran war latest: Iran strikes two UAE tankers in Strait of Hormuz amid third night of US strikes  The Telegraph\n\nExplosions heard across Iran, state media reports, after UAE oil tankers hit in Ho",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzJYdFZNa1N0V19ZUEctdHBEZ1YxVmJzZjhJUzVpR3VLQTBXUmNIY1RHWWtmY1NVWS0wNV83V1JUSVVtMjktaWpnX2pWU0ZUY2d2TXRzUFJwaTNXRVpPcHI2d1BwMzlqR2lTc1FXbHB5TVBleTVUQzk4WnA3ZDh3OEJUN2RJdjBXOC1uV0lfbUhDRFVOT0Z4M0RwaTFkNldO?oc=5",
-      "published_at": "2026-07-14 12:06:03",
-      "category": "world"
-    },
-    {
-      "title": "Family 'heartbroken' over British couple's wildfire deaths in Spain - BBC",
-      "description": "\n\nFamily 'heartbroken' over British couple's wildfire deaths in Spain  BBC\n\nBritish couple named among 13 killed in Spanish wildfires  The Guardian\n\nBriton tells of surviving Spain wildfire in car as ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MY2NiOXpmQWsyRFotR1RjTFlremo4SzZLbWFwb2l4ZFBvYWtVZlc4d3lBRTF0NWt0RS0zSndobU1lNkNGdG1HTkRJSTlOVk9XWFozd05iS1ZxbjND?oc=5",
-      "published_at": "2026-07-14 12:18:39",
-      "category": "world"
-    },
-    {
-      "title": "'I can't believe it': Singer's shock after five members of beloved band killed in plane crash - AOL.co.uk",
-      "description": "\n\n'I can't believe it': Singer's shock after five members of beloved band killed in plane crash  AOL.co.uk\n\nSmall plane crash in Bahamas kills 10 people  BBC\n\nBahamian music group \"still shocked\" afte",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXZfcU9iME1heEp0N0pWZFhySWp6UktHUUVaeW15OTJZcDJjS2ljQXVwUXBTbE80T3NVaTBLenA0T1BucnA3UGRrSlZNQWdVTnJlWndscnZSbkNrYXZRLV9zTEFQNC1ranVKeklDQ0NWRUxqaFhuNDVaZ004alZEemNfRQ?oc=5",
-      "published_at": "2026-07-14 09:07:27",
-      "category": "world"
-    },
-    {
-      "title": "Trump's niece sounds the alarm on president's 'unhinged' mental decline - The Mirror",
-      "description": "\n\nTrump's niece sounds the alarm on president's 'unhinged' mental decline  The Mirror\n\nMary Trump Q&A: Trump's Hidden Weakness  Substack\n\nTrump’s Niece Sounds Alarm on His ‘Unhinged’ Decline  The Dail",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVNUOGhDNkNKdXRPRXBsY0NKSnRMTEh1UmdHZThVVWpwa0dlb1R6ZF9MOWFTNUxiOXhndHZ4YllaQW8wcTZUa2QtdVJuS2NZVHZoZThEemg5SGktalRvc28tRHZKRjhDZFYwZFN6NXNlOV85ZmJoV0NLTWZpTEw5ckkwVFdnNWxKUEhF0gGQAUFVX3lxTFB4ODJMRk1WalI5eVg1T0pHR2VoVWwtX1M0RzZfQklqd2YyWmFjVEVWbXI5bFNua3BhbTJoQkItcFNLWVdqS2p1MUlIMjNJaEU3QTNHQ29ycUJ1bHRjZUhwaDg0RUlrdmtLbFJZckZ2UkJtTlNLdTdETDRZbUo1TVYxZW40OXVTejBoYjhkLUZ5dg?oc=5",
-      "published_at": "2026-07-14 07:29:00",
-      "category": "world"
-    },
-    {
-      "title": "Bangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’ - The Guardian",
-      "description": "\n\nBangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’  The Guardian\n\nIn Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World  The New York Times\n\nBangkok",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcGFZMEdTMFNXWFp3X3NKaS1ZWTFPRGZtYjhFT2VqQVJoR3VjTE5yUjFMd0FWNGNtX3BLSGFRVVVGTzRBd0FVRkdQRFBSZVJMZEQ3dEN5Ym45aTl1QlpoWHMyM1dvZVVvRHlJRk1ERGJucWVQRVg3RHhfeTVCekhwTVZESklvSGJhNjF3eVF6RQ?oc=5",
-      "published_at": "2026-07-14 05:06:00",
-      "category": "world"
-    },
-    {
-      "title": "Agnes Callard’s theory of the uni-context",
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-      "published_at": "2026-07-14T14:17:39Z",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "published_at": "2026-07-14T16:36:06Z",
       "category": "tech"
     },
     {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "title": "Are we offloading too much of our thinking to AI?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "published_at": "2026-07-14T12:40:50Z",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "published_at": "2026-07-14T15:18:13Z",
       "category": "tech"
     },
     {
@@ -136,11 +95,27 @@
       "category": "tech"
     },
     {
-      "title": "Demis Hassabis has a plan to harness AI safely",
+      "title": "Show HN: Opening lines of famous literary works",
       "description": "",
       "source": "Hacker News",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "published_at": "2026-07-14T09:20:07Z",
+      "url": "https://www.verbaprima.com/",
+      "published_at": "2026-07-14T15:24:49Z",
+      "category": "tech"
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://agnost.ai",
+      "published_at": "2026-07-14T16:06:18Z",
+      "category": "tech"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "published_at": "2026-07-14T11:46:02Z",
       "category": "tech"
     },
     {
@@ -152,20 +127,44 @@
       "category": "tech"
     },
     {
-      "title": "Coding agents think ahead of time",
+      "title": "Beautiful Type Erasure with C++26 Reflection",
       "description": "",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2607.05188",
-      "published_at": "2026-07-14T12:28:09Z",
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "published_at": "2026-07-14T12:40:50Z",
       "category": "tech"
     },
     {
-      "title": "Proof of Care in the Age of A.I",
+      "title": "A tiny cell that broke a big rule of biology",
       "description": "",
       "source": "Hacker News",
-      "url": "https://jacobfilipp.com/care/",
-      "published_at": "2026-07-14T12:56:25Z",
+      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
+      "published_at": "2026-07-09T15:50:40Z",
       "category": "tech"
+    },
+    {
+      "title": "📄 Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+      "description": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functio",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.11883v1",
+      "published_at": "2026-07-13T17:58:50Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.11881v1",
+      "published_at": "2026-07-13T17:58:37Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+      "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.11875v1",
+      "published_at": "2026-07-13T17:56:11Z",
+      "category": "ai"
     }
   ]
 }
