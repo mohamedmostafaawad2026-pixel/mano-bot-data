@@ -1,97 +1,138 @@
 {
-  "last_updated": "2026-07-13T23:44:43Z",
+  "last_updated": "2026-07-14T01:46:17Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Ann Widdecombe killing being treated as terrorism - The Telegraph",
-      "description": "\n\nAnn Widdecombe killing being treated as terrorism  The Telegraph\n\nAnn Widdecombe suspect not known to Prevent as counter terrorism police take over investigation  BBC\n\nPolice under fire over Widdeco",
+      "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation - BBC",
+      "description": "\n\nAnn Widdecombe suspect not known to Prevent as counter terrorism police take over investigation  BBC\n\nTice finally gauges the mood on the death of Ann Widdecombe | John Crace  The Guardian\n\nCounter-",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkZYaHRyajRPX0ZpN1ZPOFBSTkxmdEdZei1YclRKUUJzQ2tMRFZjM1BZai1TSFl1Mk9KeFZrSGYtRkoyZGFJbDh0azlPdjZ3N0Vpc0N2ODdhZ2QtcEF1YUplMGlaa2VCVGtlcXlrNDJWVURiNVBNd1cwSF9XbWZObXFrekdCTjh1QjZYN2dtcTJNQUhmTnJtbG5WQW1sekludlVsM1F3?oc=5",
-      "published_at": "2026-07-13 20:10:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uV2NEeFFKRGFRM1RHRjc2clBZcHBQTHNlZnl3SXQ3TGxRSDVwdmN3YW5mOEwxWW9MYUwzdFc3QnBrUC1KR1lhZDV3UXZZeThBU0hHQzQyemtLU3Rm?oc=5",
+      "published_at": "2026-07-13 09:56:17",
       "category": "general"
     },
     {
-      "title": "Trump to reinstate naval blockade of Iran ports and impose Strait of Hormuz charge - BBC",
-      "description": "\n\nTrump to reinstate naval blockade of Iran ports and impose Strait of Hormuz charge  BBC\n\nTrump announces toll on Strait of Hormuz  The Telegraph\n\nUN maritime agency opposes Hormuz transit fees after",
+      "title": "Trump reimposes US blockade and demands 20% Hormuz shipping fee - Euronews.com",
+      "description": "\n\nTrump reimposes US blockade and demands 20% Hormuz shipping fee  Euronews.com\n\nTrump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz  BBC\n\nTrump wants Gulf countrie",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVRsWG55LU91b1F5QzhqRVJZVFh1aEJXalJ0aHNSMG9oMVkzZ194RkFvUlktdmd6WFRIZlhrazhudmtpOXljNUtiLWNnNk1teVFrcFAtV0FFYmhp?oc=5",
-      "published_at": "2026-07-13 16:23:32",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjVsRVVlZW84NHp6a0dqWEdnbERKUks5d1JGbFlIX2JtRy1TMGlYbjlVQ2pIemdGUzd4a2R2WDc2Z3ZKeHkyVFpkeHlOSWQzV0RlUUxfZkZvV3B3N09HNmhMSFBFUFp2cGoya1JoOENoX1RsSWwzeVowdnhET0xnMDgxcTVzZzAydHFyVnk4aWxJMTNUc2xsdllNZ3Atb3c?oc=5",
+      "published_at": "2026-07-13 16:34:00",
       "category": "general"
     },
     {
       "title": "UK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn - The Guardian",
-      "description": "\n\nUK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn  The Guardian\n\nUK heatwave to intensify in second week as wildfires burn across UK  BBC\n\nWildfires rage across ",
+      "description": "\n\nUK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn  The Guardian\n\nUK heatwave to intensify in second week as wildfires burn across UK  BBC\n\nMajor incident declare",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3JDbXVZR092dHM3SFBxQmg3R1ltaVpyc2hTeE9SSk84djNZd2NvS3BhbWR3M2puX2JGZXowai1HeDY0c2ZGaFRzLVRLX2RjcThEZVB1OG85MUZtUnZoX2hzRUh5cGRFY3NUMENHWF9odEZtN0M0WGY0RUhzdHZSckdmbG1tUTZCT0xLbE5LaTRLcXZNeDhsQnl1LVFldFY4N29qNnZSbldvR3BhTnpINg?oc=5",
       "published_at": "2026-07-13 10:05:00",
       "category": "general"
     },
     {
+      "title": "Dozen arrested by counter terror police over suspected threat to Islamic event - Sky News",
+      "description": "\n\nDozen arrested by counter terror police over suspected threat to Islamic event  Sky News\n\nTwelve arrested over threat to an Islamic event in Suffolk  BBC\n\nPolice arrest 12 over suspected far-right t",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVM4cnRkWmhMZVhFa1B2dDkwVTFmVTMyclRPWk9FQ0d5aTNxTm5pdnJ5NGJSZ3FFbl9qSVNVZXhSaVpNcGpfQ2cteWwtMklsSE5XN0dTM1hyRHZGNlo1MTUteVFtVTlfUXppMXU2dG5xZjdRWXZBbWVXZFc2QnkwUXhYYWNsMkNzYXY5cUk3RHJXal9BMVp1c09iNjlCem9RUXhqTzg0aw?oc=5",
+      "published_at": "2026-07-13 14:52:39",
+      "category": "general"
+    },
+    {
       "title": "British woman becomes 13th person to die in Spanish wildfires - ITVX",
-      "description": "\n\nBritish woman becomes 13th person to die in Spanish wildfires  ITVX\n\nBriton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety  BBC\n\nBritish couple killed in S",
+      "description": "\n\nBritish woman becomes 13th person to die in Spanish wildfires  ITVX\n\nBriton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety  BBC\n\nSpanish fire survivor fear",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjZla0hjNGdfLU9nR253RG9UbV80V2tjTThPNzRzYy1BNTc2b1FYQ2k5RjVpRE8zX1ZLbFBQNHoyU1kyVERJUlJtRWlfYUVYWVBxME9va2ktNHdzQUs2QUpldnRnQ3U3ekxjOFZFclFwNklwNmY5TmNZUGw1bXZVanhkSzhhYnJYbTZTMS1WeU5MZ2ZvcHRWT0tYVmxBZw?oc=5",
-      "published_at": "2026-07-13 16:53:22",
+      "published_at": "2026-07-13 19:09:47",
       "category": "general"
     },
     {
-      "title": "Two men die after entering sea to help children in difficulty | ITV News - ITVX",
-      "description": "\n\nTwo men die after entering sea to help children in difficulty | ITV News  ITVX\n\nTwo men die after trying to help children at Seaton Carew beach  BBC\n\nTwo men die after going into sea to rescue child",
+      "title": "Iran war live: Trump resumes airstrikes after claiming Tehran broke deal ‘10 times’ - The Independent",
+      "description": "\n\nIran war live: Trump resumes airstrikes after claiming Tehran broke deal ‘10 times’  The Independent\n\nIran war latest: One dead and eight injured as Tehran targets tankers in Strait of Hormuz, UAE s",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXd5ejNpbzl4QW1JSkFzX093M1Q1S3JhMzRKVGRWRG85RG52TFVvelQ5VGdPTWhWWXBaQkVzc0s2WUtiaG4td1ZyUTA2T25iLXJZTkZSYkF0RE4xV1NFcnZJczl1UDFITWIzMzVoNDJXdzVOSjJwakV0SG42cDBzQVdxeWpyWkdPQjR3YllqWDlWUUV0eG5aYXB1MFk3UQ?oc=5",
-      "published_at": "2026-07-13 16:29:32",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3VRUWtQQVFxR0Z6WjVWMzVDZVpseW1rRVRhaGIyOC1Db1hfczV0cWxYbnhYYWZZUlhWVHdZWWRsNlA3Z0JONTBidGQ5OEFwRnpQN0p3V1VLeHFyQzlJT1hFOFV4Wm5URVZ4RTJfc2JoMm9tZXJGWEFENjdjcFJ6NmRQLVo2SWR2Rk5oUlpXYXZycl9iNDBQZDNjOWtSQmtKUEVVSzViYjhBMFlteE9PTF95N3c5VzdKaERKSXB3azhjUQ?oc=5",
+      "published_at": "2026-07-13 22:52:48",
       "category": "general"
     },
     {
-      "title": "May and June heatwaves killed about 2,700 people in England and Wales, data suggests - The Guardian",
-      "description": "\n\nMay and June heatwaves killed about 2,700 people in England and Wales, data suggests  The Guardian\n\nMore than 2,700 people may have died in exceptional May and June heatwaves in England and Wales  B",
+      "title": "Burnham cements Labour leadership with backing of 349 MPs - BBC",
+      "description": "\n\nBurnham cements Labour leadership with backing of 349 MPs  BBC\n\nAndy Burnham secures Labour leadership with landslide support of MPs  The Guardian\n\nBurnham will be next prime minister after 349 MPs ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcExQMmRLMkJ3T0xDN2dYb09HQ0lSbEhVSy1ZRTlvaGhpeDBmYWZKRVRaMGx2YV9Ka2hlQkY4OVI0TmVfYTNjN0lUVUE1TzJSWUlDVVVNekRrWXpuQlRSSk5QbVlMb1FVeDUzcGMzVUkwX3JYS0lJZlBnd0FUbTBiWnlpV19BRzV2bDFELXc0QVlXamFSS21vbnhYal93MEh2RUF1bkszbjlmbXhHMmJfeVBwX3phMloyTWwxejZwNWFGTHN3b2h4cHpJZVQ?oc=5",
-      "published_at": "2026-07-13 09:44:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hLW4wd1pfRnlYZi1pWmZ0VDZBRHJ6TFVKdlBMbW5XSGlwSHR0VHp1dnRhcUFoU0Zidm5qR2FKZUFESXJ6RHlIck1Hb1ZEYjZZTGVOcWFhRUlnWnRp?oc=5",
+      "published_at": "2026-07-13 18:00:29",
       "category": "general"
     },
     {
-      "title": "Immigration bill amend will allow removal of Rochdale gang leader - The Guardian",
-      "description": "\n\nImmigration bill amend will allow removal of Rochdale gang leader  The Guardian\n\nMahmood sets out plan to deport grooming gang leader  BBC\n\nMahmood will change law to deport Rochdale rapist  The Tel",
+      "title": "Gibraltar’s land border with Spain is about to disappear. This is what happens next - The Independent",
+      "description": "\nGibraltar’s land border with Spain is about to disappear. This is what happens next  The IndependentSee more headlines and perspectives on Google News\n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDFvUlJ6NDdVMGxDNnUtb2lNeWN1aXRJSjZ6b2xDeGVBVlBlTlJQdnVIQnNSV0tZY013YjlFNmUxTE03ckxwTU9iRzdvelRwZjNjaTlBb1RNcWhsaTRCanV1clR4WWkzMzRUWUUwOURKaUJpblU0VWk2UFhqbEJOV1pMOUZ4MlNHd0c2dVZYV3poS09kMVpmWkZ6SlM0Sjg0SDA4ZHdCdTI1eUtGb2RWTDRZVFBSdw?oc=5",
-      "published_at": "2026-07-13 13:38:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWZ1a0NjVUVjSjdrZXVlZkRFcWlpa3FtVXl5UnB6WEVwdWNkUW43NzBDNDh5cng0X2VXbldIODgyLWF0dmtud3dxbjhzbUE1UEpKdmkxUmdQT1l6NnhYSjh1SUFfQ0JJTi0xVy1VZ1JCMWc1T2ZkUEVZaWcxaklWeUpROUU3cUdRZWI1UXpmbGQ2WGNQN24wQlZxQWh3UE80N3lUUQ?oc=5",
+      "published_at": "2026-07-13 15:44:00",
       "category": "general"
     },
     {
-      "title": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
-      "description": "\n\nUK bans support for two Iranian groups over antisemitic attacks in Britain  Reuters\n\nUK bans support for Iran's Islamic Revolutionary Guard Corps  BBC\n\nStarmer will take credit, but he was not drivi",
+      "title": "US, Iran exchange attacks around Strait of Hormuz - Al Jazeera",
+      "description": "\n\nUS, Iran exchange attacks around Strait of Hormuz  Al Jazeera\n\nMiddle East crisis live: US launches new wave of strikes; UAE says two tankers in strait of Hormuz hit by Iranian missiles  The Guardia",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
-      "published_at": "2026-07-13 13:58:01",
-      "category": "general"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGVRSUxGa2g1WWtrM2NsRy02Q1NoUjMtR2oxQ2hPS20talhlRXlDZ0pWRFgyVnFnQmVxeUhVTXpQb3hSdFFMeWU0Wklqck8yUmRhZW1fUHI4WEtibjRWdTlPaHJCLUNmWUhXbjltSjBoMTRNTWprRlpRNmVFSDFUU3JKelprTTYtR01mQ3QxSE84NnMzRmYwSzViZ1oxejhvd0VrM1Fub3Y3ZjhyOUdz0gG0AUFVX3lxTE0yUWdleHdLN3dkdURxNkxESFdBMVhZS1dESjlLalg5NDhyT1JXSHl2ekhtSlg5alM5Y3FSaU1CRHZYN3N0dVh5eGhIekJSRzlQU3VzZExXNzJ6cGJyU0NxQmVFYkp2cGJQRWJaVy03bWUwNnIwZi1DV1lSQjhscnEyd2gtYzRTRFRlM25FZGwzZVZZRVEtWk9zX0RJdmVSQUpXNWUxclNzdFRXOXBPR1JsMnJhaA?oc=5",
+      "published_at": "2026-07-13 23:06:23",
+      "category": "world"
     },
     {
-      "title": "‘Asia's cleanest village’ bans tourists on Sundays",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
-      "published_at": "2026-07-13T22:19:16Z",
-      "category": "tech"
+      "title": "Oil surges past $80 on Trump threat to impose 20% Hormuz fee - Financial Times",
+      "description": "\nOil surges past $80 on Trump threat to impose 20% Hormuz fee  Financial TimesSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUZtdXVIZkRLSzBUSS1ZUWFsbDJFUFhyODNKRjhKNVlYc3BzalBQa0FrSTFyTVFzS09CNTdERzRfVVM5c0UyX1N6NGNXWFpGSkFVN2gxRmJzQXVZa1o5V1lndEtxNHVMaDJWV1hMY0JZeFRsbVg3dWxjTUxPUTlZRDQ2TUY?oc=5",
+      "published_at": "2026-07-13 13:37:04",
+      "category": "world"
     },
     {
-      "title": "Claude is just Mr. Meeseeks",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/thephw/claude-meseeks",
-      "published_at": "2026-07-13T22:03:54Z",
-      "category": "tech"
+      "title": "British couple named among 13 killed in Spanish wildfires - The Guardian",
+      "description": "\n\nBritish couple named among 13 killed in Spanish wildfires  The Guardian\n\nBriton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety  BBC\n\nFifth British national",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1lRWFlDM1BFNUdkSUJSMmJaUVI5TEV2SS0yRkd6bXQ4ZjdNajlBOW1Dc09Yd3RZWl8zaldIYWhwUUE5ZDZZakJ6cnpRZDRUc0NGcmkzR1BROHB5N3ppWTNnbzA2S0lJZUN4aThMdldsNXVFYi1BNVBCa21lNVRoNlA0UmppRXJCQ1FqSG9hNTVTQS02UDNDbXZ1aTQ5T1NuWVFaQXEzWkZaNHAtZGFLN3YxV3FCaGNrSEE4?oc=5",
+      "published_at": "2026-07-13 22:56:00",
+      "category": "world"
     },
     {
-      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "title": "Senator Lindsey Graham's cause of death was an aortic tear, says medical examiner - BBC",
+      "description": "\n\nSenator Lindsey Graham's cause of death was an aortic tear, says medical examiner  BBC\n\nFrom staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump  AP News\n\nR",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtN1pvWGFCcjNzQVpQQXFCbkQ2WndtZDUyNi1MT1ZqbVFtV1hEd2ItVFdwc3VLMmc4R1FqWXRzX1YtUGlWRVFZQVJnWE00VFlsTUtkbGlSSHgwX2pV?oc=5",
+      "published_at": "2026-07-13 10:14:01",
+      "category": "world"
+    },
+    {
+      "title": "Trump administration vows to ‘disable’ International Criminal Court - Al Jazeera",
+      "description": "\n\nTrump administration vows to ‘disable’ International Criminal Court  Al Jazeera\n\nMarco Rubio launches campaign to dismantle international criminal court  The Guardian\n\nRubio vows to ‘dismantle’ Inte",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFdXRW5PcFdtVUozVEd5QVE4c1hUcE9lVlRVS1pLWU5CdlNJb28zV0wzU0NrUVR6WkFFZVJud2tnT3dQdG5jQzB6OXFLZmx3ZU5NOXUzQXRsREh4cWsybVVMWENPZGVzWkZPTWJUR1JUdmZCOG10UkdNaVVRQUF1bHo0Y3lEX2g2VWVhd0pIMFozN3RJT1h5VnZVYzdoR1JENGQ0ZXEtd2FCQdIBrwFBVV95cUxNM3dfaV9nbWpqaVdvM1NKMkRiNGNnNkNIQ0NVTGdJVm10MGZ1NEZCcnIwMHFIWUJ1UjNBSkZaRVVKSUpjYXhOTHRZUFBSUzRacVp3TFAzeEExM21oV29jcjN1T0tzSFdhdEVTbUl0S3dLU2htdGNPMTdSVXBHRTR4c3pVQWhlMmRXWFdkTE5ub2p6QjUwSUQzYXpYSHdJT21sWW43MnQ3UnRjWThoMTNN?oc=5",
+      "published_at": "2026-07-13 21:34:43",
+      "category": "world"
+    },
+    {
+      "title": "Hungary’s parliament votes to oust Orbán-appointed president - politico.eu",
+      "description": "\n\nHungary’s parliament votes to oust Orbán-appointed president  politico.eu\n\nHungary parliament votes to remove president from office  BBC\n\nHungary’s MPs oust president in purge of Orbán loyalists  Fi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVm9GN20zY0RleXNJbjloOUlpTHRBRjBUaUVNZGc1QS1YRko4LUUzYzZ2d3BUX1NFek9QMDNUNWUxNGVva0xLZnpNS2F1TmlKYTJUWkhHOEo1Z0xZZF9HanUwLUsxV2VKRGNfNzRXeGdfTHJwN0kta2RIT0FMTUM1TG1UaksxMERvbEpjVVFoZGFzZVhVOWZpektOYnRIQQ?oc=5",
+      "published_at": "2026-07-13 18:34:00",
+      "category": "world"
+    },
+    {
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "description": "",
       "source": "Hacker News",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "published_at": "2026-07-13T18:22:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "The Git history command deserves more attention",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://lalitm.com/post/git-history/",
+      "published_at": "2026-07-14T00:57:11Z",
       "category": "tech"
     },
     {
@@ -103,68 +144,28 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: YouTube Guitar Tab Parser",
+      "title": "An Englishwoman who sketched India before photography took hold",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "published_at": "2026-07-13T20:13:14Z",
+      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "published_at": "2026-07-13T23:12:22Z",
       "category": "tech"
     },
     {
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "title": "MorphoHDL: A minimalistic language for growing circuits",
       "description": "",
       "source": "Hacker News",
-      "url": "https://cakehonolulu.github.io/linux-on-32x/",
-      "published_at": "2026-07-13T18:18:25Z",
+      "url": "https://paradigms-of-intelligence.github.io/morpho/",
+      "published_at": "2026-07-14T01:17:30Z",
       "category": "tech"
     },
     {
-      "title": "The art and engineering of Sega CD Silpheed",
+      "title": "Success may not matter if you aren't doing what you love",
       "description": "",
       "source": "Hacker News",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "published_at": "2026-07-13T14:52:33Z",
+      "url": "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter",
+      "published_at": "2026-07-14T00:26:00Z",
       "category": "tech"
-    },
-    {
-      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
-      "published_at": "2026-07-13T20:11:29Z",
-      "category": "tech"
-    },
-    {
-      "title": "Telegram's t.me domain has been suspended",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.whois.com/whois/t.me",
-      "published_at": "2026-07-13T19:52:25Z",
-      "category": "tech"
-    },
-    {
-      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-      "published_at": "2026-07-13T18:53:53Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-      "description": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.09662v1",
-      "published_at": "2026-07-10T17:59:45Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Scalable Visual Pretraining for Language Intelligence",
-      "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.09657v1",
-      "published_at": "2026-07-10T17:57:03Z",
-      "category": "ai"
     }
   ]
 }
