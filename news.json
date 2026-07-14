@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T21:50:24Z",
+  "last_updated": "2026-07-14T22:50:05Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,6 +79,22 @@
       "category": "tech"
     },
     {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "published_at": "2026-07-14T21:15:51Z",
+      "category": "tech"
+    },
+    {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "published_at": "2026-07-14T21:58:36Z",
+      "category": "tech"
+    },
+    {
       "title": "The Tower Keeps Rising",
       "description": "",
       "source": "Hacker News",
@@ -103,19 +119,19 @@
       "category": "tech"
     },
     {
+      "title": "How I use HTMX with Go",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "published_at": "2026-07-14T19:55:31Z",
+      "category": "tech"
+    },
+    {
       "title": "The largest available Minecraft world, totalling 15 TB",
       "description": "",
       "source": "Hacker News",
       "url": "https://2b2t.place/1million",
       "published_at": "2026-07-11T14:32:19Z",
-      "category": "tech"
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "published_at": "2026-07-14T11:46:02Z",
       "category": "tech"
     },
     {
@@ -127,27 +143,11 @@
       "category": "tech"
     },
     {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "title": "The Estranged Worlds of J. G. Ballard",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "published_at": "2026-07-10T20:45:43Z",
-      "category": "tech"
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "published_at": "2026-07-14T15:18:13Z",
-      "category": "tech"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://agnost.ai",
-      "published_at": "2026-07-14T16:06:18Z",
+      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "published_at": "2026-07-13T21:57:56Z",
       "category": "tech"
     },
     {
