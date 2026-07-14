@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T17:05:27Z",
+  "last_updated": "2026-07-14T19:05:58Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,11 +79,19 @@
       "category": "tech"
     },
     {
-      "title": "Are we offloading too much of our thinking to AI?",
+      "title": "The Tower Keeps Rising",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "published_at": "2026-07-14T15:18:13Z",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "published_at": "2026-07-14T16:57:54Z",
+      "category": "tech"
+    },
+    {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "published_at": "2026-07-14T17:50:48Z",
       "category": "tech"
     },
     {
@@ -95,22 +103,6 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: Opening lines of famous literary works",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.verbaprima.com/",
-      "published_at": "2026-07-14T15:24:49Z",
-      "category": "tech"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://agnost.ai",
-      "published_at": "2026-07-14T16:06:18Z",
-      "category": "tech"
-    },
-    {
       "title": "How to stop Claude from saying load-bearing",
       "description": "",
       "source": "Hacker News",
@@ -119,19 +111,11 @@
       "category": "tech"
     },
     {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "title": "The largest available Minecraft world, totalling 15 TB",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/juggler-ai/juggler",
-      "published_at": "2026-07-12T18:28:15Z",
-      "category": "tech"
-    },
-    {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "published_at": "2026-07-14T12:40:50Z",
+      "url": "https://2b2t.place/1million",
+      "published_at": "2026-07-11T14:32:19Z",
       "category": "tech"
     },
     {
@@ -140,6 +124,22 @@
       "source": "Hacker News",
       "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
       "published_at": "2026-07-09T15:50:40Z",
+      "category": "tech"
+    },
+    {
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "published_at": "2026-07-10T20:45:43Z",
+      "category": "tech"
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://agnost.ai",
+      "published_at": "2026-07-14T16:06:18Z",
       "category": "tech"
     },
     {
