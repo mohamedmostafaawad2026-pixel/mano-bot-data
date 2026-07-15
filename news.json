@@ -1,10 +1,59 @@
 {
-  "last_updated": "2026-07-15T09:53:19Z",
+  "last_updated": "2026-07-15T11:23:42Z",
   "sources": [
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
+    {
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war - BBC",
+      "description": "\n\nTrump retreat over Hormuz tolls suggests he is struggling to end Iran war  BBC\n\nIran threatens to halt all Middle East energy exports amid renewed US blockade  The Guardian\n\nIran threatens to block ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlWTgxbEZsOVJvYlZMeFF1ZWs5YVRRbkJqSE5qUnQwY0dFUFk0RHd3cGJ2UEZLUWpwRDh1Ry03MmlEaWFiNXFuMm1TSGVhQTZIdUhPTk1vUVVBT1ZN?oc=5",
+      "published_at": "2026-07-14 22:09:37",
+      "category": "world"
+    },
+    {
+      "title": "Iran attacks US bases as Trump threatens power plant hits - Euronews.com",
+      "description": "\n\nIran attacks US bases as Trump threatens power plant hits  Euronews.com\n\nTrump threatens to bomb bridges and power plants unless Iran resumes talks  BBC\n\nTrump warns U.S. strikes on Iran could get ‘",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEg2dnNFUVExbk5FV0dTMzRQTTc4WHJMVDFYZDVEZk1GekhsNU81MldHYjN4WUVBTW1NZW1vbmN4YVgyMlVxdl9UVTBJTlR5cnQydW1BNUluc3Z1aFpDZDFCUGZzNlZxOWJNaU5SYURkNllib3lRbjhwcFZyQ3lFbXd2WDdIelhQUkh1cUFmU1l4SkZnT0xBZEEycFJCUUlaRXdZOUFuX2xiNGQ3T0g2TzA3MWFaR24zXy1ySlBUR2JaSHJB?oc=5",
+      "published_at": "2026-07-15 04:16:34",
+      "category": "world"
+    },
+    {
+      "title": "British cruise passenger, 79, found dead onboard ship at Greek holiday island - The Sun",
+      "description": "\nBritish cruise passenger, 79, found dead onboard ship at Greek holiday island  The SunSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVlwQ0tjZHJkcGxxX0tDQjlnQmE2RmRRVUdrMjQ0aXNXNFpSVlZWdEktMnJwU3FoMUZNY0c3V3QyRmN0ZWxtMW94SHZ4X09MSllqREZzdWI2QWFRdXlJWHlGdDlzVGthMDdxQ3lRQUVJQmFpcDljeXhDOC1oRkZ4U0NXLVcwb1FIcXc?oc=5",
+      "published_at": "2026-07-15 06:44:00",
+      "category": "world"
+    },
+    {
+      "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires - The Guardian",
+      "description": "\n\nSeven Britons among 12 foreign nationals killed in Spain’s deadly wildfires  The Guardian\n\nSeven Britons among those killed in Spain wildfires  BBC\n\nBriton tells of surviving Spain wildfire in car a",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWF2M2gzRGN4VG9HNi1WdmhMNUVvU0hWMVdHdW0takZ0Q0dla0ZtUzd1QV9TYzNVM0xoX1NvSE1ReDE4YzZFRFJHQVRva0RrZUp1WTZNZ2M5S1VZaWJDRU05SlY0V1Z0MGE1VzRyajZyY2NmVXQwZFByNWxULWpPcXdSY09wb0hKOEVBd2RSd2ViUFZYOXNfMHlpeF84UDU3cnlXR1BjeW1vUm9MeWNZaXdYNG55Slp1VTBrOQ?oc=5",
+      "published_at": "2026-07-14 22:46:00",
+      "category": "world"
+    },
+    {
+      "title": "Ukraine to buy Chinese drone parts with EU funds - Financial Times",
+      "description": "\n\nUkraine to buy Chinese drone parts with EU funds  Financial Times\n\nEurope Wants to Ditch China Even tho it Buys Chinese Drones  European Business Magazine\n\nEU allows Ukraine to use defence loan for ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc196X2ZRemhvZ1IwQ09tbnZnNUd5QmxhY2hjMmI0YWlzU0huLTBWNzZpYXVLMHktS3VpdWNTdWZadDI3ZmdoZXAxaE9ya0JvdFZkY1ZpOUFqWUM1QnZwQVg2ejhHLVMzeW91LVVBUi1acnlCY3FPUWJXT0pZM3ZiT1pJU1U?oc=5",
+      "published_at": "2026-07-15 04:00:24",
+      "category": "world"
+    },
+    {
+      "title": "Donald Trump’s return to war with Iran offers no clear path to victory - Financial Times",
+      "description": "\n\nDonald Trump’s return to war with Iran offers no clear path to victory  Financial Times\n\nLyse Doucet: Strait of Hormuz remains the fault line as the Iran and US drift back into war  BBC\n\nTrump retur",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVLYzVIUkVZcUpiSklWeWlPVjQ2QXpjS2hBNUQ5WlBDODdIbVE4YkxiZ0t2dUxpd0R0REo4aEQ4ckU2RURwUWMzM2ltQUJPcUl2ZTI0dzNIZWc2Ri1UeHZhWEdWSGw2ZGtMR1FxclE5d0VRMDVmRVVIbDBVSFVsM2xFWFc?oc=5",
+      "published_at": "2026-07-15 00:44:54",
+      "category": "world"
+    },
     {
       "title": "Jurassic Park computers in excruciating detail",
       "description": "",
@@ -14,27 +63,11 @@
       "category": "tech"
     },
     {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-      "published_at": "2026-07-15T06:02:17Z",
-      "category": "tech"
-    },
-    {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "description": "",
       "source": "Hacker News",
       "url": "https://vpd.ca/",
       "published_at": "2026-07-15T00:15:53Z",
-      "category": "tech"
-    },
-    {
-      "title": "Never argue with your boss (2009)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://righteousit.com/2009/03/12/never-argue-with-your-boss/",
-      "published_at": "2026-07-10T15:21:19Z",
       "category": "tech"
     },
     {
@@ -54,22 +87,6 @@
       "category": "tech"
     },
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "published_at": "2026-07-15T06:28:00Z",
-      "category": "tech"
-    },
-    {
-      "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
-      "published_at": "2026-07-15T08:58:17Z",
-      "category": "tech"
-    },
-    {
       "title": "Who's running all those tiny RPKI servers?",
       "description": "",
       "source": "Hacker News",
@@ -78,11 +95,43 @@
       "category": "tech"
     },
     {
-      "title": "Combinatorial Games in Lean",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/vihdzp/combinatorial-games",
-      "published_at": "2026-07-11T22:11:24Z",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "published_at": "2026-07-15T06:28:00Z",
+      "category": "tech"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "published_at": "2026-07-14T16:57:54Z",
+      "category": "tech"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "published_at": "2026-07-15T06:02:17Z",
+      "category": "tech"
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "published_at": "2026-07-14T17:58:35Z",
+      "category": "tech"
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "published_at": "2026-07-14T21:15:51Z",
       "category": "tech"
     },
     {
