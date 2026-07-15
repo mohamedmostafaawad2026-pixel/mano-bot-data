@@ -1,65 +1,24 @@
 {
-  "last_updated": "2026-07-15T07:08:44Z",
+  "last_updated": "2026-07-15T09:53:19Z",
   "sources": [
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
-    {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war - BBC",
-      "description": "\n\nTrump retreat over Hormuz tolls suggests he is struggling to end Iran war  BBC\n\nCNBC Daily Open: Trump walks back on Hormuz tolls in TACO Tuesday  CNBC\n\nDonald Trump says US to abandon proposed Stra",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlWTgxbEZsOVJvYlZMeFF1ZWs5YVRRbkJqSE5qUnQwY0dFUFk0RHd3cGJ2UEZLUWpwRDh1Ry03MmlEaWFiNXFuMm1TSGVhQTZIdUhPTk1vUVVBT1ZN?oc=5",
-      "published_at": "2026-07-14 22:09:37",
-      "category": "world"
-    },
-    {
-      "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires - The Guardian",
-      "description": "\n\nSeven Britons among 12 foreign nationals killed in Spain’s deadly wildfires  The Guardian\n\nSeven Britons among those killed in Spain wildfires  BBC\n\nBriton tells of surviving Spain wildfire in car a",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWF2M2gzRGN4VG9HNi1WdmhMNUVvU0hWMVdHdW0takZ0Q0dla0ZtUzd1QV9TYzNVM0xoX1NvSE1ReDE4YzZFRFJHQVRva0RrZUp1WTZNZ2M5S1VZaWJDRU05SlY0V1Z0MGE1VzRyajZyY2NmVXQwZFByNWxULWpPcXdSY09wb0hKOEVBd2RSd2ViUFZYOXNfMHlpeF84UDU3cnlXR1BjeW1vUm9MeWNZaXdYNG55Slp1VTBrOQ?oc=5",
-      "published_at": "2026-07-14 22:46:00",
-      "category": "world"
-    },
-    {
-      "title": "US launches further strikes on Iran amid fight over Strait of Hormuz | ITV News - ITVX",
-      "description": "\n\nUS launches further strikes on Iran amid fight over Strait of Hormuz | ITV News  ITVX\n\nLive updates: US carries out more strikes on Iran and begins blockade of Iranian ports  CNN\n\nTrump threatens to",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHl6Y0p5c19JazdXYzdYTUdDVUJPSERIZ3VXeUlpWWxZdGg5YlhqNWUwT21vWjdYNEp0T1c0T3N5SFpiYnFoM1Z3MDg4dkdGWmV4enlnWHNYZ0lfQ3F4UXBIVjNCdnVBUU5jdFBZTTQ4STdPRWxqX0ZzNlg1Nm5FOVVvajFtNmpFXzdvTWxHbXMtQ29raTJLRnNESWdBaGFNSWVTZVkyQVVrbjFibDFIR3FmTQ?oc=5",
-      "published_at": "2026-07-14 20:53:21",
-      "category": "world"
-    },
-    {
-      "title": "Supreme Court justice describes wearing bulletproof vest and 'swatting' hoax at home - BBC",
-      "description": "\n\nSupreme Court justice describes wearing bulletproof vest and 'swatting' hoax at home  BBC\n\nTakeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security  The New York",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XVGI1WGc1RnVHOU5UWVNzMmhMT1NqMXJwT3Fqb0Fnb2Vmei1VbXJaaFIyZHJ1dlhrYUVfYWtmaF8wRFZiT1paZWlQdGlWckNadDVJLVFNR0FJU1FY?oc=5",
-      "published_at": "2026-07-14 18:12:26",
-      "category": "world"
-    },
-    {
-      "title": "Prisoner set to be oldest inmate executed in Florida’s history after years on death row - The Independent",
-      "description": "\n\nPrisoner set to be oldest inmate executed in Florida’s history after years on death row  The Independent\n\nIs there such a thing as being too old to execute? Aging death row inmates are set to die in",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRm12aHFQOTl0TEdoeTRpek1jb1RiN09ZUTB3UzFWSmVBTnA5d3FHWjVlOHFwOHc2RmpBcWdkTFJnOWF3bEVZZGFHaDhEVGdRdzhteDZKSm5hRFFrb2U3X01qZ0pyd0dmck01TjZHblZTOUNTQ1hDajJMME90QnNpckRoeTdRVnFsdnpGUHVEbC1JQi0wYk5hSzYxWTNLY3lhX3ktY1lJMUs?oc=5",
-      "published_at": "2026-07-14 05:52:00",
-      "category": "world"
-    },
-    {
-      "title": "Lyse Doucet: Strait of Hormuz remains the fault line as the Iran and US drift back into war - BBC",
-      "description": "\n\nLyse Doucet: Strait of Hormuz remains the fault line as the Iran and US drift back into war  BBC\n\nU.S. War Against Iran Enters a New Phase  The New York Times\n\nTrump is flailing while Iran calls the",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xSk84X2xjbzBkQU1hcnJZVDg1cjRLLUpiVm5iSFJoZ252d2k2N3FFdENpaWlpTER6eE5nbnU1T19hdi14YVFLTk82Xy1VSlg0MnN6VF9OV3dKUGsz?oc=5",
-      "published_at": "2026-07-14 19:13:49",
-      "category": "world"
-    },
     {
       "title": "Jurassic Park computers in excruciating detail",
       "description": "",
       "source": "Hacker News",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
       "published_at": "2026-07-15T02:57:47Z",
+      "category": "tech"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "published_at": "2026-07-15T06:02:17Z",
       "category": "tech"
     },
     {
@@ -71,19 +30,11 @@
       "category": "tech"
     },
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "title": "Never argue with your boss (2009)",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "published_at": "2026-07-15T06:28:00Z",
-      "category": "tech"
-    },
-    {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://tailscale.com/security-bulletins",
-      "published_at": "2026-07-15T01:08:26Z",
+      "url": "https://righteousit.com/2009/03/12/never-argue-with-your-boss/",
+      "published_at": "2026-07-10T15:21:19Z",
       "category": "tech"
     },
     {
@@ -95,43 +46,43 @@
       "category": "tech"
     },
     {
-      "title": "Andon (manufacturing)",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "description": "",
       "source": "Hacker News",
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "published_at": "2026-07-11T19:49:07Z",
+      "url": "https://tailscale.com/security-bulletins",
+      "published_at": "2026-07-15T01:08:26Z",
       "category": "tech"
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "published_at": "2026-07-14T21:15:51Z",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "published_at": "2026-07-15T06:28:00Z",
       "category": "tech"
     },
     {
-      "title": "The Tower Keeps Rising",
+      "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD",
       "description": "",
       "source": "Hacker News",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "published_at": "2026-07-14T16:57:54Z",
+      "url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
+      "published_at": "2026-07-15T08:58:17Z",
       "category": "tech"
     },
     {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "title": "Who's running all those tiny RPKI servers?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "published_at": "2026-07-14T17:58:35Z",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "published_at": "2026-07-15T06:38:56Z",
       "category": "tech"
     },
     {
-      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "title": "Combinatorial Games in Lean",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.starfleetmath.com/",
-      "published_at": "2026-07-15T00:15:56Z",
+      "url": "https://github.com/vihdzp/combinatorial-games",
+      "published_at": "2026-07-11T22:11:24Z",
       "category": "tech"
     },
     {
