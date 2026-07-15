@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T01:42:54Z",
+  "last_updated": "2026-07-15T04:43:45Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,6 +112,14 @@
       "category": "world"
     },
     {
+      "title": "Jurassic Park computers in excruciating detail",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "published_at": "2026-07-15T02:57:47Z",
+      "category": "tech"
+    },
+    {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "description": "",
       "source": "Hacker News",
@@ -152,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "published_at": "2026-07-14T21:58:36Z",
-      "category": "tech"
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "published_at": "2026-07-14T17:58:35Z",
+      "url": "https://www.starfleetmath.com/",
+      "published_at": "2026-07-15T00:15:56Z",
       "category": "tech"
     }
   ]
