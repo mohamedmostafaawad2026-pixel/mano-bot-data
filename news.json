@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T11:23:42Z",
+  "last_updated": "2026-07-15T13:18:14Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,6 +55,22 @@
       "category": "world"
     },
     {
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "published_at": "2026-07-15T11:46:06Z",
+      "category": "tech"
+    },
+    {
+      "title": "Prioritize mental health, and why communication is so important",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "published_at": "2026-07-15T11:27:35Z",
+      "category": "tech"
+    },
+    {
       "title": "Jurassic Park computers in excruciating detail",
       "description": "",
       "source": "Hacker News",
@@ -63,75 +79,51 @@
       "category": "tech"
     },
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "title": "DSLs Enable Reliable Use of LLMs",
       "description": "",
       "source": "Hacker News",
-      "url": "https://vpd.ca/",
-      "published_at": "2026-07-15T00:15:53Z",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "published_at": "2026-07-15T10:11:11Z",
       "category": "tech"
     },
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "title": "Weathergotchi – an open-source climate Tamagotchi",
       "description": "",
       "source": "Hacker News",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "published_at": "2026-07-14T17:50:48Z",
+      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+      "published_at": "2026-07-15T11:02:43Z",
       "category": "tech"
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "title": "Telegram Serverless",
       "description": "",
       "source": "Hacker News",
-      "url": "https://tailscale.com/security-bulletins",
-      "published_at": "2026-07-15T01:08:26Z",
+      "url": "https://core.telegram.org/bots/serverless",
+      "published_at": "2026-07-15T10:06:39Z",
       "category": "tech"
     },
     {
-      "title": "Who's running all those tiny RPKI servers?",
+      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
       "description": "",
       "source": "Hacker News",
-      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-      "published_at": "2026-07-15T06:38:56Z",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
+      "published_at": "2026-07-15T11:26:33Z",
       "category": "tech"
     },
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "title": "Societal Impacts: Claude's values across models and languages",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "published_at": "2026-07-15T06:28:00Z",
+      "url": "https://www.anthropic.com/research/claude-values-models-languages",
+      "published_at": "2026-07-15T10:56:33Z",
       "category": "tech"
     },
     {
-      "title": "The Tower Keeps Rising",
+      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
       "description": "",
       "source": "Hacker News",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "published_at": "2026-07-14T16:57:54Z",
-      "category": "tech"
-    },
-    {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-      "published_at": "2026-07-15T06:02:17Z",
-      "category": "tech"
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "published_at": "2026-07-14T17:58:35Z",
-      "category": "tech"
-    },
-    {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "published_at": "2026-07-14T21:15:51Z",
+      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+      "published_at": "2026-07-14T01:09:00Z",
       "category": "tech"
     },
     {
