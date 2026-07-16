@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T22:55:49Z",
+  "last_updated": "2026-07-16T23:53:16Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,14 +128,6 @@
       "category": "tech"
     },
     {
-      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-      "published_at": "2026-07-16T22:29:44Z",
-      "category": "tech"
-    },
-    {
       "title": "LM Studio Bionic: the AI agent for open models",
       "description": "",
       "source": "Hacker News",
@@ -152,11 +144,19 @@
       "category": "tech"
     },
     {
-      "title": "FIFA World Cup 2026 Data Portraits",
+      "title": "The Little Book of Reinforcement Learning",
       "description": "",
       "source": "Hacker News",
-      "url": "https://wc26.bogachev.fr/index.html",
-      "published_at": "2026-07-16T22:21:59Z",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "published_at": "2026-07-16T22:27:22Z",
+      "category": "tech"
+    },
+    {
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "published_at": "2026-07-16T22:29:44Z",
       "category": "tech"
     },
     {
