@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T09:59:58Z",
+  "last_updated": "2026-07-16T11:43:54Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,11 +120,27 @@
       "category": "world"
     },
     {
+      "title": "OnePlus halts operations in USA and Europe",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "published_at": "2026-07-16T10:14:04Z",
+      "category": "tech"
+    },
+    {
       "title": "The lost joy of music piracy",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
       "published_at": "2026-07-16T04:46:21Z",
+      "category": "tech"
+    },
+    {
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://joinedanthropic.com",
+      "published_at": "2026-07-16T08:03:35Z",
       "category": "tech"
     },
     {
@@ -136,35 +152,19 @@
       "category": "tech"
     },
     {
+      "title": "A Beautiful Theory Falls to Ugly Data",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+      "published_at": "2026-07-12T19:52:16Z",
+      "category": "tech"
+    },
+    {
       "title": "If you want to create a button from scratch, you must first create the universe",
       "description": "",
       "source": "Hacker News",
       "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
       "published_at": "2026-07-16T03:48:43Z",
-      "category": "tech"
-    },
-    {
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-      "published_at": "2026-07-12T17:57:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
-      "published_at": "2026-07-12T20:42:20Z",
-      "category": "tech"
-    },
-    {
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "published_at": "2026-07-16T03:12:47Z",
       "category": "tech"
     }
   ]
