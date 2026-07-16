@@ -1,76 +1,11 @@
 {
-  "last_updated": "2026-07-16T11:43:54Z",
+  "last_updated": "2026-07-16T13:25:05Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
-    {
-      "title": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran - The Guardian",
-      "description": "\n\nUS attacks oil tanker in strait of Hormuz as strikes reported in Tehran  The Guardian\n\nIran targets military bases as US launches wave of strikes  BBC\n\nIran war live: US hits Iranian oil tanker; Teh",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjN5b0F1WEwzX0Y3RTFpdVBhc0JiN2M0Y3RRNHJBMlZHOTZWVThnYWdJUFdGVTRzdjh3dG8teEtCcFBtMXd3OE9tSWZvbGg1M1d2TWl2Yk5hWlNZQ2d5bl9ud3Zad3lhYjJkcFJaRGNsejA2ZnhWM1NfM3JKWFVvaXFBclBSOU5uYUJsZjA1NDBXdFhHNTRublNHcUotTlkxQVNXN2c0VQ?oc=5",
-      "published_at": "2026-07-16 05:45:00",
-      "category": "general"
-    },
-    {
-      "title": "\"High-T Department\": Hegseth approves testosterone screening in military - BBC",
-      "description": "\n\n\"High-T Department\": Hegseth approves testosterone screening in military  BBC\n\nPete Hegseth says soldiers over age 30 to be screened for testosterone deficiency  The Guardian\n\nHegseth announces annu",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwc09UVGxtaEhqREtjeUc4bnZKUmZVN1I5QzM4LUFOcWFOWTNZQXlFWEZBSW1DelZZYnJJcFFHbkhmUEk1d3B3ZE9LLTRHNUFBdXZuOXE1YjJoMWtL?oc=5",
-      "published_at": "2026-07-15 22:46:02",
-      "category": "general"
-    },
-    {
-      "title": "Shabana Mahmood set to be named UK chancellor by Andy Burnham - Financial Times",
-      "description": "\n\nShabana Mahmood set to be named UK chancellor by Andy Burnham  Financial Times\n\nBurnham faces crucial choice for chancellor as battle for No 11 continues  BBC\n\nBurnham’s Reported Chancellor Pick Ups",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNENfVjlTU0VjcWkteVNIYzh1OEpocU5rUl9nM2xUTHFZSG93UHV4dHpmV05oWjJzN2lkMHI1Z1ZoZXdvQVdIUTZla083ckFHeGRvSklTU0JuUlV4WlVkaVIxQWk4cnEzUUtwOVY3cTRhQXZfcnY5ZWpPWHIzbm90OUxxbGY?oc=5",
-      "published_at": "2026-07-15 15:24:26",
-      "category": "general"
-    },
-    {
-      "title": "Starmer on final trip to Ukraine as PM pledges UK's 'cast-iron' support - BBC",
-      "description": "\n\nStarmer on final trip to Ukraine as PM pledges UK's 'cast-iron' support  BBC\n\nStarmer tells Zelensky: You have Britain’s ‘cast-iron’ support  The Telegraph\n\nPrime Minister visits Ukraine in final we",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNandEbEtBYTlfbHpmc2Zxclk1azBjd1YteGVKeC1td3ZxbU9mdDlYbWctM29UQXU3aUNsaFpGYldqZ1NLN1dSOWNPT3lyZVRhLTFFNEtEUk01NG9F?oc=5",
-      "published_at": "2026-07-16 05:00:10",
-      "category": "general"
-    },
-    {
-      "title": "Nigel Farage: Starmer told me Widdecombe killing was botched burglary - The Telegraph",
-      "description": "\n\nNigel Farage: Starmer told me Widdecombe killing was botched burglary  The Telegraph\n\nAnn Widdecombe killed in 'targeted attack', counter terror police say  BBC\n\nAnn Widdecombe killing: police inves",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHo3VE9xUW9SeVhsSWg2QnRrSVdkRTVZT0tUVXRaanphVWJaRGxUYTFncmpnTDNUbVVHcW1taXZ5QlY0YnFSS1ZET3VNWTNHRFJwREpSN2JPS3VqM2diekItcFNSWjl3X3FJNFh6clpNNjB4NXd5ZXVzb083Sm9vTW9tZi1yMnpKVkstZEZoc3BkTzZrNDZ0SzZ6dG5BeHFwanRlbktqeElpN2NC?oc=5",
-      "published_at": "2026-07-15 10:25:43",
-      "category": "general"
-    },
-    {
-      "title": "Tears, jokes and tributes: Starmer's final PMQs - ITVX",
-      "description": "\n\nTears, jokes and tributes: Starmer's final PMQs  ITVX\n\nStarmer says it's the 'end of my political journey' at his final Prime Minister's Questions  BBC\n\nAt his final PMQs, Starmer soaked up the love",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzZISHlET09mRFJWQmxCU2VSQnFHNjNtbkQwOW12d2FQVnNHYTlGTlJ3TkkwcGtIUUw2aGpkN21DRkZGQU1sY2J4M181eE44TlQxVDZZOElBVW1keTVlUlpnQkl6ZGE4Qm9LQ2hvYUhhV3FrLWduc2Vicy1SZ0VnTHd0U1B1NnVxVktZZGdVSUZQeGc?oc=5",
-      "published_at": "2026-07-15 21:44:08",
-      "category": "general"
-    },
-    {
-      "title": "All newborns in England to be screened for spinal muscular atrophy from 2027 - The Guardian",
-      "description": "\n\nAll newborns in England to be screened for spinal muscular atrophy from 2027  The Guardian\n\nJesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'  BBC\n\nSMA screening to be ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanRuTUd0V2V1dnRFN1g4Mm4xcVJTSUhIMG5rU1R5ZjduRnZ1OUJ0R0FXTVd6ZWF2dktrSGUzZ1JMWWNQSkdvOGEwNks0ZHhFY1poNEhEdTRHblV0YWtKUlFmakRqY0gxdGxhQ2tuc25XUmp2OUdaOURnT2ZYYUc3elJXZzM1TXFFSUd3eDhubmVMOGNmdTd4cUJYaXNsM19OQ283WGtKdnFFczE1YXc?oc=5",
-      "published_at": "2026-07-16 05:00:00",
-      "category": "general"
-    },
-    {
-      "title": "Firefighters battle through the night as wildfire burns across Cairngorms National Park - BBC",
-      "description": "\n\nFirefighters battle through the night as wildfire burns across Cairngorms National Park  BBC\n\nLocals told to ‘leave your pets and go’ as fire rips through Cairngorms  The Independent\n\nHomes evacuate",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GZnlvUjNOVng1VkdDczZ3OW1XWWJ6VjlmS1NOMmtvdEhrSnRDWFR3UUxlU3ljQlpvMjZRMzlYbGxiLXRoNHc4akRJY0JXbnhnVWRsbnNuc0kyanlI?oc=5",
-      "published_at": "2026-07-16 05:42:59",
-      "category": "general"
-    },
     {
       "title": "Iran targets military bases as US launches wave of strikes - BBC",
       "description": "\n\nIran targets military bases as US launches wave of strikes  BBC\n\nUS Widens Iran Campaign as Hormuz Fallout Grows  Bloomberg.com\n\nIran war live: Tehran threatens to ‘crush’ infrastructure if US attac",
@@ -128,6 +63,22 @@
       "category": "tech"
     },
     {
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+      "published_at": "2026-07-16T11:58:09Z",
+      "category": "tech"
+    },
+    {
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "published_at": "2026-07-16T12:02:11Z",
+      "category": "tech"
+    },
+    {
       "title": "The lost joy of music piracy",
       "description": "",
       "source": "Hacker News",
@@ -141,6 +92,14 @@
       "source": "Hacker News",
       "url": "https://joinedanthropic.com",
       "published_at": "2026-07-16T08:03:35Z",
+      "category": "tech"
+    },
+    {
+      "title": "Ente – Opening Our Books",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ente.com/open/",
+      "published_at": "2026-07-16T10:37:17Z",
       "category": "tech"
     },
     {
@@ -160,12 +119,52 @@
       "category": "tech"
     },
     {
-      "title": "If you want to create a button from scratch, you must first create the universe",
+      "title": "The Act and the Outcome of Creation",
       "description": "",
       "source": "Hacker News",
-      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "published_at": "2026-07-16T03:48:43Z",
+      "url": "https://www.ssp.sh/blog/on-creation/",
+      "published_at": "2026-07-16T12:05:42Z",
       "category": "tech"
+    },
+    {
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.bbc.com/news/articles/c5y680w62wno",
+      "published_at": "2026-07-16T12:05:53Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 Leveraging unlabelled data for generalizable neural population decoding",
+      "description": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.14086v1",
+      "published_at": "2026-07-15T17:58:00Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Linear Independent Component Analysis via Optimal Transport",
+      "description": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.14081v1",
+      "published_at": "2026-07-15T17:56:11Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 MetaPerch: Learning from metadata for bioacoustics foundation models",
+      "description": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce S",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.14072v1",
+      "published_at": "2026-07-15T17:42:41Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+      "description": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.14070v1",
+      "published_at": "2026-07-15T17:38:02Z",
+      "category": "ai"
     }
   ]
 }
