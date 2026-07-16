@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-16T07:18:04Z",
+  "last_updated": "2026-07-16T09:59:58Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,6 +72,54 @@
       "category": "general"
     },
     {
+      "title": "Iran targets military bases as US launches wave of strikes - BBC",
+      "description": "\n\nIran targets military bases as US launches wave of strikes  BBC\n\nUS Widens Iran Campaign as Hormuz Fallout Grows  Bloomberg.com\n\nIran war live: Tehran threatens to ‘crush’ infrastructure if US attac",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SazVLSXRnYW5kalNkV2xaUHRRTGJrXzhVYmM0akNJSEdlRmpUSHUtV2pJWXZkVFRUM050ZG5rMEdFVjg1YWgzTEdmLW43akYzM05KWnVJUEdpNHNx?oc=5",
+      "published_at": "2026-07-16 07:06:38",
+      "category": "world"
+    },
+    {
+      "title": "Brazil condemns US move to impose 25% tariffs next week - The Guardian",
+      "description": "\n\nBrazil condemns US move to impose 25% tariffs next week  The Guardian\n\nTrump administration slaps 25% tariff on Brazil as bilateral ties deteriorate  Financial Times\n\nUS announces new 25% tariffs on",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWZktWWkE0YXhESVpvRU1jUHpsRWY1QjJDeGJNaE1kc0lNeS1GcFJRUHFrY1ZyYlk1dUVRNHZScGZpN0pCNV9JTmVXNTVBenozWEZvcURjc01Wd3hlLXJNUTBjY0o1Z2ROeEhrLXdaUkM1Z3M?oc=5",
+      "published_at": "2026-07-16 05:01:00",
+      "category": "world"
+    },
+    {
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster - BBC",
+      "description": "\nFamilies of 43 victims await verdict in Genoa bridge disaster  BBCSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rQ0pVMHBGUk5ERDRPWTFWLWRaVTdlcktLOUJjTWVZSndNd3JNQ2t0MG5lV3RadTlHWHh1MG04RWlmNDZsczhkd1Jub0tFaUk5cW9XczBEcldhZndX?oc=5",
+      "published_at": "2026-07-15 23:02:00",
+      "category": "world"
+    },
+    {
+      "title": "Iran threatens to halt all Middle East energy exports in response to US blockade | ITV News - ITVX",
+      "description": "\n\nIran threatens to halt all Middle East energy exports in response to US blockade | ITV News  ITVX\n\nTrump retreat over Hormuz tolls suggests he is struggling to end Iran war  BBC\n\nIran-US Skirmishes ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXFPcEFsNmx2QzJNTHdSTURZSHNydXFHWDBGTzgwQTdCT3JTRC1zZlZpT0RoV25Sd0loUDUzRXExWGhDU1BheGg3cW9iSHJFbEZlRFFEdFZWU2FKWkdrNmxVa2otS0tPOGVZVDAwS2FndDBHU2NlZGFBZ21IYnE1NWRwd3N2VUdLdEMzMkpPN0x0Y2g4M2RtS1hCS1BDZU9wSmpna2tQUDFPTTA?oc=5",
+      "published_at": "2026-07-15 12:00:18",
+      "category": "world"
+    },
+    {
+      "title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries - The Guardian",
+      "description": "\n\nChina and Xi Jinping seen more favourably than the US and Trump in poll of major countries  The Guardian\n\nMore people around the world now favour China over the US, Pew study suggests  BBC\n\nChina ch",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTdKU1c2dWh3czBsTEpxLU41Wml3bU96eGdHODZqejVjU2lyRWtwVTJOdmVHNUpBVlU3dVNzZUZWLVNOdlNsY1pmT2x6ZGh5Z3d1c0tmdzBMRkVoMUZPYzNrZjdCLUJMOXloSnpUOVhnQWVVNmx1NGxwa1ZvZVZNak9VOWRZWEtvRUNvLWZwMmVWMnNjNVE?oc=5",
+      "published_at": "2026-07-15 23:46:00",
+      "category": "world"
+    },
+    {
+      "title": "Zelenskyy ousts reformer Fedorov as defense minister amid Ukraine government reshuffle - politico.eu",
+      "description": "\n\nZelenskyy ousts reformer Fedorov as defense minister amid Ukraine government reshuffle  politico.eu\n\nProtests in Ukraine's cities against Zelensky's removal of defence minister Fedorov  BBC\n\nZelensk",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjFmSWJMa3lFb0ZDYjhxWlRiaUdkUXR3aHZkTTRRWUZxNUo1WGtWWjRBRGQ0cTl1c0szWDlVeXNsQXhHY1hOSE9xa2Vtb0lTcjhvREZUS0VTNnM4ZnZ4MTJ4WEZiSkhxX0I0UTBkM052Wm9VLTBycUVNYU1aWUpFTmQzalN6SmNxSzBDeGdMOHptWWdoNWFlLTFrTlNHR05IcjY3Zl9pNHdjUm9EM29tUXFfaw?oc=5",
+      "published_at": "2026-07-15 21:37:00",
+      "category": "world"
+    },
+    {
       "title": "The lost joy of music piracy",
       "description": "",
       "source": "Hacker News",
@@ -95,11 +144,19 @@
       "category": "tech"
     },
     {
-      "title": "SQLite should have (Rust-style) editions",
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
       "description": "",
       "source": "Hacker News",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "published_at": "2026-07-15T22:42:58Z",
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "published_at": "2026-07-12T17:57:58Z",
+      "category": "tech"
+    },
+    {
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+      "published_at": "2026-07-12T20:42:20Z",
       "category": "tech"
     },
     {
@@ -109,62 +166,6 @@
       "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
       "published_at": "2026-07-16T03:12:47Z",
       "category": "tech"
-    },
-    {
-      "title": "Grok Build is open source",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/xai-org/grok-build",
-      "published_at": "2026-07-15T20:24:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "Bluesky Trademarks ATProto",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://atproto.com/blog/at-protocol-trademark",
-      "published_at": "2026-07-16T01:21:04Z",
-      "category": "tech"
-    },
-    {
-      "title": "Making 768 servers look like 1",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
-      "published_at": "2026-07-16T03:36:42Z",
-      "category": "tech"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "published_at": "2026-07-15T21:16:36Z",
-      "category": "tech"
-    },
-    {
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-      "published_at": "2026-07-12T17:57:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Leveraging unlabelled data for generalizable neural population decoding",
-      "description": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.14086v1",
-      "published_at": "2026-07-15T17:58:00Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Linear Independent Component Analysis via Optimal Transport",
-      "description": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.14081v1",
-      "published_at": "2026-07-15T17:56:11Z",
-      "category": "ai"
     }
   ]
 }
