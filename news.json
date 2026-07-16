@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T23:52:34Z",
+  "last_updated": "2026-07-16T01:52:21Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -144,7 +144,15 @@
       "category": "tech"
     },
     {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "published_at": "2026-07-15T21:16:36Z",
+      "category": "tech"
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
       "description": "",
       "source": "Hacker News",
       "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
@@ -152,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "The Anti-Mac User Interface (1996)",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
-      "published_at": "2026-07-15T22:52:36Z",
-      "category": "tech"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "published_at": "2026-07-15T21:16:36Z",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "published_at": "2026-07-15T03:32:45Z",
       "category": "tech"
     }
   ]
