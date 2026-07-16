@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-07-16T17:06:49Z",
+  "last_updated": "2026-07-16T18:58:53Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News"
+    "Hacker News",
+    "arXiv AI/ML"
   ],
   "articles": [
     {
@@ -119,14 +120,6 @@
       "category": "tech"
     },
     {
-      "title": "'We used acid to sabotage Microsoft hyperscale data centre construction'",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/",
-      "published_at": "2026-07-16T16:49:50Z",
-      "category": "tech"
-    },
-    {
       "title": "Decoy Font",
       "description": "",
       "source": "Hacker News",
@@ -135,11 +128,19 @@
       "category": "tech"
     },
     {
-      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "description": "",
       "source": "Hacker News",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "published_at": "2026-07-16T16:41:37Z",
+      "category": "tech"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "published_at": "2026-07-16T16:08:13Z",
       "category": "tech"
     },
     {
@@ -151,19 +152,19 @@
       "category": "tech"
     },
     {
+      "title": "Immersive Linear Algebra Book with Interactive Figures",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://immersivemath.com/ila/",
+      "published_at": "2026-07-16T15:32:23Z",
+      "category": "tech"
+    },
+    {
       "title": "Goes-19 weather satellite enters Safe Hold mode",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
       "published_at": "2026-07-16T13:30:00Z",
-      "category": "tech"
-    },
-    {
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "published_at": "2026-07-16T11:39:27Z",
       "category": "tech"
     }
   ]
