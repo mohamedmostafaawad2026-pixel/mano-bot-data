@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T20:01:45Z",
+  "last_updated": "2026-07-17T21:43:05Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,6 +112,14 @@
       "category": "world"
     },
     {
+      "title": "The Zilog Z80 has turned 50",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://goliath32.com/blog/z80.html",
+      "published_at": "2026-07-17T19:41:02Z",
+      "category": "tech"
+    },
+    {
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "description": "",
       "source": "Hacker News",
@@ -136,19 +144,11 @@
       "category": "tech"
     },
     {
-      "title": "The Zilog Z80 has turned 50",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "description": "",
       "source": "Hacker News",
-      "url": "https://goliath32.com/blog/z80.html",
-      "published_at": "2026-07-17T19:41:02Z",
-      "category": "tech"
-    },
-    {
-      "title": "Frame – Linux X server in Assembly",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://isene.org/2026/07/Frame.html",
-      "published_at": "2026-07-17T15:31:22Z",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "published_at": "2026-07-17T16:57:27Z",
       "category": "tech"
     },
     {
@@ -160,11 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "The state of open source AI",
+      "title": "Frame – Linux X server in Assembly",
       "description": "",
       "source": "Hacker News",
-      "url": "https://stateofopensource.ai/",
-      "published_at": "2026-07-17T14:31:10Z",
+      "url": "https://isene.org/2026/07/Frame.html",
+      "published_at": "2026-07-17T15:31:22Z",
       "category": "tech"
     }
   ]
