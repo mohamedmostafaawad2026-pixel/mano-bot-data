@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T21:43:05Z",
+  "last_updated": "2026-07-17T22:40:46Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,6 +128,14 @@
       "category": "tech"
     },
     {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "published_at": "2026-07-17T16:57:27Z",
+      "category": "tech"
+    },
+    {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "description": "",
       "source": "Hacker News",
@@ -144,11 +152,11 @@
       "category": "tech"
     },
     {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "title": "The US Grocery Slowdown Is Real",
       "description": "",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "published_at": "2026-07-17T16:57:27Z",
+      "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
+      "published_at": "2026-07-17T22:11:01Z",
       "category": "tech"
     },
     {
@@ -157,14 +165,6 @@
       "source": "Hacker News",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
       "published_at": "2026-07-17T14:21:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "Frame – Linux X server in Assembly",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://isene.org/2026/07/Frame.html",
-      "published_at": "2026-07-17T15:31:22Z",
       "category": "tech"
     }
   ]
