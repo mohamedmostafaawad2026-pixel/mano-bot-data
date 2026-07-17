@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T07:55:19Z",
+  "last_updated": "2026-07-17T09:50:05Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,19 +128,19 @@
       "category": "tech"
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "published_at": "2026-07-17T03:48:26Z",
-      "category": "tech"
-    },
-    {
       "title": "Kimi K3: Open Frontier Intelligence",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.kimi.com/blog/kimi-k3",
       "published_at": "2026-07-16T14:46:05Z",
+      "category": "tech"
+    },
+    {
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "published_at": "2026-07-17T03:48:26Z",
       "category": "tech"
     },
     {
@@ -152,19 +152,19 @@
       "category": "tech"
     },
     {
-      "title": "An Engineer's Guide to USB Typе-С (2024)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "published_at": "2026-07-10T16:31:26Z",
-      "category": "tech"
-    },
-    {
       "title": "Microsoft Comic Chat is now open source",
       "description": "",
       "source": "Hacker News",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "published_at": "2026-07-16T16:06:27Z",
+      "category": "tech"
+    },
+    {
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "published_at": "2026-07-10T16:31:26Z",
       "category": "tech"
     }
   ]
