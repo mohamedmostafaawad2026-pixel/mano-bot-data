@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-17T05:10:34Z",
+  "last_updated": "2026-07-17T07:55:19Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,11 +72,59 @@
       "category": "general"
     },
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
+      "title": "Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News",
+      "description": "\n\nJapan’s parliament enshrines male-only succession for the shrinking imperial family  AP News\n\nJapan revises law to ensure supply of (male) heirs to the imperial throne  NPR\n\nJapan is running out of ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMktYczA0cTd0VkZwQXZpNnJSQkV5TFdfdV9HcXJUcGViRWc2amJQU29hUDlQd1NvcXZHMERFNE83cXNmc3ZnT1M1U29FejlQa2hpMFBlbXdQSjRJQmx3S0FFMXIyY2FqZVFld0Nlam5ocE9uTjBpcDlYUGZMNkJEYlBDcWJVdm95XzdFN2R0dWsyNHg1VG1MRG5tWjJSZ1FMQW1ZUjUzZG1pWlNrY3c?oc=5",
+      "published_at": "2026-07-17 03:21:00",
+      "category": "world"
+    },
+    {
+      "title": "Philippines condemns Chinese media depicting it as monkey in AI video - BBC",
+      "description": "\n\nPhilippines condemns Chinese media depicting it as monkey in AI video  BBC\n\nGatchalian on China Daily’s video: Free speech not license for racism  Inquirer.net\n\nPhilippines condemns Chinese state me",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GdFBJRk8wMUIzQlRxNENVRy1JOGp0Mml3dk9vMU5lcjVkUkM5Vk05dkw5dmU5VV9idTRzUng4Q0pFajFVQjhzLXNqdmpIWVN5VDFyb3lQV185dw?oc=5",
+      "published_at": "2026-07-17 02:37:45",
+      "category": "world"
+    },
+    {
+      "title": "Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post",
+      "description": "\n\nZelensky ousts popular defense minister, an architect of Ukraine’s drone program  The Washington Post\n\nUkraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.  The New York Times\n\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZQc0pQSWxFVUhpZ0V5TlR6dENhRFBsOFJnODNRblpweWNGNXYzaHpCS0FDV25PdjRMYUl0YWZLaFRscGtKNjRZUk83OGxVTUpvUDJqRHdwVWs3RmdLM010c3J2WVdCdGpVUTVqM2FZbGx4UE5MMUZfRmdPQll2czV4clZWSDZiZVQ0YXZYakdVX0x2ZENGUlRoR1FEa3E1SE5GY1lfM1BwZTBaT2hNZTNKTHNLdE9zeFpweXg4b2dMQQ?oc=5",
+      "published_at": "2026-07-17 03:53:14",
+      "category": "world"
+    },
+    {
+      "title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times",
+      "description": "\n\nXi Jinping sets out China’s goal to be global AI leader  Financial Times\n\nChina’s Xi Touts Open-Source AI and Takes a Swipe at U.S. Dominance  WSJ\n\nXi pitches China as AI partner to developing world",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5",
+      "published_at": "2026-07-17 05:26:15",
+      "category": "world"
+    },
+    {
+      "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister - Fox News",
+      "description": "\n\nWho is Andy Burnham? The Trump critic set to become the UK's next prime minister  Fox News\n\nOpinion | The King of the North Won’t Save Britain  The New York Times\n\nThe Manchester years: how Burnham’",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUR0WFp0TnNwWlh1WC15MllxUUk2VW00V3pURnc0bWhsMnhXRzUtR2JBQnY2Q0ZCb1FOTmVucjhaOWd5Ukl3dThtM01EaU9pVXZXWFgwRkRSMFl4eFJCTVdaUVNFT0lXeWVQNl81MFplVGV0aDRjY2dEelJ1dEd2TE11aFRoOW9pNHhqc2kwcE9NMFREN29hYUl30gGfAUFVX3lxTFBLRm1YZk1SSl9yaUtNMHFlbzN2RFBkb2swZ0FDR0RDbHVuYVRrS0cwSk53RnVkS0toSUlmQ0Frbi0tZkdwbkFJcWZ6UVBlUlIyd1NKZ2FwdVdabWZ2Yy02M25TLTVPNzdQQUMzUURFaVdEaVppWXVGUXJ3eXM1S3ZHck9Vd3ZZLWVMSUdDUWFJTXp0OG5IdkdxR2h2MVB1UQ?oc=5",
+      "published_at": "2026-07-15 17:58:59",
+      "category": "world"
+    },
+    {
+      "title": "Hong Kong official warns booksellers on security risks after raids - NPR",
+      "description": "\n\nHong Kong official warns booksellers on security risks after raids  NPR\n\nHong Kong police raid two bookstores, arrest five people  DW.com\n\nHong Kong official says booksellers should ensure titles wo",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkdoQU9kdW1BTnpsb1ljTVVoZ2NhTjZ0T195U0ZHLXhxMml6TndxRTFCRWI0ekRsOTE5SHp2dzN1Z3pGeTlIZkI2cmYzNVJNS09lMTRfTWRFVkFwM1hjeHJwMEo2NE5SdVdoRG5JOEpYN2d1N1hlTnhaWF9mand0dVRaaU5hMFU1R3dpdFBfMnREdzIwa3NJbUl2WlpqeDI4ZGZmTVhRdldWWTRrUEE?oc=5",
+      "published_at": "2026-07-16 13:31:33",
+      "category": "world"
+    },
+    {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "published_at": "2026-07-16T14:46:05Z",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "published_at": "2026-07-17T05:51:10Z",
       "category": "tech"
     },
     {
@@ -84,6 +133,22 @@
       "source": "Hacker News",
       "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
       "published_at": "2026-07-17T03:48:26Z",
+      "category": "tech"
+    },
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "published_at": "2026-07-16T14:46:05Z",
+      "category": "tech"
+    },
+    {
+      "title": "Pebble Mega Update – July 2026",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "published_at": "2026-07-17T03:53:38Z",
       "category": "tech"
     },
     {
@@ -101,70 +166,6 @@
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "published_at": "2026-07-16T16:06:27Z",
       "category": "tech"
-    },
-    {
-      "title": "The Human-in-the-Loop Is Tired",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "published_at": "2026-07-17T00:21:09Z",
-      "category": "tech"
-    },
-    {
-      "title": "Decoy Font",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "published_at": "2026-07-16T16:18:21Z",
-      "category": "tech"
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "published_at": "2026-07-16T20:18:15Z",
-      "category": "tech"
-    },
-    {
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "published_at": "2026-07-17T01:36:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "published_at": "2026-07-16T20:03:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "Solod: Go can be a better C",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://solod.dev",
-      "published_at": "2026-07-13T16:38:21Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.15277v1",
-      "published_at": "2026-07-16T17:59:31Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
-      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.15275v1",
-      "published_at": "2026-07-16T17:59:06Z",
-      "category": "ai"
     }
   ]
 }
