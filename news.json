@@ -1,123 +1,74 @@
 {
-  "last_updated": "2026-07-17T01:56:23Z",
+  "last_updated": "2026-07-17T05:10:34Z",
   "sources": [
     "Google News Egypt",
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Sadiq Khan among 26 new peers to enter the Lords - BBC",
-      "description": "\n\nSadiq Khan among 26 new peers to enter the Lords  BBC\n\nKeir Starmer makes Sadiq Khan a peer in the House of Lords  The Guardian\n\nLondon Mayor Sadiq Khan appointed to House of Lords  Reuters\n\nKeir St",
+      "title": "Sadiq Khan given peerage by Keir Starmer - sparking immediate row - London Evening Standard",
+      "description": "\n\nSadiq Khan given peerage by Keir Starmer - sparking immediate row  London Evening Standard\n\nSadiq Khan among 26 new peers to enter the Lords  BBC\n\nKeir Starmer makes Sadiq Khan a peer in the House o",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hNEVaU3ZVaEp6Vm43QWpQY0NGUTRJSGJBQ0dEcTV4eHNGQUI0aEQ4d0NqNDB5T1lBMnEwM1dSVWQ5TWRmaWpwOUdPdEExTXN5aDNUaDg4X3R2akFi?oc=5",
-      "published_at": "2026-07-16 16:32:35",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQazRLTWZNaHRPWDBoenh1MUFtTXFjcXJuTTJMWVdxSDk3bHNzcmFmdkUtZnBmR1NNSkhQdFA3YS1pTV9TN0tHbzlUUndSRmVSTWtLSDFKeWVMNDV0UHc3ajJkbmlPb1U5UEJqam1tU2tSRzREVTJLVDBJZlk5RzI0dC13RGktX2F6WTJQMWZfYWJCQWVseFE?oc=5",
+      "published_at": "2026-07-17 03:48:18",
       "category": "general"
     },
     {
-      "title": "Uncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest - BBC",
-      "description": "\n\nUncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest  BBC\n\nAnn Widdecombe killing: police investigating possible leftwing motivation  The Guardian\n\nHermer rejects Reform demand",
+      "title": "Burnham to promise new path for UK when he becomes new Labour leader - BBC",
+      "description": "\n\nBurnham to promise new path for UK when he becomes new Labour leader  BBC\n\nOpinion | The King of the North, Andy Burnham, Won’t Save Britain  The New York Times\n\nPolitics latest: Burnham to pledge '",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DYmM3Z1Fzam5vZFlTZGZGbzZqZHB6cjlvdHlxeVBtd1FKS19CMDdmQlNvYUN3eHlYVWh5UEZGSUlmcGJoazI4OU9mTG56eXl1cjh2VW1fVGZ5amlG?oc=5",
-      "published_at": "2026-07-16 15:46:22",
-      "category": "general"
-    },
-    {
-      "title": "UK's Starmer announces $340 million for Gripen jets for Ukraine during last Kyiv visit as PM - The Kyiv Independent",
-      "description": "\n\nUK's Starmer announces $340 million for Gripen jets for Ukraine during last Kyiv visit as PM  The Kyiv Independent\n\nStarmer pledges 'unwavering support' for Ukraine on final visit as PM  BBC\n\nOutrag",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXpZd1M4bXl0YXNvYkZ3eDIwa0lyUVJUcmtYZ2U2eXB5bmJBM2RTT0I3SHhfVGpxeEs4SXJTQk0yZzdiMUFzVGdvZTAwRkRNTkgxNTJvRG9yalhma056azU0M20xWXNURVJzT2RHaDJfU3ZKaUtDRVFKeXZuLThPdVBLa2FRVTFEUHI3TlNRcHZQZWxUU21rLU5OSFlZdGlfMmpaZFhlMGMyQQ?oc=5",
-      "published_at": "2026-07-16 11:39:01",
-      "category": "general"
-    },
-    {
-      "title": "‘Bizarre choice’: business and Labour puzzle over Shabana Mahmood as future chancellor - The Guardian",
-      "description": "\n\n‘Bizarre choice’: business and Labour puzzle over Shabana Mahmood as future chancellor  The Guardian\n\nBurnham faces crucial choice for chancellor as battle for No 11 continues  BBC\n\nInside Ed Miliba",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmpidnpRM3ZkV2NVcy12QzYxVGduSldtUWRrSGJrcDBCRk1TZk1jLUF1WkpXTzBmMFF1Z2FjZGFQX3otTjhJd0VuTWdvM3hLUW53Z1lRN0NXVkZzeE85XzRlYjRjbEdlcV9LMFRaSFNBeWN4YUQ3RnVGU09lV2ZxUEN3ay1pYmNLV3c?oc=5",
-      "published_at": "2026-07-16 19:32:00",
-      "category": "general"
-    },
-    {
-      "title": "Weekend cooldown to mark end of heatwave for some - BBC",
-      "description": "\n\nWeekend cooldown to mark end of heatwave for some  BBC\n\nRun of very high UK temperatures 'set to end' - but intense heat may return, say forecasters  Sky News\n\nUK weather maps show 36C heatwave surg",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SYkVUZlZQTUttTFlmcFE4UDRVdDU0ZHFSSkhvaHlrZTdwQjlMZlRXcl9FYU93RFJMSTVveGdxeWtTS3ZCNVFFQmp0TW1XLVY5cUZYb2R2VUlNRWprOGc?oc=5",
-      "published_at": "2026-07-16 00:31:59",
-      "category": "general"
-    },
-    {
-      "title": "Starmer’s final PMQs revealed Badenoch’s true character - Conservative Home",
-      "description": "\n\nStarmer’s final PMQs revealed Badenoch’s true character  Conservative Home\n\nThe Guardian view on Keir Starmer’s farewell: a dignified departure and a necessary one | Editorial  The Guardian\n\nA digni",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2k1a2tfMmJQcklFa19zMXZUaEV1NkFNejZqWEZhZmFBRGRuajFKVl94OXFMSi1FdkpFLWt3LXlLTWpZaUdRMTdCeGV4dVVzek9id1BFc1ZuQ2hfVmEtcktXVm04OTRBQW04OGMwY1BnS1RnOS1QTWJ2aHJhY1pUY2lOa2dCeHRGbDV2bmNJVFBWN0xZa2FJM2t3?oc=5",
-      "published_at": "2026-07-16 06:00:21",
-      "category": "general"
-    },
-    {
-      "title": "Lying Sturgeon destroyed Salmond to save her own skin, says David Davis - The Telegraph",
-      "description": "\n\nLying Sturgeon destroyed Salmond to save her own skin, says David Davis  The Telegraph\n\nSturgeon 'stitched up Salmond to hide truth about Murrell' claims Tory MP  The Herald\n\nNicola Sturgeon hits ou",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXRXblN1bTVMallyd0dnVGVVTVFQTS1aZUphQ1BCOXJBekZCRmw3QXE4Mkt6ellWeWFfbXRwMkZHU3BrR2lNMGJxdkRKYmpqbGdTRTVMdFA0dzVqQ1dHblZZeW94S2JTNGFUQnB5QWpCRDM4b2hIaWVqcE9DOU93bldjdTBSVk5zU1JTZXBWa0JVX3lFc2hLeDBZd2ZyQUpFMFBiQnlZZkVLLTA?oc=5",
-      "published_at": "2026-07-16 18:18:00",
-      "category": "general"
-    },
-    {
-      "title": "Mother guilty over baby's hairdryer burns death in Peterhead - BBC",
-      "description": "\n\nMother guilty over baby's hairdryer burns death in Peterhead  BBC\n\nMother guilty of killing baby daughter in Aberdeenshire with heat from hairdryer  Sky News\n\nBaby may have been dead before hairdrye",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44TlJNWXNtX2RXY3BRc0x4SzFiVkZ5SEhNZkRLX01xSzlmcUh1ekNEZkc5OTcxbTJDQUtybkNqamE3VHRsLW45bG91MUQwc0Z3bTBMSW9KaTNtaGlr?oc=5",
-      "published_at": "2026-07-16 15:28:30",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuV0wxcld5WTYtQXpWa0VkcUt6X0MwcFdvcjMwblJwLXpyV3gwWTBuZWhpOVpLQW9YQ1JCR1NQekVOSzRmRzZlLTY4dGkwYnA5WHBZU01hNlJCMUhV?oc=5",
+      "published_at": "2026-07-16 21:44:24",
       "category": "general"
     },
     {
       "title": "Blasts reported in Iran as US launches new wave of strikes - BBC",
-      "description": "\n\nBlasts reported in Iran as US launches new wave of strikes  BBC\n\nIran war live: US launches sixth consecutive night of strikes against Iran  Al Jazeera\n\nUS attacks oil tanker in strait of Hormuz as ",
+      "description": "\n\nBlasts reported in Iran as US launches new wave of strikes  BBC\n\nIran launches fresh attacks after sixth day of US strikes  Reuters\n\nU.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply ",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPWjBud3AzZ1hmM0dHbTlzT3VtUUk0QVpwS1R1czVHbUowQmxVWnZ5ZFo4c2lOcmVyd3hKUzB4TERFaGFrbXptSUs2MmxlNTViMHdGWG95X2FDel93?oc=5",
       "published_at": "2026-07-16 21:44:37",
-      "category": "world"
+      "category": "general"
     },
     {
-      "title": "Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse - Al Jazeera",
-      "description": "\n\nEx-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse  Al Jazeera\n\nItalian officials handed jail terms for Genoa bridge disaster that killed 43  BBC\n\nFormer Italian motorway bos",
+      "title": "New York issues air quality alert days before World Cup final - BBC",
+      "description": "\n\nNew York issues air quality alert days before World Cup final  BBC\n\nWildfires force thousands to evacuate as skies darken over US and Canadian cities  Sky News\n\nOntario Wildfire Smoke Moves East  NA",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjhFWFRCcHl4bEF1bzlFV2NuUUF1VjE2d2dBYmtJNEhxVTVWVUhiS2N6aGY5OUFqVElMZjZRbmdyenNOUGFiWllDUEhReEFRblhQQ0xXVXBneTZtZEVKVzRfUTVYRDUwRnk3UExWTXQ0LWVjVkNjZ1dLM3NpU3RBNE1Hc24yVEVRbkN2WF9Ha0U0aUExczZtZ1c5M1NzbmVxdm9ZQ3pSRWFIT3N3WHBBZDZUNTFGQdIBuwFBVV95cUxQWjhiLU5RTjZWWGZUd2xSY2JXQzJKNGJuRlUwaXJGMlRUMlQyNzFQUmZtQkQzRk9BRkVGMHlWZ1VqTG5jZXQ2TDNVcWtTaDZPRDRYUk9ia2hxNHU0bnBVQmQzRGtXYzUzdXZYR0lyNFlBSk1TUl91TmIzMHZkNWkxMTNIM29Rbi1BWldyRkZnNVUyZWM4am5NY25CalhYVmFXbXpuNkVPWUNwR1FBd1ZuQUttdjFxTUx6VDVJ?oc=5",
-      "published_at": "2026-07-16 16:57:19",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TWXdWNHYwUTJfa3dtRE85SnpaWVpoOXdSZDU2YWRNWmUyMGZjQWhxTmhjNGhkVFRFNzVldHFlRlc2Y1hnMDM0SnQwZDV1bTlKRnZ3RFFTdlNNaS1VTS03RWt2QzU2bDQ?oc=5",
+      "published_at": "2026-07-16 21:29:07",
+      "category": "general"
     },
     {
-      "title": "Wildfires force thousands to evacuate as skies darken over US and Canadian cities - Sky News",
-      "description": "\n\nWildfires force thousands to evacuate as skies darken over US and Canadian cities  Sky News\n\nHundreds of Canada wildfires prompt US air quality alerts as smoke spreads south  BBC\n\nNew York issues ai",
+      "title": "UK heatwave approaches two-week mark - BBC",
+      "description": "\n\nUK heatwave approaches two-week mark  BBC\n\nWeekend cooldown to mark end of heatwave for some  BBC\n\nRun of very high UK temperatures 'set to end' - but intense heat may return, say forecasters  Sky N",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNGxTN0cyVlhBZWU2UXA3XzFXVF8zd201clpXczU2ZjI0X2U5NzZvVW1WTVhUSVc1Q1YtRFlmMXpEeUdwejlSOFB0WHJITGlCWlctTmRwamNibzdCRTJHQlNpc0xJRnBhSXBBNEExX1ZfMDVPZVZDRHdMYjFKZlVINW90c0Q4WkdmU2NvNFBkWmVMNUM2U045UkVSNTVxMWFvYVBtRjJfUi1ZZlJCajZlNTdCb1ZJVEoy?oc=5",
-      "published_at": "2026-07-16 14:40:40",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBERnB6SVhUYzdZV0l5dFMyVkRzSlphaXY2M1VmU1E4OVRNZlNYMm1ERzA5ZFkyM1BFNDhWbmZMaVplQ2ZmZHhxekx6ci1KelRDYWkyRkIzOHNiWDNnTEE?oc=5",
+      "published_at": "2026-07-16 23:28:21",
+      "category": "general"
     },
     {
-      "title": "Trump to deliver TV address amid speculation over elections announcement - The Guardian",
-      "description": "\n\nTrump to deliver TV address amid speculation over elections announcement  The Guardian\n\nPresident Trump's Speech Tonight to Focus on Election Security: Live Updates  The New York Times\n\nWhite House ",
+      "title": "Burnham to become Labour leader today - and urged to make Miliband chancellor - Sky News",
+      "description": "\n\nBurnham to become Labour leader today - and urged to make Miliband chancellor  Sky News\n\nAndy Burnham needs both Miliband brothers in his cabinet – but there is only room for one  The Independent\n\nW",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40cjV2SF9CekVIVWhCUzZNaUg1aGsxeWV6b0lPajYtOFdsMThGSHpodDI0eC1ZYTlwZG5iZjlRMXljVFAxLXhGQ1lpdG1JOXhzRXpCcHNKeUdHTmh0SWpLZ0VEdmNTckltWEtDTTFnY00xNzd3VlN4RWhEYkZUdw?oc=5",
-      "published_at": "2026-07-16 22:00:00",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEROcEdwNzlaOHlBNTJOTnRzOUltbng0YmhZWGp3Nm1SdW96M09WOHNSTEZYMElfR2ZKNUVneFdtazJoQjluSzZxTEZmUl9laVhwMy04X1BkSzVsUUxNcTBxbDFrdDdzOUhQVWE5akh5Wk9KVTBLZzVzeFNXYVVEYlh0bE1vR0EzQ2I1TlFtR3NQMFJKZy1nXzdZTUZCVTRNM1lDREx3QQ?oc=5",
+      "published_at": "2026-07-17 01:16:41",
+      "category": "general"
     },
     {
-      "title": "Ukraine’s defense minister says he told Zelensky that beating Russia required firing the country’s two top commanders. Zelensky fired him instead. - Meduza",
-      "description": "\n\nUkraine’s defense minister says he told Zelensky that beating Russia required firing the country’s two top commanders. Zelensky fired him instead.  Meduza\n\nPolitical crisis and protests in Ukraine a",
+      "title": "Trump rehashes wide-ranging US election claims and releases heavily redacted documents in primetime address – live updates - The Guardian",
+      "description": "\n\nTrump rehashes wide-ranging US election claims and releases heavily redacted documents in primetime address – live updates  The Guardian\n\nTrump alleges 'shocking vulnerabilities' in US election secu",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVkl5YUc0c0dJeE9QdXpQLVhRX0ZqakpRX1cwdDBZR01WcldFTjVYYUM0a2hwcWtYX29FN1RXLWJBQWRRVnp3T25kb0YtVDlaZjRKVk93aVR1Y3J3V1piTzE0TlJsSkVxN1ZETmRFaGJ1Nlh2MkxlUHk3VkRNcE15WFNtRUJEX3ZmMTJseEZkMC1NdElwQUpTOEQycWxIQzN6ckJvR01XMmI4V2ZSVzR6cE1mMkxjRjZhbE5SN29PYXVzSzhBZ0dxdmh4dDl2bVdORUYyYzRtdDd5cER6VnhXSFlIY3pvS2dOZm8zUVpuUFM4NHVLUTdIUkhvYWpmMnB6Y1VRVEgxWnVHa0MwdzdYTXpR0gGXAkFVX3lxTE9lQ09sS0pxUXdpVzFCSmFlMnlxWTI2LXdhZnoycmlaQVBncHd2R2Vxd1A5eUVCUGllRExhbkhRc0UzbjNGWXBSRVRXeXpVVDFEMHRUM241VGdLcEFTT2JDM2V1d05kN2JMVExhdkhYZ1FnWXEtUkJFTmFRV01mWkR6Z0pJSkZ1WUVaMG96YjZ6b01KdURQekZtX1I0emlKZW83S1Y1aG5ucXpFTURkWjFIOVNaaFNxNE1KeXczak1rakJVQllGeUE2cGNneG1YT2I1OGxzSFdodzZXcGs1d2tQaGhNTmRNZE8wM0U5QlRObURpWnJsRVdtQk9odXpkaVk0bzBGUGprSjZUUTRLUlUxQTRES21PQQ?oc=5",
-      "published_at": "2026-07-16 16:10:00",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmVFQ2lyWkVYRGxSbUJYLXF1Z2k3QnFFM2RobGFFRVJPSkl6REFZWTlwSzZxeXpYTE5FbTh5MEp6MmFiRnBXMWltUGtBUlhoWEEycWVKTi1Td0x6ZVJTTDZ0V19fd0YtcGxwTnEzX1ZLYVR1dDhqWHM3aE9WQ05Qc3NEWUdKWTF1SVVtbURqNFMwcUlfUzZVeFA3Q3lGajI5ZVFmRw?oc=5",
+      "published_at": "2026-07-17 05:06:26",
+      "category": "general"
     },
     {
-      "title": "Luxury ‘floating hotel’ cruise ship TOPPLES OVER during horror 180mph typhoon - The Sun",
-      "description": "\n\nLuxury ‘floating hotel’ cruise ship TOPPLES OVER during horror 180mph typhoon  The Sun\n\nTyphoon Bavi: China evacuates nearly two million people as powerful typhoon makes landfall  BBC\n\nTyphoon Bavi:",
+      "title": "Rubio calls for global crackdown on far-left extremism - BBC",
+      "description": "\n\nRubio calls for global crackdown on far-left extremism  BBC\n\n‘Enemies of civilization’: top Trump officials launch sweeping attack on left  The Guardian\n\nUS hosts global meet on ‘far-left terror’: W",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGR2eEliVGNQQXg1RjR0c3NVMGVTMjZnRGdlNU5hT0hJUEdvZGlwbXNNZmM0QnY5dWlHV0VzeTFqekFiNWdYZDFYOHZKSjdTdGV6clpqSjRvbWduQ1ZNUzdxZHI1MHJQajFTalhvSHV5c1otcnZVZy0xcVdSei0wbWFiSE9fTk55?oc=5",
-      "published_at": "2026-07-16 15:25:00",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wY0JzYW5jSGFZRnEyOTl5Qk9HSGpSVzNHU0hyakwzU2tyVDg4VC1Nd0JMOXo3eE9YajJ6UzhSZ2JrU2szVm1OcXZ4cE1ScWFYak5McWxlSy0zSzBr?oc=5",
+      "published_at": "2026-07-16 23:08:38",
+      "category": "general"
     },
     {
       "title": "Kimi K3: Open Frontier Intelligence",
@@ -128,11 +79,19 @@
       "category": "tech"
     },
     {
-      "title": "Google Kills Custom Search API on Jan 1, 2027",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
       "description": "",
       "source": "Hacker News",
-      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-      "published_at": "2026-07-17T01:03:25Z",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "published_at": "2026-07-17T03:48:26Z",
+      "category": "tech"
+    },
+    {
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "published_at": "2026-07-10T16:31:26Z",
       "category": "tech"
     },
     {
@@ -144,19 +103,11 @@
       "category": "tech"
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
+      "title": "The Human-in-the-Loop Is Tired",
       "description": "",
       "source": "Hacker News",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "published_at": "2026-07-16T20:18:15Z",
-      "category": "tech"
-    },
-    {
-      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "published_at": "2026-07-17T00:45:05Z",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "published_at": "2026-07-17T00:21:09Z",
       "category": "tech"
     },
     {
@@ -166,6 +117,54 @@
       "url": "https://www.mixfont.com/experiments/decoy-font",
       "published_at": "2026-07-16T16:18:21Z",
       "category": "tech"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "published_at": "2026-07-16T20:18:15Z",
+      "category": "tech"
+    },
+    {
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "published_at": "2026-07-17T01:36:52Z",
+      "category": "tech"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "published_at": "2026-07-16T20:03:23Z",
+      "category": "tech"
+    },
+    {
+      "title": "Solod: Go can be a better C",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://solod.dev",
+      "published_at": "2026-07-13T16:38:21Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15277v1",
+      "published_at": "2026-07-16T17:59:31Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
+      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "published_at": "2026-07-16T17:59:06Z",
+      "category": "ai"
     }
   ]
 }
