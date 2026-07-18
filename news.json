@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-07-18T21:43:00Z",
+  "last_updated": "2026-07-18T22:40:10Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News"
+    "Hacker News",
+    "arXiv AI/ML"
   ],
   "articles": [
     {
@@ -135,6 +136,14 @@
       "category": "tech"
     },
     {
+      "title": "Judge a book by its first pages",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://uncovered.ink",
+      "published_at": "2026-07-18T22:02:31Z",
+      "category": "tech"
+    },
+    {
       "title": "Typing Speed Test, but for Developers",
       "description": "",
       "source": "Hacker News",
@@ -151,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
       "description": "",
       "source": "Hacker News",
-      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-      "published_at": "2026-07-13T13:00:35Z",
-      "category": "tech"
-    },
-    {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "published_at": "2026-07-18T16:12:08Z",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "published_at": "2026-07-18T21:45:12Z",
       "category": "tech"
     }
   ]
