@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-18T20:00:02Z",
+  "last_updated": "2026-07-18T20:55:33Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,6 +72,54 @@
       "category": "general"
     },
     {
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan - BBC",
+      "description": "\n\nTwo US troops killed and one missing after Iranian attack in Jordan  BBC\n\nJordan Is Becoming a New Focus in the U.S.-Iran War  The New York Times\n\nTwo US servicemen killed in Iranian strikes on Jord",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hb3lvbVlDRzU4LU5vX1JDd2hNRjBJdnNsYVJQaG5CMGljRjVOOHBrdVF2LXhzRWVtV2pldTRSOUdKa1NiMDhmU3YzbUVSM0RSajFFN2hiQ29WcElr?oc=5",
+      "published_at": "2026-07-18 17:49:39",
+      "category": "world"
+    },
+    {
+      "title": "Ukraine strikes warehouses of ‘Russian Amazon’ in revenge attack - The Telegraph",
+      "description": "\n\nUkraine strikes warehouses of ‘Russian Amazon’ in revenge attack  The Telegraph\n\nRussian online retail warehouses hit by deadly Ukrainian strikes  BBC\n\nWarehouse workers among 8 dead in deadliest Uk",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzhfZXk3T3IyYWRyYmc2Q1htMkxOM3Q3UDc4YXdDckt0YWVuRlRyQlpzY2FGbFFDZlJXTnZpbkNoUlYzLVo2ZlMyaGVwVDVlSkQta0JJTmVNdGtPOFlyT0tNVVpCZTNRdEplOFdIcUd2bFgySEUyUk5kVFNSQWFrU2xTUDlFaVppTU9rc1FiRmw3U1dCbWhUeFA0WVQ0NEtKSVl6dXFUaXI0VzA?oc=5",
+      "published_at": "2026-07-18 12:43:00",
+      "category": "world"
+    },
+    {
+      "title": "Security guard falls from train after being 'pushed against doors in attack' - The Sun",
+      "description": "\nSecurity guard falls from train after being 'pushed against doors in attack'  The SunSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFNHbFphRUlTVGRaY1NqSzRCM1hmakZmRGQ5TGsxOVFtc3pvLW10NjZQaEVTa1pYTDNWYXczY2ZyUTZCOXZ4Um05d3hPbU54UGdaamVldlRLZk1BSi1URnVkQ1BSeHVQSE1XYTk5VHJwMUllbzM4OWdXWkh1TGgycw?oc=5",
+      "published_at": "2026-07-18 11:25:00",
+      "category": "world"
+    },
+    {
+      "title": "Hungary's president agrees to stand down after parliament backs removal - BBC",
+      "description": "\n\nHungary's president agrees to stand down after parliament backs removal  BBC\n\nHungary's president signs law change ending his term in office  Reuters\n\nHungary’s president signs a constitutional amen",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SUDVyd1daOEhIQXVNVE1mZi1yY3Q3cEFnM2hkSW9rRHdQYWM5RjZYdzhmNzZUSURWZjFScjJxRktyN0J5ZE9OLUFxd1VyMU13QnloZnpmU1hQcmJi?oc=5",
+      "published_at": "2026-07-18 17:33:28",
+      "category": "world"
+    },
+    {
+      "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+      "description": "\n\nIran attacks US allies in Middle East as renewed conflict enters second week  The Guardian\n\nUS strikes hit Iran for seventh consecutive night  BBC\n\nTrump’s bridge strikes cut off city that keeps Ira",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
+      "published_at": "2026-07-18 17:52:00",
+      "category": "world"
+    },
+    {
+      "title": "Trump’s China conspiracy is all about the Midterms. Just not in the way you’d think - The Independent",
+      "description": "\n\nTrump’s China conspiracy is all about the Midterms. Just not in the way you’d think  The Independent\n\nWhen Trump accuses others of wrongdoing, you can bet he’s up to something himself | Arwa Mahdawi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQi1KSG1DSEkzNllNV0p5enp4d0hlVGtjYkFwVlFQNjJwSkRyR3kzQU9vbHRTWWRFVWNkZjU0THlXZXowVVgtYW5EcGM5Y3lQb1VSajRXR1pjM1EyVEh1dGYydXN2N2NkaGc0aEhmYUtuWmI3UjVNZjZsc3JUTHFLMmVZWUZWeHZ0Vkhwa1VBUFhRQy10Nlg0RGdSbUFMREpqekFoTTRQcHZfdU1ieWgteTllbVRodktxZDZaRG1XUHc2ZE9nY2NzRw?oc=5",
+      "published_at": "2026-07-18 09:09:00",
+      "category": "world"
+    },
+    {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "description": "",
       "source": "Hacker News",
@@ -79,19 +128,11 @@
       "category": "tech"
     },
     {
-      "title": "The Kimi K3 Moment",
+      "title": "Typing Speed Test, but for Developers",
       "description": "",
       "source": "Hacker News",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "published_at": "2026-07-18T17:32:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "published_at": "2026-07-18T17:27:24Z",
+      "url": "https://haxxorwpm.0s.is/",
+      "published_at": "2026-07-18T19:38:21Z",
       "category": "tech"
     },
     {
@@ -111,11 +152,11 @@
       "category": "tech"
     },
     {
-      "title": "Is this the end of the once-mighty GoPro?",
+      "title": "The Kimi K3 Moment",
       "description": "",
       "source": "Hacker News",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "published_at": "2026-07-15T03:46:35Z",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "published_at": "2026-07-18T17:32:40Z",
       "category": "tech"
     },
     {
@@ -125,46 +166,6 @@
       "url": "https://ykdojo.github.io/claude-controls-mac/",
       "published_at": "2026-07-18T16:12:08Z",
       "category": "tech"
-    },
-    {
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published_at": "2026-07-18T16:02:45Z",
-      "category": "tech"
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "published_at": "2026-07-18T11:00:29Z",
-      "category": "tech"
-    },
-    {
-      "title": "Elixir-lang.org has a new design",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://elixir-lang.org/",
-      "published_at": "2026-07-18T15:32:04Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.15277v1",
-      "published_at": "2026-07-16T17:59:31Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
-      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.15275v1",
-      "published_at": "2026-07-16T17:59:06Z",
-      "category": "ai"
     }
   ]
 }
