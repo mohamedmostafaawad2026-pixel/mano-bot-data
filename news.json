@@ -1,74 +1,73 @@
 {
-  "last_updated": "2026-07-18T20:55:33Z",
+  "last_updated": "2026-07-18T21:43:00Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News",
-    "arXiv AI/ML"
+    "Hacker News"
   ],
   "articles": [
     {
+      "title": "Andy Burnham to scrap digital ID to focus on cost of living - BBC",
+      "description": "\n\nAndy Burnham to scrap digital ID to focus on cost of living  BBC\n\nBurnham to scrap Starmer’s digital ID scheme in ‘reset of priorities’  The Guardian\n\nBurnham scraps new digital ID scheme  Financial",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nUUE4dUZzZ2lSWlQwcEtiNmdrNnNkdl9WWnBmYkE4TG9iZmFqVkNoaHNUMTFiQWdSUWh4NThrTTVnVENjX09VczBWRWtGb3Q4MWQ4YzkxSVpXMnh0?oc=5",
+      "published_at": "2026-07-18 20:02:09",
+      "category": "general"
+    },
+    {
       "title": "Pictured: The man suspected of killing Ann Widdecombe - The Telegraph",
-      "description": "\n\nPictured: The man suspected of killing Ann Widdecombe  The Telegraph\n\nUncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest  BBC\n\nPolice continue to question murder suspect over",
+      "description": "\n\nPictured: The man suspected of killing Ann Widdecombe  The Telegraph\n\nUncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest  BBC\n\nAnn Widdecombe’s death is like a sick dream, da",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHFQQjMwX285Z1NrM3ZYNWFBLVVaNEpIaWxiNmhlVV9mM0h5Z3hHTDNQaUlObjcwWVFjY1FRLXc3dHhXTlRfaWJJNnZDOXhxd01TQlRlVldVNjFhVlJHOXVheWtjdDFscG5PM1JZY1BqMV9UNkFzc05OLXkxcTZHRTVVSkpURnhfN1BRMWlieDhSYUZBamstQUx6LTltbnU3NFI3VUhsdw?oc=5",
       "published_at": "2026-07-18 14:52:00",
       "category": "general"
     },
     {
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes - BBC",
-      "description": "\n\nRussian online retail warehouses hit by deadly Ukrainian strikes  BBC\n\nRussian warehouses and oil depots crippled by Ukraine drone attack  The Independent\n\nWarehouse workers among 8 dead in deadlies",
+      "title": "Two US troops killed and one missing in Jordan after Iranian attacks - The Guardian",
+      "description": "\n\nTwo US troops killed and one missing in Jordan after Iranian attacks  The Guardian\n\nTwo US troops killed and one missing after Iranian attack in Jordan  BBC\n\nIran’s supreme leader in a new statement",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UUzdjUmU0dFhNUVowOEsyV3BaV1UzdFZBYVNLeU9UWWF1MEFXVVJEY2l5OTJNR1pBRU1jc29WNjFhbW84cEg4c19jSC1NWFhHYUQtSU5SdFJITTZ3?oc=5",
-      "published_at": "2026-07-18 10:22:46",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
+      "published_at": "2026-07-18 16:24:00",
+      "category": "general"
+    },
+    {
+      "title": "Andy Burnham latest: New Labour leader plans policy blitz on becoming PM on Monday - The Independent",
+      "description": "\n\nAndy Burnham latest: New Labour leader plans policy blitz on becoming PM on Monday  The Independent\n\nBurnham is 'people pleaser' with 'airy fairy' plans, says Kemi Badenoch  BBC\n\nKemi Badenoch: Andy",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWURrN1pDRnRfZmlNZzlyS1cyYlhjWTlkWmZYUDZlVEVHb0tVOWZHaXVrMWIweXlkR2lXMTMwaG51bktKU3UwZHJMTzZEYzVkSXhVVENGVjZLMWRuZE9aak5lWmJ5UUdyUTdDd1lOM01TTjhoVlhaRmlJQ0hleVlhNmgyQzd1OThsRVJOQnJZWmhfTjRYdHNnNkFpZDNRSDFqaVk1cHBn?oc=5",
+      "published_at": "2026-07-18 20:00:00",
       "category": "general"
     },
     {
       "title": "Andy Burnham’s Vow to Change Labour Already Risks Coming Unstuck - Bloomberg.com",
-      "description": "\n\nAndy Burnham’s Vow to Change Labour Already Risks Coming Unstuck  Bloomberg.com\n\nRuthless plotter or dad dancer? Insiders reveal the real Andy Burnham  BBC\n\nLabour pins hopes on Burnham reboot as he",
+      "description": "\n\nAndy Burnham’s Vow to Change Labour Already Risks Coming Unstuck  Bloomberg.com\n\nRuthless plotter or dad dancer? Insiders reveal the real Andy Burnham  BBC\n\nSix political headaches Andy Burnham must",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXppdklpTnlKbnJGOG1pR2JaWjIwZEt1amFva3ZSZVNtYzc2MTlvVGhtNlhZcmtQYVBCUEpmaUdEQ3VmWWhNcVZJSmo4VjZxTDZuZlRoMGx5RnRQYkxXazR4NVFMUk5LWDM4c3VNOGI3ZFhPb1pMWkpGZFU1dmhpay15YjE5UExtN2RIZ2g2ZUV1ck1wUjhTblpIcDNBaTN6R0VNbVp1RlVLWS1nN0hUdVI3SURWSko5dnc?oc=5",
       "published_at": "2026-07-18 05:00:00",
       "category": "general"
     },
     {
-      "title": "Big Law braces for second fight with Donald Trump over capitulation deals - Financial Times",
-      "description": "\n\nBig Law braces for second fight with Donald Trump over capitulation deals  Financial Times\n\nTrump Administration Subpoenas Law Firms, Escalating Pressure Campaign  The New York Times\n\nThe DOJ’s Bigl",
+      "title": "France XI vs England: Predicted lineup and confirmed team news - London Evening Standard",
+      "description": "\n\nFrance XI vs England: Predicted lineup and confirmed team news  London Evening Standard\n\nWorld Cup 2026: Third-place play-off - an unwanted tie or a match with a 'golden layer'?  BBC\n\nWhy Jude Belli",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUQwMGlHdXluNmM1alVxLUd1R1lMRnRZemN3N0xNd2ZYb0NrTHN2VVYyRng4RFRZNjlqcVlvcUFlTkxrZzNrYzF4cEhad1JyOXdWVmtHX1lYWXRjWF9zSlE2dzBzUXNTaFFSZ0huaU9kYWNKRWFDNk9KUjg0TW9OM21YTnY?oc=5",
-      "published_at": "2026-07-18 12:00:03",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRHhWVFJ3REdSV1JFbFMtMkNLQmgyYWxLTERfOUhmak01X0NVdi01SWxSSmlFSktQX3lralN3dmwyRDltUlFUTWRIdFU5V3pHLTFLSW4zNEtjSnNQa1ZZTHA4Si1iNS0wcmlhYk1jaFlYLWxpZzRaWEhBODFpWWM2TWZSa1pia05JSFBIeTdUMjhwNUxsOGNlRElZcDU3MFpNaXBSVlI3aExWU2RMS1pJeDJVdnVWRHZreGQzWFB5Sm15SXZUVTlINFJhZjB2MnoxNUh0TlhGaHJXMjNsek5tNWlEZy13M1BHYS1yZU5yU0w4a00?oc=5",
+      "published_at": "2026-07-18 18:10:30",
       "category": "general"
     },
     {
-      "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates - The Guardian",
-      "description": "\n\nUS launches seventh night of Iran strikes as Hormuz conflict escalates  The Guardian\n\nUS strikes hit Iran for seventh consecutive night  BBC\n\nIran attacks US allies in Middle East as renewed conflic",
+      "title": "US strikes hit Iran for seventh consecutive night - BBC",
+      "description": "\nUS strikes hit Iran for seventh consecutive night  BBCSee more headlines and perspectives on Google News\n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWdkZ2pNRC02RjFSUVZndnBjejNoY1dUdkI4RXRRdDhvbl9QR1pXRk5TcHBwamltYjhHc3ROeW1ILXk4cldYVjE3Skh1bnRTc0UySWEzRkExNTMtbW82Tm1YaUJXZWQtcWFxUDdQeEprTDFreW9iTVNsMUNmV3BJSmhueXdoYnRJbk5UbVZmbVp5djI1UVhrT3BxSWdOY1NOMmQzc0xWZUo3RnJyWkJoSDN3a3pUbUE?oc=5",
-      "published_at": "2026-07-17 20:52:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42YWZjdEM4OUZMNEs3N3pRaFI5OFRwdFBjcGI4MU1WRmNzd2M0ckFvNk5idVZyNU1TcjJhWmpFQ0VnV09jVTRNSXEyXzk0MWUxb1BxZ05fcnc3MGJX?oc=5",
+      "published_at": "2026-07-18 01:16:11",
       "category": "general"
     },
     {
-      "title": "Burnham is 'people pleaser' with 'airy fairy' plans, says Kemi Badenoch - BBC",
-      "description": "\nBurnham is 'people pleaser' with 'airy fairy' plans, says Kemi Badenoch  BBC",
+      "title": "Arsenal given Morgan Rogers transfer warning as huge fee mooted - talkSPORT",
+      "description": "\n\nArsenal given Morgan Rogers transfer warning as huge fee mooted  talkSPORT\n\nChelsea have had a £117m bid accepted by Aston Villa for Morgan Rogers.  Sky Sports\n\nFootball gossip: Rogers, Salah, Willi",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ObmpVeHVxbkVyVElkN1c1cXdPWUQ4aUIxbTRqXzB4ZWJYQWpHMmNVbi0ydk1JM0x1WDdVYUZhNHdyVkQzYUNEVGtiVElIdkNaSjQtcFc3TGhLalZT?oc=5",
-      "published_at": "2026-07-18 15:01:33",
-      "category": "general"
-    },
-    {
-      "title": "London Diamond League results: Josh Kerr smashes men's mile world record - BBC",
-      "description": "\n\nLondon Diamond League results: Josh Kerr smashes men's mile world record  BBC\n\nWatch London Diamond League: Kerr smashes mile world record & Hodgkinson wins 800m - interviews & analysis  BBC\n\nJosh K",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdl9FQ3Utb3RjcmRET2pUYzlmYm1MR2NsVkJiamxRZDM0TFRvWVR3SmszcXdNWlRmS3JxMWVTa3g0OFZmM1RWSzBkX2YyNWxmbWpYVW9VMmNFSWxwOFZSUVM3TWdxelhC?oc=5",
-      "published_at": "2026-07-18 14:48:16",
-      "category": "general"
-    },
-    {
-      "title": "Six political headaches Andy Burnham must tackle in his first weeks as PM - The Guardian",
-      "description": "\n\nSix political headaches Andy Burnham must tackle in his first weeks as PM  The Guardian\n\nDear Prime Minister, here are nine ways to boost growth while being properly Labour  The Telegraph\n\n'Spending",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmZvQjhDcTQwTFZMNEpja1h2N21hUThkRXBqeDJleHpkTTRkU0REbEFKMFlHV2d6Si13MmZiZmp1RnNZbllsSmNnc00zVnB6dE5MNVhFZ1ZhazhubW01b2pFZWZwc0lRUjZuTHZoTGd4UWxLVnZvLWRPY3pneUU2Y2t6a3NPY3NlTU1sQVpFVDhLU3dzNzU5YzBORXlSRnY4emc?oc=5",
-      "published_at": "2026-07-18 07:00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTYwSmE2SUN5NUNOdDJHQVFpSm1leHo4OTdhOVB4Vnd4TUVyM0dhdTV0cmR0V0k4ajNLR3NjRThBZzlaTU8yRTBsWlVSa3FJQy1PYXZUZ3NrNXNncEN0Y0FZT2hUZTJPRmluenZnTHVUcWJjTU56d2dCT0E3blhMV1FXcUM?oc=5",
+      "published_at": "2026-07-18 17:34:52",
       "category": "general"
     },
     {
@@ -120,6 +119,14 @@
       "category": "world"
     },
     {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "published_at": "2026-07-14T19:25:10Z",
+      "category": "tech"
+    },
+    {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "description": "",
       "source": "Hacker News",
@@ -136,14 +143,6 @@
       "category": "tech"
     },
     {
-      "title": "Gleam Is Now on Tangled",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "published_at": "2026-07-18T15:44:04Z",
-      "category": "tech"
-    },
-    {
       "title": "If You Build It, They Will Come",
       "description": "",
       "source": "Hacker News",
@@ -152,11 +151,11 @@
       "category": "tech"
     },
     {
-      "title": "The Kimi K3 Moment",
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
       "description": "",
       "source": "Hacker News",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "published_at": "2026-07-18T17:32:40Z",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "published_at": "2026-07-13T13:00:35Z",
       "category": "tech"
     },
     {
