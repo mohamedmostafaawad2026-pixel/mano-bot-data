@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T01:46:13Z",
+  "last_updated": "2026-07-18T04:41:51Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,27 +120,19 @@
       "category": "tech"
     },
     {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "published_at": "2026-07-14T14:02:36Z",
+      "category": "tech"
+    },
+    {
       "title": "The Zilog Z80 has turned 50",
       "description": "",
       "source": "Hacker News",
       "url": "https://goliath32.com/blog/z80.html",
       "published_at": "2026-07-17T19:41:02Z",
-      "category": "tech"
-    },
-    {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "published_at": "2026-07-17T23:26:35Z",
-      "category": "tech"
-    },
-    {
-      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://prathosh.in/vagdhenu/",
-      "published_at": "2026-07-13T17:43:26Z",
       "category": "tech"
     },
     {
@@ -152,11 +144,19 @@
       "category": "tech"
     },
     {
-      "title": "Learning a few things about running SQLite",
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
       "description": "",
       "source": "Hacker News",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "published_at": "2026-07-17T17:45:41Z",
+      "url": "https://moonstone.sh/",
+      "published_at": "2026-07-18T01:18:15Z",
+      "category": "tech"
+    },
+    {
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "published_at": "2026-07-17T21:42:43Z",
       "category": "tech"
     },
     {
