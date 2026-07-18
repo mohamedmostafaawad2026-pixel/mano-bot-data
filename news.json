@@ -1,35 +1,42 @@
 {
-  "last_updated": "2026-07-18T04:41:51Z",
+  "last_updated": "2026-07-18T06:55:13Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Andy Burnham’s long general election campaign starts now - politico.eu",
-      "description": "\n\nAndy Burnham’s long general election campaign starts now  politico.eu\n\nBurnham says he is 'finalising' cabinet ahead of becoming PM on Monday  BBC\n\nBurnham finalising plans for government before bec",
+      "title": "Trump’s bridge strikes cut off city that keeps Iran alive - The Telegraph",
+      "description": "\n\nTrump’s bridge strikes cut off city that keeps Iran alive  The Telegraph\n\nUS strikes hit Iran for seventh consecutive night  BBC\n\nIran war live: Kuwait, Bahrain and Jordan under attack from Iran  Al",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUE5VWYwT3RWLU1QQWRJWk54R1MzMkNPTHVaWHNwdkJpYXZiSzJkZjJrNXpuRWhIcGtVcmRWMnJBTjJXV2h0eHlTMFdJTnpyekVjT2VJTkxISEZ4SlVDdFNkeF9wR2ptR3dPcmk4eVRWUW5NUXhadV9RWVZEWkhDUEgzTDdYR2FKTjFjMXMxdE0yQQ?oc=5",
-      "published_at": "2026-07-17 14:19:00",
-      "category": "general"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlhmaFphYmI2RENsWEZ0a1VPUVh1QWFRajBKNGZRZTNsSG1ydnRORUxSV05lbjdBdV9xeVViaHRxY0I4SFlyaGYzdW43d2wtTmw1aTd4V0VPWTRERGFZYXpLT2tDV2hfR2FTUl9ZQXo1ZEFFektTVUw5aXFaRlZYdDBkNHNGMFlpNlB3bmNOcw?oc=5",
+      "published_at": "2026-07-18 05:00:00",
+      "category": "world"
     },
     {
-      "title": "Ann Widdecombe was my dad’s best friend and her death is like a sick dream, daughter of murdered MP says - The Independent",
-      "description": "\n\nAnn Widdecombe was my dad’s best friend and her death is like a sick dream, daughter of murdered MP says  The Independent\n\nUncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest ",
+      "title": "Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke - Financial Times",
+      "description": "\n\nDonald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke  Financial Times\n\nTrump threatens new Canada tariffs over fires sending 'filthy' air into US cities  BBC\n\nTrump warns he’",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkdwb2N1UllrWUZlcm9NdFlmcXh2VGNkdVNrOTd0ZHVoY1hfYXh1dXczTGE3elBnb01uT1JZRjlublV5YTdscTM5VkNrWmR6R0gyYlN0VnhqTWUyVVJ0OXFZcExjNHlKNWI4b0hZazgyS05aeUtXN1lDQmF3dHJSM3N1Nmo0UUxYbDZQZ2FDMVR2cWtzU0RCckJYQjFHejNE?oc=5",
-      "published_at": "2026-07-17 07:44:00",
-      "category": "general"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5",
+      "published_at": "2026-07-17 20:56:10",
+      "category": "world"
     },
     {
-      "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates - The Guardian",
-      "description": "\n\nUS launches seventh night of Iran strikes as Hormuz conflict escalates  The Guardian\n\nUS denies Iranian claims it hit civilian infrastructure in latest strikes  BBC\n\nUS launches seventh straight nig",
+      "title": "Huge landslide smashes into houses & traps people beneath as rescue op launched - The Sun",
+      "description": "\n\nHuge landslide smashes into houses & traps people beneath as rescue op launched  The Sun\n\nLandslide kills eight in southwest China's Chongqing, 34 still missing  Reuters\n\nLandslide in China's Chongq",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWdkZ2pNRC02RjFSUVZndnBjejNoY1dUdkI4RXRRdDhvbl9QR1pXRk5TcHBwamltYjhHc3ROeW1ILXk4cldYVjE3Skh1bnRTc0UySWEzRkExNTMtbW82Tm1YaUJXZWQtcWFxUDdQeEprTDFreW9iTVNsMUNmV3BJSmhueXdoYnRJbk5UbVZmbVp5djI1UVhrT3BxSWdOY1NOMmQzc0xWZUo3RnJyWkJoSDN3a3pUbUE?oc=5",
-      "published_at": "2026-07-17 22:35:00",
-      "category": "general"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFRwY1VBM1hSTk9QcDd4WlI1bllTSWdSczZOZmxNRmRLSXJMc3FIdDdxbUx2eWRRSERNenZ0elM3YUs0MExDWmxWdHVyb19oN3dLMGxOb2s0UDk5RmtkY1pYTHJJZ2F4ZGtrdlNzOTE0RFRaUzJGeU44Qk1UN24xTFkwX01oaGpzVW9nWHVB?oc=5",
+      "published_at": "2026-07-17 06:24:00",
+      "category": "world"
+    },
+    {
+      "title": "Airline passenger, 29, 'invokes Sharia law' to avoid sitting next to a woman before ‘punching stewardess in the face’ - The Sun",
+      "description": "\n\nAirline passenger, 29, 'invokes Sharia law' to avoid sitting next to a woman before ‘punching stewardess in the face’  The Sun\n\nMuslim passenger 'invokes Sharia law' to avoid sitting next to a woman",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPODd6LTVRUVJuZENmSVQ1THMzRVAtb0dBNXE2ZDZuSzloREZxcklDY2NyREFnNXh5Xzg5V0Y4dW1wVU83NEZpdHV1TlRXM2gwWXZKWDVLOU9oOS0xLXIzRXFIN0VaM3laanBYSXJ0YVlZV2NDMlRGYjJfMVl5bXlLV2Y1S1Y5ODk4ejB3QkllU1A?oc=5",
+      "published_at": "2026-07-17 17:34:00",
+      "category": "world"
     },
     {
       "title": "EU proposes slowing down cuts to carbon emissions for businesses - BBC",
@@ -37,62 +44,14 @@
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Xc3NQSzg2cUxoSEFGMENHU3IyUkREcU9FbFQwU1d3NlVHc05MWkFXTS1TY3V6Z280bkNSM0ZKa29QNkRIVEJ6MGlYWkROSE0wSzhZRm9LQ0cyN1dI?oc=5",
       "published_at": "2026-07-17 17:52:06",
-      "category": "general"
+      "category": "world"
     },
     {
       "title": "Trump raises doubts about election interference ahead of US midterms - ITVX",
-      "description": "\n\nTrump raises doubts about election interference ahead of US midterms  ITVX\n\nTrump alleges China meddled in 2020 election and questions voting security ahead of midterms  BBC\n\n‘Scared s--tless’: Repu",
+      "description": "\n\nTrump raises doubts about election interference ahead of US midterms  ITVX\n\nDo declassified files support Trump's election security claims?  BBC\n\nTrump speech lays groundwork for him to tamper with ",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEVCSXh1MDBtLWZTZWlsYjBlZmhXLVNWLXpSTXVkU1dNZl9vZW5oTkZub1hoNlR1TmUwRndSYUQ3Q3Z0bzlWVEtOWmwzOFV3LVJiVFl0dXF4b250ODhSTG1ycWtpbE9vSnBmQ3dsRVdPRVJVa0oyNExXazd1eG0wZExfQy1ZMHMyelJjeUJ5ZmVFUXhyQmxDdTVwZnRpYUdENmhJMUkzOA?oc=5",
       "published_at": "2026-07-17 18:57:43",
-      "category": "general"
-    },
-    {
-      "title": "Rayner lined up as Burnham’s health secretary - The Telegraph",
-      "description": "\nRayner lined up as Burnham’s health secretary  The TelegraphSee more headlines and perspectives on Google News\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnBTOHhwbzBrVk1HLXozeWlvemRJckpFNGhMcHZIMkFPVnd6SnAwSzFTME5wd1VOY0ZzUjVsTGpUVUNpdWxyV0lkTzdYTzN6SWRkSWdfN0xBaXpBS213N0NlZjlKWS01RTQ5Y1JpXy1CRlBvczcxY3dOT2JmT2RVUEozckhuVXhWOElQanhtdWdFNmdRdURuUA?oc=5",
-      "published_at": "2026-07-17 17:41:00",
-      "category": "general"
-    },
-    {
-      "title": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says - BBC",
-      "description": "\n\nBayeux Tapestry in 'wonderful state' after journey to London, French minister says  BBC\n\nA new entente? Bayeux tapestry’s UK arrival ‘closes loop’ on Brexit tensions  The Guardian\n\nGeorge Osborne on",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUzFSMHdtM0hHYTVNY1cxcndKYTRXR0dkYmtES1h4Z2l3aGNLcHlDa2oyV1pIWXZyYmNRNFdFb1dhdFdKM1J2VUUxSWdiYV9aOThXVkJ3YjcwdDlG?oc=5",
-      "published_at": "2026-07-17 17:07:24",
-      "category": "general"
-    },
-    {
-      "title": "Donald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke - Financial Times",
-      "description": "\n\nDonald Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke  Financial Times\n\nTrump says US being 'invaded by filthy air' as he threatens Canada with tariffs over wildfires  BBC\n\nTr",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm53V3Vqc1VDOHkxRWpxSURHVEVEd1lvWFRXZmk5U2Z1b1ZSWjVaWG1GTmloSnVxc1NFcHRBZUhvUFg0dFlSamFyZEt1VENGWC1PVmZIQ0d0TkR4ZlVzeW45SjBSdWRBMWhob3F4dG5tdFVOXzJneDBFWnpfM0wtek00RzE?oc=5",
-      "published_at": "2026-07-17 20:56:10",
-      "category": "general"
-    },
-    {
-      "title": "Do declassified files support Trump's election security claims? - BBC",
-      "description": "\n\nDo declassified files support Trump's election security claims?  BBC\n\nTrump alleges China meddled in 2020 election and questions voting security ahead of midterms  BBC\n\n‘Scared s--tless’: Republican",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92UG00R2xmWlprc3lIUVhQT1V4Qlg1ZnN3UExIdUNmUjMzVFpVNk5nM0R1M2FpMlQ3b0xUWjNtVGUtWXVMR1YyVmVYcC1TeTJkWk1zSk00M2dNdllT?oc=5",
-      "published_at": "2026-07-17 18:11:14",
-      "category": "world"
-    },
-    {
-      "title": "Ukrainian soldiers criticise removal of popular defence minister - BBC",
-      "description": "\n\nUkrainian soldiers criticise removal of popular defence minister  BBC\n\nDismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy  The Guardian\n\nUkraine’s rift over battlefield st",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kX2hfZVRVZEFaVWhVTEtQU3BqYzBGbTFjdC1mTDgySjNZemlXZ2pPSno3UkRJQW5IeERSbE04b1lkV0VRUzFwODNWMmozYzJyUkdkOENCU3NrOWlh?oc=5",
-      "published_at": "2026-07-17 19:04:09",
-      "category": "world"
-    },
-    {
-      "title": "One anti-war critic fined, another held as Russia clamps down on opponents - BBC",
-      "description": "\n\nOne anti-war critic fined, another held as Russia clamps down on opponents  BBC\n\nPro-Kremlin blogger who turned on Putin is arrested as Russia steps up crackdown  NBC News\n\nA Russian Political Battl",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15V0dBQzZLM1pXc1RHcDA2NkIwdmE1aDQ5cHBPSlBwYXRUcGZzQXhIWEFPQ0xOOHcyTThiLTNwOXBfQjE5ZTQyWUYzY3ItanVDaVhHak9vYkVJYUV1?oc=5",
-      "published_at": "2026-07-17 20:00:54",
       "category": "world"
     },
     {
@@ -101,6 +60,22 @@
       "source": "Hacker News",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "published_at": "2026-07-17T22:26:30Z",
+      "category": "tech"
+    },
+    {
+      "title": "Regressive JPEGs",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "published_at": "2026-07-18T03:14:20Z",
+      "category": "tech"
+    },
+    {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "published_at": "2026-07-14T14:02:36Z",
       "category": "tech"
     },
     {
@@ -120,11 +95,11 @@
       "category": "tech"
     },
     {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "description": "",
       "source": "Hacker News",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "published_at": "2026-07-14T14:02:36Z",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "published_at": "2026-07-17T14:06:13Z",
       "category": "tech"
     },
     {
@@ -133,14 +108,6 @@
       "source": "Hacker News",
       "url": "https://goliath32.com/blog/z80.html",
       "published_at": "2026-07-17T19:41:02Z",
-      "category": "tech"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "published_at": "2026-07-17T14:06:13Z",
       "category": "tech"
     },
     {
@@ -166,6 +133,38 @@
       "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
       "published_at": "2026-07-18T01:12:13Z",
       "category": "tech"
+    },
+    {
+      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15277v1",
+      "published_at": "2026-07-16T17:59:31Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
+      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "published_at": "2026-07-16T17:59:06Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "description": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15273v1",
+      "published_at": "2026-07-16T17:59:02Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+      "description": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manus",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15272v1",
+      "published_at": "2026-07-16T17:58:36Z",
+      "category": "ai"
     }
   ]
 }
