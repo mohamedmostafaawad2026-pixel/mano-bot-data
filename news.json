@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-07-18T14:18:30Z",
+  "last_updated": "2026-07-18T15:46:39Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News"
+    "Hacker News",
+    "arXiv AI/ML"
   ],
   "articles": [
     {
@@ -111,19 +112,27 @@
       "category": "tech"
     },
     {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "published_at": "2026-07-18T10:21:19Z",
-      "category": "tech"
-    },
-    {
       "title": "Is this the end of the once-mighty GoPro?",
       "description": "",
       "source": "Hacker News",
       "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
       "published_at": "2026-07-15T03:46:35Z",
+      "category": "tech"
+    },
+    {
+      "title": "Tech note: making your own V-I plots at home",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+      "published_at": "2026-07-17T20:10:02Z",
+      "category": "tech"
+    },
+    {
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "published_at": "2026-07-18T10:21:19Z",
       "category": "tech"
     },
     {
@@ -135,11 +144,19 @@
       "category": "tech"
     },
     {
-      "title": "The Computer at the Bottom of a Canal",
+      "title": "What AI did to stackoverflow in a graph",
       "description": "",
       "source": "Hacker News",
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "published_at": "2026-07-18T08:33:31Z",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "published_at": "2026-07-18T11:12:46Z",
+      "category": "tech"
+    },
+    {
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "published_at": "2026-07-18T14:04:42Z",
       "category": "tech"
     },
     {
@@ -148,22 +165,6 @@
       "source": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=48945241",
       "published_at": "2026-07-17T09:42:05Z",
-      "category": "tech"
-    },
-    {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "published_at": "2026-07-14T14:02:36Z",
-      "category": "tech"
-    },
-    {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "published_at": "2026-07-17T16:57:27Z",
       "category": "tech"
     }
   ]
