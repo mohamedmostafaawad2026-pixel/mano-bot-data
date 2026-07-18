@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T16:46:30Z",
+  "last_updated": "2026-07-18T17:50:08Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -144,11 +144,11 @@
       "category": "tech"
     },
     {
-      "title": "Heresy",
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
       "description": "",
       "source": "Hacker News",
-      "url": "https://paulgraham.com/heresy.html",
-      "published_at": "2026-07-18T16:31:42Z",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_at": "2026-07-18T16:02:45Z",
       "category": "tech"
     },
     {
