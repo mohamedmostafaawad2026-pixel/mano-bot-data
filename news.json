@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T17:50:08Z",
+  "last_updated": "2026-07-18T18:51:46Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,11 +112,27 @@
       "category": "world"
     },
     {
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "published_at": "2026-07-18T17:27:24Z",
+      "category": "tech"
+    },
+    {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "description": "",
       "source": "Hacker News",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "published_at": "2026-07-18T13:00:52Z",
+      "category": "tech"
+    },
+    {
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://reotrucks.com",
+      "published_at": "2026-07-18T18:13:05Z",
       "category": "tech"
     },
     {
@@ -128,19 +144,11 @@
       "category": "tech"
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "title": "If You Build It, They Will Come",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "published_at": "2026-07-18T16:12:08Z",
-      "category": "tech"
-    },
-    {
-      "title": "Elixir-lang.org has a new design",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://elixir-lang.org/",
-      "published_at": "2026-07-18T15:32:04Z",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "published_at": "2026-07-18T15:37:01Z",
       "category": "tech"
     },
     {
@@ -152,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "Is this the end of the once-mighty GoPro?",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "description": "",
       "source": "Hacker News",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "published_at": "2026-07-15T03:46:35Z",
-      "category": "tech"
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "published_at": "2026-07-18T11:00:29Z",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "published_at": "2026-07-18T16:12:08Z",
       "category": "tech"
     }
   ]
