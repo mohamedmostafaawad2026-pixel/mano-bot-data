@@ -1,91 +1,74 @@
 {
-  "last_updated": "2026-07-18T12:56:19Z",
+  "last_updated": "2026-07-18T14:18:30Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News",
-    "arXiv AI/ML"
+    "Hacker News"
   ],
   "articles": [
     {
-      "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say - PBS",
-      "description": "\n\nTrump says these documents prove his false claims of election fraud. Here's what they really say  PBS\n\nFour takeaways from Trump’s prime-time address  The Washington Post\n\nTrump’s election security ",
+      "title": "Will Andy Burnham spark an exodus of London’s middle classes? - London Evening Standard",
+      "description": "\n\nWill Andy Burnham spark an exodus of London’s middle classes?  London Evening Standard\n\nPolitics latest: Burnham 'finalising' cabinet as he prepares to become prime minister  Sky News\n\nBurnham’s pro",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWS10TzZ6XzJPYkR5T1ptZlMycmloOUMwZl9aRldQekNKOEgtb1FBaGVRVUJoWWE4X3phY01TdmtuU2Y3ZEZ5SGVFbWdYN1VPN3ZwcE9aMzdDUFhUVHJyQzJVT3NvVnpkanJ4QlpHbTAzUERPZzhpaTA0SktWR1hSOGNZZnBBRWd5dmp2MmpmYkNNcXdvMkh0aGZvRDMzZFJoaWpLSmhtcFRnRzIxbGpELTdPWm5ZUUZnYmh1VGJ0SlFhSFhjV0VPVnc1NnTSAdIBQVVfeXFMTUJrb2lzM1NPS2YtVzRJZ2UyVll3OXUxeXZ2X0RwVl9vS256UUh4bDIxSk5fQ0VJOFlCbngxV01Cd2g0YkhJbDBxWi1Ldm9iVThONXBObDNIWnNpUVVHRUZ6Q0FaQVdueDcySnBXeU1mRDA2cnl6eVNfZ2NPVDFaS1Zic05NTWFpSWZnQjRhR3NiLUlDMmZaZks4bkdfUjlhZTRWVjd1SFJPczFpOUdkVWl2UElTbkltc1J1eXBxSEgtYUpWX2IyRWJXeFpLX0tvaThR?oc=5",
-      "published_at": "2026-07-17 23:08:36",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEstS01ZTzFCSWNRTzk2Zm5vYXR0b1U4SDBjR3oyVk5PNnVJV2NjSGlDYmxRSTh1eFIwbmJUWUdvYTJhd3pONVNmMWY1QmI4Zm5rQ1lRQkhQYjlVdXVwdExUcHNleW00QnR3OUNkcDMtYS10czVVWGRsT2x6QWJVTmRxTkVtTTNNMGZic2wxQko?oc=5",
+      "published_at": "2026-07-18 10:58:36",
       "category": "general"
     },
     {
-      "title": "US launches seventh straight night of strikes on Iran - Al Jazeera",
-      "description": "\n\nUS launches seventh straight night of strikes on Iran  Al Jazeera\n\nU.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping  CNBC\n\nThat sinking",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes - BBC",
+      "description": "\n\nRussian online retail warehouses hit by deadly Ukrainian strikes  BBC\n\nWarehouse workers among 8 dead in deadliest Ukrainian attacks inside Russia for two years  CNN\n\nUkraine strikes warehouses of ‘",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3F0Tk5uODljNVJMbFh5OS12WlAzeEE4VTBJRFd1NzU4UDNDVTlNUzBNNnBTaXFOODZYN1phZ2JyZ3FEVE5udkJka3ZILVFSQ3hab094dmhOUnJmdC0xUnhJWjJSaG4yZ0R6VFJTTUpKd2ZfY1dsSlRDeC04WEFpZXVad0V6SEp0QnQ3TlhtbkVSckdYNmd1YzdB0gGfAUFVX3lxTFAxbFdvUUcwd3BSUWNsak5VYlN2SmxHYU5yYmlGOVUzbm0ybzlPczhobE1NMDJDSFNkdU1Da1V2VHNaZDZVajFtY0FDcDdtVF9sc05CdzEwdW1zVnc4T2o0c1EyQjdKWnN3YXNhendhdGhXX2xwYnRMUEtZamNPS1dUTVVnUWlPQ1hGWmQ3RTJ0Qm14U0ozd3J4S1ViSmN2Zw?oc=5",
-      "published_at": "2026-07-18 06:26:42",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UUzdjUmU0dFhNUVowOEsyV3BaV1UzdFZBYVNLeU9UWWF1MEFXVVJEY2l5OTJNR1pBRU1jc29WNjFhbW84cEg4c19jSC1NWFhHYUQtSU5SdFJITTZ3?oc=5",
+      "published_at": "2026-07-18 10:22:46",
       "category": "general"
     },
     {
-      "title": "Wildfire smoke will linger and spread this weekend. See which cities are most affected. - The Washington Post",
-      "description": "\n\nWildfire smoke will linger and spread this weekend. See which cities are most affected.  The Washington Post\n\nWildfire smoke is driving terrible air quality in major cities, but relief is coming  CN",
+      "title": "Six political headaches Andy Burnham must tackle in his first weeks as PM - The Guardian",
+      "description": "\n\nSix political headaches Andy Burnham must tackle in his first weeks as PM  The Guardian\n\nFrom car tax to Chagos, nine ways to boost growth without spending cuts  The Telegraph\n\n'Spending warning to ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRzJWQWlmLVIwLXZxcWpvMmZ3dmZYNnRYYk9iTHhXcThsWDcxVEFSR0EwS2NGTXJuWFI3enVhME45bllTSUdkZ3BSNWFfZzNsWEV2VURkWGNwLWt3NG1fOWF2TWRtOThYSDFXbEczZDN6b3JoamVuOFRZYTRpRjZEWG1NMHQ0SXllMEdUR0lndHU1MWxVT1hvYWxnVVNMUmczeGdkZ0dpNjV1T0phYjZydmx0UU5oUDVMZTBjLUpkbl9xdw?oc=5",
-      "published_at": "2026-07-18 05:25:46",
-      "category": "general"
-    },
-    {
-      "title": "Time enough at last: What's next after the House passes bill to do away with Daylight Saving Time? - Fox News",
-      "description": "\n\nTime enough at last: What's next after the House passes bill to do away with Daylight Saving Time?  Fox News\n\nWhy Orthodox Jews are opposing the new daylight saving bill in Congress  NPR\n\nAmerica tr",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWVRZF93VFJhQ2tYOXdDbUJkVncxVTIxRTJmOEFCcGtpMXpySFExNGhvNVZBeGtCN1ZDejJUdFF4MEJKN19GREQ5SzU4cF9OSU5mNXBXNUdveFFOMGY3NG0yV0ZjTGxUczFYYk1FM0cxMERobmEtZUhLZDJXdTVqSHdHSlAxY1lHSEtYY0JuLUVGUzlCdzgwSi1YNmhvR3MtYmhkX0FseS1icWppLWlScnBvSdIBuAFBVV95cUxObTlaVXJqa0l4a0otc25RNnpWc3ZoMUJtT2gyb185QXJGczZFbTVYc2poUG1rRkViVEZSRXJCb3FUZk42U01McHNDaDZlWGlmMXQyT29Ob3VzempTVDk2WlhKLWd5UXBWdmwxSG5WMFBfVGo5Tk5BUUpyNU1tZjhJdWp1N3dmUlNfcXJEd3hLWnByQkZPbVpuSS1xcktZRHlWTThEZ0pBNWZtaVRmbzQ3X3Y2aU5NZG15?oc=5",
-      "published_at": "2026-07-17 23:36:19",
-      "category": "general"
-    },
-    {
-      "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states - CBS News",
-      "description": "\n\nWhat to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states  CBS News\n\nTrump DHS using unverified figures to attack election officials on non-citize",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc3phZzRmY3lHLU5vZmFRNFNpSVE2LU5NNXh6MXFlOEpNYkhGWWtzaXZ4SUtQcmdjLVhwVlcyTnhmaHRiOEVrcFZWcHRaal8zRkN4d2tmNXNlRXFraTQ4Q3RRa3pNbURSbEthZ1V5LUNzUzd4aUNEbTliWmJPOUstaUhUalB5aXlSNVc3ajV0SzVORUhrN2lmOTdnNlM5OGhHNDNPeGVuNFZ2dWhIS1FFYTZacHBqcGp5czltX0Z3UkdBWFU?oc=5",
-      "published_at": "2026-07-18 01:48:03",
-      "category": "general"
-    },
-    {
-      "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies - NPR",
-      "description": "\n\nEx-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies  NPR\n\nDemocrats call for investigation into ICE officer shooting in Maine after new reports emerge  The Guardian",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2RMLUxoTTZEcnhNR0Vyc0oxQlh3VExwalVJVVQtQjN0R2tnZ25wa3I5Z3ZDSXUzblE5N19hMmxqWjhObUZmQzJfaFhwZzRsQ0dScUJ3RkQxc0w5NmlRN2VONVRTRDRwbDdKOURMUUhBM2plSGZ0cHVtN0ZvRTFmRA?oc=5",
-      "published_at": "2026-07-17 22:36:02",
-      "category": "general"
-    },
-    {
-      "title": "Republicans threaten Canada with sanctions over drifting wildfire smoke - The Guardian",
-      "description": "\n\nRepublicans threaten Canada with sanctions over drifting wildfire smoke  The Guardian\n\nTrump threatens new Canada tariffs over fires sending 'filthy' air into US cities  BBC\n\nOntario buying new airc",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ3VRWGhOa3YycFNPbExIN3dvVUNVdnBMTnBPdzl0cWtGNXozTDZwSGJFaHdCaXR3VVdLcDJwQ2hXODg0bWtyYmUtNEZxOUJBOHJHU3hFSUxJRnVreE9wa0tmQ2ROX0pNN1l3eGRiM2RRaU1qZmhuNGRLM0d0T0Rnc0N6SlM2SlYzMlNORDE4d2tFTnJFdlE?oc=5",
-      "published_at": "2026-07-18 03:45:00",
-      "category": "general"
-    },
-    {
-      "title": "Milwaukee County Executive David Crowley rejoins governor's race - WISN",
-      "description": "\n\nMilwaukee County Executive David Crowley rejoins governor's race  WISN\n\nSara Rodriguez, Lieutenant Governor, Quits Wisconsin Governor’s Race  The New York Times\n\nSara Rodriguez suspends Wisconsin go",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXkyQnh4eFlaN3lMWlpjWURHVWtvVVpGMXB1WkdCZEoyOU93ZVUwMXRSY3VYU1JEMDBVcy0tbHVvUkx3RzdleVNtV2tfUkxsZFgwYlVKcUJubTNfcGVkY2ZINHk0N1ppNDRVenJGbC1hd1U5NXBiR2tiRjVuYW1kbVNGNzIzOUtEVHV5cHlHMmZJWjRiSXFTZmpXZWpCSXg5dlVxYlQ2LU1zNXJsS1E?oc=5",
-      "published_at": "2026-07-18 03:14:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmZvQjhDcTQwTFZMNEpja1h2N21hUThkRXBqeDJleHpkTTRkU0REbEFKMFlHV2d6Si13MmZiZmp1RnNZbllsSmNnc00zVnB6dE5MNVhFZ1ZhazhubW01b2pFZWZwc0lRUjZuTHZoTGd4UWxLVnZvLWRPY3pneUU2Y2t6a3NPY3NlTU1sQVpFVDhLU3dzNzU5YzBORXlSRnY4emc?oc=5",
+      "published_at": "2026-07-18 07:00:00",
       "category": "general"
     },
     {
       "title": "US strikes Iran for seventh consecutive night as Hormuz conflict escalates - ITVX",
-      "description": "\n\nUS strikes Iran for seventh consecutive night as Hormuz conflict escalates  ITVX\n\nUS strikes hit Iran for seventh consecutive night  BBC\n\nUS launches seventh night of Iran strikes as Hormuz conflict",
+      "description": "\n\nUS strikes Iran for seventh consecutive night as Hormuz conflict escalates  ITVX\n\nUS strikes hit Iran for seventh consecutive night  BBC\n\nIran war live: 50 killed, 500 wounded in US attacks this mon",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDVIVGlBNUFXaFpvLXcxYUN2R0xxdUtiZE9VQ3NyRVRkWVlUdkZrWjdrR0VoS3dHTFFYc2tjWDM2d3RHMklsbVp4VXpzaDdWUUlZX1hoNmFVSUJDXzJLU0YyU0pZVW01SnVReFF2S0N5b2J5WW1tLTEyaW9aYzZoVGxYMElmanJ5czBrR0trUF9OVEhWa29sajBES0dfTHR0c1Jn?oc=5",
       "published_at": "2026-07-18 10:22:05",
-      "category": "world"
+      "category": "general"
     },
     {
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes - BBC",
-      "description": "\n\nRussian online retail warehouses hit by deadly Ukrainian strikes  BBC\n\nUkraine strikes warehouses of ‘Russian Amazon’ in revenge attack  The Telegraph\n\nEight warehouse workers killed in deadliest Uk",
+      "title": "Ann Widdecombe was my dad’s best friend and her death is like a sick dream, daughter of murdered MP says - The Independent",
+      "description": "\n\nAnn Widdecombe was my dad’s best friend and her death is like a sick dream, daughter of murdered MP says  The Independent\n\nUncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UUzdjUmU0dFhNUVowOEsyV3BaV1UzdFZBYVNLeU9UWWF1MEFXVVJEY2l5OTJNR1pBRU1jc29WNjFhbW84cEg4c19jSC1NWFhHYUQtSU5SdFJITTZ3?oc=5",
-      "published_at": "2026-07-18 10:22:46",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkdwb2N1UllrWUZlcm9NdFlmcXh2VGNkdVNrOTd0ZHVoY1hfYXh1dXczTGE3elBnb01uT1JZRjlublV5YTdscTM5VkNrWmR6R0gyYlN0VnhqTWUyVVJ0OXFZcExjNHlKNWI4b0hZazgyS05aeUtXN1lDQmF3dHJSM3N1Nmo0UUxYbDZQZ2FDMVR2cWtzU0RCckJYQjFHejNE?oc=5",
+      "published_at": "2026-07-17 07:44:00",
+      "category": "general"
+    },
+    {
+      "title": "‘I wouldn’t pi** off Miliband’: Labour already at war over Burnham’s chancellor - The i Paper",
+      "description": "\n\n‘I wouldn’t pi** off Miliband’: Labour already at war over Burnham’s chancellor  The i Paper\n\nAndy Burnham’s difficult first cabinet – a visual guide to the options and dilemmas  The Guardian\n\nShaba",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmthSHozM2pWWmkzTHVERWIyUTByVUQyZUtWNWl2dGhpTnNYdlh5dGZ2dmVsNjJxOE9nZzExVVBTVkFiN0x6M0sxdHZlbUpPcFlBUWxDRUZTX2hmRFB4cVhIdkFzWHhhQ1kzLXBvUzhVRUNuSTNSU3pSZEJpXzdIZjNBVC10Q2dIOFI0WEludnlJaXdf?oc=5",
+      "published_at": "2026-07-18 05:00:00",
+      "category": "general"
+    },
+    {
+      "title": "Laos says it can't determine cause of tourist deaths linked to methanol - BBC",
+      "description": "\n\nLaos says it can't determine cause of tourist deaths linked to methanol  BBC\n\nAustralia updates travel advice for Laos as charges announced over mass methanol poisoning  The Guardian\n\nLao authoritie",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Tbk9keVZUb09uSm1YTVRJNUFMUWo0UUtwTGM3aTlScHdFOW9VQ1ZFUkVVLTdHSF81cHFSa2ZrOGw1U3hPVHQtSGtsTEhlREtvTG5LZ0h4RkpIWVRp?oc=5",
+      "published_at": "2026-07-18 09:30:32",
+      "category": "general"
+    },
+    {
+      "title": "More than 100 homes destroyed as firefighters battle Norway blaze - Sky News",
+      "description": "\n\nMore than 100 homes destroyed as firefighters battle Norway blaze  Sky News\n\nWildfire destroys more than 100 homes in Norway  The Telegraph\n\nMore than 100 homes destroyed in Norway fire  Reuters\n\nNo",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlRGS1NJQ2FyQnloN3ZLUG00THg0b3VRV0RHUnZ5TTZlRGFMOUt2RF91SjhhZmNpNEdiOEowd25tSkI1TzM5eHRjZy1aN0JxR25EcGVRN1V3Z05jV2VsQUF2bFpPUHZKc2VjcVNRVVRXR3NqcmNmT0FxSmhxelZreGQ2NTNQTDQzS1RsTy02bFdxZE9wTktiZkQwZmg2MkRnSXZZ?oc=5",
+      "published_at": "2026-07-18 04:20:26",
+      "category": "general"
     },
     {
       "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult' - BBC",
@@ -104,14 +87,6 @@
       "category": "world"
     },
     {
-      "title": "More than 100 homes destroyed as firefighters battle Norway blaze - Sky News",
-      "description": "\n\nMore than 100 homes destroyed as firefighters battle Norway blaze  Sky News\n\nWildfire destroys more than 100 homes in Norway  The Telegraph\n\nMore than 100 homes destroyed in Norway fire  Reuters\n\nNo",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlRGS1NJQ2FyQnloN3ZLUG00THg0b3VRV0RHUnZ5TTZlRGFMOUt2RF91SjhhZmNpNEdiOEowd25tSkI1TzM5eHRjZy1aN0JxR25EcGVRN1V3Z05jV2VsQUF2bFpPUHZKc2VjcVNRVVRXR3NqcmNmT0FxSmhxelZreGQ2NTNQTDQzS1RsTy02bFdxZE9wTktiZkQwZmg2MkRnSXZZ?oc=5",
-      "published_at": "2026-07-18 04:20:26",
-      "category": "world"
-    },
-    {
       "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’ - The Guardian",
       "description": "\n\nEurope’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’  The Guardian\n\nEU proposes slowing down cuts to carbon emissions for businesses  BBC\n\nEurope seems set to ease its",
       "source": "",
@@ -120,19 +95,11 @@
       "category": "world"
     },
     {
-      "title": "LG monitors silently install software through Windows Update without consent",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "description": "",
       "source": "Hacker News",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "published_at": "2026-07-18T10:21:19Z",
-      "category": "tech"
-    },
-    {
-      "title": "Regressive JPEGs",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "published_at": "2026-07-18T03:14:20Z",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "published_at": "2026-07-18T13:00:52Z",
       "category": "tech"
     },
     {
@@ -144,11 +111,27 @@
       "category": "tech"
     },
     {
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "title": "LG monitors silently install software through Windows Update without consent",
       "description": "",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "published_at": "2026-07-17T09:42:05Z",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "published_at": "2026-07-18T10:21:19Z",
+      "category": "tech"
+    },
+    {
+      "title": "Is this the end of the once-mighty GoPro?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "published_at": "2026-07-15T03:46:35Z",
+      "category": "tech"
+    },
+    {
+      "title": "Regressive JPEGs",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "published_at": "2026-07-18T03:14:20Z",
       "category": "tech"
     },
     {
@@ -160,11 +143,27 @@
       "category": "tech"
     },
     {
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "published_at": "2026-07-17T09:42:05Z",
+      "category": "tech"
+    },
+    {
       "title": "Reviving a 15-year-old netbook with Arch Linux",
       "description": "",
       "source": "Hacker News",
       "url": "https://parksb.github.io/en/article/41.html",
       "published_at": "2026-07-14T14:02:36Z",
+      "category": "tech"
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "published_at": "2026-07-17T16:57:27Z",
       "category": "tech"
     }
   ]
