@@ -1,8 +1,7 @@
 {
-  "last_updated": "2026-07-18T18:51:46Z",
+  "last_updated": "2026-07-18T20:00:02Z",
   "sources": [
     "Google News Egypt",
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -72,54 +71,6 @@
       "category": "general"
     },
     {
-      "title": "Trump’s bridge strikes cut off city that keeps Iran alive - The Telegraph",
-      "description": "\n\nTrump’s bridge strikes cut off city that keeps Iran alive  The Telegraph\n\nUS strikes hit Iran for seventh consecutive night  BBC\n\nIran war live: 50 killed, 500 wounded in US attacks this month  Al J",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlhmaFphYmI2RENsWEZ0a1VPUVh1QWFRajBKNGZRZTNsSG1ydnRORUxSV05lbjdBdV9xeVViaHRxY0I4SFlyaGYzdW43d2wtTmw1aTd4V0VPWTRERGFZYXpLT2tDV2hfR2FTUl9ZQXo1ZEFFektTVUw5aXFaRlZYdDBkNHNGMFlpNlB3bmNOcw?oc=5",
-      "published_at": "2026-07-18 05:00:00",
-      "category": "world"
-    },
-    {
-      "title": "Shocking new footage shows moment bomb exploded in Monaco - London Evening Standard",
-      "description": "\n\nShocking new footage shows moment bomb exploded in Monaco  London Evening Standard\n\nVideo shows bomb attack on Ukrainian tycoon in Monaco  The Telegraph\n\nUkraine's Security Service recovers deleted ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmdKX0ZiQzZQUzBkMzlLZmpYZnFjMWtzWHN4RG5Wb2JiNWZwRTQ4UjRrNGtPQUhTWGdUVVAzU1pBWXNhT3BQUktXM0NQdnNIMXVlRklNN3ZFZmRUcEZQRjV0OFNyYzhQbVpqMmdzN0JEa0xhQ3YwdVlGUkZxcDFjUVN5aENBS1loQUVMdHUySlFZZjQ?oc=5",
-      "published_at": "2026-07-18 14:29:37",
-      "category": "world"
-    },
-    {
-      "title": "US strikes Iran for seventh consecutive night as Hormuz conflict escalates - ITVX",
-      "description": "\n\nUS strikes Iran for seventh consecutive night as Hormuz conflict escalates  ITVX\n\nLive updates: Iran says it’s suspending ceasefire commitments with US after a week of intensified strikes  CNN\n\nIran",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDVIVGlBNUFXaFpvLXcxYUN2R0xxdUtiZE9VQ3NyRVRkWVlUdkZrWjdrR0VoS3dHTFFYc2tjWDM2d3RHMklsbVp4VXpzaDdWUUlZX1hoNmFVSUJDXzJLU0YyU0pZVW01SnVReFF2S0N5b2J5WW1tLTEyaW9aYzZoVGxYMElmanJ5czBrR0trUF9OVEhWa29sajBES0dfTHR0c1Jn?oc=5",
-      "published_at": "2026-07-18 14:57:36",
-      "category": "world"
-    },
-    {
-      "title": "Zelenskyy considers sacking commander-in-chief as protests swell - Financial Times",
-      "description": "\n\nZelenskyy considers sacking commander-in-chief as protests swell  Financial Times\n\nUkrainian soldiers criticise removal of popular defence minister  BBC\n\nRussia is the only winner from Ukraine's int",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUhjZ3pZMTU0ZG4xVGRDaDVFYnAySU9USzVPQlgwTExOdXVwN2VpeXhJbkJiRk5HT3poZTdSUHdSRGdoM190cjRGT2NicU94MDlobGZCRWdkclBxY1JCb0gyVmJ5VV84VDE1OHk2STgyOTN4Mkx2U3lxcUhZVVNpMHliMjg?oc=5",
-      "published_at": "2026-07-18 10:10:18",
-      "category": "world"
-    },
-    {
-      "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult' - BBC",
-      "description": "\n\nControl, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'  BBC\n\nBREAKING HER SILENCE: Epstein survivor to share her story in WPTV's 'GROOMED: Surviving Epstein'  WFLX\n\nEpstein s",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oS0JnM0FZdDloVllnRHdkalBxMld6S2tLZGFBbjkweTZ4dEJfRml6WkZpRWVlWVlPMi1idnJtZVh4OGgxa05pbWxqZ0hDai1pcXFSVWNROXppbjFD?oc=5",
-      "published_at": "2026-07-18 05:10:44",
-      "category": "world"
-    },
-    {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "published_at": "2026-07-18T17:27:24Z",
-      "category": "tech"
-    },
-    {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "description": "",
       "source": "Hacker News",
@@ -128,11 +79,19 @@
       "category": "tech"
     },
     {
-      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "title": "The Kimi K3 Moment",
       "description": "",
       "source": "Hacker News",
-      "url": "https://reotrucks.com",
-      "published_at": "2026-07-18T18:13:05Z",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "published_at": "2026-07-18T17:32:40Z",
+      "category": "tech"
+    },
+    {
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "published_at": "2026-07-18T17:27:24Z",
       "category": "tech"
     },
     {
@@ -152,11 +111,11 @@
       "category": "tech"
     },
     {
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "title": "Is this the end of the once-mighty GoPro?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published_at": "2026-07-18T16:02:45Z",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "published_at": "2026-07-15T03:46:35Z",
       "category": "tech"
     },
     {
@@ -166,6 +125,46 @@
       "url": "https://ykdojo.github.io/claude-controls-mac/",
       "published_at": "2026-07-18T16:12:08Z",
       "category": "tech"
+    },
+    {
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_at": "2026-07-18T16:02:45Z",
+      "category": "tech"
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "published_at": "2026-07-18T11:00:29Z",
+      "category": "tech"
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://elixir-lang.org/",
+      "published_at": "2026-07-18T15:32:04Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15277v1",
+      "published_at": "2026-07-16T17:59:31Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
+      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "published_at": "2026-07-16T17:59:06Z",
+      "category": "ai"
     }
   ]
 }
