@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T17:51:50Z",
+  "last_updated": "2026-07-19T18:54:02Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,11 +128,11 @@
       "category": "tech"
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "description": "",
       "source": "Hacker News",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "published_at": "2026-07-19T10:34:58Z",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "published_at": "2026-07-19T14:41:16Z",
       "category": "tech"
     },
     {
@@ -144,11 +144,11 @@
       "category": "tech"
     },
     {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "published_at": "2026-07-19T13:29:29Z",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published_at": "2026-07-19T10:34:58Z",
       "category": "tech"
     },
     {
@@ -160,11 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "Minecraft: Java Edition now uses SDL3",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "published_at": "2026-07-19T11:48:18Z",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "published_at": "2026-07-19T13:29:29Z",
       "category": "tech"
     }
   ]
