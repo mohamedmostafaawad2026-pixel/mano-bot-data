@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T16:48:19Z",
+  "last_updated": "2026-07-19T17:51:50Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -128,11 +128,19 @@
       "category": "tech"
     },
     {
-      "title": "Minecraft: Java Edition now uses SDL3",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "published_at": "2026-07-19T11:48:18Z",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published_at": "2026-07-19T10:34:58Z",
+      "category": "tech"
+    },
+    {
+      "title": "HMD Touch 4G",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "published_at": "2026-07-19T17:25:03Z",
       "category": "tech"
     },
     {
@@ -144,27 +152,19 @@
       "category": "tech"
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "published_at": "2026-07-19T10:34:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "Blender 5.2 LTS",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.blender.org/download/releases/5-2/",
-      "published_at": "2026-07-14T18:22:47Z",
-      "category": "tech"
-    },
-    {
       "title": "Claude Code uses Bun written in Rust now",
       "description": "",
       "source": "Hacker News",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "published_at": "2026-07-19T10:03:23Z",
+      "category": "tech"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "published_at": "2026-07-19T11:48:18Z",
       "category": "tech"
     }
   ]
