@@ -1,8 +1,7 @@
 {
-  "last_updated": "2026-07-19T22:42:53Z",
+  "last_updated": "2026-07-19T23:50:21Z",
   "sources": [
     "Google News Egypt",
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -72,59 +71,19 @@
       "category": "general"
     },
     {
-      "title": "US strikes Iran after American troops killed in Jordan - Financial Times",
-      "description": "\n\nUS strikes Iran after American troops killed in Jordan  Financial Times\n\nMiddle East crisis live: US military says service member killed during ‘controlled detonation’ of downed Iranian drone  The G",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGx2cW15RkxnSjdfTzEtZV9ydGctRGRLeGlNQ0JsYS1RVTNVSkxfdkM5WHl5LVhWMXk5SnFMbFpxN0VPMC13Vm1OemdWLTBUcE5NM203REVhYzFUQWhTMzBNRVRUM2pmckNkbUZGMXpJaEpYdGJqTy1wNjVnbllHZmdaOVI?oc=5",
-      "published_at": "2026-07-19 09:13:30",
-      "category": "world"
-    },
-    {
-      "title": "Russia launches major ballistic-missile attack on Ukrainian cities - BBC",
-      "description": "\n\nRussia launches major ballistic-missile attack on Ukrainian cities  BBC\n\nRussia pounds Kyiv for five hours in one of its biggest ballistic missile attacks  The Guardian\n\nRussia unleashes one of bigg",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIM2RWX1hYSFhrVmYzMkZlVWdPbmNOdzQ3bW5BNVRCYzJuUWxObEI0c1FhQUdreUxqbWFkVjhGRE5qaF8xT3FwRnV5VTAtY2VhVXF0VERjZmc3RkZS?oc=5",
-      "published_at": "2026-07-19 08:37:48",
-      "category": "world"
-    },
-    {
-      "title": "Abu Hamza’s son seeks to return to UK after ‘fighting for al Qaeda’ - The Telegraph",
-      "description": "\nAbu Hamza’s son seeks to return to UK after ‘fighting for al Qaeda’  The TelegraphSee more headlines and perspectives on Google News\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHpnUHdwSUFFeExkcnN0Yl8wbk5aRXp0aS1kV0hhREhqOUp2LTZRZFVDb1o1RDVtRU1wSHpvQzZycmRPRkc0U2NVYUtfNTZTaTVfQTRNU29pTWpWTDAyV0VrNGU1aVkwTkxVUVotVE1jaHJvd3VwU09OQjBWN3BXbVJyOGNveGFpa2VRTjlIWTVESHRkNXJFX1h5Wmo1YjE4WFE?oc=5",
-      "published_at": "2026-07-19 15:41:00",
-      "category": "world"
-    },
-    {
-      "title": "Iran blames US for tanker ‘accident’ in Strait of Hormuz - The Independent",
-      "description": "\n\nIran blames US for tanker ‘accident’ in Strait of Hormuz  The Independent\n\nIran war latest: IRGC warns of 'accident' in Strait of Hormuz - as Trump says deaths of US troops a 'shame'  Sky News\n\nIran",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDZLYzdDMTlRMHUyMU5mX045NE05V2xXcHN5MTVlaHpQYl91aExlOU4tdTFnRzFSQ0ptWFJzdG5QZWJlYWNSb0xxQkZ6MnVzTXJncVlkTDVPR0JIekt5Q1NYdFZoQXpsRHNDRk9OTjlQWlpaaFl3dkJOLWJ0cEEwNWVsaGVFRUtqV2VpaG5KemNfRVFWLUYya0FYWjJLdw?oc=5",
-      "published_at": "2026-07-19 12:32:00",
-      "category": "world"
-    },
-    {
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US - BBC",
-      "description": "\n\nCuban dissident Luis Manuel Otero Alcántara goes into exile in US  BBC\n\nCuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US  The Guardian\n\nLuis Manuel Otero Alcantara: Promine",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqN2lrdGJGS1k3LTg1SWF3bG1DMWE0dmRDcEpvTWJpUjVOQ2w5OU9Nd3kyX1lmUDM4N3lMbXhQUENLd2xMRGc2SmZUNkNMcWh3SS1SWDNlQm9OZjYz?oc=5",
-      "published_at": "2026-07-19 07:47:02",
-      "category": "world"
-    },
-    {
-      "title": "Worst week of summer begins as Spain braces for 45ºC heat - Euronews.com",
-      "description": "\n\nWorst week of summer begins as Spain braces for 45ºC heat  Euronews.com\n\nAndalucía's warning about the upcoming 20 days of 'extraordinary heat'  Sur in English\n\nA record-breaking heatwave hits Spain",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVFBLWNLTXB5QXhnRnIwS0diRXNKM3gxajAwN21jYl9NaHJkZE1Femgwd3NCNWcxWlpJMHNOVEFoUmd4QWdZZTRYVGktcFlxQ1FBWFJTSHpMaElSN19mdklVRzBmbEU5cV90OTNHUHVoQTNDZjZyWjlqRFVrX3duNkJEdGh6VzVDWGR4cWwwcnF2M1Fzdm5YdnZ2Q1VubFVZeEpMdmh5YkpTejVf?oc=5",
-      "published_at": "2026-07-18 16:00:59",
-      "category": "world"
-    },
-    {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "description": "",
       "source": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=48968606",
       "published_at": "2026-07-19T14:41:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "published_at": "2026-07-19T21:18:10Z",
       "category": "tech"
     },
     {
@@ -144,19 +103,19 @@
       "category": "tech"
     },
     {
-      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "title": "Minecraft: Java Edition now uses SDL3",
       "description": "",
       "source": "Hacker News",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "published_at": "2026-07-19T21:18:10Z",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "published_at": "2026-07-19T11:48:18Z",
       "category": "tech"
     },
     {
-      "title": "HomeLab #1: MikroTik as a Home Router",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
       "description": "",
       "source": "Hacker News",
-      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "published_at": "2026-07-19T18:57:01Z",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "published_at": "2026-07-19T20:50:42Z",
       "category": "tech"
     },
     {
@@ -166,6 +125,46 @@
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "published_at": "2026-07-19T10:03:23Z",
       "category": "tech"
+    },
+    {
+      "title": "Show HN: A canvas-based note taking and organizer app",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.passinote.app/",
+      "published_at": "2026-07-19T21:31:48Z",
+      "category": "tech"
+    },
+    {
+      "title": "Talk: The Art of Braiding Algorithms",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "published_at": "2026-07-15T13:31:44Z",
+      "category": "tech"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.blender.org/download/releases/5-2/",
+      "published_at": "2026-07-14T18:22:47Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15277v1",
+      "published_at": "2026-07-16T17:59:31Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
+      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "published_at": "2026-07-16T17:59:06Z",
+      "category": "ai"
     }
   ]
 }
