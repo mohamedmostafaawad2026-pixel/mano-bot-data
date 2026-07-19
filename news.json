@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-19T15:50:01Z",
+  "last_updated": "2026-07-19T16:48:19Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,6 +72,54 @@
       "category": "general"
     },
     {
+      "title": "US strikes Iran after American troops killed in Jordan - Financial Times",
+      "description": "\n\nUS strikes Iran after American troops killed in Jordan  Financial Times\n\nMiddle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed  The Guard",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGx2cW15RkxnSjdfTzEtZV9ydGctRGRLeGlNQ0JsYS1RVTNVSkxfdkM5WHl5LVhWMXk5SnFMbFpxN0VPMC13Vm1OemdWLTBUcE5NM203REVhYzFUQWhTMzBNRVRUM2pmckNkbUZGMXpJaEpYdGJqTy1wNjVnbllHZmdaOVI?oc=5",
+      "published_at": "2026-07-19 09:13:30",
+      "category": "world"
+    },
+    {
+      "title": "Russia launches major ballistic-missile attack on Kyiv and Kharkiv - BBC",
+      "description": "\n\nRussia launches major ballistic-missile attack on Kyiv and Kharkiv  BBC\n\nRussia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says  CNN\n\nAir defenses shoot down 17 anti",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIM2RWX1hYSFhrVmYzMkZlVWdPbmNOdzQ3bW5BNVRCYzJuUWxObEI0c1FhQUdreUxqbWFkVjhGRE5qaF8xT3FwRnV5VTAtY2VhVXF0VERjZmc3RkZS?oc=5",
+      "published_at": "2026-07-19 08:37:48",
+      "category": "world"
+    },
+    {
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US - BBC",
+      "description": "\n\nCuban dissident Luis Manuel Otero Alcántara goes into exile in US  BBC\n\nCuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US  The Guardian\n\nExiled Cuban artist Otero Alcantara ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqN2lrdGJGS1k3LTg1SWF3bG1DMWE0dmRDcEpvTWJpUjVOQ2w5OU9Nd3kyX1lmUDM4N3lMbXhQUENLd2xMRGc2SmZUNkNMcWh3SS1SWDNlQm9OZjYz?oc=5",
+      "published_at": "2026-07-19 07:47:02",
+      "category": "world"
+    },
+    {
+      "title": "Trump is sliding into a forever war with Iran - The Telegraph",
+      "description": "\n\nTrump is sliding into a forever war with Iran  The Telegraph\n\nDonald Trump’s blind alley  The Economist\n\nChaos and confusion bring US no closer to resolution on strait of Hormuz  The Guardian\n\nIran ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWtScElxSGJsWDVZTWJQZjlDaUs2TWZCeDgyRUtiTEdwc1o3d2t0ZFdrdFpQZ09ldF9sVXdVMTVUdk5KeEJmMmZBT2N6OG1kbUU4MWhjZ3NDaFNoT3JNWjJkQVR6ZzlsYTNjMW9WOHZObUxlREdaOXJabG1iYWNhTTZfck15eVZQMWdNUi1oTlRwU3d2aTNF?oc=5",
+      "published_at": "2026-07-18 14:30:00",
+      "category": "world"
+    },
+    {
+      "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid - Financial Times",
+      "description": "\n\nTrump to fund Maga-aligned projects in Europe as he reorders US aid  Financial Times\n\nTrump administration to grant $12m to groups founded by UK conservatives Jacob Rees-Mogg and Toby Young  The Gua",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHNfSjNIbHJLVGMtRDFBb0NUang2b3gwcGh1NEdLREdYbXdFYVcyWlhqX3JXS3QwQk1EdXNfWGZRc2MwbFBvWW5XM1gzbUI3LUd1bGtQMVFHMUI0ZXZDWkozRHE2ZWdaV0d3RzhFTm51aTJXT3dDei04bnZGRDJxbXRvTGI?oc=5",
+      "published_at": "2026-07-18 17:22:03",
+      "category": "world"
+    },
+    {
+      "title": "Worst week of summer begins as Spain braces for 45ºC heat - Euronews.com",
+      "description": "\n\nWorst week of summer begins as Spain braces for 45ºC heat  Euronews.com\n\nWeather warning in Malaga province raised to amber this Friday  Sur in English\n\nA record-breaking heatwave hits Spain... Temp",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVFBLWNLTXB5QXhnRnIwS0diRXNKM3gxajAwN21jYl9NaHJkZE1Femgwd3NCNWcxWlpJMHNOVEFoUmd4QWdZZTRYVGktcFlxQ1FBWFJTSHpMaElSN19mdklVRzBmbEU5cV90OTNHUHVoQTNDZjZyWjlqRFVrX3duNkJEdGh6VzVDWGR4cWwwcnF2M1Fzdm5YdnZ2Q1VubFVZeEpMdmh5YkpTejVf?oc=5",
+      "published_at": "2026-07-18 16:00:59",
+      "category": "world"
+    },
+    {
       "title": "Qwen 3.8",
       "description": "",
       "source": "Hacker News",
@@ -87,19 +136,19 @@
       "category": "tech"
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "published_at": "2026-07-19T10:34:58Z",
-      "category": "tech"
-    },
-    {
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
       "published_at": "2026-07-19T13:29:29Z",
+      "category": "tech"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published_at": "2026-07-19T10:34:58Z",
       "category": "tech"
     },
     {
@@ -117,54 +166,6 @@
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "published_at": "2026-07-19T10:03:23Z",
       "category": "tech"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "published_at": "2026-07-19T07:54:39Z",
-      "category": "tech"
-    },
-    {
-      "title": "UnifiedIR for Julia",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/JuliaLang/julia/pull/62334",
-      "published_at": "2026-07-18T21:28:38Z",
-      "category": "tech"
-    },
-    {
-      "title": "I joined the IndieWeb, here's what I learned",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "published_at": "2026-07-19T11:14:38Z",
-      "category": "tech"
-    },
-    {
-      "title": "Transcribe.cpp",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "published_at": "2026-07-19T00:38:26Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.15277v1",
-      "published_at": "2026-07-16T17:59:31Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 RoboTTT: Context Scaling for Robot Policies",
-      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.15275v1",
-      "published_at": "2026-07-16T17:59:06Z",
-      "category": "ai"
     }
   ]
 }
