@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T01:55:07Z",
+  "last_updated": "2026-07-19T05:15:21Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -136,6 +136,14 @@
       "category": "tech"
     },
     {
+      "title": "FDA approves new kind of cholesterol pill",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "published_at": "2026-07-19T02:40:22Z",
+      "category": "tech"
+    },
+    {
       "title": "Better and Cheaper Than IPTV",
       "description": "",
       "source": "Hacker News",
@@ -144,27 +152,19 @@
       "category": "tech"
     },
     {
-      "title": "Classic Amiga titles, free to download",
+      "title": "LLM-Integrated Multivariable Calculus Course",
       "description": "",
       "source": "Hacker News",
-      "url": "https://amigafreeware.downer.tech/",
-      "published_at": "2026-07-18T21:55:27Z",
+      "url": "https://calculus.academa.ai/",
+      "published_at": "2026-07-19T02:55:43Z",
       "category": "tech"
     },
     {
-      "title": "If You Build It, They Will Come",
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "published_at": "2026-07-18T15:37:01Z",
-      "category": "tech"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "published_at": "2026-07-18T13:00:52Z",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "published_at": "2026-07-13T17:21:10Z",
       "category": "tech"
     }
   ]
