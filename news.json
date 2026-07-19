@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T08:03:01Z",
+  "last_updated": "2026-07-19T10:20:18Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -71,6 +71,14 @@
       "category": "general"
     },
     {
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "published_at": "2026-07-19T08:44:57Z",
+      "category": "tech"
+    },
+    {
       "title": "Transcribe.cpp",
       "description": "",
       "source": "Hacker News",
@@ -79,11 +87,11 @@
       "category": "tech"
     },
     {
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
       "description": "",
       "source": "Hacker News",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "published_at": "2026-07-15T13:10:01Z",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "published_at": "2026-07-19T08:00:24Z",
       "category": "tech"
     },
     {
@@ -95,14 +103,6 @@
       "category": "tech"
     },
     {
-      "title": "Codex Resets",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://codex-resets.com/",
-      "published_at": "2026-07-18T23:24:26Z",
-      "category": "tech"
-    },
-    {
       "title": "Better and Cheaper Than IPTV",
       "description": "",
       "source": "Hacker News",
@@ -111,11 +111,11 @@
       "category": "tech"
     },
     {
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "title": "Codex Resets",
       "description": "",
       "source": "Hacker News",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "published_at": "2026-07-19T05:07:08Z",
+      "url": "https://codex-resets.com/",
+      "published_at": "2026-07-18T23:24:26Z",
       "category": "tech"
     },
     {
@@ -135,19 +135,19 @@
       "category": "tech"
     },
     {
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+      "published_at": "2026-07-15T13:10:01Z",
+      "category": "tech"
+    },
+    {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "description": "",
       "source": "Hacker News",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "published_at": "2026-07-18T13:00:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "published_at": "2026-07-18T21:45:12Z",
       "category": "tech"
     },
     {
