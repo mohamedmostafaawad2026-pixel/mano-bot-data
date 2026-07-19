@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T10:20:18Z",
+  "last_updated": "2026-07-19T11:49:55Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -71,11 +71,19 @@
       "category": "general"
     },
     {
-      "title": "Qwen3.8 is launching and going open-weight soon",
+      "title": "Qwen 3.8 Max Preview",
       "description": "",
       "source": "Hacker News",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "published_at": "2026-07-19T08:44:57Z",
+      "url": "https://www.qwencloud.com/pricing/token-plan",
+      "published_at": "2026-07-19T08:57:31Z",
+      "category": "tech"
+    },
+    {
+      "title": "Qwen 3.8 Max",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://qwen.ai/home",
+      "published_at": "2026-07-19T10:41:42Z",
       "category": "tech"
     },
     {
@@ -87,11 +95,35 @@
       "category": "tech"
     },
     {
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "title": "Qwen3.8 is launching and going open-weight soon",
       "description": "",
       "source": "Hacker News",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "published_at": "2026-07-19T08:00:24Z",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "published_at": "2026-07-19T08:44:57Z",
+      "category": "tech"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.blender.org/download/releases/5-2-lts/",
+      "published_at": "2026-07-14T18:22:47Z",
+      "category": "tech"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "published_at": "2026-07-19T10:03:23Z",
+      "category": "tech"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "published_at": "2026-07-19T07:54:39Z",
       "category": "tech"
     },
     {
@@ -103,51 +135,19 @@
       "category": "tech"
     },
     {
-      "title": "Better and Cheaper Than IPTV",
+      "title": "I Put My Son in a Swamp",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/stupside/castor",
-      "published_at": "2026-07-19T00:59:55Z",
+      "url": "https://thepotato.tech/posts/i-put-my-son-in-a-swamp/",
+      "published_at": "2026-07-12T17:52:18Z",
       "category": "tech"
     },
     {
-      "title": "Codex Resets",
+      "title": "Half a Second – a book about the XZ backdoor",
       "description": "",
       "source": "Hacker News",
-      "url": "https://codex-resets.com/",
-      "published_at": "2026-07-18T23:24:26Z",
-      "category": "tech"
-    },
-    {
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "published_at": "2026-07-13T17:21:10Z",
-      "category": "tech"
-    },
-    {
-      "title": "The Kimi K3 Moment",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "published_at": "2026-07-18T17:32:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "published_at": "2026-07-15T13:10:01Z",
-      "category": "tech"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "published_at": "2026-07-18T13:00:52Z",
+      "url": "https://www.half-second.com/",
+      "published_at": "2026-07-19T08:48:41Z",
       "category": "tech"
     },
     {
