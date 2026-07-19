@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T11:49:55Z",
+  "last_updated": "2026-07-19T12:58:38Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,11 +79,19 @@
       "category": "tech"
     },
     {
-      "title": "Qwen 3.8 Max",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "description": "",
       "source": "Hacker News",
-      "url": "https://qwen.ai/home",
-      "published_at": "2026-07-19T10:41:42Z",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published_at": "2026-07-19T10:34:58Z",
+      "category": "tech"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.blender.org/download/releases/5-2/",
+      "published_at": "2026-07-14T18:22:47Z",
       "category": "tech"
     },
     {
@@ -95,6 +103,14 @@
       "category": "tech"
     },
     {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "published_at": "2026-07-19T07:54:39Z",
+      "category": "tech"
+    },
+    {
       "title": "Qwen3.8 is launching and going open-weight soon",
       "description": "",
       "source": "Hacker News",
@@ -103,27 +119,19 @@
       "category": "tech"
     },
     {
-      "title": "Blender 5.2 LTS",
+      "title": "The death and rebirth of my home server",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.blender.org/download/releases/5-2-lts/",
-      "published_at": "2026-07-14T18:22:47Z",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "published_at": "2026-07-19T10:44:31Z",
       "category": "tech"
     },
     {
-      "title": "Claude Code uses Bun written in Rust now",
+      "title": "I burned all my tokens researching how to save tokens",
       "description": "",
       "source": "Hacker News",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "published_at": "2026-07-19T10:03:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "published_at": "2026-07-19T07:54:39Z",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "published_at": "2026-07-19T12:01:53Z",
       "category": "tech"
     },
     {
@@ -135,19 +143,11 @@
       "category": "tech"
     },
     {
-      "title": "I Put My Son in a Swamp",
+      "title": "The Kimi K3 Moment",
       "description": "",
       "source": "Hacker News",
-      "url": "https://thepotato.tech/posts/i-put-my-son-in-a-swamp/",
-      "published_at": "2026-07-12T17:52:18Z",
-      "category": "tech"
-    },
-    {
-      "title": "Half a Second – a book about the XZ backdoor",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.half-second.com/",
-      "published_at": "2026-07-19T08:48:41Z",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "published_at": "2026-07-18T17:32:40Z",
       "category": "tech"
     },
     {
