@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T15:03:52Z",
+  "last_updated": "2026-07-20T17:27:02Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,6 +120,14 @@
       "category": "world"
     },
     {
+      "title": "China's open-weights AI strategy is winning",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "published_at": "2026-07-20T14:21:47Z",
+      "category": "tech"
+    },
+    {
       "title": "Hacker wipes Romania's land registry database",
       "description": "",
       "source": "Hacker News",
@@ -128,19 +136,27 @@
       "category": "tech"
     },
     {
-      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+      "title": "Over 30% of new ArXiv submissions now read as AI-written",
       "description": "",
       "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/led-light-pollution",
-      "published_at": "2026-07-20T13:07:11Z",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "published_at": "2026-07-20T16:36:36Z",
       "category": "tech"
     },
     {
-      "title": "Perfection Is Not Over-Engineering",
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
       "description": "",
       "source": "Hacker News",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "published_at": "2026-07-20T14:10:30Z",
+      "url": "https://nothings.org/gamedev/ssao/",
+      "published_at": "2026-07-20T15:07:31Z",
+      "category": "tech"
+    },
+    {
+      "title": "Czechia moves to ban mobile phones in schools from September 2027",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines",
+      "published_at": "2026-07-20T16:00:34Z",
       "category": "tech"
     },
     {
@@ -149,22 +165,6 @@
       "source": "Hacker News",
       "url": "https://airport.apunen.com/",
       "published_at": "2026-07-20T10:30:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "ECC and DDR5",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-      "published_at": "2026-07-19T16:31:44Z",
-      "category": "tech"
-    },
-    {
-      "title": "Firefox Merges Support for Vulkan Video Decoding",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/search",
-      "published_at": "2026-07-20T13:47:13Z",
       "category": "tech"
     }
   ]
