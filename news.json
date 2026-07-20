@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T22:50:52Z",
+  "last_updated": "2026-07-20T23:50:30Z",
   "sources": [
     "Google News Egypt",
     "Hacker News",
@@ -79,19 +79,19 @@
       "category": "tech"
     },
     {
+      "title": "Who's Afraid of Chinese Models?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "published_at": "2026-07-20T11:05:58Z",
+      "category": "tech"
+    },
+    {
       "title": "Kimi Work",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.kimi.com/products/kimi-work",
       "published_at": "2026-07-20T17:13:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://jelly-ui.com/",
-      "published_at": "2026-07-20T17:07:39Z",
       "category": "tech"
     },
     {
@@ -103,11 +103,11 @@
       "category": "tech"
     },
     {
-      "title": "Who's Afraid of Chinese Models?",
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "description": "",
       "source": "Hacker News",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "published_at": "2026-07-20T11:05:58Z",
+      "url": "https://jelly-ui.com/",
+      "published_at": "2026-07-20T17:07:39Z",
       "category": "tech"
     },
     {
@@ -127,6 +127,14 @@
       "category": "tech"
     },
     {
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "published_at": "2026-07-20T20:12:19Z",
+      "category": "tech"
+    },
+    {
       "title": "Airport Simulator",
       "description": "",
       "source": "Hacker News",
@@ -135,19 +143,11 @@
       "category": "tech"
     },
     {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "published_at": "2026-07-20T20:08:45Z",
-      "category": "tech"
-    },
-    {
-      "title": "Agent swarms and the new model economics",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "published_at": "2026-07-20T18:06:13Z",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "published_at": "2026-07-20T20:10:44Z",
       "category": "tech"
     },
     {
