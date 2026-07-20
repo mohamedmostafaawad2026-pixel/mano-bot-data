@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-07-20T12:10:40Z",
+  "last_updated": "2026-07-20T15:03:52Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
@@ -71,100 +72,100 @@
       "category": "general"
     },
     {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed - BBC",
+      "description": "\n\nTrump says US strikes hit Iran in 'honour' of American soldiers killed  BBC\n\nUS expands Iran offensive as diplomats claim talks ongoing  The Guardian\n\nIran War Live Updates: U.S. and Iran Trade Atta",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Y3V3TkRUTmFMSkxWTmJlZUpTTmtKMkZnMDRrbjhRRFRJLWF3YXFnSjA5b3FHMkUzSTVZYW9Vb2RrVEJOQ0lMWHZ4ZmRXcHFnMUhwQ0hsRHBXMzNr?oc=5",
+      "published_at": "2026-07-20 06:31:55",
+      "category": "world"
+    },
+    {
+      "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – Europe live - The Guardian",
+      "description": "\n\nRussian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – Europe live  The Guardian\n\nUkraine launches huge drone attack on Moscow following Russian strikes  ITVX\n\nRuss",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ25naTRyd0xfcGhWbzl1ck55VmkzZ25Ob3RXckZSSnN2MnBXR3RPUklyeTlhZUMyS05WQTd0YVhtUmVNV1BDY29SZjkzUXZibHFCa2ZveVBERVZnQ0dSMk9zdWJwWHJ5TVpOaHh3dlIwTGhzdl9jWTVIcVR2dUE0VlhRTU5UdUdBeUNmOVlKX2FBaGl2SEk4c1JqVzRfc0I5dV9zOWhoUExEYWptOFJwYUdOeFcxNnlM?oc=5",
+      "published_at": "2026-07-20 07:38:00",
+      "category": "world"
+    },
+    {
+      "title": "Ebola deaths in DR Congo rise to 930 amid attacks on health workers - Sky News",
+      "description": "\n\nEbola deaths in DR Congo rise to 930 amid attacks on health workers  Sky News\n\n'Ebola outbreak is brutal, painful and very distressing'  BBC\n\nEbola disease caused by Bundibugyo virus, Democratic Rep",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmhXZ1BmTXNOcjBvSlRfQnVlRk41b0t2UHNWQl9fdVRZa3BSRkRPZlEwczRSTzF6dHMyMFZxV2ZOZDBGVXdGbnBBSHdrak5teklycUdId1RSbVl5c2JleWZYanhmSUNPUHdycVE3RlRXTXY0TEptRHJhQU9Gcjk5ZVFkMDliZmxhNDVxTjdXUmh6SGRaWHk5LVptSEtGcE9vVzNucVR3?oc=5",
+      "published_at": "2026-07-20 09:07:27",
+      "category": "world"
+    },
+    {
+      "title": "Man charged over incident where car rams into crowd - BBC",
+      "description": "\n\nMan charged over incident where car rams into crowd  BBC\n\nMan charged over incident where car driven into group  RTE.ie\n\nMan due in court over public disorder in Skerries, Co Dublin  The Irish Times",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6X05fa3RPaUJGOXp5M3NfR1NXN0pzZE9SQWlfOU5wMS1QUzFqb3RwSTZ5MEU3Vm1SZ2hmS3Rac3JpZkM5TWJaUzBmZEppMUswU2ZLOHA3ejAzRnBN?oc=5",
+      "published_at": "2026-07-20 11:09:06",
+      "category": "world"
+    },
+    {
+      "title": "Man dies after being sliced by boat propellers off Canary Island hols hotspot - The Sun",
+      "description": "\nMan dies after being sliced by boat propellers off Canary Island hols hotspot  The SunSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcGg0bDRBUFF0QmR5UVp0RVhtQ25fVUhoTHptRnB0cm93TTlPOGVlYnZwX0QtU1JycEl2VTdQMFNZbW9nOTdkRjhINnB2ZXFMejFVR1h3MkhQMXFwSzVvaFFSWmFzRUYzVjhjRDJUZ1pQSkRBNUd2bjlGaVIwcDJwQ0ZYYw?oc=5",
+      "published_at": "2026-07-20 10:25:00",
+      "category": "world"
+    },
+    {
+      "title": "Indian police battle ‘Cockroach’ protesters with batons, tear gas - Financial Times",
+      "description": "\n\nIndian police battle ‘Cockroach’ protesters with batons, tear gas  Financial Times\n\nJantar Mantar, CJP, parliament: Police begin clearing 'cockroach' party protest site in Delhi  BBC\n\nTens of thousa",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xvcUMtUVk1eDVudnAzMFpJMGdxS2lHMjlTRlBnakJWTnRONm1YMzBmam92THJWT09sdVVqSlZJV2pjbkZacl9QOHlJVTdyS1EzZGFwNDFOLVVrMXVOalJZUTFsRjRNWEhJMHBOS2Z4dWl2OFFSbTJ1Y0c4QnVzeDAtQTA?oc=5",
+      "published_at": "2026-07-20 08:49:45",
+      "category": "world"
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
       "description": "",
       "source": "Hacker News",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "published_at": "2026-07-20T08:13:36Z",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "published_at": "2026-07-20T13:28:33Z",
       "category": "tech"
     },
     {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
       "description": "",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "published_at": "2026-07-19T14:41:16Z",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "published_at": "2026-07-20T13:07:11Z",
       "category": "tech"
     },
     {
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "title": "Perfection Is Not Over-Engineering",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/hgaiser/moonshine",
-      "published_at": "2026-07-20T00:16:50Z",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "published_at": "2026-07-20T14:10:30Z",
       "category": "tech"
     },
     {
-      "title": "Why is it so hard for the U.S. to win wars?",
+      "title": "Airport Simulator",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-      "published_at": "2026-07-20T11:24:45Z",
+      "url": "https://airport.apunen.com/",
+      "published_at": "2026-07-20T10:30:40Z",
       "category": "tech"
     },
     {
-      "title": "Airbus Takes Flight from AWS",
+      "title": "ECC and DDR5",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "published_at": "2026-07-20T10:12:22Z",
+      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+      "published_at": "2026-07-19T16:31:44Z",
       "category": "tech"
     },
     {
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "title": "Firefox Merges Support for Vulkan Video Decoding",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "published_at": "2026-07-20T04:24:48Z",
+      "url": "https://github.com/search",
+      "published_at": "2026-07-20T13:47:13Z",
       "category": "tech"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "published_at": "2026-07-19T10:03:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "Eliminating Go bounds checks with unsafe",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-      "published_at": "2026-07-14T16:01:57Z",
-      "category": "tech"
-    },
-    {
-      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://hidden-phenomena.com/articles/rh",
-      "published_at": "2026-07-17T22:02:18Z",
-      "category": "tech"
-    },
-    {
-      "title": "Orion Browser by Kagi",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://orionbrowser.com/",
-      "published_at": "2026-07-19T19:13:29Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-      "description": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.16184v1",
-      "published_at": "2026-07-17T17:58:29Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-      "description": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic an",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.16183v1",
-      "published_at": "2026-07-17T17:57:49Z",
-      "category": "ai"
     }
   ]
 }
