@@ -1,61 +1,77 @@
 {
-  "last_updated": "2026-07-20T21:03:29Z",
+  "last_updated": "2026-07-20T22:50:52Z",
   "sources": [
-    "Google News World",
+    "Google News Egypt",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live - The Guardian",
-      "description": "\nTrump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live  The GuardianSee more headlines and perspectives on",
+      "title": "Healey appointed chancellor and Miliband becomes foreign secretary as Andy Burnham picks cabinet - BBC",
+      "description": "\n\nHealey appointed chancellor and Miliband becomes foreign secretary as Andy Burnham picks cabinet  BBC\n\nWho's in Andy Burnham's cabinet?  BBC\n\nAndy Burnham purges Starmer allies and bets on Healey to",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTTXBsQzBIUlJBR3RTZ1JhNDFHVmJvc1FNT3Y1WWpiNkNTRDNkbkFoQUJ5b1ZYdE9vRk9OaEFoSGdvY0I5ZklvNHNLdXZERVBiR0tQVm1pZw?oc=5",
+      "published_at": "2026-07-20 22:28:09",
+      "category": "general"
+    },
+    {
+      "title": "Andy Burnham pledges to end instability after becoming UK’s seventh prime minister in a decade - CNN",
+      "description": "\n\nAndy Burnham pledges to end instability after becoming UK’s seventh prime minister in a decade  CNN\n\nPrime Minister Andy Burnham promises help with your money. How could it affect you?  BBC\n\nOpinion",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWhJV1c5eWhlZk44VUZRUVBHdG4yRVVEaU5VZVRvWVdDM2c4SnBoc2dPVXV0MUQwMDJpb1M4Z2pyUFpiRVRpVjJKTFBBVGtTUzd0QldFWDMzbHlSVnkzejhtRm5GWE9yWHNZY3FHYXhmSkhxWWdJWE1JWHo3RHZfTWxVVEd0aXlvVFE?oc=5",
+      "published_at": "2026-07-20 16:59:00",
+      "category": "general"
+    },
+    {
+      "title": "Ann Widdecombe latest: Joshua Kerry charged with murder of former Tory minister - Sky News",
+      "description": "\n\nAnn Widdecombe latest: Joshua Kerry charged with murder of former Tory minister  Sky News\n\nMan, 28, charged with murder of Ann Widdecombe  BBC\n\nWiddecombe murder suspect charged  The Telegraph\n\nWho ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGVPWHRKYzB2WFRyYWtuemtSYllpUExNcE1EcHZMb1NCTkpVMEF3eDFoUjhOaHp6UVV6RDlDNzVtdTdGMkI2SXEySlUzREJ6c0JXZjZOTXc1RGdLX0NFMkxpSHRTV0RMTm5VbTduLUxHaEZSdUpBRDZhTDYtU2wxSHhDaTc2YkdiNThCd3NoQmRjR2VlRXFjeHI2UDVqanVudGg2YkFrS2djYUpScnVXVllIMlFpUGJjOXc?oc=5",
+      "published_at": "2026-07-20 22:11:47",
+      "category": "general"
+    },
+    {
+      "title": "US to hit Canada with 50% tariffs on wide range of goods - Financial Times",
+      "description": "\n\nUS to hit Canada with 50% tariffs on wide range of goods  Financial Times\n\nTrump imposes 50% tariff on Canadian imports  BBC\n\nCanada issues air quality warnings over US wildfire smoke after Trump ta",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRERDeEYtRHdaU0NYZVBlWHc3NGZ3a29SWFQ2S0dnOXFSRlJVdE1kTlR3U2tWSTZiUmxVcnNncndDTFRQQVJGMmZENnVGT1BsM0EwMnNPa0VkSFhkMEctX0N2Y3Z1Z0p2RUJlb2VPaS05ZVdtaU90Y2VZRkctRUhZV1ZVbTE?oc=5",
+      "published_at": "2026-07-20 21:01:54",
+      "category": "general"
+    },
+    {
+      "title": "Borrowing costs edge higher as Burnham becomes Prime Minister - The Telegraph",
+      "description": "\n\nBorrowing costs edge higher as Burnham becomes Prime Minister  The Telegraph\n\n‘We need to be careful’: Andy Burnham’s team keenly aware of fiscal tightrope  The Guardian\n\nGilts under pressure as inv",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGpTOVRlcGFKNkxmcDJxNGp3SWlsdmhkWDJMampLRkIyOGJEVTJ1bHpHd1MxUFlKajhQdlRsbk9YOFJNMm9oR0ppaG9Ma0prTmtnMFZ0OURjckZvYWk4bnJqSnhNT1plbXRXYVBGZXBrc0FHR2diRHppWlJiYzgydG44Z3FMTEE2TGRfSmhNQkhzY2hiaHh3MQ?oc=5",
+      "published_at": "2026-07-20 17:59:11",
+      "category": "general"
+    },
+    {
+      "title": "Who is Andy Burnham’s wife, Marie-France van Heel? - ITVX",
+      "description": "\n\nWho is Andy Burnham’s wife, Marie-France van Heel?  ITVX\n\nThe middle-class message in Mrs Burnham’s £890 Downing Street dress  The Telegraph\n\nIs that a Victoria Beckham dress on Marie-France van Hee",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVVWMnlpWXBoNVVqUVRHVUtIQ0g2aU5LUldKbkFPWmxKZE91bHZWR1NjUHlIM3NBUTNKVHRfZExNY1pGdmtHRUJnMWJkamhPcW1WRTRXVXZKME9GZTRyQlA1S3dqRml5U2Fydnl5VWUtVFhqOFdWMENSQnloc3p3czR5dEhaM1RNTzAw?oc=5",
+      "published_at": "2026-07-20 12:20:29",
+      "category": "general"
+    },
+    {
+      "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live - The Guardian",
+      "description": "\n\nUS military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live  The Guardian\n\nUS launches fresh strikes on Iran, as Trump warns of ret",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUNDemZRazNzOVF4V011ZWNXUUQ3Zw?oc=5",
-      "published_at": "2026-07-20 18:32:19",
-      "category": "world"
+      "published_at": "2026-07-20 22:19:00",
+      "category": "general"
     },
     {
-      "title": "Rare identical quadruplets born in Australia - BBC",
-      "description": "\n\nRare identical quadruplets born in Australia  BBC\n\n‘One in 15 million’: Brisbane woman gives birth to identical quadruplets  The Guardian\n\nMother of four gives birth to identical quadruplets  The Te",
+      "title": "Andy Burnham latest: Miliband is foreign secretary and Healey chancellor in reshuffle - The Independent",
+      "description": "\n\nAndy Burnham latest: Miliband is foreign secretary and Healey chancellor in reshuffle  The Independent\n\nKemi Badenoch says Burnham in for 'rude awakening' when he becomes PM on Monday  BBC\n\nThere’s ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VSDBLWTNLNU1qYWZyTnJmVkdvU3ZzaVN6NFg5UEVnZGJUZUdULU9hRG1ubl83dzE3QUcyTGFQd2tmbE5oT0ZmLWhaVW9YTkJ4THpqMmE0QXZLVDFf?oc=5",
-      "published_at": "2026-07-20 12:57:32",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVVyXzBEUlY5aGFXX1ZMUVV0b191cmh0ZHZHcnBWRUJ2d3ZyQlVPbjFfV1RFQjBDT1hvTTZCRC1VWXUwNGdtSUw5WTF2M2J4enlCSzcwX1NZNFRDMy1HMHRkVGJubUtEY0JhVllIME5aNlh6SGNwRmVCVVc0R2xId1NMVkdGcEd0RFRoODRVUjhzYUVmbzM4d0lybzZtR2NFcmhjVUNyWExNd3B0MEZxVnpCTGo5bVlDZlY4?oc=5",
+      "published_at": "2026-07-20 19:15:00",
+      "category": "general"
     },
     {
-      "title": "Ebola deaths in DR Congo rise to 930 amid attacks on health workers - Sky News",
-      "description": "\n\nEbola deaths in DR Congo rise to 930 amid attacks on health workers  Sky News\n\nEbola death toll rises to 930, as outbreak spreads at record pace  Financial Times\n\nEbola death toll in DRC surges to a",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmhXZ1BmTXNOcjBvSlRfQnVlRk41b0t2UHNWQl9fdVRZa3BSRkRPZlEwczRSTzF6dHMyMFZxV2ZOZDBGVXdGbnBBSHdrak5teklycUdId1RSbVl5c2JleWZYanhmSUNPUHdycVE3RlRXTXY0TEptRHJhQU9Gcjk5ZVFkMDliZmxhNDVxTjdXUmh6SGRaWHk5LVptSEtGcE9vVzNucVR3?oc=5",
-      "published_at": "2026-07-20 09:07:27",
-      "category": "world"
-    },
-    {
-      "title": "Yemen’s Houthi rebels threaten blockade against Saudi Arabia - Financial Times",
-      "description": "\nYemen’s Houthi rebels threaten blockade against Saudi Arabia  Financial TimesSee more headlines and perspectives on Google News\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNi11dEc2NXJ6MXk5MXhfRkh1T2VkVmJHZkY3WWxyMXVocU9NenhTWlRqbl9DQkZBOEtUdnEzZE9DMVZ0Nzk1aXRvT1dYclBQSF8yOVdOSXZ4VGd4dHYybUhfZm9fdndsWldaYnRxMThBODRMVlk3QjUxTTRHdGViUnozLXg?oc=5",
-      "published_at": "2026-07-20 12:49:36",
-      "category": "world"
-    },
-    {
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify - BBC",
-      "description": "\n\nTen killed as Russian attacks on merchant ships in Black Sea intensify  BBC\n\nRussian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened  The Guardian\n\nRu",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dXZPTW1tQTFZTjVQWWJZWkpUREVYNEtpdVI2NnFqZ3dRc3dKVUFKSVVMQnI3cGUydEo1bk81MDVDQlItaGVCNXBiVkw4QnZNVk5mV0JYaHRqdWNB?oc=5",
-      "published_at": "2026-07-20 13:36:46",
-      "category": "world"
-    },
-    {
-      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining - The Guardian",
-      "description": "\n\n‘It’s total devastation’: inside the Amazonian war against illegal gold mining  The Guardian\n\nIllegal Gold Mining Devastates Brazil’s Sararé Indigenous Territory  Impakter\n\nRecord Gold Prices Fuelle",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTm5zeWVib2tkTXp1d1ozX254UW9DR0JRdV83M1lzT2M1ODhZcEduWmNrWUR6ck4xc1hIUmJLYW1aVWdKRzB3djM5Q2ZXcnZ3RjZNdUtLQlhXQTM5VEMyRmJoNXJPMzdpRERhQndsY1daZ3hYR05uRmZ1a21vNENPWVhzVEhHMndjUjBINEdCaVRZZjJNX21McWdodVNzWHJOUzZjMHRVV1RJUQ?oc=5",
-      "published_at": "2026-07-20 14:58:00",
-      "category": "world"
-    },
-    {
-      "title": "China's open-weights AI strategy is winning",
+      "title": "China’s open-weights AI strategy is winning",
       "description": "",
       "source": "Hacker News",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
@@ -79,6 +95,22 @@
       "category": "tech"
     },
     {
+      "title": "Human mathematicians are being outcounterexampled",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "published_at": "2026-07-20T19:03:37Z",
+      "category": "tech"
+    },
+    {
+      "title": "Who's Afraid of Chinese Models?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "published_at": "2026-07-20T11:05:58Z",
+      "category": "tech"
+    },
+    {
       "title": "Hacker wipes Romania's land registry database",
       "description": "",
       "source": "Hacker News",
@@ -95,35 +127,19 @@
       "category": "tech"
     },
     {
-      "title": "Human mathematicians are being outcounterexampled",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "published_at": "2026-07-20T19:03:37Z",
-      "category": "tech"
-    },
-    {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "published_at": "2026-07-20T16:36:36Z",
-      "category": "tech"
-    },
-    {
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nothings.org/gamedev/ssao/",
-      "published_at": "2026-07-20T15:07:31Z",
-      "category": "tech"
-    },
-    {
       "title": "Airport Simulator",
       "description": "",
       "source": "Hacker News",
       "url": "https://airport.apunen.com/",
       "published_at": "2026-07-20T10:30:40Z",
+      "category": "tech"
+    },
+    {
+      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+      "published_at": "2026-07-20T20:08:45Z",
       "category": "tech"
     },
     {
@@ -148,22 +164,6 @@
       "source": "arXiv (AI/ML)",
       "url": "http://arxiv.org/abs/2607.16183v1",
       "published_at": "2026-07-17T17:57:49Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Cluster-Aware Matching via Laplacian Optimal Transport",
-      "description": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.16178v1",
-      "published_at": "2026-07-17T17:56:51Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
-      "description": "Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.16177v1",
-      "published_at": "2026-07-17T17:56:05Z",
       "category": "ai"
     }
   ]
