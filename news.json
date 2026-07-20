@@ -1,115 +1,74 @@
 {
-  "last_updated": "2026-07-20T09:51:28Z",
+  "last_updated": "2026-07-20T12:10:40Z",
   "sources": [
     "Google News Egypt",
-    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Andy Burnham to become PM as Keir Starmer prepares to leave No 10 - BBC",
-      "description": "\n\nAndy Burnham to become PM as Keir Starmer prepares to leave No 10  BBC\n\nAndy Burnham to become UK’s PM on Monday: What happens next?  Al Jazeera\n\nThe fatal weakness that sank Starmer could undermine",
+      "title": "Andy Burnham is Britain’s new prime minister — live updates - politico.eu",
+      "description": "\n\nAndy Burnham is Britain’s new prime minister — live updates  politico.eu\n\nAndy Burnham becomes UK prime minister after meeting King Charles  The Guardian\n\nWill Scotland buy Burnham's vision of a 're",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTTXBsQzBIUlJBR3RTZ1JhNDFHVmJvc1FNT3Y1WWpiNkNTRDNkbkFoQUJ5b1ZYdE9vRk9OaEFoSGdvY0I5ZklvNHNLdXZERVBiR0tQVm1pZw?oc=5",
-      "published_at": "2026-07-20 05:52:13",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTG9sZGJNdzQycFNGcWVQNVFYc0hIa1JYRE1VeXlvSHppZk5zMXo1NURGSVVtcm9HdzBSSGhGOUVTY3NnTFNOa05JWWV4QkRpTWpUZnpzV0JiVUJqTnlxRHl2Ny1oRkw1VU5kZDhHMEZEcUhUeGRsQ0xzbFFfdw?oc=5",
+      "published_at": "2026-07-20 11:26:03",
       "category": "general"
     },
     {
-      "title": "Burnham to maintain ban on North Sea exploration licences - Financial Times",
-      "description": "\n\nBurnham to maintain ban on North Sea exploration licences  Financial Times\n\nIs Andy Burnham promising a new dawn for North Sea oil and gas?  BBC\n\nBurnham risks Labour backlash if he reverses ban on ",
+      "title": "Andy Burnham signals £12,570 threshold for paying income tax may rise in boost for millions - London Evening Standard",
+      "description": "\n\nAndy Burnham signals £12,570 threshold for paying income tax may rise in boost for millions  London Evening Standard\n\nWhat Andy Burnham means for taxes, pensions and mortgages  The Times\n\nDUP sets u",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcW1zaWVLX0JESVMyblZkYU9uZmRZODFUcnlwNG0zb3hRZVdvN2pZMzF4VUpuVVo5clMzalB6WWViRlUyd2FSWlZZQzZzcGdBdDFWMHBrazk3azM1OTYzckQ4V3AzcFVvSGw4TU5vUkNwMEJRREFNMy0yZkhPZ25FVkpEeGU?oc=5",
-      "published_at": "2026-07-19 12:22:16",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFBkLVBiWUpxdXIycWljcnpTUm5SYkNuemhJM01CRFNVN3BDTE5qUUdoTHZoWmRhYWZxNERwTGYxUWJHZVNJSldha3FPUlcwb3ZfcGlSSnE4ZlBGa0dWU0JjNTNFdG9YWS1wUk9KbDJjcUdyWHEwdWJGbjdVb21hT29RcGxwNWVRS1FiTUJWZTFxdHU2X2FlS1F4a2dtbWFDZ2JaQmVDaw?oc=5",
+      "published_at": "2026-07-20 10:27:34",
       "category": "general"
     },
     {
-      "title": "Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’ - The Independent",
-      "description": "\n\nUkraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’  The Independent\n\nRussia launches major ballistic-missile attack on Ukrainian cities  BBC\n\nRussia pounds Kyiv as NATO mili",
+      "title": "US expands Iran offensive as diplomats claim talks ongoing - The Guardian",
+      "description": "\n\nUS expands Iran offensive as diplomats claim talks ongoing  The Guardian\n\nTrump says US strikes hit Iran in 'honour' of American soldiers killed  BBC\n\nUS expands attacks on Iran after death of anoth",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzdrR0pYOEVCSmQzUko3UnBVYVBYM2NVbE5jc3BxSHotZHkyWWlzUzFaaUttM203WURKRVBIMkFNVGtEZ0dGbk91eFlIdEhya29nR2NyWXVvYldYdjNOSjF5d0Fjc2xPV2o3cWItNVJyZEFlOWxmV2x3V1pLRV91S0kyTWFNMGpwM1hNWGRwaGZQdkxOeFFWUWhja0NJS095Nm90YVpLY1RZaEdHazZacWJyX2hMSlk?oc=5",
-      "published_at": "2026-07-20 05:19:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqYURIaDAySDVzVnJYZ2kzMVN5WjJLeUNxc3NKZmNRWS1NZGZ2RVp3Vkt3VWxBMFpDb1RoV1YzTWxsQ2RoVWN0UUhfQ09oQkM0T00zbElUV0tWbVNQVDVoNGo4TGZCeEt4Y1c5T2pwcFFKcEJUeVA3eGJNRnNLMDJqLW8xR1ZwcGV4dXdWSExpa3M?oc=5",
+      "published_at": "2026-07-20 08:59:00",
       "category": "general"
     },
     {
-      "title": "US launches fresh Iran strikes as death toll climbs - Financial Times",
-      "description": "\n\nUS launches fresh Iran strikes as death toll climbs  Financial Times\n\nIran war live: US military completes ninth night of strikes on Iran  Al Jazeera\n\nUS launches ninth night of Iran strikes as stra",
+      "title": "Keir Starmer meets with king to formally resign as PM before Andy Burnham takes over – UK politics live - The Guardian",
+      "description": "\n\nKeir Starmer meets with king to formally resign as PM before Andy Burnham takes over – UK politics live  The Guardian\n\nAndy Burnham pledges cost of living help in first speech after being appointed ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhPUkJQY2xKdlBnRmhHcV9GWUFZTk5nazg2X19YVmlqNlhxU3pDeVhYUUFFS3NpQVBlUjNqVGxXZDVlTmhTeEdleHUwM2NNQ0E4T0RHOTlOeXdWOGEybnZsQ2tiSGI1X05ldWNhTV90cUhmdjFWQUVpWVF6QTRoY2lQYjY?oc=5",
-      "published_at": "2026-07-19 20:59:21",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTDcwbkNtb29lMVQwSTN1R2hTVnljWG9aUWZDSVM5QkpOS1lVOWlNdy1qUTFIQmVKeGRqb05LdkdKa2N0aURfT2ZFV2pBemVtM0pvYU1IVWNHbHVCckxhM3VlNVpyT0N1TmxNeHQ1aUtJX05CT1JHNkZlQlZzQnhFenV4UVQ5YUJHUGg1em9iSGJvUUlsYnhkVTQ2V2IyWWFFbDhrdWlFell2V0ZOSFVRRlRZTFdabHdqTW5xTFdkNFg3WEVjOGM0RmpQdjZ5b0lKNFd3LXJLN3B3U0tFUm9ESWNUeVRvRWY5dnZRaU83Rm5XdmhhMGU4NVRjNm4zSW9ORmRFOXJlOA?oc=5",
+      "published_at": "2026-07-20 07:38:00",
       "category": "general"
     },
     {
-      "title": "My fitness tracker knew I was pregnant before I did - BBC",
-      "description": "\nMy fitness tracker knew I was pregnant before I did  BBC",
+      "title": "Fire crews battle blaze on Arthur’s Seat in Edinburgh - BBC",
+      "description": "\nFire crews battle blaze on Arthur’s Seat in Edinburgh  BBCSee more headlines and perspectives on Google News\n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMzNTQ1BPVWxZVlFJSC1HWkdCSkh2VFd5ZV9vTXdjemtKeFNId285eTFuek5qREpzalV5R0hxWHowT1FoRXYtR2tJVXMtaXM0SnU4b09ILXBMY0Rs?oc=5",
-      "published_at": "2026-07-19 23:09:18",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNQkNuWXp5bzliNjlrLWFWaEk3d2xRbmZlX3Utakw0bmtweUFScUp1TVFPWWRxSlNvRjBNYmFvQXk3QzRQVjFEVzVxOXdNNE4yMl9QNFZTYWxzNzk5?oc=5",
+      "published_at": "2026-07-19 19:39:52",
       "category": "general"
     },
     {
-      "title": "2026 World Cup: Spain 1-0 Argentina (AET): Ferran Torres' extra-time winner secures Spain's second title - Sky Sports",
-      "description": "\n\n2026 World Cup: Spain 1-0 Argentina (AET): Ferran Torres' extra-time winner secures Spain's second title  Sky Sports\n\nWorld Cup 2026: Spain's Lamine Yamal 'completes football' with victory over Arge",
+      "title": "Prisons minister Lord Timpson quits government - BBC",
+      "description": "\nPrisons minister Lord Timpson quits government  BBCSee more headlines and perspectives on Google News\n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTFNIRnNpMC1qOWdRZjhxVzNoREZvdVEzTHRhOG1zd2ZKem1XTzJlaXpIdXgzc0RQd01GWUpEeFh3R005dkZjNTh4Mnc2LVpBOXR6ZkNRT3dJODBGYmlaX2FVR2Y5SHozd09mb0Rsd0F4UURwcXpxUHpwN0U4cDhoU1FhM21YZk1QMV8zRWhKaFY2bm40X3AzZWRsLURKZlZ1UDZoZUhzTkdWWUhrcEk1WFlGOVA1M2pPN19NUndkNGJpYmdYU0VxaGh2Y2RDNnI3c25yejhteEl1Y2RQQTlkSzNsQklIaFVF?oc=5",
-      "published_at": "2026-07-20 05:40:38",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83ckFPVnFlbFFBbjgtMjhJbHdIcE5kQnNLQUhqeUVqSWdqbG1DdkdaaW5WcDVYcEp1TnUyNXF6LW9tSXlqc2xuYzdDMVdXLWVLVVN1N1JndnhmR0Rr?oc=5",
+      "published_at": "2026-07-20 09:12:10",
       "category": "general"
     },
     {
-      "title": "World Cup half-time show review — Madonna, Bieber and Shakira fall flat - The Times",
-      "description": "\n\nWorld Cup half-time show review — Madonna, Bieber and Shakira fall flat  The Times\n\nHits, misses and Muppets: the star-studded World Cup half-time show nobody asked for  The Guardian\n\nFans rip Madon",
+      "title": "Controversial farm subsidy scheme gets billion pound budget - BBC",
+      "description": "\n\nControversial farm subsidy scheme gets billion pound budget  BBC\n\nWelsh farmers welcome long-term funding pledge  Nation.Cymru\n\nMulti-annual SFS budget delivers much needed certainty to the family f",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHA2Y1NEX2xyQkc4b3pZNVZHYWpSZ0Nrc09HZWdIS1hUNk1RMmk2eWU0Z2VCRW9hNG9Db18xTTlSckZRU1hTUG05NjR3Z1drdkUtWVFrMk83NnByNFZlTWhSbHRCVUo2UGtDeXZIeEdZblJuQ1ZwZU1fT3FfbEJsYmc4cHRrcE1VYkJxVW8ydjFlRGlCZGt5RG1UOG9BWjk3M1hkZXFPSHFGbURCdkZCQXJhY1JqaXFEV2otTnBJbW9iZw?oc=5",
-      "published_at": "2026-07-19 21:20:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKZm9wQ3hFSkNxdXBYX0M1ZDctQWQ5VXhDSWlYZ2xDVExMcWk4U0VoTGFzQXhNOVhseEtLVHdPbURGSXJ3OHNxamZfUElYdTdLYm00Wlg0bzBqYzZl?oc=5",
+      "published_at": "2026-07-20 05:49:38",
       "category": "general"
     },
     {
-      "title": "Andrew and Tristan Tate held in 'solitary confinement' in US jail, lawyer claims - Sky News",
-      "description": "\n\nAndrew and Tristan Tate held in 'solitary confinement' in US jail, lawyer claims  Sky News\n\nTate brothers arrested in US as further UK charges take total to 59  BBC\n\nAndrew and Tristan Tate arrested",
+      "title": "South East Water announces new hosepipe ban for Sussex, Surrey, Hampshire and Berkshire - BBC",
+      "description": "\n\nSouth East Water announces new hosepipe ban for Sussex, Surrey, Hampshire and Berkshire  BBC\n\nHosepipe ban brought in for 2.4m people amid ongoing hot weather  The Independent\n\nHosepipe ban extended",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGEwT2xHWTRkSGJaQnhMc29NSDl6RE9mR21TcWh6cmQ4YXQzNFFXUklRRkFZMDhVaWRTRWs3LWJwMjRpT3N3QU9xT2hpakc5TTBCdnJfQXBjdHRHNEd0Zkk3MHNURnJiTGQzN1lvb0xTa1pKN3J5NU5OdmpWM1lLbWxUTjdTZzNMQWFkVS1zbWZwUkhTNk5LQ2lzdVpnNlBwVF9OWXA1Z0xDS2ZhYk8zbEw3Yw?oc=5",
-      "published_at": "2026-07-19 22:33:01",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01MmZEN2JFWnYtQ2t6NF8zSVBpeUpoSHgyWEwzb3BxQTA5ODdFLVJuNmNFSEtfVUFoZFJ0UlJCZ09CQ2U0dVYxYW5lWHUzcEJ2eU91VUtNVQ?oc=5",
+      "published_at": "2026-07-20 11:11:19",
       "category": "general"
-    },
-    {
-      "title": "‘Controlled detonation’ of Iranian drone kills US soldier - The Telegraph",
-      "description": "\n\n‘Controlled detonation’ of Iranian drone kills US soldier  The Telegraph\n\nUS soldier killed and one injured after Iranian attack in Iraq  BBC\n\nUS ‘prepares for return of all-out war’  The Telegraph\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbGxIcWtoSUZlYnNJVERPSGpsTUxQX0dEbU1ub3RJNTladG1MOTNEZjczYkpOa1hOUnd1UkppTUZoMDlUT1RtcHJneVp5eUVCaERyQUZYcU92SllHbkM3MHg2Y3hUcTlVSmZpdmVrMmZuamgtNnNYdmlSNVNOc3pnZUlXQmxFRDBzaF9SOG9aLVNEa05XWk1tbEIxNzcxVWY5emdBRTNJRkQ?oc=5",
-      "published_at": "2026-07-20 00:25:00",
-      "category": "world"
-    },
-    {
-      "title": "JD Vance announces birth of baby boy with wife Usha - BBC",
-      "description": "\n\nJD Vance announces birth of baby boy with wife Usha  BBC\n\nUS vice president JD Vance welcomes fourth child  Sky News\n\nJD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51enZLdWR0dlNsdnVpV0syOXFCYVFkVUdBa3pPbllWQl94M0hhbkU0LTB2RzlKRC14T3RmYkNWOXFRSUR6NXZTcktaZ2lwOHRvemJLVVVGOFFEcEpl?oc=5",
-      "published_at": "2026-07-19 22:40:53",
-      "category": "world"
-    },
-    {
-      "title": "Iran attacks Bahrain, Kuwait and Jordan after US hits Iranian nuclear site - Al Jazeera",
-      "description": "\n\nIran attacks Bahrain, Kuwait and Jordan after US hits Iranian nuclear site  Al Jazeera\n\nIran war live: US military completes ninth night of strikes on Iran  Al Jazeera\n\nUS launches ninth night of Ir",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkZ5QXo1N2hOeXZuODFkalM2aVg4bjNlX0p4UHRzM0FLb3VBbzBKeFRGeVZCdENGMEFKRndFXzdTaDFTazgtczZnZDRBZWRHQjdHTjg3MHF1MjF3blhaM0pINlhCeGxPZkJDVTBYTkkyY0FPQjFpZEp0N3RzRFNSMkJBMFRxV3NCcmZpc256X0I1MlRUelMtc0g1RdIBoAFBVV95cUxQbkZxaDI5R0M0elRWcEpiTjhNeXJnQ0NJSW9VNFhTQ2MydlF1M2c0azUxbThYcksyZDMxYkZhcG40VGwySDh1VXdoS29sT1RNdEpLSnZfMTA3QmpweW1NYlhRVmVieWQ2YU1zbzl6TWJ5d0k1S3VHLTBRYUdzMkdyYTdkdDJOWFlWM1VHcVdmSFF6NmlLXzFCb0FwVXJhTEdD?oc=5",
-      "published_at": "2026-07-20 02:46:17",
-      "category": "world"
-    },
-    {
-      "title": "Al-altered images on birdwatching forums putting research at risk - The Guardian",
-      "description": "\nAl-altered images on birdwatching forums putting research at risk  The Guardian",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
-      "published_at": "2026-07-20 04:00:00",
-      "category": "world"
-    },
-    {
-      "title": "Spain records 70,000 hectares burned this year amid wildfires - Euronews",
-      "description": "\n\nSpain records 70,000 hectares burned this year amid wildfires  Euronews\n\nSpain wildfires: British couple named among 13 victims  The Times\n\nHundreds evacuated as wildfire rages north of Madrid  The ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVV6NFpsYnNDV2tsT1pFLVZ4ZjloYTYybnZFYWhCX3hJYTY4QkhUd2Uydi1mOEowX2pRVWtuUzYyRThXelItdE5GRHhiV2xXZ2dCb0lMQ1l3eVBGSGtLUWo2bGoyd0d5bUw4djdnQVVRUjNtcHZ6MzI0QWVuSzNJS1cydVFQRElNMUFNVDMwcXZENmc3TWVUaUdZeGVSdjU3ZWpDUzFiNVpKZW5fRDBscXFRS3JNdw?oc=5",
-      "published_at": "2026-07-19 10:45:12",
-      "category": "world"
     },
     {
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
@@ -136,11 +95,19 @@
       "category": "tech"
     },
     {
-      "title": "US gas prices hit an average of $4 a gallon again",
+      "title": "Why is it so hard for the U.S. to win wars?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e",
-      "published_at": "2026-07-20T09:12:10Z",
+      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+      "published_at": "2026-07-20T11:24:45Z",
+      "category": "tech"
+    },
+    {
+      "title": "Airbus Takes Flight from AWS",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "published_at": "2026-07-20T10:12:22Z",
       "category": "tech"
     },
     {
@@ -152,20 +119,52 @@
       "category": "tech"
     },
     {
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "published_at": "2026-07-15T08:35:46Z",
-      "category": "tech"
-    },
-    {
       "title": "Claude Code uses Bun written in Rust now",
       "description": "",
       "source": "Hacker News",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "published_at": "2026-07-19T10:03:23Z",
       "category": "tech"
+    },
+    {
+      "title": "Eliminating Go bounds checks with unsafe",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+      "published_at": "2026-07-14T16:01:57Z",
+      "category": "tech"
+    },
+    {
+      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://hidden-phenomena.com/articles/rh",
+      "published_at": "2026-07-17T22:02:18Z",
+      "category": "tech"
+    },
+    {
+      "title": "Orion Browser by Kagi",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://orionbrowser.com/",
+      "published_at": "2026-07-19T19:13:29Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+      "description": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.16184v1",
+      "published_at": "2026-07-17T17:58:29Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+      "description": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic an",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.16183v1",
+      "published_at": "2026-07-17T17:57:49Z",
+      "category": "ai"
     }
   ]
 }
