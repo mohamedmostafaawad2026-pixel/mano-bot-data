@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T20:15:10Z",
+  "last_updated": "2026-07-21T21:57:36Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,6 +120,14 @@
       "category": "world"
     },
     {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "published_at": "2026-07-21T20:09:52Z",
+      "category": "tech"
+    },
+    {
       "title": "FreeInk: Open ecosystem for e-readers",
       "description": "",
       "source": "Hacker News",
@@ -136,6 +144,14 @@
       "category": "tech"
     },
     {
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "published_at": "2026-07-21T21:09:25Z",
+      "category": "tech"
+    },
+    {
       "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "description": "",
       "source": "Hacker News",
@@ -149,22 +165,6 @@
       "source": "Hacker News",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "published_at": "2026-07-21T17:14:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "Apple has decided to compete for creativity app users",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
-      "published_at": "2026-07-21T18:30:53Z",
-      "category": "tech"
-    },
-    {
-      "title": "Apple defeats liability for not scanning iCloud for CSAM",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "published_at": "2026-07-21T14:31:41Z",
       "category": "tech"
     }
   ]
