@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-20T23:50:30Z",
+  "last_updated": "2026-07-21T01:54:49Z",
   "sources": [
     "Google News Egypt",
-    "Hacker News",
-    "arXiv AI/ML"
+    "Google News World",
+    "Hacker News"
   ],
   "articles": [
     {
@@ -71,15 +71,55 @@
       "category": "general"
     },
     {
-      "title": "China’s open-weights AI strategy is winning",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "published_at": "2026-07-20T14:21:47Z",
-      "category": "tech"
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks - BBC",
+      "description": "\n\nTrump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks  BBC\n\nCanadian wildfires rage as Trump warns Carney again over 'poisoning' US air  BBC\n\nTrump slaps new tariffs on Canadi",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hcnJhaElLT3JSUHlySFJfZGJaYWFUVEF1TG82OUhqWlgwdlhyb3lsMW5PUjN4QnNZcTJBa2tVNmlrNS1HR2Q1a2YxM3RsS2c2cXVCSF93WlZjUWFs?oc=5",
+      "published_at": "2026-07-20 21:35:33",
+      "category": "world"
     },
     {
-      "title": "Who's Afraid of Chinese Models?",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers - BBC",
+      "description": "\n\nUS launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers  BBC\n\nUS bombs Iran for a 10th night as Tehran attacks Kuwait  Al Jazeera\n\nNearly 100 U.S. troops injured in l",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UcGlkNnY0SFV4M2RrcmpiYnRSc01kS21feXJrM2RDTXE1MnV2TG4zdjZBTXZvX1ZjYlFaQWFlX3lQaWFaWWR5NGVxcUtSbFk4LW9IWmhSdW93dXBw?oc=5",
+      "published_at": "2026-07-20 21:09:31",
+      "category": "world"
+    },
+    {
+      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes - Al Jazeera",
+      "description": "\n\nTrump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes  Al Jazeera\n\nTrump says Benjamin Netanyahu ‘will not be arrested’ if he visits the US  The Guardian\n\nMamdani Invokes “Interna",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdW5DdlYyLUtFU2tENzdROWxxWU9GRGlEb1pjUEJaMXJCWFRRdDJIbjVjbEVxOW1HSmI5YkFLYWM1YWNkdjhjZzcwNmJsbGlWR05QYWxkWERtRVZZRDlEbW9QS25nNWZkTWF1RHIzdXR1YmZRdmlRM1g1UF8wcDd0QnYtNlVlUEYtblZZYzdJUVVUOW5xeHdGY3hGa3lZU1JMajlUNGI2SkNPVHNrdGJMTktn0gG3AUFVX3lxTE9TQXNoeDhIWEdfbmt3NjlWUFc3QWxzSGR3akh5dFF5dVFHdTVVU1pwVFl3dk1Zck44QUZiUTlWb1Z2T0JTeWZES3l5SFpHUmozTkRWVGVURV9VamxGQk9iZTNzQUFvMFhpQk5mVWg4eUhjOFlyLWVWdjJJWjhYTTM1azh4YUxhaDl2ZUt5c0JiVkJvNEV4cENNSjl0TVhQRjYwd3F4c20wdWxhWmRGUFFocHRYaHY0bw?oc=5",
+      "published_at": "2026-07-20 21:16:34",
+      "category": "world"
+    },
+    {
+      "title": "Explosion at New York immigration court ‘targeted ICE agents’ - The Telegraph",
+      "description": "\n\nExplosion at New York immigration court ‘targeted ICE agents’  The Telegraph\n\nArmy veteran accused of throwing incendiary device at NYC federal building carried anti-ICE material, FBI says  CNN\n\nFBI",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fN0VPNnpEUHRYU3lsZDQwUDY1Umxrcmprb2hDN3lySkplM3BuVnprUVB1YzRhaHhZY2VqdTVQdDY2cERZMWRBV2tDdGxITDlXd0czclZEVTFFZzB4bWRLbDZMaXl0QnBZUlNHcWx0YllZbkNEbGU3c2k4aHVWSjg?oc=5",
+      "published_at": "2026-07-20 20:50:00",
+      "category": "world"
+    },
+    {
+      "title": "Mother of four gives birth to identical quadruplets - The Telegraph",
+      "description": "\n\nMother of four gives birth to identical quadruplets  The Telegraph\n\nRare identical quadruplets born in Australia  BBC\n\n‘One in 15 million’: Brisbane woman gives birth to identical quadruplets  The G",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRm9IMk1IYjVDMlpLOGJPM1BSRjZZRG5RbDBwb1JGemNaSlBrNkxQV2NYWEtSN29BZWJxSGN0VlJ4S3FyWEE2R2VjYlhPYlo0eFUxd3F4dURxUVI4LWRaZnVPeEJGUVdEVUpIV01LcDcyS3BrZjB2LUV1R01QZzZlV1NmZ3BEclhIX2ZFTTllZVJ4VkVlQ2VwRExmdlpycjY0cTFqLQ?oc=5",
+      "published_at": "2026-07-20 18:13:00",
+      "category": "world"
+    },
+    {
+      "title": "Donald Trump to meet Lebanon’s president as US pushes ahead with peace deal - Financial Times",
+      "description": "\n\nDonald Trump to meet Lebanon’s president as US pushes ahead with peace deal  Financial Times\n\nLebanon’s military starts ‘pilot zone’ takeover in south  Al Jazeera\n\nIn first, IDF reportedly to begin ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkh2UDZacVBPQ2lfSnNzQk44N01FUGQ4ODBCcmhVdkM1NTJlWUJLalI5d0tSaDNVMGhiMHF5WVB1blRYRnhFcHJrSlNpOUs4QVRaQUlER1VqR3k5eEtfbWxhTTNDYjVXa1BrQVJRdWdQRlRjbjFvUGJwelRuNmNWak0xRkI?oc=5",
+      "published_at": "2026-07-20 17:27:55",
+      "category": "world"
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
       "description": "",
       "source": "Hacker News",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
@@ -119,52 +159,12 @@
       "category": "tech"
     },
     {
-      "title": "Nativ: Run frontier open models locally on your Mac",
+      "title": "Jellyfin founder Andrew leaves team",
       "description": "",
       "source": "Hacker News",
-      "url": "https://blaizzy.github.io/nativ/",
-      "published_at": "2026-07-20T18:16:08Z",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "published_at": "2026-07-20T23:15:41Z",
       "category": "tech"
-    },
-    {
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "published_at": "2026-07-20T20:12:19Z",
-      "category": "tech"
-    },
-    {
-      "title": "Airport Simulator",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://airport.apunen.com/",
-      "published_at": "2026-07-20T10:30:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
-      "published_at": "2026-07-20T20:10:44Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-      "description": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.16184v1",
-      "published_at": "2026-07-17T17:58:29Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-      "description": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic an",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.16183v1",
-      "published_at": "2026-07-17T17:57:49Z",
-      "category": "ai"
     }
   ]
 }
