@@ -1,74 +1,123 @@
 {
-  "last_updated": "2026-07-21T08:11:14Z",
+  "last_updated": "2026-07-21T10:59:12Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Burnham pledges to 'bring back hope' as he makes Healey chancellor - BBC",
-      "description": "\n\nBurnham pledges to 'bring back hope' as he makes Healey chancellor  BBC\n\nWho's in Andy Burnham's cabinet?  BBC\n\nThe five fiscal challenges facing John Healey  Financial Times\n\nAndy Burnham pledges t",
+      "title": "Chris Mason: Cull of Starmer allies as new chancellor faces crunching spending choices - BBC",
+      "description": "\n\nChris Mason: Cull of Starmer allies as new chancellor faces crunching spending choices  BBC\n\nDefence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – busines",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwSW4ydHZxNTZlalotWllqMWg3NHZNaG9PT1g3T2ZWMk1VejlIVlV5V1lGLTVJMWVpTmxOWlQtU2xtRmpPMG9qOWtBekkyMVRvNElNZHpzN2lmRWxx?oc=5",
-      "published_at": "2026-07-20 19:03:54",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EOTRRS01fZmZucXR0cDNFVG9mQkpZdTROWURfUk5HRmgxSXlpOTR5WGFWeEktd0NCSW1RTGVJUXR2WngyN2ctRm1iQVRnY05RQVBYV21xRDZ6cTg4?oc=5",
+      "published_at": "2026-07-21 05:30:45",
       "category": "general"
     },
     {
-      "title": "Ann Widdecombe latest: Joshua Kerry charged with murder of former Tory minister - Sky News",
-      "description": "\n\nAnn Widdecombe latest: Joshua Kerry charged with murder of former Tory minister  Sky News\n\nMan, 28, charged with murder of Ann Widdecombe  BBC\n\nWiddecombe murder suspect charged  The Telegraph\n\nU.K.",
+      "title": "Andy Burnham to cut VAT on electricity bills as first cost-of-living move - The Guardian",
+      "description": "\n\nAndy Burnham to cut VAT on electricity bills as first cost-of-living move  The Guardian\n\nBurnham cuts VAT on electricity bills in first major policy announcement – UK politics live  The Guardian\n\nNe",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGVPWHRKYzB2WFRyYWtuemtSYllpUExNcE1EcHZMb1NCTkpVMEF3eDFoUjhOaHp6UVV6RDlDNzVtdTdGMkI2SXEySlUzREJ6c0JXZjZOTXc1RGdLX0NFMkxpSHRTV0RMTm5VbTduLUxHaEZSdUpBRDZhTDYtU2wxSHhDaTc2YkdiNThCd3NoQmRjR2VlRXFjeHI2UDVqanVudGg2YkFrS2djYUpScnVXVllIMlFpUGJjOXc?oc=5",
-      "published_at": "2026-07-21 04:12:30",
-      "category": "general"
-    },
-    {
-      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live - The Guardian",
-      "description": "\n\nUS launches further strikes on Iran; Houthis threaten Saudi shipping blockade – Middle East crisis live  The Guardian\n\nUS launches fresh strikes on Iran, as Trump warns of retaliation for deaths of ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUNDemZRazNzOVF4V011ZWNXUUQ3Zw?oc=5",
-      "published_at": "2026-07-21 04:55:00",
-      "category": "general"
-    },
-    {
-      "title": "US to hit Canada with 50% tariffs on wide range of goods - Financial Times",
-      "description": "\n\nUS to hit Canada with 50% tariffs on wide range of goods  Financial Times\n\nTrump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks  BBC\n\nTrump administration imposes 50% tariffs",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRERDeEYtRHdaU0NYZVBlWHc3NGZ3a29SWFQ2S0dnOXFSRlJVdE1kTlR3U2tWSTZiUmxVcnNncndDTFRQQVJGMmZENnVGT1BsM0EwMnNPa0VkSFhkMEctX0N2Y3Z1Z0p2RUJlb2VPaS05ZVdtaU90Y2VZRkctRUhZV1ZVbTE?oc=5",
-      "published_at": "2026-07-20 21:01:54",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmh0THNvTWV6ZUxmbk1zNGV6eDIzSHRObHNXdkZlM2sxeWFJSldhYThrUTl0aFRVM3hTa1pxSjJLVjJ6Q0lmVUVyZXFPTFZFRXF5dHlZYU9xWkJILUdUUXJ3Tk1EXzltWEZnVzB0eFZIMFNyai16LTJZUXFHY2xFVWVHdTB0R1NjZmV5T2wzdWlUc2dmUUVCdEJFMlp0M1J4QXZJX0t0eVVBRlFGNTRUeDVZSFM3MzRNbVQwWUZVX2dTTVJSNEJPc0lNY1l2UQ?oc=5",
+      "published_at": "2026-07-21 05:43:00",
       "category": "general"
     },
     {
       "title": "'We will help people to live well,' pledges Andy Burnham in first speech as PM | ITV News - ITVX",
-      "description": "\n\n'We will help people to live well,' pledges Andy Burnham in first speech as PM | ITV News  ITVX\n\nAndy Burnham to set out cost of living support  BBC\n\nAndy Burnham’s plans could bring the UK closer t",
+      "description": "\n\n'We will help people to live well,' pledges Andy Burnham in first speech as PM | ITV News  ITVX\n\n'Burnham era begins' and 'King Kev'  BBC\n\nFX Daily: Burnham’s first market wobble  ING Think\n\nAndy Bu",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWl4TEplQXhjRWV2Y1ZCcGg1OUR1RERxbFhhTHB5Y1JIXy14SlhPNG5ya3JOenk0SWF2V092SXVraUx1TFNGdERPRnRHSlhJT0w3MFZrdF9PendWVUw4VUV3aVBoc0JaWkZuRnM4NmVPTmpZQk9SYmlha21ySnFTanMxbl9RUUxfcDBaZHVvS0FNRkNLeHhiag?oc=5",
       "published_at": "2026-07-20 17:28:32",
       "category": "general"
     },
     {
-      "title": "Tate brothers fight extradition to UK over rape and sex-trafficking charges - The Guardian",
-      "description": "\n\nTate brothers fight extradition to UK over rape and sex-trafficking charges  The Guardian\n\nTate brothers appear in US court for extradition proceedings  BBC\n\nAndrew and Tristan Tate will fight extra",
+      "title": "Man due in court charged with murder of Ann Widdecombe - BBC",
+      "description": "\n\nMan due in court charged with murder of Ann Widdecombe  BBC\n\nMan, 28, charged with murder of former MP Ann Widdecombe  The Guardian\n\nAnn Widdecombe latest: Murder suspect to appear in court for firs",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdC1VdS1FRUw0WGtqZXhaRndyWmkxTmx0aU5zdDkzMEItTEYzcnJFd2ZYN0VYX2V3THRDanF1bWVsMm55RndkS0Q0c0ZjUlpLeXVzS0FPblJ6b2FIZ3UxaVIzNFRWU2JoU09LbnJGeUp3TndQZXl2dTZkQ1hyWmZYM0RhbHZ6aHk3QWx3UkE3M2tTcTQ2RnJSWQ?oc=5",
-      "published_at": "2026-07-20 19:01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82dk5SbGhEX2lpa01IQ05pQzlUZGdnOXd6THczSzF5UGxxZkdNY2JENi1VTWcwUThzOTZwbzJacVJNS2lFNWNrMEVJei1wTDUtZUFsM0JIUC1MTEhR?oc=5",
+      "published_at": "2026-07-21 06:26:07",
       "category": "general"
     },
     {
-      "title": "Kevin Keegan dies aged 75: Former England forward and manager passes away after battle with cancer - Sky Sports",
-      "description": "\n\nKevin Keegan dies aged 75: Former England forward and manager passes away after battle with cancer  Sky Sports\n\nAlan Shearer leads tributes to Kevin Keegan: 'Sleep easy Boss'  ESPN\n\nSir Kenny Dalgli",
+      "title": "US to hit Canada with 50% tariffs on wide range of goods - Financial Times",
+      "description": "\n\nUS to hit Canada with 50% tariffs on wide range of goods  Financial Times\n\nTrump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks  BBC\n\nDonald Trump to impose 50% tariff on mos",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPREVIWDhIWTdyQ3pZa0JkSjNhVGVpYmtqSTQzZnc2X041R2ExSGpSd2JPQlRWbkRidjBEVXdQd3AtUTdhd3BNX0kya21SUHRJaHk1Q21samF6eF9rcE1vTU5WNnd3Y01TYzZvQW1ycVN5Q0VIS0pMT3V3bDBfQUVEajRLV1F2Y0pPd1ZhOXYtUTlBUzVfLXJFSy1hZG1LRm1FTFBLWjNiaU1WekhOR3hPeUlBblF0ZE9FZDU5QUFNbDBVTWluOFk1N2Q2SWdnZU5HaFJGc09VUGhNelU2Z3Q1NEdwZnNpamM?oc=5",
-      "published_at": "2026-07-20 20:06:31",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRERDeEYtRHdaU0NYZVBlWHc3NGZ3a29SWFQ2S0dnOXFSRlJVdE1kTlR3U2tWSTZiUmxVcnNncndDTFRQQVJGMmZENnVGT1BsM0EwMnNPa0VkSFhkMEctX0N2Y3Z1Z0p2RUJlb2VPaS05ZVdtaU90Y2VZRkctRUhZV1ZVbTE?oc=5",
+      "published_at": "2026-07-20 21:01:54",
       "category": "general"
     },
     {
-      "title": "The middle-class message in Mrs Burnham’s £890 Downing Street dress - The Telegraph",
-      "description": "\n\nThe middle-class message in Mrs Burnham’s £890 Downing Street dress  The Telegraph\n\nBurnham names his cabinet - with Healey as chancellor and Rayner returning  Sky News\n\nIs that a Victoria Beckham d",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers - BBC",
+      "description": "\n\nUS launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers  BBC\n\nIran war updates: US launches new attacks; Houthis announce Saudi blockade  Al Jazeera\n\nUS issues ‘world",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Nk5wc1dudWlKY1NfRk9kTW1lWk42RlFkV3czWjRSUkJZZ2NwcHRRRjQ1NjNTN1UyaDJzT1U0a2VFSFdvQzVBbnZRc1g4V2RRT29SS2x0WnNSRnlJdUJOQnAtRVVoMDdFXzdIR0JRZ3p4elgzSmJWaXZ5cWk0YTg?oc=5",
-      "published_at": "2026-07-20 13:55:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UcGlkNnY0SFV4M2RrcmpiYnRSc01kS21feXJrM2RDTXE1MnV2TG4zdjZBTXZvX1ZjYlFaQWFlX3lQaWFaWWR5NGVxcUtSbFk4LW9IWmhSdW93dXBw?oc=5",
+      "published_at": "2026-07-20 21:09:31",
       "category": "general"
+    },
+    {
+      "title": "The fall of America’s farm superpower - Financial Times",
+      "description": "\n\nThe fall of America’s farm superpower  Financial Times\n\nWaiting for trade gains  iowafarmbureau.com\n\nU.S. trade improprieties will come with consequences  The Western Producer\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFE4Ukg4UUlKSzNhY0dPQlVqd2RndUs5UGV4NlVONG9EQVJjRGlvUUZpbG1fYmstczB0Z08tNkxRbWRkd2w3SGs0ZEV2aW1kc3FtbWNEUUh5VDBsRVllTXJWRy11T3h1WGFSWGVPYXNYSjFJWnR0UDFTUGFoU1FvZXlyNVk?oc=5",
+      "published_at": "2026-07-21 04:01:48",
+      "category": "general"
+    },
+    {
+      "title": "Why Andy Burnham will find it so tricky to unite Britain - BBC",
+      "description": "\n\nWhy Andy Burnham will find it so tricky to unite Britain  BBC\n\n‘Manchesterism’ is bigger than Andy Burnham  The Conversation\n\nDon’t believe Andy Burnham’s PR machine  Al Jazeera\n\nCan Andy Burnham’s ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNlV5N1FyV200bWdmX1V5UjZ2WU9EeXdyeXM0eWtkSVNLcmgzUEY4M0tHamhjVi1WbHBUM2F2SWZoODRCTUtVblQ3a1plZ0RYUy1aVjctLWNRTXRj?oc=5",
+      "published_at": "2026-07-20 23:49:02",
+      "category": "general"
+    },
+    {
+      "title": "Trump places tariffs on Canadian hockey sticks - The Telegraph",
+      "description": "\n\nTrump places tariffs on Canadian hockey sticks  The Telegraph\n\nTrump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks  BBC\n\nTrump imposes 50% tariffs on Canadian goods from alc",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGNZUlRrUXFfeDlsX1pObUNvTk9XcHc4T21IdXhNR3RXc1RqRGtTY21mZEMyenZDYjJlcGtHZ2gxY3d2ME9BVWtUTjdlNGFnNmg4RFJjeVRuRmx1T3o2QVJmNjNFZUMwQVpmT0VrSWxQUTM3aUFjWGdFTHZHaWZmYU9ZWE5wNHpPRHNBbw?oc=5",
+      "published_at": "2026-07-21 07:41:00",
+      "category": "world"
+    },
+    {
+      "title": "CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC",
+      "description": "\n\nCJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown  BBC\n\nCockroach movement supporters stage protests in cities across India – in pictures ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82OVd1Rnk0TTFRdWJyMk91bzY0YzZJbVh2cnN0Ti05ZWVSaHlIWTZPRzlhdGthcVVfOG9UTXhqdzF2Z01oWDdFaExHYmY1eTUzcDJWeTZISlVpX013?oc=5",
+      "published_at": "2026-07-21 08:44:43",
+      "category": "world"
+    },
+    {
+      "title": "At least 60 tourists rushed to hospital with toxic gas poisoning at Spain hotel - The Sun",
+      "description": "\n\nAt least 60 tourists rushed to hospital with toxic gas poisoning at Spain hotel  The Sun\n\nAt least 60 in hospital with toxic gas poisoning from Costa del Sol hotel  Metro.co.uk\n\nSpain Sees Travel Sa",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc1E5dHZPNEd4M3RtWEo3TlhMOElBMy1WZEdOMmszbFU4RjV5N0JkUF9qUG5qUi00ZUhJQ1pFdmlQWW5lVFBQdGZHblBBeE80UmlKZERtRXVkd3ozQlRyTGR0OHVGVEVybWh0UlU4Z0t1UGxYaVQ5ZFhyZE1EZUk?oc=5",
+      "published_at": "2026-07-21 07:13:00",
+      "category": "world"
+    },
+    {
+      "title": "Nineteen found guilty of trafficking babies in Indonesia and Singapore - BBC",
+      "description": "\n\nNineteen found guilty of trafficking babies in Indonesia and Singapore  BBC\n\nRingleader of group selling babies in Singapore jailed for seven years in landmark Indonesia case  The Independent\n\nIndon",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FdkFnWlNScDZjMjEzTmE0UFEzenV6eDUwM0EzalhiTjJKZFU5cElLMF93cVJJeF9tRVFSTEVyWWZCMXdEZnJsamhpS292dzdwN0lMQnlpNA?oc=5",
+      "published_at": "2026-07-21 07:49:20",
+      "category": "world"
+    },
+    {
+      "title": "110 feared dead after ferry sinks off Guyana - The Telegraph",
+      "description": "\n\n110 feared dead after ferry sinks off Guyana  The Telegraph\n\nAt least 27 dead and 83 missing after passenger ferry capsizes off Guyana  BBC\n\nHuge search operation after passenger ferry sinks off coa",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFJNVE0wVURMaTZOelc4VHEyVEF4YVNJdk5rZFBaY1FUdGZsY09hX0xfRW8xXzZYWF82ajBaTmNJN2QzdktGWmQtUjNmNkNLT2I0V2V1aXhfdU1qQWx5aWp3bFpRb0VBV08wMFM0RmtrS3o2VnZWdjU2a3lVVHFZWThEbjhsYnFLazhVTGhCWEx3Ul92Z2ZhdEg3NDcwN21Wejd0N1l3?oc=5",
+      "published_at": "2026-07-21 03:55:00",
+      "category": "world"
+    },
+    {
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "published_at": "2026-07-21T08:44:23Z",
+      "category": "tech"
     },
     {
       "title": "Incremental – A library for incremental computations",
@@ -87,19 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.armaangomes.com/blogs/doom/",
-      "published_at": "2026-07-21T03:54:16Z",
-      "category": "tech"
-    },
-    {
-      "title": "Kimi Work",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "published_at": "2026-07-20T17:13:23Z",
+      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+      "published_at": "2026-07-18T02:37:56Z",
       "category": "tech"
     },
     {
@@ -111,11 +152,11 @@
       "category": "tech"
     },
     {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "title": "Kimi Work",
       "description": "",
       "source": "Hacker News",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "published_at": "2026-07-21T03:56:03Z",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "published_at": "2026-07-20T17:13:23Z",
       "category": "tech"
     },
     {
@@ -125,46 +166,6 @@
       "url": "https://jelly-ui.com/",
       "published_at": "2026-07-20T17:07:39Z",
       "category": "tech"
-    },
-    {
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "published_at": "2026-07-21T03:52:05Z",
-      "category": "tech"
-    },
-    {
-      "title": "Human mathematicians are being outcounterexampled",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "published_at": "2026-07-20T19:03:37Z",
-      "category": "tech"
-    },
-    {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blaizzy.github.io/nativ/",
-      "published_at": "2026-07-20T18:16:08Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-      "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.18237v1",
-      "published_at": "2026-07-20T17:59:51Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-      "description": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.18236v1",
-      "published_at": "2026-07-20T17:59:41Z",
-      "category": "ai"
     }
   ]
 }
