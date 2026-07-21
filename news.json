@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T14:57:45Z",
+  "last_updated": "2026-07-21T16:22:23Z",
   "sources": [
     "Google News World",
     "Hacker News",
@@ -55,11 +55,27 @@
       "category": "world"
     },
     {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "description": "",
       "source": "Hacker News",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "published_at": "2026-07-21T08:44:23Z",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "published_at": "2026-07-21T15:17:16Z",
+      "category": "tech"
+    },
+    {
+      "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "published_at": "2026-07-21T15:41:51Z",
+      "category": "tech"
+    },
+    {
+      "title": "NPM's release cooldown is security theater",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
+      "published_at": "2026-07-21T15:46:18Z",
       "category": "tech"
     },
     {
@@ -71,67 +87,51 @@
       "category": "tech"
     },
     {
-      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
       "description": "",
       "source": "Hacker News",
-      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-      "published_at": "2026-07-15T09:07:02Z",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "published_at": "2026-07-21T14:31:41Z",
       "category": "tech"
     },
     {
-      "title": "Who's afraid of Chinese models?",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "description": "",
       "source": "Hacker News",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "published_at": "2026-07-20T11:05:58Z",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "published_at": "2026-07-21T08:44:23Z",
       "category": "tech"
     },
     {
-      "title": "Incremental – A library for incremental computations",
+      "title": "The World's 2,400 Castles",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/janestreet/incremental",
-      "published_at": "2026-07-21T03:50:53Z",
+      "url": "https://thecastlemap.com/",
+      "published_at": "2026-07-21T16:05:58Z",
       "category": "tech"
     },
     {
-      "title": "Over 400 Linux CVEs published in the last 24 hours alone",
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
       "description": "",
       "source": "Hacker News",
-      "url": "https://lore.kernel.org/linux-cve-announce/",
-      "published_at": "2026-07-21T14:16:02Z",
+      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+      "published_at": "2026-07-21T16:02:04Z",
       "category": "tech"
     },
     {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
       "description": "",
       "source": "Hacker News",
-      "url": "https://jelly-ui.com/",
-      "published_at": "2026-07-20T17:07:39Z",
+      "url": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
+      "published_at": "2026-07-21T15:21:02Z",
       "category": "tech"
     },
     {
-      "title": "Kimi Work",
+      "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "published_at": "2026-07-20T17:13:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-      "published_at": "2026-07-18T02:37:56Z",
-      "category": "tech"
-    },
-    {
-      "title": "Human mathematicians are being outcounterexampled",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "published_at": "2026-07-20T19:03:37Z",
+      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+      "published_at": "2026-07-21T15:19:44Z",
       "category": "tech"
     },
     {
