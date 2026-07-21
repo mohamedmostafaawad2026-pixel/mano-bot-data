@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T10:59:12Z",
+  "last_updated": "2026-07-21T12:24:44Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,6 +120,14 @@
       "category": "tech"
     },
     {
+      "title": "New US homeownership measure puts people first",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "published_at": "2026-07-21T12:03:14Z",
+      "category": "tech"
+    },
+    {
       "title": "Incremental – A library for incremental computations",
       "description": "",
       "source": "Hacker News",
@@ -136,22 +144,6 @@
       "category": "tech"
     },
     {
-      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-      "published_at": "2026-07-18T02:37:56Z",
-      "category": "tech"
-    },
-    {
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-      "published_at": "2026-07-21T06:29:22Z",
-      "category": "tech"
-    },
-    {
       "title": "Kimi Work",
       "description": "",
       "source": "Hacker News",
@@ -165,6 +157,14 @@
       "source": "Hacker News",
       "url": "https://jelly-ui.com/",
       "published_at": "2026-07-20T17:07:39Z",
+      "category": "tech"
+    },
+    {
+      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+      "published_at": "2026-07-18T02:37:56Z",
       "category": "tech"
     }
   ]
