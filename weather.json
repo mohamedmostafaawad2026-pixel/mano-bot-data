@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T18:11:29Z",
+  "last_updated": "2026-07-21T20:15:08Z",
   "location": {
     "city": "Cairo",
     "country": "Egypt",
@@ -7,9 +7,9 @@
     "lon": 31.2357
   },
   "current": {
-    "temperature_2m": 32.8,
-    "apparent_temperature": 32.9,
-    "relative_humidity_2m": 37,
+    "temperature_2m": 29.0,
+    "apparent_temperature": 31.1,
+    "relative_humidity_2m": 53,
     "weather_code": 0,
     "description": "Sunny ☀️"
   },

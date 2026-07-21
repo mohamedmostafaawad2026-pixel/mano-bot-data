@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-07-21T18:11:58Z",
+  "last_updated": "2026-07-21T20:15:10Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News"
+    "Hacker News",
+    "arXiv AI/ML"
   ],
   "articles": [
     {
@@ -119,11 +120,11 @@
       "category": "world"
     },
     {
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "title": "FreeInk: Open ecosystem for e-readers",
       "description": "",
       "source": "Hacker News",
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "published_at": "2026-07-21T15:41:51Z",
+      "url": "https://freeink.org/",
+      "published_at": "2026-07-21T18:39:06Z",
       "category": "tech"
     },
     {
@@ -135,35 +136,35 @@
       "category": "tech"
     },
     {
-      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-      "published_at": "2026-07-21T17:03:18Z",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "published_at": "2026-07-21T15:41:51Z",
       "category": "tech"
     },
     {
-      "title": "PCjs Machines",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.pcjs.org/",
-      "published_at": "2026-07-21T13:48:35Z",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "published_at": "2026-07-21T17:14:06Z",
       "category": "tech"
     },
     {
-      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "title": "Apple has decided to compete for creativity app users",
       "description": "",
       "source": "Hacker News",
-      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-      "published_at": "2026-07-21T16:02:04Z",
+      "url": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
+      "published_at": "2026-07-21T18:30:53Z",
       "category": "tech"
     },
     {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
       "description": "",
       "source": "Hacker News",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "published_at": "2026-07-21T08:44:23Z",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "published_at": "2026-07-21T14:31:41Z",
       "category": "tech"
     }
   ]
