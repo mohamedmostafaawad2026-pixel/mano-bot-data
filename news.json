@@ -1,58 +1,130 @@
 {
-  "last_updated": "2026-07-21T16:22:23Z",
+  "last_updated": "2026-07-21T18:11:58Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
-    "Hacker News",
-    "arXiv AI/ML"
+    "Hacker News"
   ],
   "articles": [
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers - BBC",
-      "description": "\n\nUS launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers  BBC\n\nIranian forces target Bahrain and Kuwait after US hits Iran's south  Reuters\n\nIran war updates: US launc",
+      "title": "Andy Burnham shakes up Whitehall with new government department - The Guardian",
+      "description": "\n\nAndy Burnham shakes up Whitehall with new government department  The Guardian\n\nSackings, cabinet surprises and policies: Burnham's first 24 hours as PM  BBC\n\nChris Mason: New chancellor faces tough ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UcGlkNnY0SFV4M2RrcmpiYnRSc01kS21feXJrM2RDTXE1MnV2TG4zdjZBTXZvX1ZjYlFaQWFlX3lQaWFaWWR5NGVxcUtSbFk4LW9IWmhSdW93dXBw?oc=5",
-      "published_at": "2026-07-20 21:09:31",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXJaSVRiN3pGTnhFR3BvRFRuQlctTkdQeUQ3VEluV21qYlNRUkpuM1dkOTRBUV9TMzVxM1U4Mk9RYkNZUEl1MmpDUnF5T3FIejRqMm85aE9heUVER1BsWVZPVGM2cWJnUDFBLXRtYkZaT2p1OVpLaDVIWlhILXpNdHVRSU9ORXlrUldxalpzRjRBanNQOXdDdmdvYk44bzk3Ujd2UmtTaVl4dXM?oc=5",
+      "published_at": "2026-07-21 16:31:00",
+      "category": "general"
+    },
+    {
+      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say - BBC",
+      "description": "\n\nAnn Widdecombe was hit on head 21 times with hammer, prosecutors say  BBC\n\nAnn Widdecombe was hit on head repeatedly with hammer, court told  The Guardian\n\nAnn Widdecombe latest: Politician 'hit 21 ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBINm1fcWZydFd2dWZ1RklHOW05N3c2VkRlaEZYWXpIRU9tOW5pNl9WYm5IblRDNWRMbWJDU0lZSEpLdHpXT3hwb3Y5cDkxYTc0cHNsbGVGcFBzUUht?oc=5",
+      "published_at": "2026-07-21 13:25:03",
+      "category": "general"
+    },
+    {
+      "title": "Starmer ally attacks ‘unfunded’ Burnham tax cut - The Telegraph",
+      "description": "\n\nStarmer ally attacks ‘unfunded’ Burnham tax cut  The Telegraph\n\nVAT to be cut from household electricity bills in October  BBC\n\nWhere will Andy Burnham find the money to fund his spending pledges?  ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk5jeWFqUTNmR0Y2aVNGdGJvVkt5ODBhXzJFRnF0VHVzOWFxWDgxNmhTU0k4ck1mbGxNUzh0OXdFbXVuaU9aQllBTmI2ZmxIVmRMd0ZxV0VkRUpwRWRPaXA4ZmRnUTZpcFZad2h2UExjcUZDYmhzbjVpTWw2QVdjcUNwcDJaTzdIeWVkX1ZsQ2Zidm9ucVQybWR2bGF0ZUt1VzFXU0xR?oc=5",
+      "published_at": "2026-07-21 11:40:00",
+      "category": "general"
+    },
+    {
+      "title": "Thames Water joins hosepipe ban as England and Wales approach drought status - The Guardian",
+      "description": "\n\nThames Water joins hosepipe ban as England and Wales approach drought status  The Guardian\n\nIs there a hosepipe ban near me? Check our interactive map  London Evening Standard\n\nHosepipe ban in parts",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDFTbFF0WU1kTW5PUjZuNkxjWmNzdzViSjZtWUtTT1F4M0ZmY1V1bUhYeDVQWDlUZzlSdkFZSS12YjZiTU9XNy0wUE93S0paV0VndVRVbnNNazRHby1TZmdjalJDNF9yaVlFeEliM2NpV2VkOU9XNllpb2dLdE5SdmhUTTUtT2syaUM3TGlYTWJpV3RBNURIcGJlZUpQalU0dDNVODQtU0o?oc=5",
+      "published_at": "2026-07-21 16:41:00",
+      "category": "general"
+    },
+    {
+      "title": "St Mellons crash: Police break up row between dead woman's family and mechanic - BBC",
+      "description": "\n\nSt Mellons crash: Police break up row between dead woman's family and mechanic  BBC\n\nFamily confront mechanic who wrongly passed MOT of car that killed 3 people  The Sun\n\nMan pleads guilty to falsif",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcm5XYmItN3hPU3gteG5VTlA0aTZmX2EyQzVsa2VTNFVobkVxX1hoQjVwNDhMWkVyMDJMVmEyekE3cl9GNWtuV0xHZWhwNXh4YTNmUmdZY3FXcVd4?oc=5",
+      "published_at": "2026-07-21 14:12:52",
+      "category": "general"
+    },
+    {
+      "title": "Boris Johnson claims Ed Miliband is to blame for Putin’s invasion of Ukraine - The Independent",
+      "description": "\n\nBoris Johnson claims Ed Miliband is to blame for Putin’s invasion of Ukraine  The Independent\n\nHow will UK foreign policy change under Ed Miliband?  Financial Times\n\nTrump anger at Ed Miliband’s app",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEpib0RoeXN4S2RPRUlUOXVGRmltSUFhVEp5cHEwanZCQS1PeDQyUGNkbEIxVUxVVk5RcnJsYm4xQUdpYndkZUFXS3NodzhvUGFWRXBsUGJxUlNSd3N2Mm4tZWt3bDR2UmlLOFBQTzRVaTBiVjh5bk9DZWNERDZwRDVPNEg0am93b0ZoYjRmMlYwem5lR1B0TUpOUC1icWQx?oc=5",
+      "published_at": "2026-07-21 14:17:00",
+      "category": "general"
+    },
+    {
+      "title": "Row escalates in Ukraine over army chief's future - BBC",
+      "description": "\n\nRow escalates in Ukraine over army chief's future  BBC\n\nUkraine’s army chief expected to lose job after week of protests  The Guardian\n\nZelenskyy’s crisis deepens as ex-defence minister rejects offe",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSXVlbk1EVmt4N2VyWl81N3hfVDFpU1BJbEV6U2kyczBEVnlQNHRpRngwWnI4Q1BvakFfUEE0ZW1ldnY3VDBHQkY1YlFHSW84SllQWFBLeFAzSUVa?oc=5",
+      "published_at": "2026-07-21 12:33:15",
+      "category": "general"
+    },
+    {
+      "title": "Donald Trump prepares fresh tariff barrage with 10% levies set to expire - Financial Times",
+      "description": "\n\nDonald Trump prepares fresh tariff barrage with 10% levies set to expire  Financial Times\n\nGreer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'  CNBC\n\nUS eyes new tariff",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGc1b085TEVvcXZ0Vnl6bjNSakEwRTBEb05DNmM3QU1ya0tKdFctZ0EybmJ3RHhhZ24zRkJEWFN5aGRnNWFpQzVETWdyTmpQU1JVNEFuYnZYSENJWWsyQ1BwUTAwb3NMSi1nckJUZGRKdEhCMThZQ0dIU2EyeVZONmgtVXI?oc=5",
+      "published_at": "2026-07-21 10:00:12",
+      "category": "general"
+    },
+    {
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police - BBC",
+      "description": "\n\nDozens hurt in Bologna protests after man dies while being restrained by police  BBC\n\nRiots in Italy after death of immigrant forcibly detained by police  The Telegraph\n\nAnti-police protests erupt i",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EWEpnWF9RT29ZYUhGclRNOVM1Qzk1N0ZOSWxLcFFMWUt3QVZKeHlzWGJMTHBJcEZtRzZBSEZhYnYyVWY4U3IwRkFEcVlyY1g0U3h6YTllYkRJWGxr?oc=5",
+      "published_at": "2026-07-21 12:48:37",
       "category": "world"
     },
     {
-      "title": "Trump places tariffs on Canadian hockey sticks - The Telegraph",
-      "description": "\n\nTrump places tariffs on Canadian hockey sticks  The Telegraph\n\nTrump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks  BBC\n\nTrump imposes 50% tariffs on Canadian goods from alc",
+      "title": "Trump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live - The Guardian",
+      "description": "\n\nTrump pledges to ‘take care of’ Houthis if group blocks Saudi ships – Middle East crisis live  The Guardian\n\nHouthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea  T",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGNZUlRrUXFfeDlsX1pObUNvTk9XcHc4T21IdXhNR3RXc1RqRGtTY21mZEMyenZDYjJlcGtHZ2gxY3d2ME9BVWtUTjdlNGFnNmg4RFJjeVRuRmx1T3o2QVJmNjNFZUMwQVpmT0VrSWxQUTM3aUFjWGdFTHZHaWZmYU9ZWE5wNHpPRHNBbw?oc=5",
-      "published_at": "2026-07-21 07:41:00",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUNEazROOWlVb0djbTd3cVgxTlc5VkRVMzBuMjdIVl9jVXZidWZIWlRiZUJnQjZ2OHp3LUN3VEd3T1BsdGduSl8tTG1ydm5rYXlpUlBRblU1MVA3X0RpUndfVFpPQ0dfV0hiLTBJek9VN3ZzTGJob1hCNC1hY1MwUEtkVXhCbXFCUDlwbVZQTFpjU0VMSlRQeWZsa1U2MC1IZFVFbGlmMWtCejlibndybWo1UVdZSlZFcV9yd1NlTDRKRllzcjliQU8yRnBpeGdTVFdkQTRESjN4Ym9oOElQTUFPWkZOUEtBY3ZnWA?oc=5",
+      "published_at": "2026-07-21 05:26:00",
       "category": "world"
     },
     {
-      "title": "CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC",
-      "description": "\n\nCJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown  BBC\n\nCockroach movement supporters stage protests in cities across India – in pictures ",
+      "title": "Woman seriously injured in suspected stabbing at church in County Waterford, Ireland - Sky News",
+      "description": "\n\nWoman seriously injured in suspected stabbing at church in County Waterford, Ireland  Sky News\n\n‘People are traumatised’: Woman (50s) left seriously injured in knife attack in Tramore church  The Ir",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82OVd1Rnk0TTFRdWJyMk91bzY0YzZJbVh2cnN0Ti05ZWVSaHlIWTZPRzlhdGthcVVfOG9UTXhqdzF2Z01oWDdFaExHYmY1eTUzcDJWeTZISlVpX013?oc=5",
-      "published_at": "2026-07-21 08:44:43",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMldSVXlOLWloU0ZrR2h2M2hNYS1hUmRGWmxhU3pZRzBiY1ZHcV81VThHZXBHTEdlUklXT0JlQnk1MVE5eUp3TFhiZ3k0WUJMNEQ5NzM0U2I2SmM0azVDSjhMUUN0VTdnZ0lZWE9oakpjNUU5R183Zk8wcnhDMExnZ1IxckJabmc1ZktIU1RfZVdpM0dqV0xaUHdoTjVwcTNTQ0RrT1JkVFd0dzdGX1l6NVRiQm9RLVRseXdZ?oc=5",
+      "published_at": "2026-07-21 16:09:22",
       "category": "world"
     },
     {
-      "title": "At least 60 tourists rushed to hospital with toxic gas poisoning at Spain hotel - The Sun",
-      "description": "\n\nAt least 60 tourists rushed to hospital with toxic gas poisoning at Spain hotel  The Sun\n\nAt least 60 in hospital with toxic gas poisoning from Costa del Sol hotel  Metro.co.uk\n\nSpain Sees Travel Sa",
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport - BBC",
+      "description": "\nTwo French firefighters die tackling blaze near Bordeaux airport  BBCSee more headlines and perspectives on Google News\n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc1E5dHZPNEd4M3RtWEo3TlhMOElBMy1WZEdOMmszbFU4RjV5N0JkUF9qUG5qUi00ZUhJQ1pFdmlQWW5lVFBQdGZHblBBeE80UmlKZERtRXVkd3ozQlRyTGR0OHVGVEVybWh0UlU4Z0t1UGxYaVQ5ZFhyZE1EZUk?oc=5",
-      "published_at": "2026-07-21 07:13:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcktOamh5Q2t2OWF6Nm5yYXhQQzRyeFVZYjVGNGExWkYxSWJ6WGp2MXU2aVdfX2lKQmtyaHEwRlF0VGR6NDhDVVR2M3FDNHhocG9sN2J6eU5oMFpy?oc=5",
+      "published_at": "2026-07-21 16:44:30",
       "category": "world"
     },
     {
-      "title": "Nineteen found guilty of trafficking babies in Indonesia and Singapore - BBC",
-      "description": "\n\nNineteen found guilty of trafficking babies in Indonesia and Singapore  BBC\n\nRingleader of group selling babies in Singapore jailed for seven years in landmark Indonesia case  The Independent\n\nIndon",
+      "title": "‘There’s no way they can survive’: Trump defends new 50% tariffs on most Canadian goods – US politics live - The Guardian",
+      "description": "\n\n‘There’s no way they can survive’: Trump defends new 50% tariffs on most Canadian goods – US politics live  The Guardian\n\nTrump looks to punish Canada for wildfires? Treat our allies better.  The Hi",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FdkFnWlNScDZjMjEzTmE0UFEzenV6eDUwM0EzalhiTjJKZFU5cElLMF93cVJJeF9tRVFSTEVyWWZCMXdEZnJsamhpS292dzdwN0lMQnlpNA?oc=5",
-      "published_at": "2026-07-21 07:49:20",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOXNwbkhRYXk0V2JqOWlyR2xxUnd2R3VGMWludXFiSGt2LU1FSGZfa2pmWkxoUVJrVEtvT3pDaDQ4OWRxX0NYVmE2UjhFVW5YX0sxM1RBbmVQRklPcVFFNVR6cW51R3hyYU9DNGhWdmVFUmVsbUE2WWRvQVN4S1lOWk9TSnFxUF9LVm94ZUFld0kxQWNKdFpsbmtIZDU5ZTBKekdlMUpnMHN0VlI1VnNLWFpsOVlVSVJCZW9KMmxXMU92WXlNdjhzd0k0R3VRVGZaU3kzZm1YekhGSEJkaE9OaFFkdkw?oc=5",
+      "published_at": "2026-07-21 10:37:00",
       "category": "world"
     },
     {
-      "title": "110 feared dead after ferry sinks off Guyana - The Telegraph",
-      "description": "\n\n110 feared dead after ferry sinks off Guyana  The Telegraph\n\nAt least 27 dead and 83 missing after passenger ferry capsizes off Guyana  BBC\n\nHuge search operation after passenger ferry sinks off coa",
+      "title": "'Four precious miracles': Identical quadruplets born in Australia in a one in 15 million chance - Sky News",
+      "description": "\n\n'Four precious miracles': Identical quadruplets born in Australia in a one in 15 million chance  Sky News\n\nRare identical quadruplets born in Australia  BBC\n\nMother of four gives birth to identical ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFJNVE0wVURMaTZOelc4VHEyVEF4YVNJdk5rZFBaY1FUdGZsY09hX0xfRW8xXzZYWF82ajBaTmNJN2QzdktGWmQtUjNmNkNLT2I0V2V1aXhfdU1qQWx5aWp3bFpRb0VBV08wMFM0RmtrS3o2VnZWdjU2a3lVVHFZWThEbjhsYnFLazhVTGhCWEx3Ul92Z2ZhdEg3NDcwN21Wejd0N1l3?oc=5",
-      "published_at": "2026-07-21 03:55:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjJxbDFZdlRtWEIyRkF1Rm9JTmgtZ0RnWU1DMkhrUVB5UGVHV3JjNlFKUTdOTDE0N3ZZX2sySUZrN3pNdE1sR2JwU0JtODdqQnJlMjVCYXkyc1JSYTlHbnpDS1hRR0p1bTAwV0JNRjRqdUtpSnY3ejl4U21yY0JTdTN2eTF5Z2d2TXF6bnpOT3p2S1RBUGRCSkxrekF4WXBiMExvM3oyQWxvb3VNdW9vNXlMZEFIbXJEcmJCb1VYbW92bkYxWTBj?oc=5",
+      "published_at": "2026-07-21 11:28:32",
       "category": "world"
+    },
+    {
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "published_at": "2026-07-21T15:41:51Z",
+      "category": "tech"
     },
     {
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -63,19 +135,11 @@
       "category": "tech"
     },
     {
-      "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
       "description": "",
       "source": "Hacker News",
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "published_at": "2026-07-21T15:41:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "NPM's release cooldown is security theater",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
-      "published_at": "2026-07-21T15:46:18Z",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "published_at": "2026-07-21T17:03:18Z",
       "category": "tech"
     },
     {
@@ -87,11 +151,11 @@
       "category": "tech"
     },
     {
-      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
       "description": "",
       "source": "Hacker News",
-      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "published_at": "2026-07-21T14:31:41Z",
+      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+      "published_at": "2026-07-21T16:02:04Z",
       "category": "tech"
     },
     {
@@ -101,70 +165,6 @@
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "published_at": "2026-07-21T08:44:23Z",
       "category": "tech"
-    },
-    {
-      "title": "The World's 2,400 Castles",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://thecastlemap.com/",
-      "published_at": "2026-07-21T16:05:58Z",
-      "category": "tech"
-    },
-    {
-      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-      "published_at": "2026-07-21T16:02:04Z",
-      "category": "tech"
-    },
-    {
-      "title": "Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency",
-      "published_at": "2026-07-21T15:21:02Z",
-      "category": "tech"
-    },
-    {
-      "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-      "published_at": "2026-07-21T15:19:44Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-      "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.18237v1",
-      "published_at": "2026-07-20T17:59:51Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-      "description": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.18236v1",
-      "published_at": "2026-07-20T17:59:41Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Automated Discovery Has No Universally Superior Harness",
-      "description": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.18235v1",
-      "published_at": "2026-07-20T17:59:37Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-      "description": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledg",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.18232v1",
-      "published_at": "2026-07-20T17:58:31Z",
-      "category": "ai"
     }
   ]
 }
