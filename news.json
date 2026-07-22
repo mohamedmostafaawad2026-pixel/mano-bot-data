@@ -1,122 +1,31 @@
 {
-  "last_updated": "2026-07-22T12:42:59Z",
+  "last_updated": "2026-07-22T14:59:24Z",
   "sources": [
-    "Google News Egypt",
-    "Google News World",
-    "Hacker News",
-    "arXiv AI/ML"
+    "Hacker News"
   ],
   "articles": [
     {
-      "title": "'Burnham's power play' and Widdecombe 'hit 21 times with a hammer' - BBC",
-      "description": "\n\n'Burnham's power play' and Widdecombe 'hit 21 times with a hammer'  BBC\n\nAnn Widdecombe was hit on head repeatedly with hammer, court told  The Guardian\n\nJoshua Kerry: Five things we know about the ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MTndjWU94MDJRZ01NRmVsZzdieUhaSWVyTmZSZEVJeV9QVHd3TW11b0pvWFdnRlhQcG1uVXpNMTdKR2Rvamh6Z1JjT1l3NHphRjc4MVhCbm9zN3BG?oc=5",
-      "published_at": "2026-07-22 01:06:24",
-      "category": "general"
-    },
-    {
-      "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian",
-      "description": "\n\nZelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’  The Guardian\n\nWorld in Brief: Zelensky sacks top general; Burnham promises first tax cuts  The Economist\n\nZelensky sacks",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5",
-      "published_at": "2026-07-22 01:31:00",
-      "category": "general"
-    },
-    {
-      "title": "Andy Burnham announces £2 cap on bus fares - The Telegraph",
-      "description": "\n\nAndy Burnham announces £2 cap on bus fares  The Telegraph\n\nBurnham caps most bus fares in England at £2 but pulls back from possible income tax cut  BBC\n\nTransport secretary ‘100% sure’ new cap on b",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVZUSXA3WU54Zmh3dEc2eno3d3ZkbjhSaUppbXFjSVFFOU1xbHFmOURodkZQNXBBYWNBVmZ6RGdGQmJVV1Bxa2dtVzN4bEF5V1p0elZaN3UyQ254bkY5SkFfS0dYSFNQNEs1NU9VNkxqSG1EM0tfTDdzdGp3ckZMd3ZTYWhJaUpSaUt1VTQtNlBNSk1KaC1wVXRKRjlERll1c0lCbzMtNA?oc=5",
-      "published_at": "2026-07-22 05:27:00",
-      "category": "general"
-    },
-    {
-      "title": "PC Andrew Harper's killers may be eligible for early release, government confirms - Sky News",
-      "description": "\n\nPC Andrew Harper's killers may be eligible for early release, government confirms  Sky News\n\nPC Harper killers may be eligible for early release  BBC\n\nEarly release of PC Harper’s quad-bike killers ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFBaM3dzQVg5b0ZsejYwTEE0bVVnVElLdVdTaWR4OWNvQW1WMEY1Ym1GdUpyVE1fUGZJbnNKOTFXa2N2b1QydkpfNGNTbUJDMDc0SHUtNTdtLWhlSFl1SnRHLXpTZ1FCcVo1UXk1WENrcFNTNjN2ZUlud0xlLVMtdEREZWlvR3NzQ0dGeUJsb0lxaFhjTnZOREYxdy1SMG0telgweUwyVXBYRGFkZUtXeENwbUVpdw?oc=5",
-      "published_at": "2026-07-22 00:09:00",
-      "category": "general"
-    },
-    {
-      "title": "US renews strikes on Iran as Trump threatens to attack Pickaxe Mountain - BBC",
-      "description": "\n\nUS renews strikes on Iran as Trump threatens to attack Pickaxe Mountain  BBC\n\n‘It’s truly hell here’: airstrikes, repression and water shortages become ‘new normal’ for Iranians  The Guardian\n\nUS mi",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMVp5ZjdnQUFVWG5HZHVjR3RmN1NkRlJzVXJRN2E2UTM1Q0pfSEUzRXlIazA1QUZnSnhLRTRnWWdZcjJOZ3h5eDlkd2JYZVQ5MHcxTG1IR2NVQURO?oc=5",
-      "published_at": "2026-07-22 03:05:08",
-      "category": "general"
-    },
-    {
-      "title": "Burnham pulls back on suggestion to increase tax-free personal allowance - BBC",
-      "description": "\n\nBurnham pulls back on suggestion to increase tax-free personal allowance  BBC\n\nBurnham backs down on income tax giveaway  The Telegraph\n\nAndy Burnham backs away from costly increase to income tax al",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qOFJQaTktZHlvcjdzdmdZSTRCcDlpMlBqUy1RajZEUUFKU25kZEs2bkNnQXdxaGxoNmRJV3psWlJ4eGh6M0lmT09zcWtRNzg3VHpCSENGN0VBTmZB?oc=5",
-      "published_at": "2026-07-22 01:43:54",
-      "category": "general"
-    },
-    {
-      "title": "Donald Trump furious at Miliband’s appointment as foreign secretary - The Independent",
-      "description": "\n\nDonald Trump furious at Miliband’s appointment as foreign secretary  The Independent\n\nWhere will Andy Burnham find the money to fund his spending pledges?  The Guardian\n\nStarmer ally takes swipe at ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTF3R01yR0JIajFYWkdjWjVUZ2wtTWt4OWtyNklwaGhwUVpnZERaYlYxNFpqRy14d1o1VGpIVHJoR2N0dDVyLWpPWDR4emp1SmU1cUNmaVRqbnJmT21HNXdjclRTTDJ0aGVRaEpMSkY4LXJ6a1lHSWVvZjdoN0ZqRlVSUUlsenBPMm9LS2NIeWtVblZPMTJvV0FtTkl6Vi00ZVBmdnN3TDFhcDBVcENvX1VlZ0c?oc=5",
-      "published_at": "2026-07-21 18:14:00",
-      "category": "general"
-    },
-    {
-      "title": "Canada's Carney faces tough choice on US trade - fight back or hold steady - BBC",
-      "description": "\n\nCanada's Carney faces tough choice on US trade - fight back or hold steady  BBC\n\nTrump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks  BBC\n\n‘The Daily Show’ Tackles Trump’s L",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nd25MZXQ2V2hGZW55YUNYWTB3b29aYTF4LUdDNWttMFJEN2Q2WUhFRU9yQ09oRmVEOFo2UGF0TmV0MGdBRDlkOEVzY3V0SkJlUERjbU4zemdCdTVI?oc=5",
-      "published_at": "2026-07-21 20:23:27",
-      "category": "general"
-    },
-    {
-      "title": "Trump forced to turn over financial records in BBC case - The Telegraph",
-      "description": "\n\nTrump forced to turn over financial records in BBC case  The Telegraph\n\nJudge rules Trump must hand over records sought by BBC in defamation case  BBC\n\nTrump must divulge financial details about bus",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzZzaHVHencwVWtqVVlnTjVmbnFjcUkyTThTby1zRTdzQmE0X3V5X3VtS2xuZzZPWHp6eXpROHktRjZ2dVI1M0NjUVh3eFc0d1dvazMyZWRyN1NzNVpqeUJCMHkzMEdNSlI0RmRkMTlrcmFfRDFSTW9NSk1aQ1dkNnFTWXEzNHZjazBVUlhvWVlqMTBYUllJNlJUM2cxZw?oc=5",
-      "published_at": "2026-07-21 23:48:00",
-      "category": "world"
-    },
-    {
-      "title": "France approves blanket social media ban for under-15s - Sky News",
-      "description": "\n\nFrance approves blanket social media ban for under-15s  Sky News\n\nFrance becomes first EU country to ban social media access for under-15s  The Guardian\n\nFrance passes law banning social media for u",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDNmYkd5T1YxakVvMXcyaUthd3ZHTjV2SzdFcHN5QU1aaWFvQ21NTTVWZVNIR0RDeDFfUTVMZU9UZm5Fek1hSFN1THhURVNvaVY1b1R3YzBfMzhjMnBudllWem93MGRlYVhyOE9BTlIya3ZoTzZGRHRXWmNZZlViZ2FwMm8wSUVQQ0pUSjdvSTBodjgz?oc=5",
-      "published_at": "2026-07-21 22:46:36",
-      "category": "world"
-    },
-    {
-      "title": "Pete Hegseth testifies to lawmakers over Iran war funding - BBC",
-      "description": "\nPete Hegseth testifies to lawmakers over Iran war funding  BBCSee more headlines and perspectives on Google News\n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYjRmSHhvN1pNYnFaUUJnQ2c5NjFqOXJzeUxHc1FkNTMxTTJPYVZSSkhMNlFPcnV1Wno0aEU2MTF6N1A3WFY0bmktOUNZRlhnNEhyQw?oc=5",
-      "published_at": "2026-07-21 23:00:04",
-      "category": "world"
-    },
-    {
-      "title": "Donald Trump reinstates direct US flights to Lebanon after meeting Joseph Aoun - Financial Times",
-      "description": "\n\nDonald Trump reinstates direct US flights to Lebanon after meeting Joseph Aoun  Financial Times\n\nLebanese president says Hezbollah can only be disarmed if Israel withdraws  The Times of Israel\n\nLeba",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDRWSnkzOGpNTlV3WkV5NldrUXJQYWduZk9vb01nSHNEd1dTd3h0X0hrek0tUlhnR1RQME01OG45RU9nQTVfc1RvQzAtVGhIbXhsZExaejNtbmxpblpvS0d4Z1NKTEZ1MDVxMEdiOXc0blNkal9TeXNQaVBVS0xzQXZrNzE?oc=5",
-      "published_at": "2026-07-21 21:57:22",
-      "category": "world"
-    },
-    {
-      "title": "OverpAId – Fire your CEO. Hire the future",
+      "title": "How to Read a Painting",
       "description": "",
       "source": "Hacker News",
-      "url": "https://overpaid.lol",
-      "published_at": "2026-07-22T10:49:04Z",
+      "url": "https://sheets.works/data-viz/how-to-read-a-painting/",
+      "published_at": "2026-07-22T14:31:55Z",
       "category": "tech"
     },
     {
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "title": "OpenNode – Bitcoin Payment Processor",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
-      "published_at": "2026-07-22T12:03:32Z",
+      "url": "https://opennode.com/",
+      "published_at": "2026-07-22T14:34:23Z",
+      "category": "tech"
+    },
+    {
+      "title": "I Built a Private Genomics Study with Stoffel MPC",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
+      "published_at": "2026-07-22T14:35:55Z",
       "category": "tech"
     },
     {
@@ -136,6 +45,14 @@
       "category": "tech"
     },
     {
+      "title": "10 REM\"_(C2SLFF4",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://beej.us/blog/data/mystery-comment/",
+      "published_at": "2026-07-22T11:58:09Z",
+      "category": "tech"
+    },
+    {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
       "description": "",
       "source": "Hacker News",
@@ -144,27 +61,27 @@
       "category": "tech"
     },
     {
+      "title": "Cornell's Interactive Wall of Birds",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
+      "published_at": "2026-07-18T20:54:15Z",
+      "category": "tech"
+    },
+    {
+      "title": "Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/",
+      "published_at": "2026-07-16T11:50:22Z",
+      "category": "tech"
+    },
+    {
       "title": "Intel Starts Shipping High-NA EUV Silicon",
       "description": "",
       "source": "Hacker News",
       "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
       "published_at": "2026-07-18T19:56:33Z",
-      "category": "tech"
-    },
-    {
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "published_at": "2026-07-22T05:18:08Z",
-      "category": "tech"
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ads.openai.com/",
-      "published_at": "2026-07-21T18:58:44Z",
       "category": "tech"
     }
   ]
