@@ -1,47 +1,121 @@
 {
-  "last_updated": "2026-07-22T14:59:24Z",
+  "last_updated": "2026-07-22T16:21:09Z",
   "sources": [
-    "Hacker News"
+    "Google News Egypt",
+    "Hacker News",
+    "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "How to Read a Painting",
+      "title": "Andy Burnham says £2 bus fare cap in England being paid for by 're-prioritising' money - BBC",
+      "description": "\nAndy Burnham says £2 bus fare cap in England being paid for by 're-prioritising' money  BBCSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55TkQ4TndMaWNvSldTbjNBSldlaHZvQXJNT0IyNHhtMkV5QktHQWVnNjVRLUhTX1J2X05vNzRwZVBIMzB2TmZMbXBVLVRNY2REZ3M4NGpTRQ?oc=5",
+      "published_at": "2026-07-22 15:33:45",
+      "category": "general"
+    },
+    {
+      "title": "Burnham to review prison early release scheme amid PC Andrew Harper family concerns - The Guardian",
+      "description": "\n\nBurnham to review prison early release scheme amid PC Andrew Harper family concerns  The Guardian\n\nBurnham says he will review early prisoner release scheme  BBC\n\nPC Harper killers may be eligible f",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblBDZldfc2FfQlFXbFJNLXhuWUQ5WEYxNFZ4MndWVEpYdmhYai1PaTJwSVdKZFFiNHBuYnBPMmtpMnhjNXhIeUJfQkd0YVFGT09TQkg5czJXYmVJSGsxQ3pla2dld3Z4dzI4RkdVU1d2NkxZTldiVXlZQlhJN25rTnFRX0ZNN0V1SVVhcmNRUVBlZjJBM05JelpKSWFTWjBKUVNBbjYwVUg4UHFYQk80?oc=5",
+      "published_at": "2026-07-22 11:49:00",
+      "category": "general"
+    },
+    {
+      "title": "Why Zelenskyy has sacked Ukraine's armed forces chief - Sky News",
+      "description": "\n\nWhy Zelenskyy has sacked Ukraine's armed forces chief  Sky News\n\nMykhailo Drapatyi: Ukrainians hope new commander will end army’s ‘Soviet culture’  The Guardian\n\nZelenskyy’s Defense Shuffle Comes at",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnE0QVYtMmFDMFF6cURyMmE2SDN2bXJjbkZKWllxOHNYMUd4Tkl6Vk1SSklkcHNDYXFMb3UteFF1bFN1Q3VfbTRpSkRiSlk4ZURHOHhkdjUyU2V5TGwwbUg3c2t2c3FNeUhFQVRzSzN5ajJnZ2FLSlZBOVF1V3VBUXVqR3pTQ2g3MlcxQU5naUl5QQ?oc=5",
+      "published_at": "2026-07-22 11:04:08",
+      "category": "general"
+    },
+    {
+      "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water tests - BBC",
+      "description": "\n\nEx-Southern Water boss among four charged over alleged plan to manipulate water tests  BBC\n\nEx-CEO of Southern Water among four charged with conspiracy to defraud  Sky News\n\nFormer Southern Water bo",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pRElJZkVSaWE0QzBSbFYwM1E1aDY3TmRNYWZHVlFPY2FUeXktYTd5cnVkWWw4NjZadzZWQXNRdXVhY2ZnY1ZtTlNEeGh1QWFSbG1BTDNsUTVyOGdY?oc=5",
+      "published_at": "2026-07-22 12:46:58",
+      "category": "general"
+    },
+    {
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say - BBC",
+      "description": "\n\nUS to announce deal allowing Saudi Arabia a nuclear programme, reports say  BBC\n\nUS to announce deal allowing Saudi Arabia to develop nuclear power  BBC\n\nProposed US-Saudi nuclear energy deal: What ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zNWU2XzNIUGdzZm5fdldLSldQaWVNYUlzSGxaeEhDTEVpWk1ia1JiVzJxYzVHYjZNREdVejJxVEVjcUxlSDJyb21JVUtMSFBXLWpXZTZTVVpzX2dF?oc=5",
+      "published_at": "2026-07-22 12:40:46",
+      "category": "general"
+    },
+    {
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries - BBC",
+      "description": "\nUkrainian drones hit more sites of Russian online retailer Wildberries  BBCSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JNFViT2I0TlRCM1NCc1hTSEhMSXZXelRSZGtBUFNwTjZOUlB0OWhpaWFhQ0FTcHNtMGhfWWV5Z2FMNklzeHVISVZCX1FyV1VXVllLaTBLQ1cxejd2?oc=5",
+      "published_at": "2026-07-22 06:25:35",
+      "category": "general"
+    },
+    {
+      "title": "Trump threatens to destroy an Iranian bridge or power plant for each strait of Hormuz attack – Middle East crisis live - The Guardian",
+      "description": "\n\nTrump threatens to destroy an Iranian bridge or power plant for each strait of Hormuz attack – Middle East crisis live  The Guardian\n\nTrump threatens to target Iran's bridges and power plants if Hor",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZEl3RlRNMDVPQ0VQYWpJb3ZYMFZmSHAzZ3NrRHZBUEkySmJPZ0lndnk3RzFUMGxzNUc0WVZ3NFVsV1lKMmxfbjM4SEZoT1pid2NoWWpkSmg0NERzM3hLRDJBVGNDTlctaVdiRjBDMGNDaUE1ckhjOVk2ODM5OUpxMmkyUDBDTFBldnBUcm1JRVh0RVp5cFhvZGdUZmNic0lPYWxYX0xUYlhLN3NtWkxfVjVnMUw5RVVWQ0dkWnpDOE5RZFJkUWI5bHJqYkhtR3JBRk5fcGF5Mm12RHd0aVdKYkNhdXM?oc=5",
+      "published_at": "2026-07-22 06:41:00",
+      "category": "general"
+    },
+    {
+      "title": "Wes Streeting apologises for joke about prisoner releases caught on microphone - ITVX",
+      "description": "\n\nWes Streeting apologises for joke about prisoner releases caught on microphone  ITVX\n\nStreeting apologises after early prisoner release comments heard on mic  BBC\n\nMahmood and Streeting accused of m",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZW5ETnc1VkJ2Vnh3eDZPMURSVzdRSHpraFROWEFjVzZRNldPLTk3TWhNNVA2TkttSU53T2dDazZ5U0pDUmpWN2Z0N21EN2tMVk9pRFNBZmtBMGtaMzFCSXJNeVc3bWVwSTlGd1lKMklPR2FpZnVVVmYzTVFpRzZod2xLWGs5RjJSbktsaHBiMjJfTmtlWXVXOWs2cWJDeHZMZW80VkxIdjVRUC15d21RZXRXejk?oc=5",
+      "published_at": "2026-07-22 10:14:00",
+      "category": "general"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "description": "",
       "source": "Hacker News",
-      "url": "https://sheets.works/data-viz/how-to-read-a-painting/",
-      "published_at": "2026-07-22T14:31:55Z",
+      "url": "https://bento.page/slides/",
+      "published_at": "2026-07-22T15:19:23Z",
       "category": "tech"
     },
     {
-      "title": "OpenNode – Bitcoin Payment Processor",
+      "title": "Does creatine make you smarter?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://opennode.com/",
-      "published_at": "2026-07-22T14:34:23Z",
+      "url": "https://dynomight.net/creatine/",
+      "published_at": "2026-07-22T15:45:18Z",
       "category": "tech"
     },
     {
-      "title": "I Built a Private Genomics Study with Stoffel MPC",
+      "title": "The startup's Postgres survival guide",
       "description": "",
       "source": "Hacker News",
-      "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
-      "published_at": "2026-07-22T14:35:55Z",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "published_at": "2026-07-22T12:36:08Z",
       "category": "tech"
     },
     {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
       "description": "",
       "source": "Hacker News",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published_at": "2026-07-21T20:09:52Z",
+      "url": "https://www.orangecrumbs.com/hall/",
+      "published_at": "2026-07-22T15:30:36Z",
       "category": "tech"
     },
     {
-      "title": "Introduction to Formal Verification with Lean Part 1",
+      "title": "Airbus Full Scale Foldable Wing Extensions",
       "description": "",
       "source": "Hacker News",
-      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-      "published_at": "2026-07-19T15:49:58Z",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+      "published_at": "2026-07-22T14:57:24Z",
+      "category": "tech"
+    },
+    {
+      "title": "Making",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "published_at": "2026-07-22T15:33:48Z",
       "category": "tech"
     },
     {
@@ -53,36 +127,44 @@
       "category": "tech"
     },
     {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
       "description": "",
       "source": "Hacker News",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "published_at": "2026-07-21T22:35:24Z",
+      "url": "https://unlayer.com",
+      "published_at": "2026-07-22T16:02:03Z",
       "category": "tech"
     },
     {
-      "title": "Cornell's Interactive Wall of Birds",
+      "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
       "description": "",
       "source": "Hacker News",
-      "url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
-      "published_at": "2026-07-18T20:54:15Z",
+      "url": "https://neoradar.space",
+      "published_at": "2026-07-22T15:15:29Z",
       "category": "tech"
     },
     {
-      "title": "Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog",
+      "title": "Introduction to Formal Verification with Lean Part 1",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/",
-      "published_at": "2026-07-16T11:50:22Z",
+      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+      "published_at": "2026-07-19T15:49:58Z",
       "category": "tech"
     },
     {
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-      "published_at": "2026-07-18T19:56:33Z",
-      "category": "tech"
+      "title": "📄 Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+      "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.19345v1",
+      "published_at": "2026-07-21T17:59:21Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+      "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.19344v1",
+      "published_at": "2026-07-21T17:59:12Z",
+      "category": "ai"
     }
   ]
 }
