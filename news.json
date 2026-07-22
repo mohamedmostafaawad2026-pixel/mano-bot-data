@@ -1,7 +1,9 @@
 {
-  "last_updated": "2026-07-22T05:13:13Z",
+  "last_updated": "2026-07-22T08:11:30Z",
   "sources": [
     "Google News Egypt",
+    "Google News World",
+    "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
@@ -70,6 +72,38 @@
       "category": "general"
     },
     {
+      "title": "Trump forced to turn over financial records in BBC case - The Telegraph",
+      "description": "\n\nTrump forced to turn over financial records in BBC case  The Telegraph\n\nJudge rules Trump must hand over records sought by BBC in defamation case  BBC\n\nTrump must divulge financial details about bus",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzZzaHVHencwVWtqVVlnTjVmbnFjcUkyTThTby1zRTdzQmE0X3V5X3VtS2xuZzZPWHp6eXpROHktRjZ2dVI1M0NjUVh3eFc0d1dvazMyZWRyN1NzNVpqeUJCMHkzMEdNSlI0RmRkMTlrcmFfRDFSTW9NSk1aQ1dkNnFTWXEzNHZjazBVUlhvWVlqMTBYUllJNlJUM2cxZw?oc=5",
+      "published_at": "2026-07-21 23:48:00",
+      "category": "world"
+    },
+    {
+      "title": "France approves blanket social media ban for under-15s - Sky News",
+      "description": "\n\nFrance approves blanket social media ban for under-15s  Sky News\n\nFrance becomes first EU country to ban social media access for under-15s  The Guardian\n\nFrance passes law banning social media for u",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDNmYkd5T1YxakVvMXcyaUthd3ZHTjV2SzdFcHN5QU1aaWFvQ21NTTVWZVNIR0RDeDFfUTVMZU9UZm5Fek1hSFN1THhURVNvaVY1b1R3YzBfMzhjMnBudllWem93MGRlYVhyOE9BTlIya3ZoTzZGRHRXWmNZZlViZ2FwMm8wSUVQQ0pUSjdvSTBodjgz?oc=5",
+      "published_at": "2026-07-21 22:46:36",
+      "category": "world"
+    },
+    {
+      "title": "Pete Hegseth testifies to lawmakers over Iran war funding - BBC",
+      "description": "\nPete Hegseth testifies to lawmakers over Iran war funding  BBCSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYjRmSHhvN1pNYnFaUUJnQ2c5NjFqOXJzeUxHc1FkNTMxTTJPYVZSSkhMNlFPcnV1Wno0aEU2MTF6N1A3WFY0bmktOUNZRlhnNEhyQw?oc=5",
+      "published_at": "2026-07-21 23:00:04",
+      "category": "world"
+    },
+    {
+      "title": "Donald Trump reinstates direct US flights to Lebanon after meeting Joseph Aoun - Financial Times",
+      "description": "\n\nDonald Trump reinstates direct US flights to Lebanon after meeting Joseph Aoun  Financial Times\n\nLebanese president says Hezbollah can only be disarmed if Israel withdraws  The Times of Israel\n\nLeba",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDRWSnkzOGpNTlV3WkV5NldrUXJQYWduZk9vb01nSHNEd1dTd3h0X0hrek0tUlhnR1RQME01OG45RU9nQTVfc1RvQzAtVGhIbXhsZExaejNtbmxpblpvS0d4Z1NKTEZ1MDVxMEdiOXc0blNkal9TeXNQaVBVS0xzQXZrNzE?oc=5",
+      "published_at": "2026-07-21 21:57:22",
+      "category": "world"
+    },
+    {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "description": "",
       "source": "Hacker News",
@@ -78,36 +112,60 @@
       "category": "tech"
     },
     {
-      "title": "📄 Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
-      "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19345v1",
-      "published_at": "2026-07-21T17:59:21Z",
-      "category": "ai"
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "published_at": "2026-07-21T22:35:24Z",
+      "category": "tech"
     },
     {
-      "title": "📄 Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
-      "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19344v1",
-      "published_at": "2026-07-21T17:59:12Z",
-      "category": "ai"
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "published_at": "2026-07-22T05:18:08Z",
+      "category": "tech"
     },
     {
-      "title": "📄 CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
-      "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat su",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19338v1",
-      "published_at": "2026-07-21T17:56:49Z",
-      "category": "ai"
+      "title": "Intel Starts Shipping High-NA EUV Silicon",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+      "published_at": "2026-07-18T19:56:33Z",
+      "category": "tech"
     },
     {
-      "title": "📄 Agents in the Wild: Where Research Meets Deployment",
-      "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19336v1",
-      "published_at": "2026-07-21T17:55:10Z",
-      "category": "ai"
+      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.readkinetic.com/app/",
+      "published_at": "2026-07-22T05:49:51Z",
+      "category": "tech"
+    },
+    {
+      "title": "Late.sh – a command-line Clubhouse for computer people",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://late.sh/",
+      "published_at": "2026-07-22T02:32:30Z",
+      "category": "tech"
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://freeink.org/",
+      "published_at": "2026-07-21T18:39:06Z",
+      "category": "tech"
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ads.openai.com/",
+      "published_at": "2026-07-21T18:58:44Z",
+      "category": "tech"
     }
   ]
 }
