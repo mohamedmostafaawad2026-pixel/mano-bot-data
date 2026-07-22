@@ -1,76 +1,11 @@
 {
-  "last_updated": "2026-07-21T23:51:08Z",
+  "last_updated": "2026-07-22T01:53:30Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
-    {
-      "title": "Andy Burnham shakes up Whitehall with new government department - The Guardian",
-      "description": "\n\nAndy Burnham shakes up Whitehall with new government department  The Guardian\n\nSackings, cabinet surprises and policies: Burnham's first 24 hours as PM  BBC\n\nChris Mason: New chancellor faces tough ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXJaSVRiN3pGTnhFR3BvRFRuQlctTkdQeUQ3VEluV21qYlNRUkpuM1dkOTRBUV9TMzVxM1U4Mk9RYkNZUEl1MmpDUnF5T3FIejRqMm85aE9heUVER1BsWVZPVGM2cWJnUDFBLXRtYkZaT2p1OVpLaDVIWlhILXpNdHVRSU9ORXlrUldxalpzRjRBanNQOXdDdmdvYk44bzk3Ujd2UmtTaVl4dXM?oc=5",
-      "published_at": "2026-07-21 16:31:00",
-      "category": "general"
-    },
-    {
-      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say - BBC",
-      "description": "\n\nAnn Widdecombe was hit on head 21 times with hammer, prosecutors say  BBC\n\nAnn Widdecombe was hit on head repeatedly with hammer, court told  The Guardian\n\nAnn Widdecombe latest: Politician 'hit 21 ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBINm1fcWZydFd2dWZ1RklHOW05N3c2VkRlaEZYWXpIRU9tOW5pNl9WYm5IblRDNWRMbWJDU0lZSEpLdHpXT3hwb3Y5cDkxYTc0cHNsbGVGcFBzUUht?oc=5",
-      "published_at": "2026-07-21 13:25:03",
-      "category": "general"
-    },
-    {
-      "title": "Starmer ally attacks ‘unfunded’ Burnham tax cut - The Telegraph",
-      "description": "\n\nStarmer ally attacks ‘unfunded’ Burnham tax cut  The Telegraph\n\nVAT to be cut from household electricity bills in October  BBC\n\nWhere will Andy Burnham find the money to fund his spending pledges?  ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk5jeWFqUTNmR0Y2aVNGdGJvVkt5ODBhXzJFRnF0VHVzOWFxWDgxNmhTU0k4ck1mbGxNUzh0OXdFbXVuaU9aQllBTmI2ZmxIVmRMd0ZxV0VkRUpwRWRPaXA4ZmRnUTZpcFZad2h2UExjcUZDYmhzbjVpTWw2QVdjcUNwcDJaTzdIeWVkX1ZsQ2Zidm9ucVQybWR2bGF0ZUt1VzFXU0xR?oc=5",
-      "published_at": "2026-07-21 11:40:00",
-      "category": "general"
-    },
-    {
-      "title": "Thames Water joins hosepipe ban as England and Wales approach drought status - The Guardian",
-      "description": "\n\nThames Water joins hosepipe ban as England and Wales approach drought status  The Guardian\n\nIs there a hosepipe ban near me? Check our interactive map  London Evening Standard\n\nHosepipe ban in parts",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDFTbFF0WU1kTW5PUjZuNkxjWmNzdzViSjZtWUtTT1F4M0ZmY1V1bUhYeDVQWDlUZzlSdkFZSS12YjZiTU9XNy0wUE93S0paV0VndVRVbnNNazRHby1TZmdjalJDNF9yaVlFeEliM2NpV2VkOU9XNllpb2dLdE5SdmhUTTUtT2syaUM3TGlYTWJpV3RBNURIcGJlZUpQalU0dDNVODQtU0o?oc=5",
-      "published_at": "2026-07-21 16:41:00",
-      "category": "general"
-    },
-    {
-      "title": "St Mellons crash: Police break up row between dead woman's family and mechanic - BBC",
-      "description": "\n\nSt Mellons crash: Police break up row between dead woman's family and mechanic  BBC\n\nFamily confront mechanic who wrongly passed MOT of car that killed 3 people  The Sun\n\nMan pleads guilty to falsif",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcm5XYmItN3hPU3gteG5VTlA0aTZmX2EyQzVsa2VTNFVobkVxX1hoQjVwNDhMWkVyMDJMVmEyekE3cl9GNWtuV0xHZWhwNXh4YTNmUmdZY3FXcVd4?oc=5",
-      "published_at": "2026-07-21 14:12:52",
-      "category": "general"
-    },
-    {
-      "title": "Boris Johnson claims Ed Miliband is to blame for Putin’s invasion of Ukraine - The Independent",
-      "description": "\n\nBoris Johnson claims Ed Miliband is to blame for Putin’s invasion of Ukraine  The Independent\n\nHow will UK foreign policy change under Ed Miliband?  Financial Times\n\nTrump anger at Ed Miliband’s app",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEpib0RoeXN4S2RPRUlUOXVGRmltSUFhVEp5cHEwanZCQS1PeDQyUGNkbEIxVUxVVk5RcnJsYm4xQUdpYndkZUFXS3NodzhvUGFWRXBsUGJxUlNSd3N2Mm4tZWt3bDR2UmlLOFBQTzRVaTBiVjh5bk9DZWNERDZwRDVPNEg0am93b0ZoYjRmMlYwem5lR1B0TUpOUC1icWQx?oc=5",
-      "published_at": "2026-07-21 14:17:00",
-      "category": "general"
-    },
-    {
-      "title": "Row escalates in Ukraine over army chief's future - BBC",
-      "description": "\n\nRow escalates in Ukraine over army chief's future  BBC\n\nUkraine’s army chief expected to lose job after week of protests  The Guardian\n\nZelenskyy’s crisis deepens as ex-defence minister rejects offe",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSXVlbk1EVmt4N2VyWl81N3hfVDFpU1BJbEV6U2kyczBEVnlQNHRpRngwWnI4Q1BvakFfUEE0ZW1ldnY3VDBHQkY1YlFHSW84SllQWFBLeFAzSUVa?oc=5",
-      "published_at": "2026-07-21 12:33:15",
-      "category": "general"
-    },
-    {
-      "title": "Donald Trump prepares fresh tariff barrage with 10% levies set to expire - Financial Times",
-      "description": "\n\nDonald Trump prepares fresh tariff barrage with 10% levies set to expire  Financial Times\n\nGreer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'  CNBC\n\nUS eyes new tariff",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGc1b085TEVvcXZ0Vnl6bjNSakEwRTBEb05DNmM3QU1ya0tKdFctZ0EybmJ3RHhhZ24zRkJEWFN5aGRnNWFpQzVETWdyTmpQU1JVNEFuYnZYSENJWWsyQ1BwUTAwb3NMSi1nckJUZGRKdEhCMThZQ0dIU2EyeVZONmgtVXI?oc=5",
-      "published_at": "2026-07-21 10:00:12",
-      "category": "general"
-    },
     {
       "title": "Zelensky sacks Ukraine's top army commander after days of protests - BBC",
       "description": "\nZelensky sacks Ukraine's top army commander after days of protests  BBCSee more headlines and perspectives on Google News\n",
@@ -160,12 +95,76 @@
       "category": "tech"
     },
     {
+      "title": "Advertise in ChatGPT",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ads.openai.com/",
+      "published_at": "2026-07-21T18:58:44Z",
+      "category": "tech"
+    },
+    {
       "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
       "description": "",
       "source": "Hacker News",
       "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
       "published_at": "2026-07-21T21:13:20Z",
       "category": "tech"
+    },
+    {
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "published_at": "2026-07-21T15:41:51Z",
+      "category": "tech"
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "published_at": "2026-07-21T17:14:06Z",
+      "category": "tech"
+    },
+    {
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "published_at": "2026-07-21T14:31:41Z",
+      "category": "tech"
+    },
+    {
+      "title": "📄 Thermodynamics-Informed Input Reparameterization for Neural Prediction of Real-Fluid Thermodynamic Properties in Supercritical Combustion",
+      "description": "Real-fluid thermodynamic property evaluation is a major computational cost in supercritical combustion simulations. In the enthalpy-based pressure-correction formulation, the closure evaluates tempera",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.19241v1",
+      "published_at": "2026-07-21T16:12:30Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models",
+      "description": "Designing small molecule ligands that bind with high affinity to specific protein pockets is a fundamental goal in drug discovery, as small molecules constitute a major fraction of approved therapeuti",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.19237v1",
+      "published_at": "2026-07-21T16:07:07Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings",
+      "description": "Theory of Mind (ToM), the ability to infer other's beliefs, intentions, and states of knowledge, is central to social interaction, yet remains challenging for current Multimodal Large Language Models ",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.19235v1",
+      "published_at": "2026-07-21T16:05:49Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 In-Context Time Series Classification with Random Convolutional Features",
+      "description": "Time series classification is central to domains like medical signal analysis, industrial monitoring, and sensor-based activity recognition, where class information manifests as localized shapes, spec",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.19234v1",
+      "published_at": "2026-07-21T16:04:35Z",
+      "category": "ai"
     }
   ]
 }
