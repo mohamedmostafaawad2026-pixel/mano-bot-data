@@ -1,58 +1,73 @@
 {
-  "last_updated": "2026-07-22T01:53:30Z",
+  "last_updated": "2026-07-22T05:13:13Z",
   "sources": [
-    "Google News World",
-    "Hacker News",
+    "Google News Egypt",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests - BBC",
-      "description": "\nZelensky sacks Ukraine's top army commander after days of protests  BBCSee more headlines and perspectives on Google News\n",
+      "title": "Ann Widdecombe was hit over the head repeatedly with hammer, prosecutors say - ITVX",
+      "description": "\n\nAnn Widdecombe was hit over the head repeatedly with hammer, prosecutors say  ITVX\n\nAnn Widdecombe was hit on head 21 times with hammer, prosecutors say  BBC\n\nMan, 28, charged with murder of former ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QcEZHdU9rdFFzcENrbjlnTUdwLW5vODZiU05fbWh2M3V3NTlGYWNHMWNpRkk2QjR6LVhFdlZ0Z3VsaUxlWkY2SExxZU9PazJjOWx2U3VYczh2YUlR?oc=5",
-      "published_at": "2026-07-21 19:43:43",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0J6aTZzRmVyaXV1WjI2dmtPTnd2NXEwcDREdEYtQzlLVXFQWFlPSlJ1eHQtNnlVaDJoejZJMmVvNVBHMXVOUlVPbmJEUEwzVUxvVVZjWVpfTjg4Z1RETWVoUDRzZUlJUktpMHd0MlY5NldNdmV6UlBUMTlnQ0FuRDlUZ2dfaGdWNk5TTVl0MFJXcmtSX0tyNlQxZU9KZEFpdVZhNjVR?oc=5",
+      "published_at": "2026-07-21 21:10:18",
+      "category": "general"
     },
     {
-      "title": "Houthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea - The Guardian",
-      "description": "\n\nHouthis threaten to attack shipping tankers if they use Saudi Arabian ports on Red Sea  The Guardian\n\nTrump pledges to ‘take care of’ Houthis if group blocks Saudi ships and says US airlines can res",
+      "title": "Zelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’ - The Guardian",
+      "description": "\n\nZelenskyy fires Ukraine’s army chief and offers Fedorov ‘prominent position’  The Guardian\n\nZelensky sacks Ukraine's top army commander after days of protests  BBC\n\nWhy Zelenskyy has sacked Ukraine'",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlhzVUE0TXI4UWVwNDdteTZKaXJDcWU3bG9sVjRQZHYwTE90N1hIMDNxT2lheUtyUUhTUm1Cb19kcHpxNHAyTHBpcm1nQ1RBSTJ0SnpiZ3llNWJGdERSRjlXUUVDdDNwVWd6RzFWc0VWMDc0Uk92eS1WVXFMUFBKaF9rNFZja1hDQnpfSEUtMVc0RWFZOVMtTW9qWUdGMjFtZWRsS3B5cHhuSElZaUdWSVVab0c?oc=5",
-      "published_at": "2026-07-21 20:56:00",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5",
+      "published_at": "2026-07-22 01:31:00",
+      "category": "general"
     },
     {
-      "title": "Canada's Carney faces tough choice on US trade - fight back or hold steady - BBC",
-      "description": "\n\nCanada's Carney faces tough choice on US trade - fight back or hold steady  BBC\n\nPete Hegseth defends ongoing war in Iran and requests $88bn more to pay for it during Senate committee testimony – li",
+      "title": "Burnham pulls back on suggestion to increase tax-free personal allowance - BBC",
+      "description": "\n\nBurnham pulls back on suggestion to increase tax-free personal allowance  BBC\n\nBurnham backs down on income tax giveaway  The Telegraph\n\nAndy Burnham backs away from costly increase to income tax al",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nd25MZXQ2V2hGZW55YUNYWTB3b29aYTF4LUdDNWttMFJEN2Q2WUhFRU9yQ09oRmVEOFo2UGF0TmV0MGdBRDlkOEVzY3V0SkJlUERjbU4zemdCdTVI?oc=5",
-      "published_at": "2026-07-21 20:23:27",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qOFJQaTktZHlvcjdzdmdZSTRCcDlpMlBqUy1RajZEUUFKU25kZEs2bkNnQXdxaGxoNmRJV3psWlJ4eGh6M0lmT09zcWtRNzg3VHpCSENGN0VBTmZB?oc=5",
+      "published_at": "2026-07-22 01:43:54",
+      "category": "general"
     },
     {
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far - Al Jazeera",
-      "description": "\n\nUS defence chief Hegseth puts Iran war cost at $37.5bn so far  Al Jazeera\n\nLive updates: Pete Hegseth testifies to lawmakers over Iran war funding  BBC\n\nIran war live: Hegseth reveals staggering cos",
+      "title": "PC Andrew Harper's killers may be eligible for early release, government confirms - Sky News",
+      "description": "\n\nPC Andrew Harper's killers may be eligible for early release, government confirms  Sky News\n\nPc Andrew Harper’s mother: It’s an insult to let his killers out of prison early  The Telegraph\n\nPC Harpe",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmFPSFZrYjRYOGh2Nlh5OUlleEEwSG05ck4xc3g0YUdCRS1pQUVOSmY1TkZDVWRMRjFwc1dQVzBKT0lIREdQMmx6aHBtNHF6ZmxDMnB5b210amljS2I2a2ZuVFVmNTlUVldIcy04a0ZqZWRFLWxGYzN4WHhwaXlIaFpCVEVtUE9hSHppTThEUURUdnhjRVJXSGFrZzYza0dyME1DSE9tSGRiVURD0gGyAUFVX3lxTE4wUDZfb0VMcGNNSHd1QURLZ1k1cXpkNVpqZjdpY1Z6bVBVZ3VHMGpxcGphX0FJR2k0RktLNnBFUG43TTBOaDJheENTaWpzZklMby1mVUhjb0ViUW9MLXdoR1MtamN1M3VDSThKOFotOVU5ejV0cEtFTXNuTC1zSDRUYWNVY0p0MEcxSnQxVldkNnVRQkc5bEF2VS1fZEJOa2VOcEZMZVFHY3lqNVZLR0dXRkE?oc=5",
-      "published_at": "2026-07-21 21:22:30",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFBaM3dzQVg5b0ZsejYwTEE0bVVnVElLdVdTaWR4OWNvQW1WMEY1Ym1GdUpyVE1fUGZJbnNKOTFXa2N2b1QydkpfNGNTbUJDMDc0SHUtNTdtLWhlSFl1SnRHLXpTZ1FCcVo1UXk1WENrcFNTNjN2ZUlud0xlLVMtdEREZWlvR3NzQ0dGeUJsb0lxaFhjTnZOREYxdy1SMG0telgweUwyVXBYRGFkZUtXeENwbUVpdw?oc=5",
+      "published_at": "2026-07-22 00:09:00",
+      "category": "general"
     },
     {
-      "title": "France becomes first European country to ban social media access for under-15s - The Guardian",
-      "description": "\n\nFrance becomes first European country to ban social media access for under-15s  The Guardian\n\nFrance becomes the first EU country to ban social media for children  CNN\n\n'Major step forward': French ",
+      "title": "Martin Lewis has pointed out a big problem with Andy Burnham's energy bills tax cut - Manchester Evening News",
+      "description": "\n\nMartin Lewis has pointed out a big problem with Andy Burnham's energy bills tax cut  Manchester Evening News\n\nStarmer ally takes swipe at Burnham's first big policy  BBC\n\nAndy Burnham to cut VAT on ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXItWmRpbm1GYXBCOS1jdGYwYldxVnhsODF3X01aSzdzX2ZVYl9hekl4cGpfdVB6Y3hoTmlZRzV4aVl4UXJqaEljYlVZMW5iVGpOVXZqQXFNdnV3WlhwZElSMDBsN1lBWl9uRWp6TzFjTzVrbHVkSmVsTHFPd2tvY1NRRFAzTFFVZ0NKRWd0VQ?oc=5",
-      "published_at": "2026-07-21 20:14:00",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXNkazlJNU1Jb21jQWVLTzdVai11NzkzazRoaERfcG5XOUh4ejY0amJjaG1ETUhrbWtxM21yR0RJMTdBYjFfYnd4X1VtLUkyTVQ0UmFpbWhWa1hjZC03a1NrRTVNTXlSX1Z5TWZwbnM2MU9pRFNPQnlRRnQ1MVFBZWtsSndpTnFaQ3dnbVlzc1IyRk5qa3c?oc=5",
+      "published_at": "2026-07-21 10:29:00",
+      "category": "general"
     },
     {
-      "title": "Woman seriously injured in suspected stabbing at church in County Waterford, Ireland - Sky News",
-      "description": "\n\nWoman seriously injured in suspected stabbing at church in County Waterford, Ireland  Sky News\n\n‘People are traumatised’: Woman (50s) left seriously injured in knife attack in Tramore church  The Ir",
+      "title": "US renews strikes on Iran as Trump threatens to attack Pickaxe Mountain - BBC",
+      "description": "\n\nUS renews strikes on Iran as Trump threatens to attack Pickaxe Mountain  BBC\n\nUS attacks Iran for 11th consecutive night  Al Jazeera\n\nUS military says its latest strikes on Iran have ended, marking ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMldSVXlOLWloU0ZrR2h2M2hNYS1hUmRGWmxhU3pZRzBiY1ZHcV81VThHZXBHTEdlUklXT0JlQnk1MVE5eUp3TFhiZ3k0WUJMNEQ5NzM0U2I2SmM0azVDSjhMUUN0VTdnZ0lZWE9oakpjNUU5R183Zk8wcnhDMExnZ1IxckJabmc1ZktIU1RfZVdpM0dqV0xaUHdoTjVwcTNTQ0RrT1JkVFd0dzdGX1l6NVRiQm9RLVRseXdZ?oc=5",
-      "published_at": "2026-07-21 16:09:22",
-      "category": "world"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMVp5ZjdnQUFVWG5HZHVjR3RmN1NkRlJzVXJRN2E2UTM1Q0pfSEUzRXlIazA1QUZnSnhLRTRnWWdZcjJOZ3h5eDlkd2JYZVQ5MHcxTG1IR2NVQURO?oc=5",
+      "published_at": "2026-07-22 03:05:08",
+      "category": "general"
+    },
+    {
+      "title": "Boris Johnson claims Ed Miliband is to blame for Putin’s invasion of Ukraine - The Independent",
+      "description": "\n\nBoris Johnson claims Ed Miliband is to blame for Putin’s invasion of Ukraine  The Independent\n\nHow will UK foreign policy change under Ed Miliband?  Financial Times\n\nWhat Ed Miliband’s appointment d",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEpib0RoeXN4S2RPRUlUOXVGRmltSUFhVEp5cHEwanZCQS1PeDQyUGNkbEIxVUxVVk5RcnJsYm4xQUdpYndkZUFXS3NodzhvUGFWRXBsUGJxUlNSd3N2Mm4tZWt3bDR2UmlLOFBQTzRVaTBiVjh5bk9DZWNERDZwRDVPNEg0am93b0ZoYjRmMlYwem5lR1B0TUpOUC1icWQx?oc=5",
+      "published_at": "2026-07-21 16:30:00",
+      "category": "general"
+    },
+    {
+      "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials - BBC",
+      "description": "\n'I can't afford to turn the oven on': 7.4m households struggling to buy essentials  BBCSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxVFhkQ2d3aWV5Mm84U1RIcTR4dnQ0MHViRFRkc0JKLTdjNE5XX0wwUlJqb2dKcEV6a1Z3WlRnTE1rdFZDdDFZUV9vaTctbFhUVTZUZG1uYjM2WlRZ?oc=5",
+      "published_at": "2026-07-21 23:57:49",
+      "category": "general"
     },
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -63,107 +78,35 @@
       "category": "tech"
     },
     {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "published_at": "2026-07-21T22:35:24Z",
-      "category": "tech"
-    },
-    {
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://freeink.org/",
-      "published_at": "2026-07-21T18:39:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "published_at": "2026-07-21T21:09:25Z",
-      "category": "tech"
-    },
-    {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "published_at": "2026-07-21T15:17:16Z",
-      "category": "tech"
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://ads.openai.com/",
-      "published_at": "2026-07-21T18:58:44Z",
-      "category": "tech"
-    },
-    {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "published_at": "2026-07-21T21:13:20Z",
-      "category": "tech"
-    },
-    {
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "published_at": "2026-07-21T15:41:51Z",
-      "category": "tech"
-    },
-    {
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "published_at": "2026-07-21T17:14:06Z",
-      "category": "tech"
-    },
-    {
-      "title": "Apple defeats liability for not scanning iCloud for CSAM",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "published_at": "2026-07-21T14:31:41Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Thermodynamics-Informed Input Reparameterization for Neural Prediction of Real-Fluid Thermodynamic Properties in Supercritical Combustion",
-      "description": "Real-fluid thermodynamic property evaluation is a major computational cost in supercritical combustion simulations. In the enthalpy-based pressure-correction formulation, the closure evaluates tempera",
+      "title": "📄 Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+      "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19241v1",
-      "published_at": "2026-07-21T16:12:30Z",
+      "url": "http://arxiv.org/abs/2607.19345v1",
+      "published_at": "2026-07-21T17:59:21Z",
       "category": "ai"
     },
     {
-      "title": "📄 DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models",
-      "description": "Designing small molecule ligands that bind with high affinity to specific protein pockets is a fundamental goal in drug discovery, as small molecules constitute a major fraction of approved therapeuti",
+      "title": "📄 Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+      "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19237v1",
-      "published_at": "2026-07-21T16:07:07Z",
+      "url": "http://arxiv.org/abs/2607.19344v1",
+      "published_at": "2026-07-21T17:59:12Z",
       "category": "ai"
     },
     {
-      "title": "📄 MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings",
-      "description": "Theory of Mind (ToM), the ability to infer other's beliefs, intentions, and states of knowledge, is central to social interaction, yet remains challenging for current Multimodal Large Language Models ",
+      "title": "📄 CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+      "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat su",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19235v1",
-      "published_at": "2026-07-21T16:05:49Z",
+      "url": "http://arxiv.org/abs/2607.19338v1",
+      "published_at": "2026-07-21T17:56:49Z",
       "category": "ai"
     },
     {
-      "title": "📄 In-Context Time Series Classification with Random Convolutional Features",
-      "description": "Time series classification is central to domains like medical signal analysis, industrial monitoring, and sensor-based activity recognition, where class information manifests as localized shapes, spec",
+      "title": "📄 Agents in the Wild: Where Research Meets Deployment",
+      "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t",
       "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.19234v1",
-      "published_at": "2026-07-21T16:04:35Z",
+      "url": "http://arxiv.org/abs/2607.19336v1",
+      "published_at": "2026-07-21T17:55:10Z",
       "category": "ai"
     }
   ]
