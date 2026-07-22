@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T18:04:11Z",
+  "last_updated": "2026-07-22T20:08:09Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,6 +120,14 @@
       "category": "tech"
     },
     {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "published_at": "2026-07-22T17:20:38Z",
+      "category": "tech"
+    },
+    {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "description": "",
       "source": "Hacker News",
@@ -128,11 +136,11 @@
       "category": "tech"
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "title": "Are AI Labs Pelicanmaxxing?",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "published_at": "2026-07-22T17:20:38Z",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "published_at": "2026-07-22T17:17:54Z",
       "category": "tech"
     },
     {
@@ -144,27 +152,19 @@
       "category": "tech"
     },
     {
-      "title": "The startup's Postgres survival guide",
+      "title": "Everyone Should Know SIMD",
       "description": "",
       "source": "Hacker News",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "published_at": "2026-07-22T12:36:08Z",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "published_at": "2026-07-22T17:48:18Z",
       "category": "tech"
     },
     {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "title": "Nobody knows what a used GPU cluster is worth",
       "description": "",
       "source": "Hacker News",
-      "url": "https://cruciblebench.ai/",
-      "published_at": "2026-07-22T15:39:01Z",
-      "category": "tech"
-    },
-    {
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://unlayer.com",
-      "published_at": "2026-07-22T16:02:03Z",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "published_at": "2026-07-15T06:50:49Z",
       "category": "tech"
     }
   ]
