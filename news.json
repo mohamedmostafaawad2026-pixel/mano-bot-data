@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T22:57:52Z",
+  "last_updated": "2026-07-23T23:59:42Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,19 +112,19 @@
       "category": "world"
     },
     {
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "published_at": "2026-07-23T20:52:19Z",
-      "category": "tech"
-    },
-    {
       "title": "Writing by hand is good for your brain",
       "description": "",
       "source": "Hacker News",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "published_at": "2026-07-23T14:24:43Z",
+      "category": "tech"
+    },
+    {
+      "title": "98.css",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "published_at": "2026-07-23T22:30:29Z",
       "category": "tech"
     },
     {
@@ -136,19 +136,19 @@
       "category": "tech"
     },
     {
-      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=49028037",
-      "published_at": "2026-07-23T21:05:29Z",
-      "category": "tech"
-    },
-    {
       "title": "The Beam Engine",
       "description": "",
       "source": "Hacker News",
       "url": "https://glinscott.github.io/beam-engine/",
       "published_at": "2026-07-22T14:16:44Z",
+      "category": "tech"
+    },
+    {
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2507.09369",
+      "published_at": "2026-07-23T22:51:13Z",
       "category": "tech"
     },
     {
