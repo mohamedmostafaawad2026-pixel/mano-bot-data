@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-07-22T23:06:59Z",
+  "last_updated": "2026-07-23T02:01:13Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News",
-    "arXiv AI/ML"
+    "Hacker News"
   ],
   "articles": [
     {
@@ -112,19 +111,11 @@
       "category": "world"
     },
     {
-      "title": "Medici family mystery may be solved after more than 400 years",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "published_at": "2026-07-22T21:55:34Z",
-      "category": "tech"
-    },
-    {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "published_at": "2026-07-22T17:20:38Z",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "published_at": "2026-07-22T17:30:40Z",
       "category": "tech"
     },
     {
@@ -136,27 +127,11 @@
       "category": "tech"
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
       "description": "",
       "source": "Hacker News",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "published_at": "2026-07-22T17:30:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "Malleable Computing, Emacs, and You",
-      "description": "",
-      "source": "Hacker News",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "published_at": "2026-07-22T21:15:26Z",
-      "category": "tech"
-    },
-    {
-      "title": "Safari Technology Preview 248 Released",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-      "published_at": "2026-07-22T21:00:26Z",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "published_at": "2026-07-22T17:20:38Z",
       "category": "tech"
     },
     {
@@ -165,6 +140,30 @@
       "source": "Hacker News",
       "url": "https://bento.page/slides/",
       "published_at": "2026-07-22T15:19:23Z",
+      "category": "tech"
+    },
+    {
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "published_at": "2026-07-22T21:55:34Z",
+      "category": "tech"
+    },
+    {
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "published_at": "2026-07-22T17:17:54Z",
+      "category": "tech"
+    },
+    {
+      "title": "Everyone Should Know SIMD",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "published_at": "2026-07-22T17:48:18Z",
       "category": "tech"
     }
   ]
