@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T05:46:02Z",
+  "last_updated": "2026-07-23T08:14:56Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,6 +120,14 @@
       "category": "tech"
     },
     {
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "published_at": "2026-07-21T10:04:20Z",
+      "category": "tech"
+    },
+    {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "description": "",
       "source": "Hacker News",
@@ -136,6 +144,14 @@
       "category": "tech"
     },
     {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "published_at": "2026-07-23T05:40:20Z",
+      "category": "tech"
+    },
+    {
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "description": "",
       "source": "Hacker News",
@@ -149,22 +165,6 @@
       "source": "Hacker News",
       "url": "https://bento.page/slides/",
       "published_at": "2026-07-22T15:19:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "Everyone should know SIMD",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "published_at": "2026-07-22T17:48:18Z",
-      "category": "tech"
-    },
-    {
-      "title": "Restructuring GitHub's bug bounty program",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "published_at": "2026-07-23T02:28:23Z",
       "category": "tech"
     }
   ]
