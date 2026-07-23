@@ -1,121 +1,65 @@
 {
-  "last_updated": "2026-07-23T11:02:22Z",
+  "last_updated": "2026-07-23T13:28:37Z",
   "sources": [
-    "Google News Egypt",
     "Google News World",
+    "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
     {
-      "title": "'Row over early prison release' and 'Gary's back of the net tax' - BBC",
-      "description": "\n\n'Row over early prison release' and 'Gary's back of the net tax'  BBC\n\nBurnham stirs up political row with review of release plans for violent criminals  The Guardian\n\nPC Andrew Harper's widow Lissi",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump - BBC",
+      "description": "\n\nSaudis must recognise Israel for nuclear deal, says Trump  BBC\n\nTrump's nuclear deal with Saudis jettisons longstanding US demands  BBC\n\nSaudis must normalise ties with Israel for nuclear deal, says",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zN1d4ckNJVUZmQzA4cmRnYXJGM0JkWjlFSzBtMDRiVUtLTndfaE9OOC02Umg5X05ZN2JtNFhhLU4zYU12cDZFOTlEUThpdW5CQXJteFQ2aXVobUli?oc=5",
-      "published_at": "2026-07-23 00:33:21",
-      "category": "general"
-    },
-    {
-      "title": "House Democrat calls for congressional hearings on Trump administration’s nuclear deal with Saudi Arabia – as it happened - The Guardian",
-      "description": "\n\nHouse Democrat calls for congressional hearings on Trump administration’s nuclear deal with Saudi Arabia – as it happened  The Guardian\n\nUS signs landmark nuclear deal with Saudi Arabia  BBC\n\nSaudis",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMThfTjBqQUllZnNRdlN2MnN0UWhVNWZxSkhUYjcwUWpiWHYxRmpMRWJHZzFhUXBfM2E1RVpsdDdOdE5tMXJsYWE0S1Nmd2RidzBrNWo4WVBkdFdJX0JSMTlEVU1hMGMxZGlPZ2Z6NVhNR2J1R3EzaFRFZFBlSm5NaTltNENWRV9rSV8xV3FSRXF0aGF6MVBSMW5UWmhjZGo5dE1RNmdhbjM4WUQ5aVBieVAxTnUySXVOUDhzQklXZTJ3N19ELVYwM2o3SHZoQzNISGwxS25NeUhwVkk?oc=5",
-      "published_at": "2026-07-22 23:49:30",
-      "category": "general"
-    },
-    {
-      "title": "Houthis claim attack on Saudi tankers in Red Sea - BBC",
-      "description": "\n\nHouthis claim attack on Saudi tankers in Red Sea  BBC\n\nHouthis claim strikes on two Saudi tankers as US attacks on Iran widen  The Guardian\n\nTankers make sharp U-turns after Houthi shipping threat  ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGYjREXzQyQkhnTGU2QWFSei1EbWtxN1VLZXB6R2VPUXNHb25td1BEWk8zR09HajluUzdHVnpqS09fa1E0cHFLbGNRMDQycFBpNVItdFBDX0xBaVFY?oc=5",
-      "published_at": "2026-07-23 02:33:04",
-      "category": "general"
-    },
-    {
-      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia - Al Jazeera",
-      "description": "\n\nUkraine’s new military chief pledges to escalate retaliation against Russia  Al Jazeera\n\nZelensky sacks Ukraine's top army commander after days of protests  BBC\n\nMykhailo Drapatyi: Ukrainians hope n",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZG9sVlRlckxOZDNHT21OMzNiX2JMVm9zdWdaOFJjUFZvWjVzX1pCSmlheTFucWZWZGtwTmVWTGVFOFJlQjlfWUZuRGxsdkdrMkxsQVJPcFRxb05Kdi1CSVZETURtLXVKN1d0ZzZBQmdORUFQZFNSOG1YSl95VTNVY3lhWkJvUGtxbVR0eXB1Z3loVUFPUlc3S0JhLWFJUkNmbzE3Zmp2YlVYWXc4cERVSjJMUnJsd9IBuwFBVV95cUxQeTFrbFEwVVNsWUNfWkliYjZMNnV5NHhhWlozZVhHTDJjWEFzZV9WNzJuR1libWFFMnpxdDVsU3cwTGhvcEZYNWR6WGxKcTJKVlFqZDlyRzhpMWUtRWFCZVo3SUVEZFZqVFUzbnNxTVhFaHRjR1U0clhZaVBXQ1Q4ZEltLXZoQ3R5RmJYbE1FVkdDc3AyLWVBNTJkNm9mWnRvS3Y2NHpKLWpORU0tRzl5NVZzRElORDcxd3lF?oc=5",
-      "published_at": "2026-07-22 20:41:15",
-      "category": "general"
-    },
-    {
-      "title": "Andy Burnham says £2 bus fare cap 'will put money in people's pockets' | ITV News - ITVX",
-      "description": "\n\nAndy Burnham says £2 bus fare cap 'will put money in people's pockets' | ITV News  ITVX\n\nHolt-based Sanders Coaches boss praises Burnham's £2 bus fare cap  BBC\n\nFunding bus fare cap from aid budget ",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkN3VWlvUmRqYXdvYUJvLXMyTmxnMlFGQUdYMGc4YzV4cG1QZHhCVmtyay1LOXFqUVFKZ3czczZ5c0JRZ19qbVFhTUc5ZVBQNTJIVVdJenN3X2swcmYySW9OLUNsbkJnQlZqTW5NN3JpOVNfUjFEY2xNWXE4MUFlZm5PVFlvb2ZEandaOTBvMm9hd1JGdkUwOGwzbUVFbnZrbDZBWFVOb0hPX2dULTAwX1gyWQ?oc=5",
-      "published_at": "2026-07-22 21:32:38",
-      "category": "general"
-    },
-    {
-      "title": "UK weather: When will it rain next? - BBC",
-      "description": "\n\nUK weather: When will it rain next?  BBC\n\nRain to finally hit parts of the UK after dry spell and heatwaves  The Independent\n\nUK heatwave over as 22 areas face a total soaking this weekend - see ful",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZejRnNkJtS2tINmFNNGFZQlVwQWVicV9TQW90TGVvZU9aNldpTnNkcVJDNkF6bkNSVzJkZ01aNWp3MVZjTUtYa0EtekFoSnk0LUlKckQ4VE5idkV1N3dlNQ?oc=5",
-      "published_at": "2026-07-22 23:32:02",
-      "category": "general"
-    },
-    {
-      "title": "Karen Carter: Police formally investigate woman after Brit stabbed to death in French village - BBC",
-      "description": "\n\nKaren Carter: Police formally investigate woman after Brit stabbed to death in French village  BBC\n\nWoman, 70, charged with murder of British expat Karen Carter in France  The Guardian\n\nWoman, 70, c",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IU3ctT20yalhNUFRVMWtlV25jdFVmZjRTVkRvZFY0bHpyN083NjVyNlY1LVhDRkhHeEtYSktPRFZzMWVhYzVPdzFYQ2diX0xFRDVFV1FyZEt5S3dE?oc=5",
-      "published_at": "2026-07-22 15:59:03",
-      "category": "general"
-    },
-    {
-      "title": "Lifeboat and police at scene of West Mersea incident - BBC",
-      "description": "\n\nLifeboat and police at scene of West Mersea incident  BBC\n\nBeach cordoned off as emergency services respond to ongoing incident  ITVX\n\nFatalities feared after 'tragic incident' at popular beach as e",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JWXJnM0JIM3hFdGpMX3FNTnhISTFQS1Uxakh3M1FDSmMydWNia1hFaWdOdFBmb2FlVHNZaXZlQ3lWdTIzS0JJdHlEN0xzREs3RFNGcktTUXZqb3h5?oc=5",
-      "published_at": "2026-07-22 19:21:03",
-      "category": "general"
-    },
-    {
-      "title": "Trump threatens to bomb Iranian bridges, power plants over ship attacks - Al Jazeera",
-      "description": "\n\nTrump threatens to bomb Iranian bridges, power plants over ship attacks  Al Jazeera\n\nTrump threatens to target Iran's bridges and power plants if Hormuz attacks persist  BBC\n\nLive updates: Trump vow",
-      "source": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPal9kOGdkamY4bXBCVHQtV3paLUhyNnNPa1poQzZUd0pBeDk3WXFYaW5vTUNZUE1qc1cycU1BNUluN3JyNlI4RDBYTTZXdUctQ0dZcFlYSmtYZ2swNG1tVzZsR3NDUzluN010ckxMajdoNnlEX3BHVi1JN0N5aks5UTY3U0dLcTRjMXo5bzljNFB1eWVZYUlBbUJxS0REdEltbFRkSVdiRDNGU3F3aXEyOdIBtgFBVV95cUxPM0EzTmxWaklfa2VlNUdhc2lzTS1Bd09wY01yb3dqeUNTMW42QWVLTi1SbDh2STVvTUM4TXRKUGpybmo4bjRObzVGUTlmQ2E2eVpqWXh4ZHh3Y3JubFY2dGlWOTNnV3pVaGM4djZMT011ZHRoZDA5Rkt0eVcxLXFENE5LVzQxd0RQcUZHTEJFNmJBejNtRDM2STdfUmFzM0dpd0N0S2JkdWVtNk5hY2RwbEl1RXJrUQ?oc=5",
-      "published_at": "2026-07-22 18:45:18",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzaE9zWXlRSW1hYlpsUDVPYkU1N1JwOThxdF9hUEZLQ0NLcHpMcFYwYWpjYkNFbEdSQ2xjanNYeFVZa3JtZ1h4di1pbHh2Zi1pNTNRSU1henREay1V?oc=5",
+      "published_at": "2026-07-23 13:00:38",
       "category": "world"
     },
     {
-      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief? - BBC",
-      "description": "\n\nWho is Mykhailo Drapatyi, Ukraine's new commander-in-chief?  BBC\n\nZelensky sacks Ukraine's top army commander after days of protests  BBC\n\nMykhailo Drapatyi: Ukrainians hope new commander will end a",
+      "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
+      "description": "\n\nYemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live  The Guardian\n\nHouthis claim attack on Saudi tankers in Red Sea  BBC\n\nTrump Sa",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hVjRSc0FQdXE0OHpIU0VITU8tczR5cExWT2JoU0lFRU5ZQ2Z0MFo3YzZBNUdWQ2RRdXd0dDhKTldZVlpEa2Y4aGQyUUVzUW96UERtMkFyV1JkTVdH?oc=5",
-      "published_at": "2026-07-22 15:19:48",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+      "published_at": "2026-07-23 12:20:00",
       "category": "world"
     },
     {
-      "title": "Mamdani admits he lacks legal power to arrest Netanyahu - The Telegraph",
-      "description": "\n\nMamdani admits he lacks legal power to arrest Netanyahu  The Telegraph\n\nMamdani backs off pledge to arrest Netanyahu citing lack of authority  BBC\n\nMamdani urges US government to arrest Netanyahu if",
+      "title": "Horror moment sightseeing helicopter plunges to ground & crashes on tourists - The Sun",
+      "description": "\n\nHorror moment sightseeing helicopter plunges to ground & crashes on tourists  The Sun\n\nTerrifying video shows helicopter crash-landing on two tourists  New York Post\n\nSightseeing helicopter crashes ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWY1dFVkbUJQZkhSX0ppQ0d6XzNmQXo5dFVLU0JpeEpXTE16aFE4MWVDMXJndzVkaG5oN1VyNFZ3RGY4bXhoREYtRDBPYW5fZThlcHVjT2FHY0NxSmM1ZEdBa0VLcGMtaHNSMy15X0lNcXdaQ1BFczhPbEN6Y2JCZHkzZURERkxBWWluTEZiX1BjcHp6dXR3VTI1ZFpYN213a2xaMFVDbnNiQ3RzRWxV?oc=5",
-      "published_at": "2026-07-22 06:29:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0VjVi1hdEc1ODB5Q2VQSTZpdUFGaGpIeWpBbFFIMHV3TTEtdUJneklUOUZkZGNxS2hUcThBbm9vWkJUMmxUMjhSU0VTTVFydTdnNTVJVmtNYWVyOUdZbEs3bVc5ZGF1N3BuUGFfd0RkWFVYcG9RcGQ4TktKb3c3ZlJ5NkE?oc=5",
+      "published_at": "2026-07-23 10:03:00",
       "category": "world"
     },
     {
-      "title": "Iran War: Britain withdraws embassy staff from Iran after Donald Trump threatens to bomb Tehran - GB News",
-      "description": "\n\nIran War: Britain withdraws embassy staff from Iran after Donald Trump threatens to bomb Tehran  GB News\n\nBritain evacuates diplomats from Iran: unusual series of threats and preparations for escala",
+      "title": "Trump’s signature hand moves mimicked by man sitting right behind him during rally speech in Georgia - The Independent",
+      "description": "\n\nTrump’s signature hand moves mimicked by man sitting right behind him during rally speech in Georgia  The Independent\n\nMan behind Trump copies his famous hand gestures—and the crowd loves it  The In",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0FqQ2xmYXpEU1dxbVdjejBBblQtTnRjaEc4dUhONHRhQVB1OFV6N1VyWHNyVGFUdUlUYXlpSUpSWVNRbnA0eFpCU2JjbzJxRUtHd0w3MEwwNHE0Nkw5V0FrUUlQZnNGNGpvcGhkWF8taTZWek8xZ0dKQlY2ekNXWjBLNW9LaWFNWmQ4dUFWYXA0ZjQ?oc=5",
-      "published_at": "2026-07-23 03:42:50",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1ZGYzF3U0pMNENxWkVvRXViVDFPcnlydFlEV3J1U1hXRzhxcUlWcE9iR1U3N0d6NEFyc2VtY0sySmF4ZTE4ZzJrX3BtZXZMNDRPNUhEdXRLOWJseGFLM1V0QVlseXJxYnM2MHRxNzNzMk1UT3RzU21iZ3JBb1JYbjAybmdLVVkzbE96T3VXUUoyZkhfbzRuUzdFbHl1bHJ0U3NYQTZ3MDE4SWVo?oc=5",
+      "published_at": "2026-07-23 11:43:00",
       "category": "world"
     },
     {
-      "title": "Climate crisis-driven heat ‘sucking soils dry’ as extreme drought hits Europe - The Guardian",
-      "description": "\n\nClimate crisis-driven heat ‘sucking soils dry’ as extreme drought hits Europe  The Guardian\n\nEurope’s flash drought comes as heat causes ‘atmospheric thirst’, scientists say  Financial Times\n\nIncrea",
+      "title": "Woman, 70, charged over murder of British expat in Dordogne - The Telegraph",
+      "description": "\n\nWoman, 70, charged over murder of British expat in Dordogne  The Telegraph\n\nKaren Carter: Police formally investigate woman after Brit stabbed to death in French village  BBC\n\nWoman, 70, charged wit",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkNRdVVGOUJKdFZYa3pXUHh2cUdOUVlYWGd1aXF6WXIxdllWV1JHZDBPTW1EcEg1RVZ3V2ZENU9GTVJKMVVXUXdTVEZGWFVtWTRSbFRSSEdud3VzbkEyZzJvcFlURjlBVXdsVm5YRm00UUhHNkxxR1JqS25xQmI4a2c1M3oyZlRpSkxGbGFUT1I3cUJIZnR5VGFlQWtpeDMyMnNVRXVpV0NwaDdVcktOU3FOZzNNdDk2bG1zc0V3?oc=5",
-      "published_at": "2026-07-23 04:00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaEkwa2xvQzl1QUNRbnE0YjhnM08zd1NiY1NsLXZvWFlyb1k3OXpnckkzTVpjV0doNnNtNVlZRkRadzU1TklaaXZGN0FOTjFGMUVJb2gzSUpEVHBDd25hNmZSMjdDc3dKck92TFZpajM1elNGTE84Q2p1QTNIQ1NIOW40RHAzYzl1MGh3bHJPbm43dEdfRXo5ODNUX0lyQVhMQTNieXdfamk?oc=5",
+      "published_at": "2026-07-23 07:56:00",
       "category": "world"
     },
     {
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "title": "Europe’s flash drought comes as heat causes ‘atmospheric thirst’, scientists say - Financial Times",
+      "description": "\n\nEurope’s flash drought comes as heat causes ‘atmospheric thirst’, scientists say  Financial Times\n\nClimate crisis-driven heat ‘sucking soils dry’ as extreme drought hits Europe  The Guardian\n\nIncrea",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0tDbkdiZDZwaGhVWWVUU2VaN3hKZ2FFTlFuTlJNbmFxYlFxdUU4dlU4dXo2VkVvbjdoSEJpUU9Md0FQU3pVNFlpbDAtWnMzaDFKZml5SnpXaHFKV1Vzd0MwZFhNbWEwV3B1LVF2U0IzZllnMEV2dlBnd0NEel93cnhVQzk?oc=5",
+      "published_at": "2026-07-23 04:01:27",
+      "category": "world"
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
       "description": "",
       "source": "Hacker News",
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "published_at": "2026-07-21T10:04:20Z",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "published_at": "2026-07-23T13:10:02Z",
       "category": "tech"
     },
     {
@@ -135,11 +79,59 @@
       "category": "tech"
     },
     {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "published_at": "2026-07-23T13:00:03Z",
+      "category": "tech"
+    },
+    {
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "description": "",
       "source": "Hacker News",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "published_at": "2026-07-22T14:18:05Z",
+      "category": "tech"
+    },
+    {
+      "title": "The Unity CLI: manage Unity from your terminal",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://unity.com/blog/meet-the-unity-cli",
+      "published_at": "2026-07-21T17:51:57Z",
+      "category": "tech"
+    },
+    {
+      "title": "Scanning for Pangram Errors",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+      "published_at": "2026-07-17T09:29:52Z",
+      "category": "tech"
+    },
+    {
+      "title": "Everyone should know SIMD",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "published_at": "2026-07-22T17:48:18Z",
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://bento.page/slides/",
+      "published_at": "2026-07-22T15:19:23Z",
+      "category": "tech"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "published_at": "2026-07-22T17:20:38Z",
       "category": "tech"
     },
     {
@@ -164,6 +156,14 @@
       "source": "arXiv (AI/ML)",
       "url": "http://arxiv.org/abs/2607.20402v1",
       "published_at": "2026-07-22T17:38:39Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+      "description": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilize",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.20399v1",
+      "published_at": "2026-07-22T17:35:43Z",
       "category": "ai"
     }
   ]
