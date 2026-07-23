@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T20:53:21Z",
+  "last_updated": "2026-07-23T21:58:35Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -120,11 +120,27 @@
       "category": "tech"
     },
     {
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "published_at": "2026-07-23T20:52:19Z",
+      "category": "tech"
+    },
+    {
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "description": "",
       "source": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=49026810",
       "published_at": "2026-07-23T19:26:01Z",
+      "category": "tech"
+    },
+    {
+      "title": "The Beam Engine",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "published_at": "2026-07-22T14:16:44Z",
       "category": "tech"
     },
     {
@@ -136,35 +152,19 @@
       "category": "tech"
     },
     {
+      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=49028037",
+      "published_at": "2026-07-23T21:05:29Z",
+      "category": "tech"
+    },
+    {
       "title": "Building on ATProto",
       "description": "",
       "source": "Hacker News",
       "url": "https://lukekanies.com/writing/building-on-atproto/",
       "published_at": "2026-07-23T18:23:50Z",
-      "category": "tech"
-    },
-    {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "published_at": "2026-07-23T15:18:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "Software rendering in 500 lines of bare C++",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "published_at": "2026-07-23T14:17:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "A solid-state “atomic channel” for separating rare earth elements",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "published_at": "2026-07-23T18:13:03Z",
       "category": "tech"
     }
   ]
