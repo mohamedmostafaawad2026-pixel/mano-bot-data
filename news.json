@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-07-23T08:14:56Z",
+  "last_updated": "2026-07-23T11:02:22Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
@@ -112,14 +111,6 @@
       "category": "world"
     },
     {
-      "title": "git's –end-of-options Flag",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "published_at": "2026-07-21T13:13:47Z",
-      "category": "tech"
-    },
-    {
       "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
       "description": "",
       "source": "Hacker News",
@@ -136,14 +127,6 @@
       "category": "tech"
     },
     {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "published_at": "2026-07-22T14:18:05Z",
-      "category": "tech"
-    },
-    {
       "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
       "description": "",
       "source": "Hacker News",
@@ -152,20 +135,36 @@
       "category": "tech"
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
       "description": "",
       "source": "Hacker News",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "published_at": "2026-07-22T17:20:38Z",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "published_at": "2026-07-22T14:18:05Z",
       "category": "tech"
     },
     {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://bento.page/slides/",
-      "published_at": "2026-07-22T15:19:23Z",
-      "category": "tech"
+      "title": "📄 Lipschitzian SLLNs for random functions",
+      "description": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompa",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.20411v1",
+      "published_at": "2026-07-22T17:50:53Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+      "description": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.20410v1",
+      "published_at": "2026-07-22T17:49:37Z",
+      "category": "ai"
+    },
+    {
+      "title": "📄 SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+      "description": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evi",
+      "source": "arXiv (AI/ML)",
+      "url": "http://arxiv.org/abs/2607.20402v1",
+      "published_at": "2026-07-22T17:38:39Z",
+      "category": "ai"
     }
   ]
 }
