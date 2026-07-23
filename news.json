@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T21:58:35Z",
+  "last_updated": "2026-07-23T22:57:52Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
@@ -112,14 +112,6 @@
       "category": "world"
     },
     {
-      "title": "Writing by hand is good for your brain",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "published_at": "2026-07-23T14:24:43Z",
-      "category": "tech"
-    },
-    {
       "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
       "description": "",
       "source": "Hacker News",
@@ -128,11 +120,27 @@
       "category": "tech"
     },
     {
+      "title": "Writing by hand is good for your brain",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "published_at": "2026-07-23T14:24:43Z",
+      "category": "tech"
+    },
+    {
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "description": "",
       "source": "Hacker News",
       "url": "https://news.ycombinator.com/item?id=49026810",
       "published_at": "2026-07-23T19:26:01Z",
+      "category": "tech"
+    },
+    {
+      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=49028037",
+      "published_at": "2026-07-23T21:05:29Z",
       "category": "tech"
     },
     {
@@ -152,19 +160,11 @@
       "category": "tech"
     },
     {
-      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "description": "",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=49028037",
-      "published_at": "2026-07-23T21:05:29Z",
-      "category": "tech"
-    },
-    {
-      "title": "Building on ATProto",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "published_at": "2026-07-23T18:23:50Z",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "published_at": "2026-07-23T15:18:40Z",
       "category": "tech"
     }
   ]
