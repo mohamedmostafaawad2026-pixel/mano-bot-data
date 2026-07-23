@@ -1,11 +1,76 @@
 {
-  "last_updated": "2026-07-23T13:28:37Z",
+  "last_updated": "2026-07-23T15:49:07Z",
   "sources": [
+    "Google News Egypt",
     "Google News World",
     "Hacker News",
     "arXiv AI/ML"
   ],
   "articles": [
+    {
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
+      "description": "\n\nTrump's nuclear deal with Saudis jettisons longstanding US demands  BBC\n\nTrump places new condition on signed Saudi nuclear deal, says country must join Abraham Accords  CNN\n\nTrump adds condition to",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+      "published_at": "2026-07-23 11:13:13",
+      "category": "general"
+    },
+    {
+      "title": "Oil prices leap after attacks in Red Sea - The Washington Post",
+      "description": "\n\nOil prices leap after attacks in Red Sea  The Washington Post\n\nTrump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea  CNBC\n\nTrump Says He’ll Hold Iran R",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajJaYmtVVnhKcFM1ay1QQy05ZDZhS2swdzFsTUQ1bExuMllEbFJKX2l0OHVjV25XWUtMUTVRNUVNMUdRdm5od202VDJXbkpsbFhQU3pwNmtjbG1IWlJWOTZMa1NSX1FuV3AzM1IxRVo2Q1NQa0ZmSWZ6QnpyVFVwcEw2N3ptNjBoTHdWNElaYnFDUWxZUi1PbGtZbFRxczJEN1VSUV9MeldGMnd2Si1LWQ?oc=5",
+      "published_at": "2026-07-23 12:45:53",
+      "category": "general"
+    },
+    {
+      "title": "Amid a big hiring push, police experts question ICE officer vetting - NPR",
+      "description": "\n\nAmid a big hiring push, police experts question ICE officer vetting  NPR\n\nImmigration enforcement becomes a flashpoint in Maine Senate race after fatal ICE shooting  ABC News - Breaking News, Latest",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
+      "published_at": "2026-07-23 09:00:00",
+      "category": "general"
+    },
+    {
+      "title": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico",
+      "description": "\n\n‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike  Politico\n\nA schoolyard tip for fighting tariff bullying  The Globe and Mail\n\nOpinion | Tariffs Will",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXBYb1RVN1JGdE1vNHRLaFdKQ1JwMHVQT2JoclVRbURoRHY1LVJjdkg5Yld4cm91RHZvOTU4Zy0zdHlCLUcyMVl2dW55TjZTOEd4SDZMMDRra3hZYjdfNTZIRXpCZzRUYjU1cE92MzVOYXNkNEhYTXVreC0ycmJKMS1TR2N0aHJSV2lCU1pZU25URkZhMFozenFBenZyMVc1Ymh0UjRNQTJ0bDl4Y2d4a2FZS3pOVWN1cklmWGxRVV9qWmRPcjNDSjZXRVFsdktfYng4bzdOSk1Pb2V0bFpReA?oc=5",
+      "published_at": "2026-07-23 09:45:00",
+      "category": "general"
+    },
+    {
+      "title": "Wisconsin officer kills man armed with knife, police say, as shooting sparks protests - NBC News",
+      "description": "\n\nWisconsin officer kills man armed with knife, police say, as shooting sparks protests  NBC News\n\nProtesters gather in Madison after man fatally shot by a police officer  The Washington Post\n\nWilliam",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDljdl9VYmdKdjhwMWZZWERSTGRjcXgzb19fRmt0VXJCOXpuanJoTHRsS2d2R3RzMWU3N3ZwWnR4YVItS0JLRC12N3J2Q1hFbFFhemZUOE54WHowNXphU2FPZExSeG45QkNUOGd6cF9rc3BoR0F3NzZJTnVHMkpMc3c2Z0JXVVl5dnBIcERINHI?oc=5",
+      "published_at": "2026-07-23 01:06:00",
+      "category": "general"
+    },
+    {
+      "title": "DHS chief’s early missteps and an AI-generated version of ‘The Odyssey’: Morning Rundown - NBC News",
+      "description": "\n\nDHS chief’s early missteps and an AI-generated version of ‘The Odyssey’: Morning Rundown  NBC News\n\nTension between Mullin and White House appears to be growing, sources say  NBC News\n\nThe Secretary",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUM5OEtIaS1DOUpDRndsSkg2dG54MncwaDBJa2dGM21HR1dLQkxZd083VlZfNWdEbkp0V3JkZEs5OEpNWEc0ZjVUcFBwZGowRHdqSEVYNzEyaDNZRkRxaE1tZjRJWmp3S0J4NFNiUmJYMGlQREFRT3VlT2hQTTNVWld4b0I4N0VRSWdFNXV4SE1UVVVmbWI3dlZkaWt3WFozaVc2cnNqVlI5SnAtT3VV?oc=5",
+      "published_at": "2026-07-23 10:59:31",
+      "category": "general"
+    },
+    {
+      "title": "US launches new strikes as Iran warns of regional turmoil - Al Jazeera",
+      "description": "\n\nUS launches new strikes as Iran warns of regional turmoil  Al Jazeera\n\nUS says 12th consecutive night of strikes will 'further degrade' Iran's military capabilities  Fox News\n\nIran War Latest: U.S. ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVNyWS14NVBtNV8tSmJhSllrdG4wM1B4dXk1c3BIbkJSLVhqdnJHYm44QXVER1BKVDV1WHB2d3RCZm1fWGJ3TFg4LXVwQTN3Z25RdVZfUllXUXJ3cU5jc2dNUE1pRWZRczRfYlNlZHZWVEVQQXliOTZhX2lES3plY3U2MWdzSkFyRFJ6bkp0UDdWRnEzcThhV2FUUHBfU2lDc3Yyc0ZEONIBrAFBVV95cUxNVVJsVXRTUVRoQXUyNktmZmxfcDBfMTdmOF9qcHJYZFc1aXJYeFh2ZjBzT2h4T2htZW9ma1B5cVFwRHNsdzkxT0MtUF9nRGpYWHkzTXItR1o5TUZnQ2N2c1VNaC1QOVlXT05UQUNqQ21SUkk5ZzNhUDYtOHpGTjM4aG1HZW5QNHFFak9IWTZQQ2kwUmhLQTUwSEdlcFRrdkR3MHB4MmhWRjMydVlG?oc=5",
+      "published_at": "2026-07-23 09:37:49",
+      "category": "general"
+    },
+    {
+      "title": "Voter registration mistake chills relationship between Mikie Sherrill and Democratic predecessor - Politico",
+      "description": "\n\nVoter registration mistake chills relationship between Mikie Sherrill and Democratic predecessor  Politico\n\nWhy New Jersey’s erroneous noncitizen enrollment is far from proof of election fraud  The ",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkJTUENScEJVeWlxR1VXMjVOMnhXcktiQ0VhNlVzLWNUWno4MjhIVmdCYVE5Q0I2QmIzaTBNMEhvLS0zRGFFRWJ3N2h0S192Z0l0WE5iSHg4WTZtWkQtREUybGFXMlNtS2JmNjdyZ3doTDE1YUR2ZXNUcDBTVlZMeEN0ZzhFeDZWOWRkTzVUWTdTT1FmZFhKN1JhYzliVmQ3cEFlcmFNazFtY3pqVFBNNGxxZVVfM2tqNXBtd2RpVjA2ZldBNWRQTXE3X3YzMEJ4NWtrOUVJRWp0c3FuS1Nj?oc=5",
+      "published_at": "2026-07-23 10:55:00",
+      "category": "general"
+    },
     {
       "title": "Saudis must recognise Israel for nuclear deal, says Trump - BBC",
       "description": "\n\nSaudis must recognise Israel for nuclear deal, says Trump  BBC\n\nTrump's nuclear deal with Saudis jettisons longstanding US demands  BBC\n\nSaudis must normalise ties with Israel for nuclear deal, says",
@@ -55,116 +120,52 @@
       "category": "world"
     },
     {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "published_at": "2026-07-23T13:10:02Z",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "published_at": "2026-07-23T15:18:40Z",
       "category": "tech"
     },
     {
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "title": "Writing by hand is good for your brain",
       "description": "",
       "source": "Hacker News",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "published_at": "2026-07-22T17:30:40Z",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "published_at": "2026-07-23T14:24:43Z",
       "category": "tech"
     },
     {
-      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "title": "Astronomers may have found the first exomoon",
       "description": "",
       "source": "Hacker News",
-      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "published_at": "2026-07-23T05:40:20Z",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "published_at": "2026-07-23T14:02:24Z",
       "category": "tech"
     },
     {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "title": "Software rendering in 500 lines of bare C++",
       "description": "",
       "source": "Hacker News",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "published_at": "2026-07-23T13:00:03Z",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "published_at": "2026-07-23T14:17:40Z",
       "category": "tech"
     },
     {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
       "description": "",
       "source": "Hacker News",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "published_at": "2026-07-22T14:18:05Z",
+      "url": "https://learnopengl.com/",
+      "published_at": "2026-07-23T14:53:34Z",
       "category": "tech"
     },
     {
-      "title": "The Unity CLI: manage Unity from your terminal",
+      "title": "Writing fingerprint analysis of responses reveals Kimi's similarity to Claude",
       "description": "",
       "source": "Hacker News",
-      "url": "https://unity.com/blog/meet-the-unity-cli",
-      "published_at": "2026-07-21T17:51:57Z",
+      "url": "https://typebulb.com/u/lab/you-re-relatively-right/full",
+      "published_at": "2026-07-23T15:05:44Z",
       "category": "tech"
-    },
-    {
-      "title": "Scanning for Pangram Errors",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
-      "published_at": "2026-07-17T09:29:52Z",
-      "category": "tech"
-    },
-    {
-      "title": "Everyone should know SIMD",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "published_at": "2026-07-22T17:48:18Z",
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://bento.page/slides/",
-      "published_at": "2026-07-22T15:19:23Z",
-      "category": "tech"
-    },
-    {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "published_at": "2026-07-22T17:20:38Z",
-      "category": "tech"
-    },
-    {
-      "title": "📄 Lipschitzian SLLNs for random functions",
-      "description": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompa",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.20411v1",
-      "published_at": "2026-07-22T17:50:53Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
-      "description": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.20410v1",
-      "published_at": "2026-07-22T17:49:37Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
-      "description": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evi",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.20402v1",
-      "published_at": "2026-07-22T17:38:39Z",
-      "category": "ai"
-    },
-    {
-      "title": "📄 Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
-      "description": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilize",
-      "source": "arXiv (AI/ML)",
-      "url": "http://arxiv.org/abs/2607.20399v1",
-      "published_at": "2026-07-22T17:35:43Z",
-      "category": "ai"
     }
   ]
 }
