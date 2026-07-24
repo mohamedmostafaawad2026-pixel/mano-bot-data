@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-07-24T03:13:55Z",
+  "last_updated": "2026-07-24T06:19:30Z",
   "sources": [
     "Google News Egypt",
     "Google News World",
-    "Hacker News"
+    "Hacker News",
+    "arXiv AI/ML"
   ],
   "articles": [
     {
@@ -71,52 +72,52 @@
       "category": "general"
     },
     {
-      "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports - BBC",
-      "description": "\n\nUS announces tariffs on dozens of trade partners over 'forced labour' imports  BBC\n\nTrump administration announces new tariffs on 85 countries, claiming failed ‘forced labor’ enforcement – US politi",
+      "title": "US imposes new tariffs on dozens of trade partners over 'forced labour' imports - Sky News",
+      "description": "\n\nUS imposes new tariffs on dozens of trade partners over 'forced labour' imports  Sky News\n\nUS imposes tariffs on dozens of trade partners over 'forced labour' imports  BBC\n\nWorld in Brief: Trump’s n",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dHVkTjVlTmhhVDRrd0labG9jWmJLMXVJUlVMaDdKSTZ2UlpKNXVSYWpoWldwOVM5N1lqekNueThacThfMWdzc0hCaDB3cXAwdUEySHB0azZ2ZGRD?oc=5",
-      "published_at": "2026-07-23 21:25:02",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUNaUHhyMG95OEdlc0NxYWkzV1lENkJxT1puNXFQUm9lNFVHb2JId196amFha0dXNkNCNkN0STU5a2JVeGJUSnNfTmg3em9Ddy1GblpZVm4xM051NTFCa0NFNTlseHR2SHVZN2Zvc0MzSzRncDNXQ0Z3cHV1aHZMRjFDTVdTSUxoNk1feTVqOVdJYXp4dktPR2hfejRic05Zem50Nml4QUIzdjBBT0RTdzlZUQ?oc=5",
+      "published_at": "2026-07-24 02:24:10",
       "category": "world"
     },
     {
       "title": "Houthis open new front in Iran war by targeting Saudi ships in the Red Sea | ITV News - ITVX",
-      "description": "\n\nHouthis open new front in Iran war by targeting Saudi ships in the Red Sea | ITV News  ITVX\n\nYemen's Houthis attack Saudi tanker as US launches more Iran strikes  BBC\n\nHouthis claim strikes on two S",
+      "description": "\n\nHouthis open new front in Iran war by targeting Saudi ships in the Red Sea | ITV News  ITVX\n\nYemen's Houthis attack Saudi tanker as US launches more Iran strikes  BBC\n\nAs oil soars, experts watch Re",
       "source": "",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2lCTnFOeWlNcW41VGVSN0dpWTVNUnRyZFR6eG5zYmxFR0NqdEZhRXBla1B6RzMwS2tKNUhOa1pwb2s0bnN4OTZOTXJzRDZVZjJFSDBJYkp4d25EMnpKN25uczQwN19XVFFmRGtHRDlxVkRQQjFUdVd5d0g0MVh2ZjktbTF1WmNnai00VFlYRU42amFGUUZhcDh6cVQ4V1RqY2Iw?oc=5",
       "published_at": "2026-07-23 21:45:15",
       "category": "world"
     },
     {
-      "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe - The Guardian",
-      "description": "\n\nThousands flee wildfires in France as temperatures reach extreme levels in southern Europe  The Guardian\n\nMore than 15,000 people evacuated from homes as wildfire spreads in France  Sky News\n\nMore t",
+      "title": "Donald Trump says decision on ‘massive attack’ against Iran is close - The Guardian",
+      "description": "\n\nDonald Trump says decision on ‘massive attack’ against Iran is close  The Guardian\n\nAUDIO: US considers ramping up Iran strikes  ABC News & Headlines – Australian Broadcasting Corporation\n\nIran war ",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlN4cFYydy12bUFaOU5zZmYwMzRXaWxGSU9uUWJJd0Z4dEtJSVFUc2NlZDl0c2lRdGt4Xy1KYmwxM0ZYd1ZHMFNsMjE1dmNMakllODB0SWJLVVVQMWI3SnNsZ3lzLXNhQnQ4SFQ1bEIxYnY1Zk9yMEJQTGlHV0JZUVhZeWNfYnNpb2NqVDVqWTFSdGtaMWVOag?oc=5",
-      "published_at": "2026-07-23 11:46:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX080UG13UG5QNjJFR3RYaFRSc1dzSWxvNFRkYkdJZkYxcWNDaDRwSEtOd205MnpMZFVWYVpLd1FvM1hVdGFWV2RHc0pUSWd0M2JXQTZOVm5ZQTAxWnhfOHZ6TE1DaFl3NVNrNE43aURsb0pGSXVTWjJoSVpNUEY3MDh0cE9STXdkUjZIeHpSdnZEX1N6NmJBbE4tcDlST01zUWJRT2ZSSjNEdDBMdkpF?oc=5",
+      "published_at": "2026-07-24 02:42:00",
       "category": "world"
     },
     {
-      "title": "Ukraine's ousted defence chief rejects Zelensky's job offer - BBC",
-      "description": "\n\nUkraine's ousted defence chief rejects Zelensky's job offer  BBC\n\nMykhailo Drapatyi: Ukrainians hope new commander will end army’s ‘Soviet culture’  The Guardian\n\n‘Floor it!’ — the daring commander ",
+      "title": "India activist ends hunger strike after 26 days - BBC",
+      "description": "\n\nIndia activist ends hunger strike after 26 days  BBC\n\nIndia ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread  The Guardian\n\nIndian activist ends fast but youth protesters st",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zczZWVlZmaTRBWE9sX1k0b3RhMXItTEdESGlrY2YzcGtWMDBQYmM4OUVtczZncHMxbFZyUzdqa1o3Ti1FQlBsbFV0b3NOSnkzX3loWUdFaXhWM1gt?oc=5",
-      "published_at": "2026-07-23 17:37:59",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05cS1zbUprdk9LczhqcjhlNERucXlaTkphOFRydmVoQ1QzUEFWZ1RJeGtPZDNlM3U5dzVJLWwtSFZuQVdtNXlOd2tHNVp5eXBUOU9WV2hKQnJJRHpv?oc=5",
+      "published_at": "2026-07-23 20:31:40",
       "category": "world"
     },
     {
-      "title": "US bombs Iran from UK air base for first time under Burnham - The Telegraph",
-      "description": "\n\nUS bombs Iran from UK air base for first time under Burnham  The Telegraph\n\nIran war latest: Oil tops $100 for first time since May - as Trump blames Iran for Houthi tanker attacks  Sky News\n\nUS mil",
+      "title": "Kyrgyzstan Urges Citizens in Russia to Exercise Caution Following Drone Attacks on Wildberries Warehouses - The Moscow Times",
+      "description": "\n\nKyrgyzstan Urges Citizens in Russia to Exercise Caution Following Drone Attacks on Wildberries Warehouses  The Moscow Times\n\nRussia's businesses under strain from Ukraine's attacks on Wildberries  B",
       "source": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzUxblY5cTR4TXBoczFYUGV4QzZ0NXJxT2g0Wlpsbjh5ajZwWF9iLVNucjN3SDJXdTBsYzZncEU1S0ltV1l6bmNFTjR2b0otSVYxLUtZbHFJZ3A3X1h2NG42YW54QTVXYVNtenhqRmd5VHFWUzQ1ZU5uMVRvQTlobTdFLUlOTDhyY2ZKcUQ2S2FSRFZEb2FrV2ZLMWtPSWpKNEJVVXA2SFlWdkQ5dDln?oc=5",
-      "published_at": "2026-07-23 10:46:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaDJMRFRjclNpejhwc0dVUS1wTzZXd19JaW10aHl4ODFEVzVIdUx4WTF4ME9OWmpnOVFYZ28ycGNTS05sUjJPOVJQMEhTdHFaUkhHMTlodkJpVFBZRnZIM0RmSXBqSlQ3RTVWZjUyQVpwYlRPeGEzNE5HLUpWVzl4YlZqVk5KTEl3dWtRbl9ReU1jTnd5SThMMVRLOW02S3dUNGIxZEZfZGtTM0xpLW5DelV0elhQd0FtVlpmTlRLSUE0VXZRams4LXRaNEh6aFFnZkxSb043bURtNDNhYzVGZEJDSEZGVFk2UkE?oc=5",
+      "published_at": "2026-07-23 09:46:00",
       "category": "world"
     },
     {
-      "title": "98.css",
-      "description": "",
-      "source": "Hacker News",
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "published_at": "2026-07-23T22:30:29Z",
-      "category": "tech"
+      "title": "Alarm as Georgia suffers 'nationwide blackout' with cities plunged into darkness - Mirror",
+      "description": "\nAlarm as Georgia suffers 'nationwide blackout' with cities plunged into darkness  MirrorSee more headlines and perspectives on Google News\n",
+      "source": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2dTdmlROGhtLWRrY294YjVsVHBVUHRPRE4tanNkV3Z5OTVUazNQTjhjRWVyNGlBM3psZlp5WmVWbXNOaUlRUFlBVmhvb3c4RW1OOXc5ZkFZVXNXM2JnSUNXcU10NkRnSklwUjdsV3M5elJLZ0ZBeWhEV0w1dHZNVlZPcXBIWERWVURZZVNtbnZYd9IBlwFBVV95cUxOa3IzLVhpM1gtMXV3cVVlU2NkVnFHbVplTHVtcVNJNDVUYWVudUFwYUg1Z0dBN29xMzRoRFlDcHJYc181M0xheFZvYlljME9wbGJaUGJQNTZZYmxyRnlURDZ2eW9qOHJ1QlpKbmZiYmtEeUlnSVNjSUtmZXJWOUoyaU85eTZjQ3A1ZVltOVBhUURHMVZjTFQw?oc=5",
+      "published_at": "2026-07-23 21:30:00",
+      "category": "world"
     },
     {
       "title": "Writing by hand is good for your brain",
@@ -124,14 +125,6 @@
       "source": "Hacker News",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "published_at": "2026-07-23T14:24:43Z",
-      "category": "tech"
-    },
-    {
-      "title": "The Visual 6502",
-      "description": "",
-      "source": "Hacker News",
-      "url": "http://visual6502.org/JSSim/index.html",
-      "published_at": "2026-07-23T23:36:42Z",
       "category": "tech"
     },
     {
@@ -164,6 +157,14 @@
       "source": "Hacker News",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
       "published_at": "2026-07-23T16:53:33Z",
+      "category": "tech"
+    },
+    {
+      "title": "What else do people draw on gradient.horse?",
+      "description": "",
+      "source": "Hacker News",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "published_at": "2026-07-18T15:28:56Z",
       "category": "tech"
     }
   ]
